@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2025-07-16T10:06:54.805599Z",
+    "origin": "user",
+    "prompt": "Hi Marina, what's the weather?",
+    "response": "The weather today is sunny with light winds."
+  },
+  {
+    "timestamp": "2025-07-16T10:06:54.805742Z",
+    "origin": "marina",
+    "prompt": "Scanning filesystem for recent changes..."
+  }
+]

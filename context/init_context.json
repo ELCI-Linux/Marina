@@ -1,0 +1,13 @@
+{
+  "system": "adminx@pop-os \n------------- \nOS: Pop!_OS 22.04 LTS x86_64 \nHost: Latitude 7280 \nKernel: 6.9.3-76060903-generic \nUptime: 27 mins \nPackages: 2229 (dpkg), 13 (flatpak), 13 (snap) \nShell: bash 5.1.16 \nResolution: 1920x1080 \nWM: i3 \nTheme: Adwaita [GTK3] \nIcons: Adwaita [GTK3] \nTerminal: WarpTerminal \nCPU: Intel i7-7600U (4) @ 3.900GHz \nGPU: Intel HD Graphics 620 \nMemory: 13745MiB / 15874MiB \n\n",
+  "scan": {
+    "/home/adminx/Documents": {
+      "files": 0,
+      "dirs": 0
+    },
+    "/home/adminx/Desktop": {
+      "files": 0,
+      "dirs": 0
+    }
+  }
+}

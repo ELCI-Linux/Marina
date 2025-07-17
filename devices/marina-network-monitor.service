@@ -1,0 +1,24 @@
+[Unit]
+Description=Marina Network Device Monitor
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=adminx
+Group=adminx
+WorkingDirectory=/home/adminx/Marina/devices
+ExecStart=/usr/bin/python3 /home/adminx/Marina/devices/network_monitor.py --interval 20
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+# Environment variables
+Environment=PYTHONPATH=/home/adminx/Marina
+
+# Permissions for network access
+SupplementaryGroups=netdev
+
+[Install]
+WantedBy=multi-user.target
