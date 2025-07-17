@@ -1,0 +1,205 @@
+# Spectra Configuration File
+# Marina's Autonomous Browser System Configuration
+
+# Core System Settings
+mode: "autonomous"  # autonomous, supervised, interactive, testing, headless
+max_concurrent_sessions: 10
+default_timeout: 300.0
+
+# Component Configuration
+navigation_backend: "playwright"  # playwright, selenium
+enable_media_perception: true
+enable_action_validation: true
+enable_session_persistence: true
+
+# Storage Configuration
+storage_dir: "./spectra_data"
+session_timeout: 3600  # 1 hour in seconds
+encrypt_sessions: true
+
+# Performance Settings
+max_memory_usage: 4096  # MB
+max_cpu_usage: 80.0     # %
+cleanup_interval: 300   # seconds
+
+# Security Settings
+sandbox_mode: true
+allow_file_access: false
+allow_microphone: false
+allow_camera: false
+
+# Monitoring & Logging
+enable_metrics: true
+enable_logging: true
+log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+
+# Integration Settings (Optional)
+# webhook_url: "https://your-webhook-endpoint.com/spectra"
+# api_key: "your-sentry-dsn-or-api-key"
+# custom_headers:
+#   X-Custom-Header: "value"
+#   Authorization: "Bearer token"
+
+# Browser Configuration
+browser_settings:
+  headless: false
+  viewport_width: 1920
+  viewport_height: 1080
+  user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  language: "en-US"
+  timezone: "America/New_York"
+
+# Component-Specific Settings
+navigation_engine:
+  stealth_mode: true
+  block_ads: true
+  block_trackers: true
+  enable_javascript: true
+  enable_images: true
+  enable_css: true
+
+action_validator:
+  enable_visual_validation: true
+  enable_dom_validation: true
+  enable_network_validation: true
+  screenshot_comparison_threshold: 0.95
+  validation_timeout: 30.0
+
+media_perception:
+  enable_ocr: true
+  enable_face_detection: false  # Privacy consideration
+  enable_audio_processing: false
+  cache_max_size: 1000
+  ocr_languages: ["en", "es", "fr", "de", "it"]
+
+intent_compiler:
+  enable_ml_classification: true
+  enable_entity_extraction: true
+  cache_compiled_intents: true
+  nlp_model: "en_core_web_sm"
+  confidence_threshold: 0.7
+
+session_manager:
+  max_sessions: 100
+  cleanup_interval: 300
+  backup_interval: 1800  # 30 minutes
+  compression_enabled: true
+  redis_enabled: false
+  # redis_config:
+  #   host: "localhost"
+  #   port: 6379
+  #   db: 0
+  #   password: null
+
+# Execution Settings
+execution:
+  max_retries: 3
+  retry_delay: 1.0
+  parallel_execution: false
+  continue_on_error: false
+  save_screenshots: true
+  save_dom_snapshots: true
+  save_network_logs: true
+
+# Rate Limiting
+rate_limiting:
+  enabled: true
+  max_requests_per_minute: 60
+  max_requests_per_hour: 1000
+  max_requests_per_day: 10000
+
+# Proxy Configuration (Optional)
+# proxy:
+#   enabled: false
+#   type: "http"  # http, socks5
+#   host: "proxy.example.com"
+#   port: 8080
+#   username: "user"
+#   password: "pass"
+
+# VPN Configuration (Optional)
+# vpn:
+#   enabled: false
+#   provider: "nordvpn"  # nordvpn, expressvpn, custom
+#   auto_connect: true
+#   country: "US"
+#   protocol: "openvpn"
+
+# Notification Settings
+notifications:
+  enabled: true
+  channels:
+    - type: "webhook"
+      url: "https://your-webhook.com/notifications"
+      events: ["intent_completed", "intent_failed", "system_error"]
+    # - type: "email"
+    #   smtp_server: "smtp.gmail.com"
+    #   smtp_port: 587
+    #   username: "your-email@gmail.com"
+    #   password: "your-app-password"
+    #   to: ["admin@example.com"]
+
+# Development Settings
+development:
+  debug_mode: false
+  mock_browser: false
+  dry_run: false
+  verbose_logging: false
+  save_debug_info: true
+  debug_dir: "./debug"
+
+# AI/ML Model Configuration
+ai_models:
+  intent_classification:
+    model: "facebook/bart-large-mnli"
+    cache_size: 100
+    batch_size: 8
+  
+  entity_extraction:
+    model: "en_core_web_sm"
+    confidence_threshold: 0.8
+  
+  # vision_model:
+  #   model: "openai/clip-vit-base-patch32"
+  #   device: "cuda"  # cpu, cuda
+  #   cache_size: 50
+
+# Custom User Agent Rotation
+user_agents:
+  - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  - "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  - "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/121.0"
+  - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/121.0"
+
+# Security Headers
+security:
+  headers:
+    X-Frame-Options: "DENY"
+    X-Content-Type-Options: "nosniff"
+    X-XSS-Protection: "1; mode=block"
+    Strict-Transport-Security: "max-age=31536000; includeSubDomains"
+    Content-Security-Policy: "default-src 'self'"
+  
+  blocked_domains:
+    - "malicious-site.com"
+    - "tracker.example.com"
+  
+  allowed_domains:
+    - "example.com"
+    - "*.trusted-domain.com"
+
+# Backup Configuration
+backup:
+  enabled: true
+  interval: 3600  # 1 hour
+  retention_days: 30
+  compression: true
+  encryption: true
+  destination: "./backups"
+  # remote_backup:
+  #   type: "s3"
+  #   bucket: "spectra-backups"
+  #   region: "us-east-1"
+  #   access_key: "your-access-key"
+  #   secret_key: "your-secret-key"

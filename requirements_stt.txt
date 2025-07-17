@@ -1,0 +1,19 @@
+# STT (Speech-to-Text) Dependencies for Marina GUI
+# Install with: pip install -r requirements_stt.txt
+
+# Main STT library
+faster-whisper>=0.10.0
+
+# Audio processing dependencies
+pyaudio>=0.2.11
+numpy>=1.24.0
+wave  # Built-in Python module
+
+# Optional: CUDA support for GPU acceleration
+# torch>=2.0.0  # Uncomment for GPU support
+# torchaudio>=2.0.0  # Uncomment for GPU support
+
+# Note: You may need to install additional system dependencies:
+# Ubuntu/Debian: sudo apt-get install portaudio19-dev
+# macOS: brew install portaudio
+# Windows: Install from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
