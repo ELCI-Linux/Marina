@@ -1,0 +1,40 @@
+{
+  "revisions": [
+    {
+      "original_song": "Bohemian Rhapsody",
+      "original_artist": "Queen",
+      "corrected_song": "Bohemian Rhapsody (Remastered)",
+      "corrected_artist": "Queen",
+      "revision_reason": "Wrong version/cover",
+      "revised_at": "2025-07-17T01:19:58.154267",
+      "recognition_time": 1234567890
+    },
+    {
+      "original_song": "Hotel California",
+      "original_artist": "Eagles",
+      "corrected_song": "Hotel California (Live)",
+      "corrected_artist": "Eagles",
+      "revision_reason": "Live vs studio version",
+      "revised_at": "2025-07-17T01:19:58.154796",
+      "recognition_time": 1234567890
+    },
+    {
+      "original_song": "Blinding Lights",
+      "original_artist": "The Weeknd",
+      "corrected_song": "Blinding Lights (Remix)",
+      "corrected_artist": "The Weeknd ft. Chromatics",
+      "revision_reason": "Remix vs original",
+      "revised_at": "2025-07-17T01:19:58.155068",
+      "recognition_time": 1234567890
+    },
+    {
+      "original_song": "Lose Yourself",
+      "original_artist": "Eminem",
+      "corrected_song": "8 Mile Road",
+      "corrected_artist": "Eminem",
+      "revision_reason": "Sample misidentification",
+      "revised_at": "2025-07-17T01:19:58.157185",
+      "recognition_time": 1234567890
+    }
+  ]
+}

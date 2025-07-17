@@ -1,0 +1,1638 @@
+{
+  "soundscape_history": [
+    {
+      "timestamp": "2025-07-17T00:14:45.875146",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2382.88010781577,
+        "spectral_rolloff": 4106.5894150152435,
+        "spectral_bandwidth": 3894.1225794848688,
+        "zero_crossing_rate": 0.02266452979819977,
+        "mfcc_mean": [
+          44.70166015625,
+          157.01756286621094,
+          -13.033832550048828,
+          8.601669311523438,
+          12.16882610321045,
+          2.5030105113983154,
+          0.7290197610855103,
+          3.9251675605773926,
+          0.9556484818458557,
+          1.3391519784927368,
+          -1.9439035654067993,
+          0.5390592217445374,
+          1.7169978618621826
+        ],
+        "tempo": 78.30255681818181,
+        "rms_energy": 0.8934400677680969,
+        "pitch_variance": 54300.15234375,
+        "frequency_peaks": [
+          172.09756097560975,
+          344.1951219512195,
+          623.8536585365854
+        ],
+        "dominant_frequency": 172.09756097560975
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T00:16:47.851655",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2598.9668741414735,
+        "spectral_rolloff": 4752.135337271341,
+        "spectral_bandwidth": 4055.6848100840593,
+        "zero_crossing_rate": 0.028508592842624855,
+        "mfcc_mean": [
+          60.43465042114258,
+          148.57688903808594,
+          -14.132221221923828,
+          12.804183006286621,
+          11.283492088317871,
+          6.942881107330322,
+          1.9758116006851196,
+          3.487394332885742,
+          -0.1522085964679718,
+          0.9299713969230652,
+          2.9101829528808594,
+          5.2837042808532715,
+          2.1524248123168945
+        ],
+        "tempo": 161.4990234375,
+        "rms_energy": 0.8733163475990295,
+        "pitch_variance": 96253.7734375,
+        "frequency_peaks": [
+          129.0731707317073,
+          215.1219512195122,
+          301.1707317073171,
+          473.2682926829268,
+          602.3414634146342,
+          688.390243902439
+        ],
+        "dominant_frequency": 129.0731707317073
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T00:18:09.520564",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2617.854511269763,
+        "spectral_rolloff": 4799.578410823171,
+        "spectral_bandwidth": 3953.5245417193805,
+        "zero_crossing_rate": 0.028327684923054586,
+        "mfcc_mean": [
+          67.14599609375,
+          149.36322021484375,
+          -19.630245208740234,
+          12.39402961730957,
+          8.79927921295166,
+          6.182069301605225,
+          3.9618139266967773,
+          3.6847572326660156,
+          -0.1278759241104126,
+          -0.8648223876953125,
+          -1.9746859073638916,
+          1.5714975595474243,
+          0.24903520941734314
+        ],
+        "tempo": 114.84375,
+        "rms_energy": 0.8882718086242676,
+        "pitch_variance": 95350.75,
+        "frequency_peaks": [
+          129.0731707317073,
+          236.6341463414634,
+          473.2682926829268,
+          688.390243902439,
+          1161.658536585366
+        ],
+        "dominant_frequency": 236.6341463414634
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T00:18:42.779288",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2823.4722511733225,
+        "spectral_rolloff": 5587.703649009146,
+        "spectral_bandwidth": 4168.340748336294,
+        "zero_crossing_rate": 0.03203374528164925,
+        "mfcc_mean": [
+          72.83795928955078,
+          141.62135314941406,
+          -15.822254180908203,
+          15.878133773803711,
+          7.415839672088623,
+          9.679017066955566,
+          2.3230772018432617,
+          0.467576265335083,
+          2.59513521194458,
+          4.4962477684021,
+          1.580805778503418,
+          2.5149903297424316,
+          1.1827305555343628
+        ],
+        "tempo": 86.1328125,
+        "rms_energy": 0.8551507592201233,
+        "pitch_variance": 95819.1640625,
+        "frequency_peaks": [
+          107.5609756097561,
+          215.1219512195122,
+          301.1707317073171,
+          473.2682926829268,
+          602.3414634146342,
+          688.390243902439
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T00:19:38.839793",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2697.3636724612657,
+        "spectral_rolloff": 5035.343225990854,
+        "spectral_bandwidth": 4333.918985530874,
+        "zero_crossing_rate": 0.029322962035423925,
+        "mfcc_mean": [
+          51.746768951416016,
+          147.3255615234375,
+          -6.802164077758789,
+          7.510626316070557,
+          13.885271072387695,
+          11.234243392944336,
+          4.785401344299316,
+          2.0874388217926025,
+          1.0978285074234009,
+          3.7388012409210205,
+          -0.18817952275276184,
+          2.6201586723327637,
+          0.8191340565681458
+        ],
+        "tempo": 178.20581896551724,
+        "rms_energy": 0.8270555734634399,
+        "pitch_variance": 50189.59765625,
+        "frequency_peaks": [
+          129.0731707317073,
+          215.1219512195122,
+          301.1707317073171,
+          473.2682926829268
+        ],
+        "dominant_frequency": 129.0731707317073
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:00:01.583465",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2992.2458056882833,
+        "spectral_rolloff": 6132.7612900152435,
+        "spectral_bandwidth": 4269.746044627551,
+        "zero_crossing_rate": 0.02996492995063879,
+        "mfcc_mean": [
+          69.15353393554688,
+          135.4010772705078,
+          -13.901407241821289,
+          16.448471069335938,
+          2.8354930877685547,
+          7.245434761047363,
+          -3.4850845336914062,
+          0.6890527009963989,
+          -0.006482344586402178,
+          -0.9201140403747559,
+          -2.043503522872925,
+          0.5058954358100891,
+          1.021042823791504
+        ],
+        "tempo": 126.04801829268293,
+        "rms_energy": 0.8861072659492493,
+        "pitch_variance": 37962.2265625,
+        "frequency_peaks": [
+          172.09756097560975,
+          215.1219512195122,
+          473.2682926829268,
+          537.8048780487804,
+          580.829268292683
+        ],
+        "dominant_frequency": 215.1219512195122
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:00:57.328360",
+      "environment_type": "vehicle_interior",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 3005.453317321334,
+        "spectral_rolloff": 6153.944359756098,
+        "spectral_bandwidth": 4253.4964036398205,
+        "zero_crossing_rate": 0.03192996424941928,
+        "mfcc_mean": [
+          68.13623046875,
+          135.4473114013672,
+          -15.081504821777344,
+          15.512136459350586,
+          1.2782222032546997,
+          7.06772518157959,
+          -4.262176036834717,
+          1.105417013168335,
+          1.441009521484375,
+          -0.4802889823913574,
+          -2.510327100753784,
+          -0.95176762342453,
+          0.9429635405540466
+        ],
+        "tempo": 126.04801829268293,
+        "rms_energy": 0.8702561855316162,
+        "pitch_variance": 40610.625,
+        "frequency_peaks": [
+          172.09756097560975,
+          215.1219512195122,
+          301.1707317073171,
+          344.1951219512195,
+          516.2926829268292,
+          580.829268292683,
+          882.0
+        ],
+        "dominant_frequency": 215.1219512195122
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Vehicle interior with music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:01:53.168786",
+      "environment_type": "vehicle_interior",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 3014.2390215470095,
+        "spectral_rolloff": 6190.883431783536,
+        "spectral_bandwidth": 4276.694796276029,
+        "zero_crossing_rate": 0.03437931003193961,
+        "mfcc_mean": [
+          78.58802795410156,
+          138.4581756591797,
+          -12.074524879455566,
+          15.573034286499023,
+          2.700167179107666,
+          9.43399429321289,
+          -2.964465379714966,
+          -0.20393462479114532,
+          -1.1988115310668945,
+          -3.421532392501831,
+          -3.9931509494781494,
+          -0.9680995345115662,
+          1.118751883506775
+        ],
+        "tempo": 117.45383522727273,
+        "rms_energy": 0.8643803000450134,
+        "pitch_variance": 30684.3671875,
+        "frequency_peaks": [
+          172.09756097560975,
+          236.6341463414634,
+          344.1951219512195,
+          473.2682926829268,
+          516.2926829268292
+        ],
+        "dominant_frequency": 172.09756097560975
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Vehicle interior with music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:02:49.060343",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2666.765027367412,
+        "spectral_rolloff": 4885.110994664634,
+        "spectral_bandwidth": 4681.852966709852,
+        "zero_crossing_rate": 0.028798952889082463,
+        "mfcc_mean": [
+          28.156524658203125,
+          152.5500946044922,
+          13.791345596313477,
+          3.9186742305755615,
+          14.715126991271973,
+          3.324918746948242,
+          -0.5645374655723572,
+          0.5866019129753113,
+          -2.4990057945251465,
+          0.4932674765586853,
+          -3.9729413986206055,
+          -1.2578784227371216,
+          0.8980434536933899
+        ],
+        "tempo": 109.95678191489361,
+        "rms_energy": 0.770535945892334,
+        "pitch_variance": 15230.265625,
+        "frequency_peaks": [
+          236.6341463414634,
+          473.2682926829268,
+          516.2926829268292,
+          580.829268292683
+        ],
+        "dominant_frequency": 236.6341463414634
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:03:44.963971",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2702.0202962825188,
+        "spectral_rolloff": 5276.885241996952,
+        "spectral_bandwidth": 4194.911102797716,
+        "zero_crossing_rate": 0.028653772865853657,
+        "mfcc_mean": [
+          55.013423919677734,
+          144.00877380371094,
+          -11.53079891204834,
+          15.130800247192383,
+          11.619417190551758,
+          7.324252128601074,
+          0.8508030772209167,
+          5.58123254776001,
+          3.386881113052368,
+          3.4465813636779785,
+          1.885550618171692,
+          1.4580551385879517,
+          1.9355661869049072
+        ],
+        "tempo": 143.5546875,
+        "rms_energy": 0.8540987372398376,
+        "pitch_variance": 106745.875,
+        "frequency_peaks": [
+          236.6341463414634
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:04:40.881275",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2647.198757388745,
+        "spectral_rolloff": 5015.185546875,
+        "spectral_bandwidth": 4084.646391307854,
+        "zero_crossing_rate": 0.02720027130516841,
+        "mfcc_mean": [
+          59.091896057128906,
+          143.61912536621094,
+          -15.051098823547363,
+          16.19469451904297,
+          10.67192268371582,
+          7.4538445472717285,
+          1.8802968263626099,
+          7.2402663230896,
+          3.5060369968414307,
+          4.194684028625488,
+          3.3704216480255127,
+          2.1652321815490723,
+          2.2698326110839844
+        ],
+        "tempo": 143.5546875,
+        "rms_energy": 0.8775967955589294,
+        "pitch_variance": 81094.90625,
+        "frequency_peaks": [
+          172.09756097560975,
+          236.6341463414634
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:05:37.036490",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2761.4406257749283,
+        "spectral_rolloff": 5712.901343368902,
+        "spectral_bandwidth": 4728.471812678477,
+        "zero_crossing_rate": 0.020611026422764227,
+        "mfcc_mean": [
+          3.276858329772949,
+          130.5017852783203,
+          10.004551887512207,
+          15.903060913085938,
+          20.075132369995117,
+          9.252713203430176,
+          5.865396499633789,
+          8.441112518310547,
+          5.952221393585205,
+          4.181512832641602,
+          0.9387462139129639,
+          2.073880195617676,
+          4.266057014465332
+        ],
+        "tempo": 151.99908088235293,
+        "rms_energy": 0.8614097237586975,
+        "pitch_variance": 67872.0546875,
+        "frequency_peaks": [],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:06:32.893489",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2541.792420770424,
+        "spectral_rolloff": 4430.112661966464,
+        "spectral_bandwidth": 4220.318016492052,
+        "zero_crossing_rate": 0.02660253792828107,
+        "mfcc_mean": [
+          38.78400802612305,
+          153.81021118164062,
+          -7.661086082458496,
+          1.0090025663375854,
+          11.520363807678223,
+          2.3442776203155518,
+          -2.31272292137146,
+          1.8786723613739014,
+          -0.9451356530189514,
+          0.3349068760871887,
+          -1.7962790727615356,
+          1.4459233283996582,
+          2.087664842605591
+        ],
+        "tempo": 112.34714673913044,
+        "rms_energy": 0.8379377126693726,
+        "pitch_variance": 29838.009765625,
+        "frequency_peaks": [
+          21.51219512195122,
+          236.6341463414634,
+          473.2682926829268,
+          537.8048780487804
+        ],
+        "dominant_frequency": 236.6341463414634
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:07:28.804912",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2344.002553652347,
+        "spectral_rolloff": 4064.023199314024,
+        "spectral_bandwidth": 3976.0169172993046,
+        "zero_crossing_rate": 0.020905923344947737,
+        "mfcc_mean": [
+          43.388427734375,
+          157.7818603515625,
+          -7.427186012268066,
+          7.895995616912842,
+          10.226884841918945,
+          4.4061174392700195,
+          -0.2490207999944687,
+          3.5497331619262695,
+          0.06544255465269089,
+          1.2868924140930176,
+          -0.3040166199207306,
+          1.386258840560913,
+          3.351787567138672
+        ],
+        "tempo": 114.84375,
+        "rms_energy": 0.8841816186904907,
+        "pitch_variance": 21204.384765625,
+        "frequency_peaks": [
+          215.1219512195122
+        ],
+        "dominant_frequency": 215.1219512195122
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:08:24.614055",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2687.472804138334,
+        "spectral_rolloff": 5375.87295160061,
+        "spectral_bandwidth": 4684.483681734066,
+        "zero_crossing_rate": 0.029688747640824624,
+        "mfcc_mean": [
+          19.815006256103516,
+          150.27145385742188,
+          9.532941818237305,
+          -0.007466208655387163,
+          15.823209762573242,
+          7.599180698394775,
+          -1.6835129261016846,
+          3.6836845874786377,
+          3.9442150592803955,
+          2.7283918857574463,
+          0.4894666373729706,
+          5.23457670211792,
+          5.128188133239746
+        ],
+        "tempo": 156.60511363636363,
+        "rms_energy": 0.7564127445220947,
+        "pitch_variance": 20241.486328125,
+        "frequency_peaks": [
+          215.1219512195122
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:09:20.406874",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2294.1151940144878,
+        "spectral_rolloff": 3972.6884051067073,
+        "spectral_bandwidth": 4139.553632325226,
+        "zero_crossing_rate": 0.01821215338269454,
+        "mfcc_mean": [
+          23.435962677001953,
+          160.9174041748047,
+          8.266779899597168,
+          5.988757610321045,
+          12.236018180847168,
+          6.228440761566162,
+          0.44834914803504944,
+          3.63757061958313,
+          0.8005039095878601,
+          2.3471009731292725,
+          -1.218017578125,
+          0.7270826697349548,
+          1.4389572143554688
+        ],
+        "tempo": 123.046875,
+        "rms_energy": 0.8876345157623291,
+        "pitch_variance": 32954.08203125,
+        "frequency_peaks": [
+          172.09756097560975,
+          236.6341463414634,
+          516.2926829268292
+        ],
+        "dominant_frequency": 236.6341463414634
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:10:16.334844",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2315.5785621157424,
+        "spectral_rolloff": 3874.651057545732,
+        "spectral_bandwidth": 3886.437548577232,
+        "zero_crossing_rate": 0.02215072862224158,
+        "mfcc_mean": [
+          46.10234451293945,
+          161.67333984375,
+          -7.502572536468506,
+          7.038480281829834,
+          10.3086519241333,
+          3.3840363025665283,
+          -0.5737050175666809,
+          2.5083980560302734,
+          -0.001245797728188336,
+          1.8582450151443481,
+          -2.5949113368988037,
+          -0.6489859223365784,
+          1.1657966375350952
+        ],
+        "tempo": 114.84375,
+        "rms_energy": 0.9003067016601562,
+        "pitch_variance": 57585.625,
+        "frequency_peaks": [
+          129.0731707317073,
+          236.6341463414634,
+          473.2682926829268,
+          516.2926829268292
+        ],
+        "dominant_frequency": 236.6341463414634
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:11:12.265364",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2515.8258804010247,
+        "spectral_rolloff": 4514.01962652439,
+        "spectral_bandwidth": 4465.308098763782,
+        "zero_crossing_rate": 0.024148655270034843,
+        "mfcc_mean": [
+          17.14728546142578,
+          155.2118377685547,
+          11.355364799499512,
+          3.304187297821045,
+          16.711957931518555,
+          5.386114120483398,
+          -1.3775959014892578,
+          4.6558003425598145,
+          1.984039306640625,
+          2.565539598464966,
+          -0.48381054401397705,
+          2.0670783519744873,
+          2.8346190452575684
+        ],
+        "tempo": 135.99917763157896,
+        "rms_energy": 0.8198703527450562,
+        "pitch_variance": 73345.796875,
+        "frequency_peaks": [
+          129.0731707317073,
+          215.1219512195122
+        ],
+        "dominant_frequency": 129.0731707317073
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:12:08.163233",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2744.9375503367464,
+        "spectral_rolloff": 4973.594702743902,
+        "spectral_bandwidth": 4154.0486669099855,
+        "zero_crossing_rate": 0.03306872005662021,
+        "mfcc_mean": [
+          65.06318664550781,
+          147.0107421875,
+          -17.36248207092285,
+          7.128482818603516,
+          9.026711463928223,
+          5.2703704833984375,
+          1.3047001361846924,
+          4.386388778686523,
+          0.6567209959030151,
+          0.40091651678085327,
+          -0.9469265937805176,
+          1.5676124095916748,
+          0.9020075798034668
+        ],
+        "tempo": 126.04801829268293,
+        "rms_energy": 0.8418106436729431,
+        "pitch_variance": 48602.03515625,
+        "frequency_peaks": [
+          172.09756097560975,
+          236.6341463414634,
+          559.3170731707318
+        ],
+        "dominant_frequency": 172.09756097560975
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:13:04.065979",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2704.10574716213,
+        "spectral_rolloff": 5039.994998094512,
+        "spectral_bandwidth": 4046.7037231954955,
+        "zero_crossing_rate": 0.02913978567799071,
+        "mfcc_mean": [
+          68.682861328125,
+          148.68121337890625,
+          -15.40554428100586,
+          10.30401611328125,
+          5.137929916381836,
+          6.047545433044434,
+          1.933969497680664,
+          3.320197582244873,
+          -0.020844701677560806,
+          -0.45404040813446045,
+          -1.684523105621338,
+          0.9632681608200073,
+          0.974004864692688
+        ],
+        "tempo": 126.04801829268293,
+        "rms_energy": 0.8838294744491577,
+        "pitch_variance": 63319.09765625,
+        "frequency_peaks": [
+          172.09756097560975,
+          236.6341463414634,
+          430.2439024390244
+        ],
+        "dominant_frequency": 172.09756097560975
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:13:59.903076",
+      "environment_type": "vehicle_interior",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 3169.681026909123,
+        "spectral_rolloff": 6347.5431116615855,
+        "spectral_bandwidth": 4343.226578443334,
+        "zero_crossing_rate": 0.03683829667537747,
+        "mfcc_mean": [
+          86.32190704345703,
+          134.91868591308594,
+          -19.03523826599121,
+          14.243108749389648,
+          8.871336936950684,
+          7.936655044555664,
+          1.5296827554702759,
+          1.774736762046814,
+          0.2385786920785904,
+          0.2113628387451172,
+          0.298849880695343,
+          2.073681592941284,
+          0.03695032000541687
+        ],
+        "tempo": 126.04801829268293,
+        "rms_energy": 0.8767842054367065,
+        "pitch_variance": 36653.46484375,
+        "frequency_peaks": [
+          172.09756097560975,
+          236.6341463414634,
+          473.2682926829268,
+          537.8048780487804
+        ],
+        "dominant_frequency": 172.09756097560975
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Vehicle interior with music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:14:55.783177",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2580.2212706916966,
+        "spectral_rolloff": 4843.8452743902435,
+        "spectral_bandwidth": 4238.227790430044,
+        "zero_crossing_rate": 0.02669327544279907,
+        "mfcc_mean": [
+          49.11705017089844,
+          152.72640991210938,
+          -2.3577287197113037,
+          10.23454475402832,
+          11.914072036743164,
+          4.272515773773193,
+          0.38915228843688965,
+          5.811511993408203,
+          0.8744043707847595,
+          2.4050872325897217,
+          -0.11323785781860352,
+          2.2790067195892334,
+          1.99250066280365
+        ],
+        "tempo": 178.20581896551724,
+        "rms_energy": 0.8487327694892883,
+        "pitch_variance": 32836.7578125,
+        "frequency_peaks": [
+          129.0731707317073,
+          193.609756097561,
+          473.2682926829268,
+          537.8048780487804,
+          795.9512195121952
+        ],
+        "dominant_frequency": 193.609756097561
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:15:51.596370",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2535.0484212236383,
+        "spectral_rolloff": 4688.436070884146,
+        "spectral_bandwidth": 3997.260974304526,
+        "zero_crossing_rate": 0.02281878357288037,
+        "mfcc_mean": [
+          53.28664016723633,
+          150.0219268798828,
+          -11.619279861450195,
+          14.769344329833984,
+          9.366337776184082,
+          5.848062515258789,
+          -0.884734570980072,
+          4.47805643081665,
+          0.3876327872276306,
+          1.5042555332183838,
+          -0.4129888415336609,
+          0.8395755290985107,
+          1.0988407135009766
+        ],
+        "tempo": 143.5546875,
+        "rms_energy": 0.8998213410377502,
+        "pitch_variance": 42100.609375,
+        "frequency_peaks": [
+          129.0731707317073,
+          236.6341463414634
+        ],
+        "dominant_frequency": 236.6341463414634
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:20:22.468204",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2450.6190756437927,
+        "spectral_rolloff": 4446.443883384146,
+        "spectral_bandwidth": 4168.302912988847,
+        "zero_crossing_rate": 0.02533845092915215,
+        "mfcc_mean": [
+          44.363895416259766,
+          153.27255249023438,
+          -2.1245806217193604,
+          7.834014415740967,
+          9.803224563598633,
+          8.811349868774414,
+          4.557138442993164,
+          4.760487079620361,
+          4.199066162109375,
+          1.308573842048645,
+          -2.8978805541992188,
+          0.978402316570282,
+          2.1025197505950928
+        ],
+        "tempo": 129.19921875,
+        "rms_energy": 0.8486641645431519,
+        "pitch_variance": 45160.50390625,
+        "frequency_peaks": [
+          193.609756097561,
+          451.7560975609756,
+          516.2926829268292
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:30:01.009421",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2220.6515792270034,
+        "spectral_rolloff": 3616.7027915396343,
+        "spectral_bandwidth": 4065.7012239440464,
+        "zero_crossing_rate": 0.01844750381097561,
+        "mfcc_mean": [
+          24.681638717651367,
+          163.30960083007812,
+          5.083069801330566,
+          4.564799785614014,
+          13.338958740234375,
+          2.723335027694702,
+          0.7512096166610718,
+          3.644484519958496,
+          -0.834895133972168,
+          0.9597780704498291,
+          -1.6887528896331787,
+          0.15197569131851196,
+          0.3936474919319153
+        ],
+        "tempo": 143.5546875,
+        "rms_energy": 0.8880468606948853,
+        "pitch_variance": 20500.876953125,
+        "frequency_peaks": [
+          150.58536585365854,
+          215.1219512195122,
+          473.2682926829268,
+          516.2926829268292,
+          580.829268292683
+        ],
+        "dominant_frequency": 215.1219512195122
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:30:57.124113",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2350.8528033401594,
+        "spectral_rolloff": 4275.328696646341,
+        "spectral_bandwidth": 4259.102300824367,
+        "zero_crossing_rate": 0.019984370463124273,
+        "mfcc_mean": [
+          15.006732940673828,
+          155.0664520263672,
+          8.225104331970215,
+          8.768061637878418,
+          16.1599063873291,
+          6.241408824920654,
+          1.2357875108718872,
+          4.338106155395508,
+          2.457305669784546,
+          1.2621732950210571,
+          -1.008713960647583,
+          1.8715630769729614,
+          0.9058499336242676
+        ],
+        "tempo": 215.33203125,
+        "rms_energy": 0.8618851900100708,
+        "pitch_variance": 19795.08203125,
+        "frequency_peaks": [
+          215.1219512195122
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:34:01.384974",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2404.767958940662,
+        "spectral_rolloff": 4202.025771722561,
+        "spectral_bandwidth": 3786.5527116525577,
+        "zero_crossing_rate": 0.026653010670731708,
+        "mfcc_mean": [
+          63.12131881713867,
+          157.2062530517578,
+          -18.81660270690918,
+          10.62421989440918,
+          9.71053409576416,
+          4.365878105163574,
+          2.5976200103759766,
+          3.078490972518921,
+          0.5957401990890503,
+          1.5962492227554321,
+          -0.6585880517959595,
+          0.20276708900928497,
+          0.030470650643110275
+        ],
+        "tempo": 129.19921875,
+        "rms_energy": 0.8917518258094788,
+        "pitch_variance": 108794.8125,
+        "frequency_peaks": [
+          172.09756097560975,
+          236.6341463414634,
+          494.780487804878,
+          559.3170731707318
+        ],
+        "dominant_frequency": 236.6341463414634
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:37:46.261677",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2334.1039267524156,
+        "spectral_rolloff": 3972.438309832317,
+        "spectral_bandwidth": 3914.8130632979874,
+        "zero_crossing_rate": 0.022398555458768874,
+        "mfcc_mean": [
+          45.79190444946289,
+          160.63165283203125,
+          -7.276825428009033,
+          6.244678020477295,
+          13.47899341583252,
+          2.7964117527008057,
+          0.6256803274154663,
+          3.3787922859191895,
+          -2.4194893836975098,
+          0.11278746277093887,
+          -2.150953531265259,
+          0.6238473653793335,
+          1.6672148704528809
+        ],
+        "tempo": 107.666015625,
+        "rms_energy": 0.897213876247406,
+        "pitch_variance": 75893.0078125,
+        "frequency_peaks": [
+          172.09756097560975,
+          236.6341463414634,
+          473.2682926829268,
+          602.3414634146342
+        ],
+        "dominant_frequency": 236.6341463414634
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T01:54:47.943435",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2698.248225019983,
+        "spectral_rolloff": 4972.969464557927,
+        "spectral_bandwidth": 4290.533196225084,
+        "zero_crossing_rate": 0.03148138066202091,
+        "mfcc_mean": [
+          44.10666275024414,
+          141.06309509277344,
+          -9.140974998474121,
+          13.2420015335083,
+          17.76138687133789,
+          7.7140374183654785,
+          -1.0642032623291016,
+          5.590830326080322,
+          5.095564365386963,
+          2.9870126247406006,
+          0.40968120098114014,
+          1.9035052061080933,
+          2.333460569381714
+        ],
+        "tempo": 147.65625,
+        "rms_energy": 0.8382918834686279,
+        "pitch_variance": 84145.0625,
+        "frequency_peaks": [
+          172.09756097560975
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "very_loud",
+      "audio_quality": "poor_clipped",
+      "description": "Quiet indoor environment with speech, music, transient_events (high energy)"
+    },
+    {
+      "timestamp": "2025-07-17T03:08:59.702860",
+      "environment_type": "indoor_quiet",
+      "confidence": 1.0,
+      "sound_events": [
+        "speech",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 1816.0279388436843,
+        "spectral_rolloff": 2802.792730564024,
+        "spectral_bandwidth": 3754.761305782838,
+        "zero_crossing_rate": 0.02241953850900116,
+        "mfcc_mean": [
+          -314.70111083984375,
+          156.29583740234375,
+          22.045513153076172,
+          8.497587203979492,
+          22.747272491455078,
+          16.291725158691406,
+          1.6836625337600708,
+          6.329763412475586,
+          6.37053918838501,
+          -1.3224841356277466,
+          -2.9244565963745117,
+          7.714799404144287,
+          4.329721927642822
+        ],
+        "tempo": 50.666360294117645,
+        "rms_energy": 0.0491839163005352,
+        "pitch_variance": 18421.34375,
+        "frequency_peaks": [
+          172.09756097560975,
+          215.1219512195122
+        ],
+        "dominant_frequency": 215.1219512195122
+      },
+      "noise_level": "quiet",
+      "audio_quality": "good",
+      "description": "Quiet indoor environment with speech, transient_events (low energy)"
+    },
+    {
+      "timestamp": "2025-07-17T11:05:40.477846",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 4271.68536240739,
+        "spectral_rolloff": 11808.798589939024,
+        "spectral_bandwidth": 6137.697915852284,
+        "zero_crossing_rate": 0.04474607106562137,
+        "mfcc_mean": [
+          -419.6102600097656,
+          99.40901184082031,
+          2.317321538925171,
+          -2.1276726722717285,
+          33.57867431640625,
+          23.70257568359375,
+          2.814681053161621,
+          0.3256142735481262,
+          12.556071281433105,
+          8.777678489685059,
+          2.3542470932006836,
+          4.366550445556641,
+          6.56439733505249
+        ],
+        "tempo": 123.046875,
+        "rms_energy": 0.014193279668688774,
+        "pitch_variance": 192128.5625,
+        "frequency_peaks": [],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "quiet",
+      "audio_quality": "good",
+      "description": "Quiet indoor environment with music, transient_events (low energy)"
+    },
+    {
+      "timestamp": "2025-07-17T11:57:21.327491",
+      "environment_type": "indoor_quiet",
+      "confidence": 0.6666666666666666,
+      "sound_events": [
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 3651.7615353328492,
+        "spectral_rolloff": 7725.418016387195,
+        "spectral_bandwidth": 5122.087284675301,
+        "zero_crossing_rate": 0.05616708859610917,
+        "mfcc_mean": [
+          -401.7193603515625,
+          103.40380096435547,
+          -26.971609115600586,
+          -20.297128677368164,
+          33.99623107910156,
+          33.13022232055664,
+          8.429303169250488,
+          -7.955225944519043,
+          3.1342055797576904,
+          4.070988655090332,
+          1.3049458265304565,
+          6.740647315979004,
+          8.357989311218262
+        ],
+        "tempo": 206.71875,
+        "rms_energy": 0.01866464875638485,
+        "pitch_variance": 415935.9375,
+        "frequency_peaks": [],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "quiet",
+      "audio_quality": "good",
+      "description": "Quiet indoor environment with music, transient_events (low energy)"
+    },
+    {
+      "timestamp": "2025-07-17T11:58:17.454213",
+      "environment_type": "outdoor_nature",
+      "confidence": 1.0,
+      "sound_events": [
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 3333.1206143288478,
+        "spectral_rolloff": 5455.253191692073,
+        "spectral_bandwidth": 3796.4342272085355,
+        "zero_crossing_rate": 0.09309782411440186,
+        "mfcc_mean": [
+          -324.3515625,
+          121.68000793457031,
+          -56.297889709472656,
+          -10.038792610168457,
+          43.54769515991211,
+          15.281519889831543,
+          -14.620070457458496,
+          -12.503279685974121,
+          5.442041873931885,
+          -6.908862590789795,
+          -8.077795028686523,
+          4.451629161834717,
+          3.3402979373931885
+        ],
+        "tempo": 151.99908088235293,
+        "rms_energy": 0.03287168964743614,
+        "pitch_variance": 824504.375,
+        "frequency_peaks": [
+          322.6829268292683,
+          408.7317073170732,
+          473.2682926829268,
+          1204.6829268292684,
+          1269.219512195122,
+          1462.8292682926829,
+          1764.0,
+          1850.0487804878048,
+          1893.0731707317073,
+          1979.121951219512
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "quiet",
+      "audio_quality": "good",
+      "description": "Natural outdoor environment with music, transient_events (low energy)"
+    },
+    {
+      "timestamp": "2025-07-17T11:59:14.002054",
+      "environment_type": "outdoor_nature",
+      "confidence": 1.0,
+      "sound_events": [
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 3180.406058745307,
+        "spectral_rolloff": 5237.645293445122,
+        "spectral_bandwidth": 3809.243763496425,
+        "zero_crossing_rate": 0.08594487242305458,
+        "mfcc_mean": [
+          -343.6320495605469,
+          116.12667083740234,
+          -70.43321990966797,
+          -36.65313720703125,
+          24.667593002319336,
+          20.39940643310547,
+          0.6867648959159851,
+          -5.135616302490234,
+          5.004380702972412,
+          -2.352411985397339,
+          4.911982536315918,
+          19.465534210205078,
+          13.385198593139648
+        ],
+        "tempo": 103.359375,
+        "rms_energy": 0.04696075618267059,
+        "pitch_variance": 260886.296875,
+        "frequency_peaks": [
+          817.4634146341464,
+          1161.658536585366,
+          1333.7560975609756,
+          1505.8536585365853,
+          1570.3902439024391,
+          1720.9756097560976,
+          1871.560975609756,
+          2000.6341463414635,
+          2172.731707317073,
+          2581.4634146341464
+        ],
+        "dominant_frequency": 1570.3902439024391
+      },
+      "noise_level": "quiet",
+      "audio_quality": "good",
+      "description": "Natural outdoor environment with music, transient_events (low energy)"
+    },
+    {
+      "timestamp": "2025-07-17T14:26:20.525461",
+      "environment_type": "indoor_quiet",
+      "confidence": 1.0,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2700.9143568948894,
+        "spectral_rolloff": 5138.6075647865855,
+        "spectral_bandwidth": 4714.263688522533,
+        "zero_crossing_rate": 0.035315040650406505,
+        "mfcc_mean": [
+          -354.08172607421875,
+          143.5699920654297,
+          4.836949348449707,
+          5.403234481811523,
+          26.516931533813477,
+          18.07245635986328,
+          4.683743000030518,
+          1.094238519668579,
+          10.973118782043457,
+          -3.2858147621154785,
+          -3.513463258743286,
+          6.502324104309082,
+          -0.040719982236623764
+        ],
+        "tempo": 95.703125,
+        "rms_energy": 0.019272860139608383,
+        "pitch_variance": 8525.7958984375,
+        "frequency_peaks": [
+          172.09756097560975
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "quiet",
+      "audio_quality": "good",
+      "description": "Quiet indoor environment with speech, music, transient_events (low energy)"
+    },
+    {
+      "timestamp": "2025-07-17T14:33:21.232356",
+      "environment_type": "indoor_quiet",
+      "confidence": 1.0,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2600.026923670908,
+        "spectral_rolloff": 4252.494998094512,
+        "spectral_bandwidth": 4733.940822743682,
+        "zero_crossing_rate": 0.035537914670441345,
+        "mfcc_mean": [
+          -360.1120300292969,
+          153.38356018066406,
+          10.10457992553711,
+          -4.364941120147705,
+          26.223922729492188,
+          12.796319007873535,
+          1.4923031330108643,
+          2.3056163787841797,
+          9.655054092407227,
+          -0.2426232546567917,
+          -1.710986852645874,
+          6.851602077484131,
+          5.883124351501465
+        ],
+        "tempo": 129.19921875,
+        "rms_energy": 0.017161693423986435,
+        "pitch_variance": 125948.3046875,
+        "frequency_peaks": [
+          21.51219512195122,
+          107.5609756097561,
+          150.58536585365854,
+          193.609756097561
+        ],
+        "dominant_frequency": 21.51219512195122
+      },
+      "noise_level": "quiet",
+      "audio_quality": "good",
+      "description": "Quiet indoor environment with speech, music, transient_events (low energy)"
+    },
+    {
+      "timestamp": "2025-07-17T14:46:15.338498",
+      "environment_type": "indoor_quiet",
+      "confidence": 1.0,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2358.724514731397,
+        "spectral_rolloff": 3870.874618902439,
+        "spectral_bandwidth": 4272.545211393369,
+        "zero_crossing_rate": 0.03044243612078978,
+        "mfcc_mean": [
+          -335.11151123046875,
+          151.79884338378906,
+          -3.881467819213867,
+          3.221261739730835,
+          29.89960289001465,
+          19.54610824584961,
+          3.830071210861206,
+          1.4277045726776123,
+          10.942620277404785,
+          -0.2364048957824707,
+          -0.5665562748908997,
+          4.989195823669434,
+          2.783378839492798
+        ],
+        "tempo": 126.04801829268293,
+        "rms_energy": 0.02708265744149685,
+        "pitch_variance": 116792.8984375,
+        "frequency_peaks": [
+          107.5609756097561
+        ],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "quiet",
+      "audio_quality": "good",
+      "description": "Quiet indoor environment with speech, music, transient_events (low energy)"
+    },
+    {
+      "timestamp": "2025-07-17T14:51:03.986176",
+      "environment_type": "indoor_quiet",
+      "confidence": 1.0,
+      "sound_events": [
+        "speech",
+        "music",
+        "transient_events"
+      ],
+      "acoustic_features": {
+        "spectral_centroid": 2583.409635790958,
+        "spectral_rolloff": 4537.60361089939,
+        "spectral_bandwidth": 4684.897938268903,
+        "zero_crossing_rate": 0.03233261197009291,
+        "mfcc_mean": [
+          -358.3615417480469,
+          147.912353515625,
+          5.162628173828125,
+          3.2690770626068115,
+          26.302766799926758,
+          13.194863319396973,
+          4.489644527435303,
+          1.9377468824386597,
+          7.64080286026001,
+          -0.20107050240039825,
+          -1.7689006328582764,
+          2.4868149757385254,
+          2.5895445346832275
+        ],
+        "tempo": 135.99917763157896,
+        "rms_energy": 0.018791398033499718,
+        "pitch_variance": 28194.83203125,
+        "frequency_peaks": [],
+        "dominant_frequency": 0.0
+      },
+      "noise_level": "quiet",
+      "audio_quality": "good",
+      "description": "Quiet indoor environment with speech, music, transient_events (low energy)"
+    }
+  ]
+}
