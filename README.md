@@ -1,6 +1,9 @@
 # Marina AI 🧠
 
 Welcome to Marina, an advanced agentic intelligence framework designed to bring cutting-edge AI capabilities to your desktop. Marina is not just a single application but a comprehensive ecosystem of interconnected modules that provide a seamless and intelligent user experience.
+**
+WARNING:**
+Marina is an experimental projectand is subject to ongoing development. This repo is a development build and not reflective of the finished product.
 
 ## 🌟 Core Features
 
