@@ -1,0 +1,858 @@
+{
+  "timestamp": "2025-07-20T19:41:37.525132",
+  "root_url": "https://gov.uk",
+  "keywords": [
+    "news",
+    "article",
+    "breaking",
+    "latest",
+    "update"
+  ],
+  "enhanced_keywords": [
+    [
+      "Keywords: government",
+      1.4
+    ],
+    [
+      "news",
+      1.4
+    ],
+    [
+      "breaking",
+      1.4
+    ],
+    [
+      "latest",
+      1.4
+    ],
+    [
+      "update",
+      1.4
+    ],
+    [
+      "comma-separated",
+      1.4
+    ],
+    [
+      "1. government news",
+      1.4
+    ],
+    [
+      "2. uk news breaking news",
+      1.4
+    ],
+    [
+      "3. uk government news",
+      1.4
+    ],
+    [
+      "4. uk government news articles",
+      1.4
+    ]
+  ],
+  "total_pages_scraped": 12,
+  "knowledge_nodes": [
+    {
+      "url": "https://gov.uk",
+      "title": "Welcome to GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 0
+    },
+    {
+      "url": "https://gov.uk/search/news-and-communications",
+      "title": "News and communications - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 19,
+      "depth": 1
+    },
+    {
+      "url": "https://gov.uk/search/news-and-communications?page=2",
+      "title": "News and communications - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 20,
+      "depth": 2
+    },
+    {
+      "url": "https://gov.uk/government/news/reed-government-to-cut-sewage-pollution-in-half-by-2030",
+      "title": "Reed: Government to cut sewage pollution in half by 2030 - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://gov.uk/government/news/ukhsa-issues-warning-over-botulism",
+      "title": "UKHSA issues warning over botulism - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 18,
+      "depth": 2
+    },
+    {
+      "url": "https://gov.uk/government/news/c2c-services-transferred-to-public-ownership",
+      "title": "c2c services transferred to public ownership - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 20,
+      "depth": 2
+    },
+    {
+      "url": "https://gov.uk/browse/employing-people",
+      "title": "Employing people - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 1
+    },
+    {
+      "url": "https://gov.uk/browse/employing-people/trade-unions",
+      "title": "Trade unions and workers rights - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 18,
+      "depth": 2
+    },
+    {
+      "url": "https://gov.uk/help/cookies",
+      "title": "Cookies on GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 19,
+      "depth": 2
+    },
+    {
+      "url": "https://gov.uk/browse/business",
+      "title": "Business and self-employed - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://gov.uk/browse/justice",
+      "title": "Crime, justice and the law - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 1
+    },
+    {
+      "url": "https://gov.uk/report-benefit-fraud",
+      "title": "Report benefit fraud - GOV.UK",
+      "relevance_score": 10.0,
+      "topics_count": 20,
+      "depth": 2
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_39527",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk",
+        "keywords": [
+          "more on gov.uk",
+          "government activity",
+          "housing and local services",
+          "living",
+          "national insurance"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Welcome to GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nThe best place to find government services and information\nSearch\nSearch GOV.UK\nPopular on GOV.UK\nHMRC account: sign in or set up\neVisas: access and use your online immigration status\nUniversal Credit account: sign in\nPersonal tax account: sign in or set up\nChildcare account: sign in\nCheck your State Pension forecast\nServices and information\nBenefits\nIncludes eligibility, appeals, tax credits and Universal Credit\nBirths, deaths, marriages and\u00a0care\nParenting, civil partnerships, divorce and Lasting Power of Attorney\nBusiness and self-employed\nTools and guidance for businesses\nChildcare and parenting\nIncludes giving birth, fostering, adopting, benefits for children, childcare and schools\nCitizenship and living in the\u00a0UK\nVoting, community participation, life in the UK, international projects\nCrime, justice and the\u00a0law\nLegal processes, courts and the police\nDisabled people\nIncludes carers, your rights, benefits and the Equality Act\nDriving and transport\nIncludes vehicle tax, MOT and driving licences\nEducation and learning\nIncludes student loans, admissions and apprenticeships\nEmploying people\nIncludes pay, contracts, hiring and redundancies\nEnvironment and countryside\nIncludes flooding, recycling, farming and wildlife\nHousing and local services\nOwning or renting and council services\nMoney and tax\nIncludes debt and Self\u00a0Assessment\nPassports, travel and living\u00a0abroad\nIncludes renewing passports and travel advice by country\nVisas and immigration\nApply to visit, work, study, settle or seek asylum in the\u00a0UK\nWorking, jobs and\u00a0pensio",
+        "topics": [
+          "more on gov.uk",
+          "government activity",
+          "housing and local services",
+          "living",
+          "national insurance",
+          "policy papers and consultations",
+          "cookies on gov.uk",
+          "visas and immigration",
+          "benefits",
+          "business and self-employed",
+          "services",
+          "government",
+          "search",
+          "disabled people",
+          "find a job",
+          "cost of living support",
+          "departments",
+          "research and statistics",
+          "guidance and regulation",
+          "services and information",
+          "working, jobs and\u00a0pensions",
+          "childcare and parenting",
+          "driving and transport",
+          "cookies",
+          "includes"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice",
+          "https://gov.uk/browse/driving"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:38.669390",
+          "depth": 0,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.849931",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_97596",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/search/news-and-communications",
+        "keywords": [
+          "government activity",
+          "updated",
+          "david",
+          "cookies on gov.uk",
+          "lord"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "News and communications - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nNews and communications\nSearch\nNews and communications\nSearch\nFilter\nresults\nSkip to results\nFilter\n135,482 results\nTopic\nTopic\nAll topics\nBusiness and industry\nCorporate information\nCrime, justice and law\nDefence and armed forces\nEducation, training and skills\nEntering and staying in the UK\nEnvironment\nGoing and being abroad\nGovernment\nHealth and social care\nHousing, local and community\nInternational\nLife circumstances\nMoney\nParenting, childcare and children's services\nRegional and local government\nSociety and culture\nTransport\nWelfare\nWork\nSubtopic\nAll subtopics\nBusiness and the environment\nBusiness regulation\nCharities and social enterprises\nCorporate governance\nFinancial services\nIndustrial strategy\nManufacturing\nMedia and communications\nRunning a business\nScience and innovation\nTrade and investment\nUK economy\nAdministrative justice reform\nAttorney General guidance to the legal profession\nByelaws\nCivil justice reform\nCounter-extremism\nCounter-terrorism\nCourts, sentencing and tribunals\nCrime prevention\nCriminal justice reform\nCriminal record disclosure\nData protection\nDomestic abuse\nFamily justice system\nForced marriage\nJustice system transparency\nKnife, gun and gang crime\nLaw and practice\nLegal aid\nLegal aid reform\nPolicing\nPrisons and probation\nReoffending and rehabilitation\nReporting crimes and getting compensation\nSentencing reform\nStatutory rights\nVictims of crime\nViolence against women and girls\nYoung people and the law\nYour rights and the law\nArmed Forces Covenant\nArmed forces\nArmed forces and Ministry of De",
+        "topics": [
+          "government activity",
+          "updated",
+          "david",
+          "cookies on gov.uk",
+          "lord",
+          "news and communications",
+          "search",
+          "person",
+          "services and information",
+          "baroness",
+          "navigation menu",
+          "july",
+          "is this page useful?",
+          "help us improve gov.uk",
+          "topic",
+          "andrew",
+          "filter",
+          "135,482 results",
+          "support links"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/search/news-and-communications?page=2",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:40.414157",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.850321",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_55236",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/search/news-and-communications?page=2",
+        "keywords": [
+          "government activity",
+          "updated",
+          "david",
+          "cookies on gov.uk",
+          "lord"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "News and communications - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nNews and communications\nSearch\nNews and communications\nSearch\nFilter\nresults\nSkip to results\nFilter\n135,482 results\nTopic\nTopic\nAll topics\nBusiness and industry\nCorporate information\nCrime, justice and law\nDefence and armed forces\nEducation, training and skills\nEntering and staying in the UK\nEnvironment\nGoing and being abroad\nGovernment\nHealth and social care\nHousing, local and community\nInternational\nLife circumstances\nMoney\nParenting, childcare and children's services\nRegional and local government\nSociety and culture\nTransport\nWelfare\nWork\nSubtopic\nAll subtopics\nBusiness and the environment\nBusiness regulation\nCharities and social enterprises\nCorporate governance\nFinancial services\nIndustrial strategy\nManufacturing\nMedia and communications\nRunning a business\nScience and innovation\nTrade and investment\nUK economy\nAdministrative justice reform\nAttorney General guidance to the legal profession\nByelaws\nCivil justice reform\nCounter-extremism\nCounter-terrorism\nCourts, sentencing and tribunals\nCrime prevention\nCriminal justice reform\nCriminal record disclosure\nData protection\nDomestic abuse\nFamily justice system\nForced marriage\nJustice system transparency\nKnife, gun and gang crime\nLaw and practice\nLegal aid\nLegal aid reform\nPolicing\nPrisons and probation\nReoffending and rehabilitation\nReporting crimes and getting compensation\nSentencing reform\nStatutory rights\nVictims of crime\nViolence against women and girls\nYoung people and the law\nYour rights and the law\nArmed Forces Covenant\nArmed forces\nArmed forces and Ministry of De",
+        "topics": [
+          "government activity",
+          "updated",
+          "david",
+          "cookies on gov.uk",
+          "lord",
+          "news and communications",
+          "government",
+          "search",
+          "person",
+          "services and information",
+          "baroness",
+          "navigation menu",
+          "july",
+          "is this page useful?",
+          "help us improve gov.uk",
+          "topic",
+          "andrew",
+          "filter",
+          "135,482 results",
+          "support links"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice",
+          "https://gov.uk/browse/driving"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:42.448870",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.850558",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_77644",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/government/news/reed-government-to-cut-sewage-pollution-in-half-by-2030",
+        "keywords": [
+          "government activity",
+          "pollution",
+          "updates to this page",
+          "cookies on gov.uk",
+          "environment"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Reed: Government to cut sewage pollution in half by 2030 - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nBusiness and industry\nBusiness and the environment\nPress release\nReed: Government to cut sewage pollution in half by 2030\nSewage pollution from water companies will be cut in half by the end of the decade, the Environment Secretary Steve Reed will pledge today (Sunday 20 July).\nFrom:\nDepartment for Environment, Food & Rural Affairs\nand\nThe Rt Hon Steve Reed OBE MP\nPublished\n19 July 2025\nSewage pollution from water companies will be cut in half by the end of the decade, the Environment Secretary Steve Reed will pledge today (Sunday 20 July).\nOur rivers, lakes and seas will be the cleanest since records began, meaning millions of families will benefit from cleaner beaches and rivers.\nFor the first time the Government has made a pledge to cut sewage pollution with a clear target which they will be held accountable to.\nThe Government, in partnership with investors, has secured funding to rebuild the entire water network to clean up our rivers.\nIn one of the largest infrastructure projects in this country\u2019s history, a record \u00a3104 billion is being invested to upgrade crumbling pipes and build new sewage treatment works cutting sewage pollution into rivers.\nOver the past year, the Government has introduced a package of measures to slash pollution levels. Bills are now ringfenced to force companies to invest in upgrades and over \u00a3100 million of water fines are being spent on local clean-up projects.\nThe commitment comes as the Government vows \u201croot and branch reform\u201d to usher in a revolution in the water industry, ahead of th",
+        "topics": [
+          "government activity",
+          "pollution",
+          "updates to this page",
+          "cookies on gov.uk",
+          "environment",
+          "government",
+          "explore the topic",
+          "pledge:",
+          "search",
+          "share this page",
+          "into",
+          "water",
+          "services and information",
+          "cookies",
+          "navigation menu",
+          "companies",
+          "phosphorus:",
+          "is this page useful?",
+          "data:",
+          "storm overflows:",
+          "nature-based solutions (nbs):",
+          "sustainable drainage systems (suds):",
+          "sewage",
+          "help us improve gov.uk",
+          "further information"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/business-and-industry/business-and-the-environment",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:43.666336",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.850802",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_21101",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/government/news/ukhsa-issues-warning-over-botulism",
+        "keywords": [
+          "government activity",
+          "updates to this page",
+          "like",
+          "cookies on gov.uk",
+          "people"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "UKHSA issues warning over botulism - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nHealth and social care\nPublic health\nHealth protection\nEmergency response\nNews story\nUKHSA issues warning over botulism\nUKHSA warns public to be alert to botulism following adverse reactions to cosmetic procedures involving botulinum toxin.\nFrom:\nUK Health Security Agency\nPublished\n18 July 2025\nUK Health Security Agency (UKHSA) is warning people to be aware of the signs and symptoms of botulism after a small number of individuals presented to NHS healthcare settings following adverse reactions after receiving cosmetic procedures involving botulinum toxin.\nThe cases are in addition to those recently diagnosed in the North East region and relate to procedures carried out in the East of England and East Midlands. To date, 38 cases of iatrogenic botulism have been reported between 4 June and 14 July 2025.\nAs yet there are no known links between the newly diagnosed cases and those in the North East.\nInvestigations are ongoing but evidence so far suggests the use of an unlicensed Botox-like product. It is understood that those practitioners involved in this latest incident have ceased the procedure and are co-operating with the ongoing investigation.\nReactions have included:\ndifficulty swallowing\nslurred speech\nbreathing difficulty requiring respiratory support\nUKHSA has issued national advice to clinicians to ensure that they look out for botulism in people who may have had a recent aesthetic procedure, in order to provide them appropriate treatment which includes giving anti-toxin.\nUKHSA is also advising people to take pr",
+        "topics": [
+          "government activity",
+          "updates to this page",
+          "like",
+          "cookies on gov.uk",
+          "people",
+          "explore the topic",
+          "search",
+          "share this page",
+          "procedures",
+          "services and information",
+          "cookies",
+          "navigation menu",
+          "is this page useful?",
+          "help us improve gov.uk",
+          "botulism",
+          "health",
+          "your",
+          "support links"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/government/organisations/uk-health-security-agency",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:44.917796",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.851035",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_28021",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/government/news/c2c-services-transferred-to-public-ownership",
+        "keywords": [
+          "government activity",
+          "additional",
+          "page",
+          "updates to this page",
+          "rail"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "c2c services transferred to public ownership - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nTransport\nRail\nRail network\nNews story\nc2c services transferred to public ownership\nAll c2c services are now managed by DfT Operator Ltd (DFTO).\nFrom:\nDfT Operator Limited\nPublished\n20 July 2025\n\u00a9 Trenitalia c2c Rail Ltd\nFrom today (20 July 2025), the operation of all c2c services has transferred into public ownership and are being managed by\nDfT\nOperator\nLtd\n(\nDFTO\n).\nDFTO\nis the government\u2019s public sector owning group that will manage all train companies as they move into\npublic ownership ahead of the creation of Great British Railways (\nGBR\n)\n.\nPublicly owned operators under\nDFTO\nare now responsible for 28% of all\nUK\npassenger rail journeys.\nPublic ownership of the railways will deliver an improved experience for passengers, by bringing together train operators and the management of the railway\u2019s infrastructure to improve performance, reduce subsidy, drive innovation and improve satisfaction, making the railway better for customers and taxpayers.\nPlease see the\nDepartment for Transport press release\nfor more information.\nShare this page\nThe following links open in a new tab\nShare on\nFacebook\n(opens in new tab)\nShare on\nTwitter\n(opens in new tab)\nUpdates to this page\nPublished 20 July 2025\nExplore the topic\nRail network\nRail passenger experience\nIs this page useful?\nMaybe\nYes\nthis page is useful\nNo\nthis page is not useful\nThank you for your feedback\nReport a problem with this page\nHelp us improve GOV.UK\nDon\u2019t include personal or financial information like your National Insurance number or credit card details.\nThis f",
+        "topics": [
+          "government activity",
+          "additional",
+          "page",
+          "updates to this page",
+          "rail",
+          "cookies on gov.uk",
+          "services",
+          "government",
+          "explore the topic",
+          "search",
+          "share this page",
+          "services and information",
+          "public",
+          "cookies",
+          "navigation menu",
+          "is this page useful?",
+          "help us improve gov.uk",
+          "improve",
+          "your",
+          "support links"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice",
+          "https://gov.uk/browse/driving"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:46.132816",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.851278",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_75680",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/browse/employing-people",
+        "keywords": [
+          "government activity",
+          "additional",
+          "contracts",
+          "help",
+          "cookies on gov.uk"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Employing people - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nEmploying people\nIncludes pay, contracts, hiring and redundancies\nMost viewed\nHMRC online services: sign in or set up an account\nDBS Update Service\nCheck a job applicant's right to work: use their share code\nTopics\nContracts of employment and working hours\nIncludes types of worker, employee rights, overtime and changes to contracts\nDismissing staff and redundancies\nResignations, dismissals, disciplinaries and redundancy pay\nHealth and safety at work\nAccidents, health and safety law and workplace conditions\nPayroll\nPAYE for employers, getting started, reporting and paying HMRC, expenses and benefits\nPensions for your staff\nIncludes workplace pensions and Combined Pension Statements\nRecruiting and hiring\nAdvertise a job, Disclosure and Barring (DBS) checks, right to work checks, discrimination law and apprenticeships\nStatutory leave and time off\nIncludes maternity and paternity leave, holiday entitlement and sick pay\nTrade unions and workers rights\nIncludes industrial action and recognising trade unions\nIs this page useful?\nMaybe\nYes\nthis page is useful\nNo\nthis page is not useful\nThank you for your feedback\nReport a problem with this page\nHelp us improve GOV.UK\nDon\u2019t include personal or financial information like your National Insurance number or credit card details.\nThis field is for robots only. Please leave blank\nWhat were you doing?\nWhat went wrong?\nSend\nCancel\nHelp us improve GOV.UK\nTo help us improve GOV.UK, we\u2019d like to know more about your visit today.\nPlease fill in this survey (opens in a new tab\nand requires ",
+        "topics": [
+          "government activity",
+          "additional",
+          "contracts",
+          "help",
+          "cookies on gov.uk",
+          "people",
+          "recruiting and hiring",
+          "pensions for your staff",
+          "services",
+          "government",
+          "includes pay",
+          "search",
+          "hiring and redundancies",
+          "services and information",
+          "cookies",
+          "payroll",
+          "topics",
+          "includes",
+          "navigation menu",
+          "is this page useful?",
+          "dismissing staff and redundancies",
+          "employing people",
+          "help us improve gov.uk",
+          "your",
+          "support links"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/browse/employing-people/trade-unions",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:47.269242",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.851512",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_42659",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/browse/employing-people/trade-unions",
+        "keywords": [
+          "government activity",
+          "additional",
+          "help",
+          "a to z",
+          "cookies on gov.uk"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Trade unions and workers rights - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nEmploying people\nTrade unions and workers rights\nIncludes industrial action and recognising trade unions\nA to Z\nAgricultural workers' rights\nAsk your employer to set up a European Works Council\nBeing monitored at work: workers' rights\nBeing taken to an employment tribunal\nBusiness transfers, takeovers and TUPE\nDerecognise a union\nEmployers: preventing discrimination\nEmployers: recognise a trade union\nIf your business faces industrial action\nPersonal data an employer can keep about an employee\nPregnant employees' rights\nReasonable adjustments for workers with disabilities or health conditions\nRecruitment and disabled people\nThe rights of trade union reps\nTraining and study at work: your rights\nWorking with trade unions: employers\nWorkplace bullying and harassment\nYour rights if your employer is insolvent\nIs this page useful?\nMaybe\nYes\nthis page is useful\nNo\nthis page is not useful\nThank you for your feedback\nReport a problem with this page\nHelp us improve GOV.UK\nDon\u2019t include personal or financial information like your National Insurance number or credit card details.\nThis field is for robots only. Please leave blank\nWhat were you doing?\nWhat went wrong?\nSend\nCancel\nHelp us improve GOV.UK\nTo help us improve GOV.UK, we\u2019d like to know more about your visit today.\nPlease fill in this survey (opens in a new tab\nand requires JavaScript\n)\n.\nCancel\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nD",
+        "topics": [
+          "government activity",
+          "additional",
+          "help",
+          "a to z",
+          "cookies on gov.uk",
+          "people",
+          "services",
+          "government",
+          "search",
+          "services and information",
+          "trade",
+          "cookies",
+          "navigation menu",
+          "is this page useful?",
+          "help us improve gov.uk",
+          "rights",
+          "your",
+          "support links"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice",
+          "https://gov.uk/browse/driving"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:48.465370",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.851739",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_31686",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/help/cookies",
+        "keywords": [
+          "government activity",
+          "page",
+          "government services",
+          "cookies on gov.uk",
+          "settings"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Cookies on GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nSuccess\nYour cookie settings were saved\nGovernment services may set additional cookies and, if so, will have their own cookie policy and banner.\nGo back to the page you were looking at\nCookies on GOV.UK\nCookies are files saved on your phone, tablet or computer when you visit a website.\nWe use cookies to collect and store information about how you use the GOV.UK website and government digital services, such as the pages you visit. 'Government digital services' means any page with service.gov.uk in the URL.\nThis page has a brief explanation of each type of cookie we use. If you want more details,\nread our detailed cookie information\n.\nCookie settings\nWe use Javascript to set most of our cookies. Unfortunately Javascript is not running on your browser, so you cannot change your settings on this page. You can try:\nreloading the page\nturning on Javascript in your browser\nYou can also remove any previously stored cookies through your browser. Look for 'Preferences', 'Settings', or 'Options' in your browser menu.\nWe use 4 types of cookie. You can choose which cookies you're happy for us to use.\nCookies that measure website use\nWe use Google Analytics cookies to measure how you use GOV.UK and government digital services.\nThese cookies collect information about:\nhow you got to these sites\nthe pages you visit and how long you spend on each page\nwhat you click on while you're visiting these sites\nWe also use LUX Real User Monitoring software cookies from SpeedCurve to measure your web performance experience while visiting GOV.UK",
+        "topics": [
+          "government activity",
+          "page",
+          "government services",
+          "cookies on gov.uk",
+          "settings",
+          "services",
+          "government",
+          "success",
+          "search",
+          "strictly necessary cookies",
+          "services and information",
+          "cookie settings",
+          "cookies",
+          "navigation menu",
+          "is this page useful?",
+          "cookie",
+          "help us improve gov.uk",
+          "your",
+          "support links"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice",
+          "https://gov.uk/browse/driving"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:49.536733",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.851953",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_86503",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/browse/business",
+        "keywords": [
+          "government activity",
+          "additional",
+          "business debt and bankruptcy",
+          "waste",
+          "setting up"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Business and self-employed - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nBusiness and self-employed\nTools and guidance for businesses\nMost viewed\nHMRC online services: sign in or set up an account\nGet information about a company\nFind an energy certificate\nTopics\nSetting up\nIncludes self-employment and starting a business\nBusiness tax and VAT\nIncludes Corporation Tax, Capital Gains Tax, Construction Industry Scheme (CIS) and VAT\nBusiness finance and support\nFinding finance, business support, writing a business plan\nRunning a limited company\nIncludes registering, setting up, company accounts and tax returns\nExpenses and employee benefits\nIncludes company cars and paying tax on employee benefits\nBusiness debt and bankruptcy\nIncludes bankruptcy, insolvency and recovering debt\nBusiness premises and business rates\nIncludes business rates, leases, renting, planning permission, waste, and energy certificates\nFood, catering and retail\nLabelling and handling food, transporting, food safety\nImporting\nIncludes moving goods in the EU and commodity codes\nExporting and doing business abroad\nIncludes moving goods in the EU and commodity codes\nLicences and licence applications\nApplying for licences for events and businesses\nSelling your business and closing down\nStopping self-employment, winding up or liquidating a limited company\nSale of goods and services and data protection\nIncludes regulations for online retailers, offering credit and Trading Standards\nChildcare providers\nIncludes registering as a childcare provider\nManufacturing\nManaging waste, health and safety, regulations\nPatents, trade marks, copy",
+        "topics": [
+          "government activity",
+          "additional",
+          "business debt and bankruptcy",
+          "waste",
+          "setting up",
+          "cookies on gov.uk",
+          "licences and licence applications",
+          "business and self-employed",
+          "business finance and support",
+          "manufacturing",
+          "services",
+          "government",
+          "search",
+          "business tax and vat",
+          "services and information",
+          "childcare providers",
+          "food, catering and retail",
+          "business",
+          "cookies",
+          "scientific research and development",
+          "topics",
+          "includes",
+          "navigation menu",
+          "is this page useful?",
+          "help us improve gov.uk"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/find-energy-certificate",
+          "https://gov.uk/browse/business/business-tax",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:50.647322",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.852185",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_1414",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/browse/justice",
+        "keywords": [
+          "courts, tribunals and appeals",
+          "crime",
+          "government activity",
+          "additional",
+          "reporting crimes"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Crime, justice and the law - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nCrime, justice and the law\nLegal processes, courts and the police\nMost viewed\nSend money to someone in prison\nVisit someone in prison\nReport benefit fraud\nTopics\nYour rights and legal support\nIncludes legal aid, consumer advice, discrimination, work and residential property disputes\nCourts, tribunals and appeals\nIncludes going to court, paying fines, appealing a sentence, jury service and tribunals\nReporting crimes\nIncludes antisocial behaviour, abuse, benefit fraud and terrorism\nCompensation and victim support\nIncludes criminal injuries compensation and other victim support\nPenalties, sentences and police\nIncludes being charged with a crime, cautions, community sentences and police powers\nPrisons and probation\nSentencing, probation and support for families of prisoners\nYoung people and the law\nIncludes legal rights, youth offending teams and crime prevention\nIs this page useful?\nMaybe\nYes\nthis page is useful\nNo\nthis page is not useful\nThank you for your feedback\nReport a problem with this page\nHelp us improve GOV.UK\nDon\u2019t include personal or financial information like your National Insurance number or credit card details.\nThis field is for robots only. Please leave blank\nWhat were you doing?\nWhat went wrong?\nSend\nCancel\nHelp us improve GOV.UK\nTo help us improve GOV.UK, we\u2019d like to know more about your visit today.\nPlease fill in this survey (opens in a new tab\nand requires JavaScript\n)\n.\nCancel\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCiti",
+        "topics": [
+          "courts, tribunals and appeals",
+          "crime",
+          "government activity",
+          "additional",
+          "reporting crimes",
+          "courts and the police",
+          "help",
+          "cookies on gov.uk",
+          "people",
+          "compensation and victim support",
+          "services",
+          "government",
+          "search",
+          "prisons and probation",
+          "services and information",
+          "cookies",
+          "penalties, sentences and police",
+          "topics",
+          "includes",
+          "navigation menu",
+          "is this page useful?",
+          "help us improve gov.uk",
+          "legal processes",
+          "your",
+          "support links"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice",
+          "https://gov.uk/browse/driving"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:51.746275",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.852412",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_99463",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://gov.uk/report-benefit-fraud",
+        "keywords": [
+          "government activity",
+          "fraud",
+          "living",
+          "cookies on gov.uk",
+          "services"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Report benefit fraud - GOV.UK",
+        "body": "Cookies on GOV.UK\nWe use some essential cookies to make this website work.\nWe\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\nWe also use cookies set by other sites to help us deliver content from their services.\nYou have accepted additional cookies.\nYou can\nchange your cookie settings\nat any time.\nYou have rejected additional cookies.\nYou can\nchange your cookie settings\nat any time.\nAccept additional cookies\nReject additional cookies\nView cookies\nHide this message\nSkip to main content\nGOV.UK\nNavigation menu\nMenu\nMenu\nSearch GOV.UK\n\u00d7\nSearch GOV.UK\nServices and information\nBenefits\nBirths, death, marriages and care\nBusiness and self-employed\nChildcare and parenting\nCitizenship and living in the UK\nCrime, justice and the law\nDisabled people\nDriving and transport\nEducation and learning\nEmploying people\nEnvironment and countryside\nHousing and local services\nMoney and tax\nPassports, travel and living abroad\nVisas and immigration\nWorking, jobs and pensions\nGovernment activity\nDepartments\nDepartments, agencies and public bodies\nNews\nNews stories, speeches, letters and notices\nGuidance and regulation\nDetailed guidance, regulations and rules\nResearch and statistics\nReports, analysis and official statistics\nPolicy papers and consultations\nConsultations and strategy\nTransparency\nData, Freedom of Information releases and corporate reports\nSearch\nSearch GOV.UK\nSearch\nHome\nCrime, justice and the law\nReporting crimes\nReport benefit fraud\nReport someone you think is committing benefit fraud.\nThis page is also available\nin Welsh (Cymraeg)\n.\nGive as much information as you can about the person you\u2019re reporting. This could include:\ntheir name\ntheir address\nthe type of fraud you think they\u2019re committing\nYou can make a report anonymously - you do not have to give your name or contact details unless you want to.\nThere are different ways to\nreport fraud against benefits and payments made by Social Security Scotland\n.\nStart now\nWhat you need to know\nWhat happens after you report someone\nThe Department for Work and Pensions Fraud and Error Service will look at the information you give. They will not be able to tell you the outcome of their investigation.\nThe Fraud and Error Service will only take action if they find the person has been committing benefit fraud. Action can include removing a person\u2019s benefits and taking them to court.\nSometimes no action is taken. The person may have declared a change in their circumstances or their benefit may not be affected by what you report.\nOther ways to report someone\nYou can also report benefit fraud by phone or post.\nNational Benefit Fraud Hotline (\nNBFH\n)\nTelephone: 0800 854 440\nTextphone: 0800 328 0512\nWelsh Telephone: 0800 678 3722\nMonday to Friday, 8am to 6pm\nFind out about call charges\nBritish Sign Language (BSL)\nvideo relay service\nif you\u2019re on a computer - find out how to\nuse the service on mobile or tablet\nMail Handling Site A\nWolverhampton\nWV98 2B",
+        "topics": [
+          "government activity",
+          "fraud",
+          "living",
+          "cookies on gov.uk",
+          "services",
+          "government",
+          "explore the topic",
+          "spain benefit fraud hotline",
+          "search",
+          "report benefit fraud",
+          "related content",
+          "services and information",
+          "cookies",
+          "navigation menu",
+          "report",
+          "your",
+          "is this page useful?",
+          "benefit",
+          "help us improve gov.uk",
+          "support links"
+        ],
+        "related_links": [
+          "https://gov.uk/browse/employing-people",
+          "https://gov.uk/help/cookies",
+          "https://gov.uk/browse/business",
+          "https://gov.uk/browse/justice",
+          "https://gov.uk/browse/driving"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T19:41:52.849692",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T19:41:52.852633",
+      "quality_score": 1.0
+    }
+  ],
+  "summary": {
+    "total_nodes": 12,
+    "average_relevance": 10.0,
+    "max_relevance": 10.0,
+    "unique_topics": 111,
+    "total_topics": 259,
+    "depth_distribution": {
+      "0": 1,
+      "1": 3,
+      "2": 8
+    },
+    "high_relevance_pages": 12
+  }
+}

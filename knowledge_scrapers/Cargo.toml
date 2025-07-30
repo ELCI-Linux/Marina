@@ -1,0 +1,20 @@
+[package]
+name = "documentation_scraper"
+version = "1.0.0"
+edition = "2021"
+authors = ["Marina Knowledge Scraper Team"]
+description = "High-performance documentation scraper optimized for concurrent parsing"
+
+[[bin]]
+name = "documentation_scraper"
+path = "documentation_scraper.rs"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+reqwest = { version = "0.11", features = ["json"] }
+scraper = "0.18"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+url = "2.4"
+regex = "1.10"
+futures = "0.3"

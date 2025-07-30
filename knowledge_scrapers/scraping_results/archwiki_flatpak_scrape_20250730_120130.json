@@ -1,0 +1,649 @@
+{
+  "timestamp": "2025-07-30T12:00:01.357601",
+  "entry_points": [
+    "https://wiki.archlinux.org/title/Flatpak",
+    "https://wiki.archlinux.org/title/Bubblewrap",
+    "https://wiki.archlinux.org/title/Sandboxing",
+    "https://wiki.archlinux.org/title/Application_sandboxing",
+    "https://wiki.archlinux.org/title/Package_management"
+  ],
+  "total_pages_scraped": 27,
+  "knowledge_nodes": [],
+  "corpus_entries": [
+    {
+      "id": "archwiki_flatpak_42027",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Flatpak",
+        "keywords": [
+          "add flatpak .desktop files to your menu",
+          "snapd",
+          "flatpak applications",
+          "\"file not found\" error when open local html pages in firefox",
+          "automatic updates via systemd"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:03.335262",
+        "depth": 0,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_70146",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=history",
+        "keywords": [
+          "13 april 2025",
+          "flatpak applications",
+          "7 june 2023",
+          "9 august 2023",
+          "flatpak but"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.20466347622441705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:05.479703",
+        "depth": 1,
+        "relevance_score": 2.0466347622441705
+      },
+      "quality_score": 0.20466347622441705
+    },
+    {
+      "id": "archwiki_flatpak_34980",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=784760",
+        "keywords": [
+          "add flatpak .desktop files to your menu",
+          "snapd",
+          "flatpak applications",
+          "\"file not found\" error when open local html pages in firefox",
+          "automatic updates via systemd"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8730038788977887
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:07.504055",
+        "depth": 2,
+        "relevance_score": 8.730038788977888
+      },
+      "quality_score": 0.8730038788977887
+    },
+    {
+      "id": "archwiki_flatpak_42786",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit&oldid=784760",
+        "keywords": [
+          "flatpak applications",
+          "have",
+          "view source for flatpak",
+          "page",
+          "flatpak permissions"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8025920121977046
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:09.387615",
+        "depth": 3,
+        "relevance_score": 8.025920121977046
+      },
+      "quality_score": 0.8025920121977046
+    },
+    {
+      "id": "archwiki_flatpak_96482",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=info",
+        "keywords": [
+          "information for \"flatpak\"",
+          "title",
+          "edit history",
+          "page protection",
+          "flatpak"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.3005635566687539
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:11.184405",
+        "depth": 3,
+        "relevance_score": 3.005635566687539
+      },
+      "quality_score": 0.3005635566687539
+    },
+    {
+      "id": "archwiki_flatpak_51011",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&direction=next&oldid=784760",
+        "keywords": [
+          "add flatpak .desktop files to your menu",
+          "snapd",
+          "flatpak applications",
+          "\"file not found\" error when open local html pages in firefox",
+          "automatic updates via systemd"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8728079016327353
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:13.290187",
+        "depth": 3,
+        "relevance_score": 8.728079016327353
+      },
+      "quality_score": 0.8728079016327353
+    },
+    {
+      "id": "archwiki_flatpak_41511",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=837595&oldid=820597",
+        "keywords": [
+          "add flatpak .desktop files to your menu",
+          "flatpak applications",
+          "\"file not found\" error when open local html pages in firefox",
+          "automatic updates via systemd",
+          "flatpak command"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8531473336998351
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:15.427529",
+        "depth": 2,
+        "relevance_score": 8.531473336998351
+      },
+      "quality_score": 0.8531473336998351
+    },
+    {
+      "id": "archwiki_flatpak_97062",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=837595",
+        "keywords": [
+          "add flatpak .desktop files to your menu",
+          "snapd",
+          "flatpak applications",
+          "\"file not found\" error when open local html pages in firefox",
+          "automatic updates via systemd"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:17.325433",
+        "depth": 3,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_26055",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit",
+        "keywords": [
+          "flatpak applications",
+          "have",
+          "view source for flatpak",
+          "page",
+          "flatpak permissions"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.7969122911694511
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:19.189215",
+        "depth": 3,
+        "relevance_score": 7.969122911694511
+      },
+      "quality_score": 0.7969122911694511
+    },
+    {
+      "id": "archwiki_flatpak_62091",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=780575",
+        "keywords": [
+          "add flatpak .desktop files to your menu",
+          "flatpak applications",
+          "\"file not found\" error when open local html pages in firefox",
+          "automatic updates via systemd",
+          "permission management"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8788828463452854
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:23.037460",
+        "depth": 2,
+        "relevance_score": 8.788828463452854
+      },
+      "quality_score": 0.8788828463452854
+    },
+    {
+      "id": "archwiki_flatpak_37537",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=780575",
+        "keywords": [
+          "add flatpak .desktop files to your menu",
+          "snapd",
+          "flatpak applications",
+          "\"file not found\" error when open local html pages in firefox",
+          "automatic updates via systemd"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8816449348044133
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:24.899515",
+        "depth": 3,
+        "relevance_score": 8.816449348044133
+      },
+      "quality_score": 0.8816449348044133
+    },
+    {
+      "id": "archwiki_flatpak_69958",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit&oldid=780575",
+        "keywords": [
+          "flatpak permissions",
+          "permission",
+          "org.freedesktop.basesdk",
+          "flatpak applications",
+          "flatpak is"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8114961961115806
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:26.769079",
+        "depth": 3,
+        "relevance_score": 8.114961961115807
+      },
+      "quality_score": 0.8114961961115806
+    },
+    {
+      "id": "archwiki_flatpak_45657",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=837595&oldid=784941",
+        "keywords": [
+          "add flatpak .desktop files to your menu",
+          "flatpak applications",
+          "\"file not found\" error when open local html pages in firefox",
+          "automatic updates via systemd",
+          "permission management"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8454279565145411
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:30.571024",
+        "depth": 2,
+        "relevance_score": 8.454279565145411
+      },
+      "quality_score": 0.8454279565145411
+    },
+    {
+      "id": "archwiki_flatpak_66868",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=784760",
+        "keywords": [
+          "add flatpak .desktop files to your menu",
+          "\"file not found\" error when open local html pages in firefox",
+          "automatic updates via systemd",
+          "permission management",
+          "links fail to open on wlroots-based compositors"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8617289612474204
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:34.350262",
+        "depth": 2,
+        "relevance_score": 8.617289612474204
+      },
+      "quality_score": 0.8617289612474204
+    },
+    {
+      "id": "archwiki_flatpak_52169",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Bubblewrap",
+        "keywords": [
+          "portal.desktop",
+          "security",
+          "usage examples",
+          "troubleshooting",
+          "org.freedesktop.portal"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.4697715171530633
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:39.595369",
+        "depth": 0,
+        "relevance_score": 4.697715171530633
+      },
+      "quality_score": 0.4697715171530633
+    },
+    {
+      "id": "archwiki_flatpak_95021",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Category:Sandboxing",
+        "keywords": [
+          "podman",
+          "applications",
+          "pages in category \"sandboxing\"",
+          "docker",
+          "security"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:41.365702",
+        "depth": 1,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_42851",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&action=edit",
+        "keywords": [
+          "permission",
+          "edit",
+          "view source for category:sandboxing",
+          "have",
+          "page"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.89
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:43.136921",
+        "depth": 2,
+        "relevance_score": 8.9
+      },
+      "quality_score": 0.89
+    },
+    {
+      "id": "archwiki_flatpak_26467",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&action=history",
+        "keywords": [
+          "expand",
+          "28 february 2019",
+          "date",
+          "3 april 2019",
+          "14 june 2025"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.2287419194430631
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:45.010315",
+        "depth": 3,
+        "relevance_score": 2.287419194430631
+      },
+      "quality_score": 0.2287419194430631
+    },
+    {
+      "id": "archwiki_flatpak_28167",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Special:WhatLinksHere/Category:Sandboxing",
+        "keywords": [
+          "links",
+          "whatlinkshere",
+          "pages that link to \"category:sandboxing\"",
+          "what",
+          "page"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.43
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:48.535042",
+        "depth": 3,
+        "relevance_score": 4.3
+      },
+      "quality_score": 0.43
+    },
+    {
+      "id": "archwiki_flatpak_94154",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&action=info",
+        "keywords": [
+          "category information",
+          "title",
+          "edit history",
+          "information for \"category:sandboxing\"",
+          "page protection"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.48
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:50.292697",
+        "depth": 3,
+        "relevance_score": 4.8
+      },
+      "quality_score": 0.48
+    },
+    {
+      "id": "archwiki_flatpak_74847",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&oldid=836566",
+        "keywords": [
+          "podman",
+          "applications",
+          "pages in category \"sandboxing\"",
+          "docker",
+          "security"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:52.040870",
+        "depth": 2,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_83075",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&direction=prev&oldid=836566",
+        "keywords": [
+          "podman",
+          "applications",
+          "pages in category \"sandboxing\"",
+          "docker",
+          "security"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:55.585857",
+        "depth": 3,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_94839",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Security#Sandboxing_applications",
+        "keywords": [
+          "ssh",
+          "locking down bios",
+          "team",
+          "bpf hardening",
+          "trusted platform module (tpm)"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11219594439250187
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:57.632790",
+        "depth": 1,
+        "relevance_score": 1.1219594439250187
+      },
+      "quality_score": 0.11219594439250187
+    },
+    {
+      "id": "archwiki_flatpak_54287",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Systemd/Sandboxing",
+        "keywords": [
+          "enabling more unit statistics",
+          "cgroups",
+          "systemd",
+          "advanced directives",
+          "enables"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.1891944606982641
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:00:59.551130",
+        "depth": 2,
+        "relevance_score": 1.8919446069826409
+      },
+      "quality_score": 0.1891944606982641
+    },
+    {
+      "id": "archwiki_flatpak_70016",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Systemd/Sandboxing&action=history",
+        "keywords": [
+          "17 april 2023",
+          "16 december 2022",
+          "19 march 2025",
+          "8 april 2025",
+          "1 december 2024"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11387649683024181
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:01:01.670326",
+        "depth": 3,
+        "relevance_score": 1.1387649683024181
+      },
+      "quality_score": 0.11387649683024181
+    },
+    {
+      "id": "archwiki_flatpak_17892",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Systemd/Sandboxing&action=info",
+        "keywords": [
+          "information for \"systemd/sandboxing\"",
+          "title",
+          "edit history",
+          "page protection",
+          "default"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.40612516644474034
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:01:07.011925",
+        "depth": 3,
+        "relevance_score": 4.061251664447403
+      },
+      "quality_score": 0.40612516644474034
+    },
+    {
+      "id": "archwiki_flatpak_9669",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/XDG_Desktop_Portal",
+        "keywords": [
+          "sharing",
+          "poor font rendering in gtk applications on kde plasma",
+          "troubleshooting",
+          "backends",
+          "portal does not start"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6164461033819705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-30T12:01:10.687860",
+        "depth": 1,
+        "relevance_score": 6.164461033819705
+      },
+      "quality_score": 0.6164461033819705
+    }
+  ],
+  "summary": {
+    "total_nodes": 27,
+    "average_relevance": 6.1302948965895565,
+    "max_relevance": 8.9,
+    "unique_topics": 204,
+    "total_topics": 484,
+    "depth_distribution": {
+      "0": 2,
+      "1": 4,
+      "2": 8,
+      "3": 13
+    },
+    "high_relevance_pages": 17
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "timestamp": "2025-07-29T12:00:01.357374",
+  "entry_points": [
+    "https://wiki.archlinux.org/title/Flatpak",
+    "https://wiki.archlinux.org/title/Bubblewrap",
+    "https://wiki.archlinux.org/title/Sandboxing",
+    "https://wiki.archlinux.org/title/Application_sandboxing",
+    "https://wiki.archlinux.org/title/Package_management"
+  ],
+  "total_pages_scraped": 26,
+  "knowledge_nodes": [],
+  "corpus_entries": [
+    {
+      "id": "archwiki_flatpak_79222",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Flatpak",
+        "keywords": [
+          "com.spotify.client",
+          "org.mydomain.basesdk",
+          "links fail to open on wlroots-based compositors",
+          "update a runtime or application",
+          "readme"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:03.194402",
+        "depth": 0,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_80551",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Special:WhatLinksHere/Flatpak",
+        "keywords": [
+          "links",
+          "what",
+          "here",
+          "page",
+          "target"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.30527289546716
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:06.804210",
+        "depth": 1,
+        "relevance_score": 3.0527289546716
+      },
+      "quality_score": 0.30527289546716
+    },
+    {
+      "id": "archwiki_flatpak_23810",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Special:WhatLinksHere/Flatpak&limit=50&dir=next&offset=0%7C37230",
+        "keywords": [
+          "links",
+          "what",
+          "here",
+          "page",
+          "target"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.5095541401273884
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:08.515013",
+        "depth": 2,
+        "relevance_score": 5.095541401273884
+      },
+      "quality_score": 0.5095541401273884
+    },
+    {
+      "id": "archwiki_flatpak_30497",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Special:WhatLinksHere&target=User%3ANeoTheFox%2FFlatpak",
+        "keywords": [
+          "links",
+          "what",
+          "here",
+          "page",
+          "pages that link to \"user:neothefox/flatpak\""
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.55
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:11.914488",
+        "depth": 3,
+        "relevance_score": 5.5
+      },
+      "quality_score": 0.55
+    },
+    {
+      "id": "archwiki_flatpak_73864",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Special:WhatLinksHere/Flatpak&limit=20&offset=0%7C37230&dir=next",
+        "keywords": [
+          "links",
+          "what",
+          "here",
+          "page",
+          "target"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.5361930294906165
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:13.697580",
+        "depth": 3,
+        "relevance_score": 5.361930294906165
+      },
+      "quality_score": 0.5361930294906165
+    },
+    {
+      "id": "archwiki_flatpak_99499",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=history",
+        "keywords": [
+          "10 august 2023",
+          "16 may 2023",
+          "15 may 2023",
+          "17 april 2024",
+          "3 july 2024"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.20466347622441705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:15.768388",
+        "depth": 3,
+        "relevance_score": 2.0466347622441705
+      },
+      "quality_score": 0.20466347622441705
+    },
+    {
+      "id": "archwiki_flatpak_81676",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Special:WhatLinksHere/Flatpak&limit=500&offset=0%7C37230&dir=next",
+        "keywords": [
+          "links",
+          "what",
+          "here",
+          "page",
+          "target"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.508259212198221
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:17.487339",
+        "depth": 3,
+        "relevance_score": 5.08259212198221
+      },
+      "quality_score": 0.508259212198221
+    },
+    {
+      "id": "archwiki_flatpak_82243",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Special:WhatLinksHere/Flatpak&limit=500",
+        "keywords": [
+          "links",
+          "what",
+          "here",
+          "page",
+          "target"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.33430704316780263
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:19.311877",
+        "depth": 2,
+        "relevance_score": 3.343070431678026
+      },
+      "quality_score": 0.33430704316780263
+    },
+    {
+      "id": "archwiki_flatpak_6756",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Special:WhatLinksHere/Flatpak&limit=20",
+        "keywords": [
+          "links",
+          "what",
+          "here",
+          "page",
+          "target"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.3789126853377265
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:21.122851",
+        "depth": 3,
+        "relevance_score": 3.789126853377265
+      },
+      "quality_score": 0.3789126853377265
+    },
+    {
+      "id": "archwiki_flatpak_50565",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Flatpak_(Espa%C3%B1ol)",
+        "keywords": [
+          "org.mydomain.basesdk",
+          "creaci\u00f3n de aplicaciones con pacman",
+          "puede",
+          "v\u00e9ase tambi\u00e9n",
+          "administrando tiempos de ejecuci\u00f3n y aplicaciones"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.5071207896918091
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:22.981133",
+        "depth": 3,
+        "relevance_score": 5.071207896918091
+      },
+      "quality_score": 0.5071207896918091
+    },
+    {
+      "id": "archwiki_flatpak_87783",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Special:WhatLinksHere/Flatpak&limit=250",
+        "keywords": [
+          "links",
+          "what",
+          "here",
+          "page",
+          "target"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.33430704316780263
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:24.723867",
+        "depth": 3,
+        "relevance_score": 3.343070431678026
+      },
+      "quality_score": 0.33430704316780263
+    },
+    {
+      "id": "archwiki_flatpak_79243",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=837595",
+        "keywords": [
+          "com.spotify.client",
+          "org.mydomain.basesdk",
+          "links fail to open on wlroots-based compositors",
+          "update a runtime or application",
+          "readme"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:28.264796",
+        "depth": 1,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_50273",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=837595",
+        "keywords": [
+          "com.spotify.client",
+          "org.mydomain.basesdk",
+          "links fail to open on wlroots-based compositors",
+          "update a runtime or application",
+          "list installed runtimes and applications"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8565899806493228
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:30.193267",
+        "depth": 2,
+        "relevance_score": 8.565899806493228
+      },
+      "quality_score": 0.8565899806493228
+    },
+    {
+      "id": "archwiki_flatpak_78981",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=832000",
+        "keywords": [
+          "com.spotify.client",
+          "org.mydomain.basesdk",
+          "links fail to open on wlroots-based compositors",
+          "flatpak command",
+          "flatpak will"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8323227423397203
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:32.185183",
+        "depth": 3,
+        "relevance_score": 8.323227423397203
+      },
+      "quality_score": 0.8323227423397203
+    },
+    {
+      "id": "archwiki_flatpak_84166",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=832000",
+        "keywords": [
+          "com.spotify.client",
+          "org.mydomain.basesdk",
+          "links fail to open on wlroots-based compositors",
+          "update a runtime or application",
+          "readme"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:34.036778",
+        "depth": 3,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_64813",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit",
+        "keywords": [
+          "com.spotify.client",
+          "org.mydomain.basesdk",
+          "have",
+          "flatpak model",
+          "docs.flatpak"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.7969122911694511
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:37.480696",
+        "depth": 2,
+        "relevance_score": 7.969122911694511
+      },
+      "quality_score": 0.7969122911694511
+    },
+    {
+      "id": "archwiki_flatpak_59105",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Bubblewrap",
+        "keywords": [
+          "configuration managers for bubblewrap",
+          "usage examples",
+          "examples",
+          "flatpak documentation",
+          "no-op"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.4697715171530633
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:42.952094",
+        "depth": 0,
+        "relevance_score": 4.697715171530633
+      },
+      "quality_score": 0.4697715171530633
+    },
+    {
+      "id": "archwiki_flatpak_19634",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Category:Sandboxing",
+        "keywords": [
+          "pages in category \"sandboxing\"",
+          "firejail",
+          "applications",
+          "pages",
+          "systemd/sandboxing"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:44.669393",
+        "depth": 1,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_90336",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&oldid=836566",
+        "keywords": [
+          "pages in category \"sandboxing\"",
+          "firejail",
+          "applications",
+          "pages",
+          "systemd/sandboxing"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:46.533086",
+        "depth": 2,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_31073",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&direction=prev&oldid=836566",
+        "keywords": [
+          "pages in category \"sandboxing\"",
+          "firejail",
+          "applications",
+          "pages",
+          "systemd/sandboxing"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:48.300147",
+        "depth": 3,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_21766",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&diff=prev&oldid=836566",
+        "keywords": [
+          "pages in category \"sandboxing\"",
+          "firejail",
+          "view",
+          "latest revision as of 05:41, 14 june 2025",
+          "wikitext"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.9339622641509433
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:53.582845",
+        "depth": 3,
+        "relevance_score": 9.339622641509433
+      },
+      "quality_score": 0.9339622641509433
+    },
+    {
+      "id": "archwiki_flatpak_4103",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Systemd/Sandboxing",
+        "keywords": [
+          "configurable directives",
+          "firejail",
+          "general",
+          "enabling more unit statistics",
+          "system.conf"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.1891944606982641
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:00:59.092682",
+        "depth": 2,
+        "relevance_score": 1.8919446069826409
+      },
+      "quality_score": 0.1891944606982641
+    },
+    {
+      "id": "archwiki_flatpak_20134",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Systemd/Sandboxing&action=history",
+        "keywords": [
+          "16 may 2023",
+          "25 march 2025",
+          "11 march 2025",
+          "17 april 2023",
+          "4 april 2025"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11387649683024181
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:01:02.703633",
+        "depth": 3,
+        "relevance_score": 1.1387649683024181
+      },
+      "quality_score": 0.11387649683024181
+    },
+    {
+      "id": "archwiki_flatpak_62409",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Talk:Systemd/Sandboxing",
+        "keywords": [
+          "enabling",
+          "warning",
+          "replacing \u201cimpact\u201d and \u201cbreakage\u201d",
+          "talk:systemd/sandboxing",
+          "draft"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.3663929248262793
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:01:04.450808",
+        "depth": 3,
+        "relevance_score": 3.6639292482627925
+      },
+      "quality_score": 0.3663929248262793
+    },
+    {
+      "id": "archwiki_flatpak_28171",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Security#Sandboxing_applications",
+        "keywords": [
+          "sandboxing applications",
+          "restricting module loading",
+          "team",
+          "choosing secure passwords",
+          "enforcing strong passwords with pam_pwquality"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11219594439250187
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:01:10.049496",
+        "depth": 1,
+        "relevance_score": 1.1219594439250187
+      },
+      "quality_score": 0.11219594439250187
+    },
+    {
+      "id": "archwiki_flatpak_77319",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/XDG_Desktop_Portal",
+        "keywords": [
+          "flatpak documentation",
+          "pipewire",
+          "portal does not start",
+          "see also",
+          "troubleshooting"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6164461033819705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-29T12:01:11.809192",
+        "depth": 1,
+        "relevance_score": 6.164461033819705
+      },
+      "quality_score": 0.6164461033819705
+    }
+  ],
+  "summary": {
+    "total_nodes": 26,
+    "average_relevance": 5.363505746486824,
+    "max_relevance": 9.339622641509433,
+    "unique_topics": 201,
+    "total_topics": 405,
+    "depth_distribution": {
+      "0": 2,
+      "1": 5,
+      "2": 6,
+      "3": 13
+    },
+    "high_relevance_pages": 16
+  }
+}

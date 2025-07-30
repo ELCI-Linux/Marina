@@ -1,0 +1,683 @@
+{
+  "timestamp": "2025-07-20T12:42:54.632864",
+  "root_url": "https://bbc.co.uk/news",
+  "keywords": [
+    "news",
+    "breaking",
+    "latest",
+    "update",
+    "report"
+  ],
+  "total_pages_scraped": 11,
+  "knowledge_nodes": [
+    {
+      "url": "https://bbc.co.uk/news",
+      "title": "Home - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 24,
+      "depth": 0
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/c5ypd6vr4e7o",
+      "title": "Ha Long Bay tourist boat: Dozens dead after boat capsizes in Vietnam - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 12,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+      "title": "St Helens fire: Man arrested on suspicion of double murder - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 18,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cm207j79zvko",
+      "title": "Wild Shore Delamere closes in search for missing Rachel Booth - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 18,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cd78lee2enpo",
+      "title": "Airport drivers try to beat drop-off charges by parking in laybys - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/c30741j351go",
+      "title": "The rise of green tech is feeding another environmental crisis - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 12,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/c20n9yzxyyvo",
+      "title": "Performer launches Gaza flag protest on Royal Opera House stage - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 16,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cp82x4709n0o",
+      "title": "Would shorter summer school holidays be better? - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 12,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cx23glez5ezo",
+      "title": "The Surrey schools yet to make decision on a two week half term  - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 18,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cy7n3epl1yxo",
+      "title": "Fantastic Four and Pok\u00e9mon Presents: What's coming up this week? - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/topics/c207p54m4e5t",
+      "title": "Pokemon Go - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 2
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_42227",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news",
+        "keywords": [
+          "most watched",
+          "summer essential newsletter",
+          "attribution",
+          "your",
+          "the video playlist"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Home - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nEngland\nN. Ireland\nScotland\nAlba\nWales\nCymru\nLocal News\nMy News\nSign In Banner\nDiscover your BBC\nSign in or create an account to watch, listen and join in\nSign in\nor\nRegister\nClose sign in banner\nBBC News\nSewage discharges to halve by 2030 in 'water revolution', minister pledges\nEnvironment Secretary Steve Reed says the government is preparing a \"water revolution\" and that the water sector is broken.\nAttribution\nScience & Environment\nPosted\n1 hour ago\n1h\nAt least 14 dead in South Korea floods and landslides\nAttribution\nAsia\nPosted\n3 hours ago\n3h\nA baby loss certificate would be 'powerful validation of grief'\nAttribution\nNorthern Ireland\nPosted\n6 hours ago\n6h\nNew criminal offence to target violence-obsessed suspects before they attack\nAttribution\nPolitics\nPosted\n11 hours ago\n11h\nParked in lay-bys - the drivers determined to avoid airport drop-off fees\nAttribution\nScotland\nPosted\n12 hours ago\n12h\nHow the rise of green tech is feeding another environmental crisis\nAttribution\nBBC InDepth\nPosted\n12 hours ago\n12h\nPerformer unfurls Palestinian flag on Royal Opera House stage\nAttribution\nUK\nPosted\n42 minutes ago\n42min\nMr and Mrs XCX: Brat star weds drummer of The 1975\nAttribution\nCulture\nPosted\n6 hours ago\n6h\nChange my nation\nclose panel\nChange my nation\nChange your nation to get more top stories from where you are, as well as the UK and international headlines.\nUnited Kingdom\nEngland\nScotland\nWales\nNorthern Ireland\nConfirm\nYou are now seeing top stories for\nNorthern Ireland\nSewage discharges to halve by 2030 in 'water revolution', minister pledges\nEnvironment Secretary Steve Reed says the government is preparing a \"water revolution\" and that the water sector is broken.\nAttribution\nScience & Environment\nPosted\n1 hour ago\n1h\nAt least 14 dead in South Korea floods and landslides\nAttribution\nAsia\nPosted\n3 hours ago\n3h\nNew criminal offence to target violence-obsessed suspects before they attack\nAttribution\nPolitics\nPosted\n11 hours ago\n11h\nParked in lay-bys - the drivers determined to avoid airport drop-off fees\nAttribution\nScotland\nPosted\n12 hours ago\n12h\nHow the rise of green tech is feeding another environmental crisis\nAttribution\nBBC InDepth\nPosted\n12 hours ago\n12h\nPerformer unfurls Palestinian flag on Royal Opera House stage\nAttribution\nUK\nPosted\n42 minutes ago\n42min\nMr and Mrs XCX: Brat star weds drummer of The 1975\nAttribution\nCulture\nPosted\n6 hours ago\n6h\nChange my nation\nclose panel\nChange my nation\nChange your nation to get more top stories from where you are, as well as the UK and international headlines.\nUnited Kingd",
+        "topics": [
+          "most watched",
+          "summer essential newsletter",
+          "attribution",
+          "your",
+          "the video playlist",
+          "discover your bbc",
+          "more top stories",
+          "bbc news app",
+          "business",
+          "breaking news",
+          "sport",
+          "watch live on iplayer",
+          "water",
+          "elsewhere on the bbc",
+          "hours",
+          "news",
+          "weekend picks",
+          "most read",
+          "video",
+          "posted",
+          "change",
+          "bbc news",
+          "nation",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/c5ypd6vr4e7o",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/news/in_pictures",
+          "https://bbc.co.uk/news/world/asia",
+          "https://bbc.co.uk/sounds/play/m002c2hw?at_mid=Kid3YsOiOq&at_campaign=Desert_Island_Discs_Danny_Dyer&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=sounds&at_brand=b006qnmr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Desert_Island_Discs_Danny_Dyer&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:42:55.899906",
+          "depth": 0,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.238521",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_45603",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/c5ypd6vr4e7o",
+        "keywords": [
+          "related topics",
+          "people",
+          "after",
+          "bbc news services",
+          "get in touch"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Ha Long Bay tourist boat: Dozens dead after boat capsizes in Vietnam - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nAsia\nChina\nIndia\nDozens dead after Ha Long Bay tourist boat capsizes in Vietnam\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nRescuers search for missing people after tourist boat capsizes in Vietnam\nTom McArthur & Maia Davies\nBBC News\nPublished\n19 July 2025\nUpdated 1 hour ago\nAt least 35 people have died and several are still missing after a tourist boat capsized in Vietnam during bad weather.\nThe incident took place in Ha Long Bay, a popular tourist destination in the north of the country.\nMost of the passengers were reportedly Vietnamese families visiting from the capital Hanoi. Local police said 10 people had so far been pulled from the water alive.\nThe devastated mother of a 21-year-old victim said she wished she could change places with her son. \"All I want to do is die\", she cried.\n\"I don't want anything in this world anymore, I'm so tired,\" Nguyen Thi Lien told the Reuters news agency.\nTrang Trung Tu, whose 32-year-old brother died in the incident, said: \"My brother can swim, but I was told everything happened too fast.\"\nThe vessel, named Wonder Seas, was carrying 53 people when it capsized after encountering a sudden storm, a statement from the Vietnamese Border Guards and navy said.\nAn eyewitness told AFP news agency that the sky suddenly darkened around 14:00 local time on Saturday (07:00 GMT).\nThere were \"hailstones as big as toes with torrential rain, thunderstorm and lightning,\" he said.\nImage source,\nGetty Images\nImage caption,\nAt least one passenger was able to escape from an air pocket in the upturned vessel\nA 10-year-old boy was rescued after being trapped in an air pocket in the upturned hull, local media reported.\n\"I took a deep breath... dived, then swam up. I even shouted for help, then I was pulled up by a boat,\" the boy - who had been travelling with his parents -\ntold VietnamNet\n,\nexternal\n.\nOf the bodies so far recovered, at least eight were children, VNExpress said on Saturday.\nHeavy rain hindered the search for survivors, which continued overnight into Sunday.\nPrime Minister Pham Minh Chinh sent his condolences to the families of the dead.\nAuthorities will investigate the cause of the accident and \"strictly handle violations\", a government statement said.\nHa Long Bay in Quang Ninh province is dotted with hundreds of tiny islets, attracting four million tourists in 2019, and is a Unesco World Heritage site.\nIt was previously reported that 37 people had died and 11 had survived, but police later revised the figure.\nGet in touch",
+        "topics": [
+          "related topics",
+          "people",
+          "after",
+          "bbc news services",
+          "get in touch",
+          "sounds",
+          "news",
+          "more to explore",
+          "best of the bbc",
+          "most read",
+          "top stories",
+          "iplayer"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/newsbeat",
+          "https://bbc.co.uk/news/in_pictures"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:42:57.115660",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.238907",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_90651",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+        "keywords": [
+          "school",
+          "sounds",
+          "top stories",
+          "bbc news services",
+          "after"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "St Helens fire: Man arrested on suspicion of double murder - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nEngland\nLocal News\nLiverpool\nMan held on suspicion of double murder after fire\nImage source,\nPolice handout\nImage caption,\nMr Greener and Ms Jackson died of their injuries shortly after the fire\nLynette Horsburgh\nBBC News, Merseyside\nPublished\n20 July 2025, 11:45 BST\nUpdated 18 minutes ago\nA man has been arrested on suspicion of double murder after the deaths of an elderly couple in a fire at their home.\nGrandparents Peter Eric Greener, 77, who is known as Eric, and his partner Sheila Jackson, 83, died following the blaze at their home on South John Street, St Helens, on Tuesday, Merseyside Police said.\nThe force said an accelerant was used to start the fire.\nA 31-year-old from St Helens was arrested earlier and has been taken into custody for questioning, it added.\nImage source,\nPolice handout\nImage caption,\nSheila Jackson died on Thursday\nMr Greener died on Wednesday evening, while Ms Jackson died from her injuries on Thursday morning.\nDet Supt Rachel Wilson said: \"Although an arrest has been made, I would like to take this opportunity to remind people to pass on information directly to police or anonymously via Crimestoppers.\u200b\n\"Extensive inquiries continue, and to that end we are still appealing for anyone with information to come forward, particularly if you live in the area of South John Street and recall seeing or hearing anything suspicious at around the time of the incident.\"\nImage source,\nPolice handout\nImage caption,\nPeter Eric Greener was known as Eric\nShe said: \"Please do not assume what you know has already been reported to us, as we can quickly make that assessment.\"\nShe also urged people not to comment or post on social media anything which could jeopardise the investigation.\nGet in touch\nTell us which stories we should cover on Merseyside\nContact form\nContact form\nListen to the best of\nBBC Radio Merseyside on Sounds\nand follow BBC Merseyside on\nFacebook\n,\nexternal\n,\nX\n,\nexternal\n, and\nInstagram\n,\nexternal\n. You can also send story ideas via Whatsapp to 0808 100 2230.\nRelated topics\nSt Helens\nRelated internet links\nMerseyside Police\nFrom other local news sites\nLiverpool Empire Theatre announces summer saver campaign\nExternal\nRuncorn and Widnes World\nLiverpool school term dates 2025/26: Full list of half term dates & school holidays for the next academic year\nExternal\nLiverpoolWorld\nUnderworld gun runner linked to bombs and drugs dies in prison\nExternal\nLiverpool Echo\n'Our vibrant high street should be celebrated, not told it's dying'\nExternal\nLiverpool Echo\n31-year-old St Helens man arrested on suspic",
+        "topics": [
+          "school",
+          "sounds",
+          "top stories",
+          "bbc news services",
+          "after",
+          "related topics",
+          "external",
+          "police",
+          "news",
+          "related internet links",
+          "most read",
+          "image",
+          "helens",
+          "home",
+          "get in touch",
+          "best of the bbc",
+          "merseyside",
+          "more to explore"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+          "https://bbc.co.uk/news/england/merseyside",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/newsbeat"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:42:58.403186",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.239106",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_75716",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cm207j79zvko",
+        "keywords": [
+          "about",
+          "rachel booth",
+          "sounds",
+          "police say.",
+          "top stories"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Wild Shore Delamere closes in search for missing Rachel Booth - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nEngland\nLocal News\nManchester\nAdventure centre shuts in search for missing woman\nImage source,\nCheshire Police\nImage caption,\nThe last reported sighting of Rachel Booth was at a garage on the A556 in Northwich\nPublished\n47 minutes ago\nAn outdoor activity centre has temporarily closed as police search for a woman reported missing near the area.\nRachel Booth, aged 38, was last seen at about 03:50 BST on Saturday at Sandiway Garage on the A556 in Northwich, Cheshire Police said.\nInsp James Wilson said officers were \"becoming increasingly concerned for her welfare\".\nWild Shore Delamere, which offers outdoor activities at its lake, said it had shut \"due to ongoing police investigations in the surrounding area\".\nIn a social media post, it said: \"The incident is unrelated to Wild Shore - however we wish to help as much as possible - so we will be closing the site until further notice.\"\nImage caption,\nRachel Booth, 38, was reported as missing on Saturday\nMs Booth is described as being 5ft 9in (1.75m), slim and with blonde hair. She is believed to have been wearing black leggings and a black top.\nInsp Wilson appealed for anyone with information about her whereabouts to contact officers.\n\"We would also like to appeal directly to Rachel to get in touch to let us know you are OK,\" he added.\nGet in touch\nTell us which stories we should cover in Cheshire\nContact form\nContact form\nRead more stories from\nCheshire\non the BBC, watch\nBBC North West Tonight on BBC iPlayer\nand follow\nBBC North West on X\n,\nexternal\n. You can also send story ideas via Whatsapp to 0808 100 2230.\nRelated topics\nNorthwich\nCheshire\nFrom other local news sites\nGreater Manchester MP pays tribute to 'innovative' Oldham company celebrating 100 years in business\nExternal\nManchesterWorld\nLewis Capaldi launches ticket giveaway for sold-out Manchester gig via Greggs lookalike challenge\nExternal\nManchesterWorld\nTheme park collects food for those facing hardship in Warrington\nExternal\nWarrington Guardian\nMet Office issues weather warning for TODAY covering Greater Manchester\nExternal\nManchester Evening News\nOasis fan starts petition for store to make name change permanent\nExternal\nBolton News\n'We've driven to our homes this way for decades until it appeared overnight'\nExternal\nManchester Evening News\nInformation about BBC links to other news sites\nTop stories\nSewage discharges to halve by 2030, minister pledges\nPublished\n1 hour ago\nAt least 14 dead in South Korea floods and landslides\nPublished\n3 hours ago\nNew criminal offence to target violence-obsessed suspects earli",
+        "topics": [
+          "about",
+          "rachel booth",
+          "sounds",
+          "police say.",
+          "top stories",
+          "bbc news services",
+          "contact",
+          "cheshire",
+          "iplayer",
+          "related topics",
+          "external",
+          "news",
+          "most read",
+          "manchester",
+          "home",
+          "get in touch",
+          "best of the bbc",
+          "more to explore"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/newsbeat",
+          "https://bbc.co.uk/news/in_pictures"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:42:59.521400",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.239342",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_77173",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cd78lee2enpo",
+        "keywords": [
+          "related topics",
+          "says",
+          "top stories",
+          "more on this story",
+          "there"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Airport drivers try to beat drop-off charges by parking in laybys - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nScotland\nScotland Politics\nScotland Business\nEdinburgh, Fife & East\nGlasgow & West\nHighlands & Islands\nNE, Orkney & Shetland\nSouth\nTayside & Central\nAlba\nParked in lay-bys - the drivers determined to avoid airport drop-off fees\nImage caption,\nCaroline O'Brien parked in a lay-by near the main terminal building to avoid paying the drop-off charge\nJames Delaney\nBBC Scotland News\nPublished\n20 July 2025, 00:05 BST\nIt's a hot and sticky Friday in the middle of the summer holidays and cars are flooding onto Edinburgh Airport's approach road.\nThere are few places to stop, but in almost every lay-by a steady stream of drivers await friends and loved ones touching down from their holidays.\nThey are all parked in a half-mile radius from the entrance to the terminal building in a bid to beat so-called \"kiss-and-fly\" charges in the official drop-off zone.\nResearch by the RAC, released this week, found that more than half of the country's busiest airports have raised drop-off fees in the last 12 months.\nIn Edinburgh,\ndrivers face a \u00a36 tariff for a 10-minute stay at a specific drop-off zone\nmetres from the main terminal building.\nEvery minute beyond that allowance will cost them an extra \u00a31.\nImage caption,\nA lay-by near a roundabout at Edinburgh Airport was almost full\nInstead, drivers here look to beat the system, waiting in nooks and crannies along Eastfield Road for a message that their passengers have arrived.\nThey then drive a few hundred metres towards the Moxy or Hilton hotels and pick them up as they leave the airport complex, exiting hastily to avoid risking a fine for parking on double yellow lines.\nClose to the Moxy, next to a farm gate by a grass verge, Caroline O'Brien, 52, is waiting in a lay-by for her husband and children after they returned from a holiday to Paris.\nShe says she had previously been charged \u00a324 for under 30 minutes in the drop-off zone and decided not to take any chances this time.\n\"You don't know if the plane is going to be early or late in and I don't want them to be standing around,\" she says.\n\"For pick-up and drop-off, I think a couple of pounds [would be fair]. You're only there a few minutes for them to get their cases and then right back in the car and away again.\"\nImage caption,\nThe pickup and drop-off zone at Edinburgh Airport does not inform drivers about fees on their approach\nDrivers approaching via Eastfield Road pass three roundabouts on the way into the main terminal, the closest of which leads them on to a one-way system which means they have to pass through the drop-off zone.\nThere ",
+        "topics": [
+          "related topics",
+          "says",
+          "top stories",
+          "more on this story",
+          "there",
+          "airport",
+          "edinburgh",
+          "drop",
+          "best of the bbc",
+          "most read",
+          "more to explore",
+          "bbc news services",
+          "drivers"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/news/scotland/edinburgh_east_and_fife",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/newsbeat"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:00.640391",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.239566",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_75324",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/c30741j351go",
+        "keywords": [
+          "related topics",
+          "image",
+          "soaring demand for lithium",
+          "more from indepth",
+          "says"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "The rise of green tech is feeding another environmental crisis - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nInDepth\nHow the rise of green tech is feeding another environmental crisis\nPublished\n20 July 2025, 00:05 BST\nIone Wells\nForeign correspondent\n@ionewells\nReporting from\nChile\nRaquel Celina Rodriguez watches her step as she walks across the Vega de Tilopozo in Chile's Atacama salt flats.\nIt's a wetland, known for its groundwater springs, but the plain is now dry and cracked with holes she explains were once pools.\n\"Before, the Vega was all green,\" she says. \"You couldn't see the animals through the grass. Now everything is dry.\" She gestures to some grazing llamas.\nFor generations, her family raised sheep here. As the climate changed, and rain stopped falling, less grass made that much harder.\nBut it worsened when \"they\" started taking the water, she explains.\nImage source,\nBen Derico/BBC\nImage caption,\nRaquel's family raised sheep in Chile's Atacama salt flats for generations but now everything is dry, she says\n\"They\" are lithium companies. Beneath the salt flats of the Atacama Desert lie the world's largest reserves of lithium, a soft, silvery-white metal that is an essential component of the batteries that power electric cars, laptops and solar energy storage.\nAs the world transitions to more renewable energy sources, the demand for it has soared.\nIn 2021, about 95,000 tonnes of lithium was consumed globally - by 2024 it had more than doubled to 205,000 tonnes, according to the International Energy Agency (IEA).\nBy 2040 it's predicted to rise to more than 900,000 tonnes.\nMost of the increase will be driven by demand for electric car batteries, the IEA says.\nLocals say environmental costs to them have risen too.\nSo, this soaring demand has raised the question: is the world's race to decarbonise unintentionally stoking another environmental problem?\nFlora, flamingos and shrinking lagoons\nChile is the second-largest producer of lithium globally after Australia. In 2023, the government launched a National Lithium Strategy to ramp up production through partly nationalising the industry and encouraging private investment.\nIts finance minister previously said the increase in production could be by up to 70% by 2030, although the mining ministry says no target has been set.\nThis year, a major milestone to that is set to be reached.\nImage source,\nBen Derico/BBC\nImage caption,\nThe process extracts vast amounts of water in this already drought-prone region\nA planned joint enterprise between SQM and Chile's state mining company Codelco has just secured regulatory approval for a quota to extract at least 2.5 million metric tonn",
+        "topics": [
+          "related topics",
+          "image",
+          "soaring demand for lithium",
+          "more from indepth",
+          "says",
+          "lithium",
+          "get in touch",
+          "mitigating the damage",
+          "best of the bbc",
+          "mining",
+          "bbc news services",
+          "water"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/cnvmpz5qqe5o",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/newsbeat",
+          "https://bbc.co.uk/news/in_pictures",
+          "https://bbc.co.uk/news/business"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:01.889857",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.239893",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_5771",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/c20n9yzxyyvo",
+        "keywords": [
+          "cast",
+          "related topics",
+          "flag",
+          "member",
+          "get in touch"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Performer launches Gaza flag protest on Royal Opera House stage - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nUK\nEngland\nN. Ireland\nScotland\nAlba\nWales\nCymru\nIsle of Man\nGuernsey\nJersey\nLocal News\nPerformer unfurls Palestinian flag on Royal Opera House stage\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nCast member unfurls Palestinian flag at Royal Opera House\nEwan Somerville\nBBC News\nPublished\n42 minutes ago\nA cast member at the Royal Opera House has unfurled a Palestinian flag on stage during the curtain call of Saturday's performance.\nVideo shows a brief scuffle as an official at the London venue tries unsuccessfully to stop the protest, with the performer refusing to let go of the large flag.\nIt came on the closing night of Il trovatore, a four-act opera by Giuseppe Verdi.\nThe Royal Opera House said the protest was \"completely inappropriate for a curtain call\".\nA spokesperson said: \"The display of the flag was spontaneous and unauthorised action by the artist.\n\"It was not approved by the Royal Ballet and Opera and is not in line with our commitment to political impartiality.\"\nOne cast member standing at the top of the stage is seen in videos of the incident silently displaying a large Palestinian flag, at one point shaking it gently.\nWhile the audience continues to applaud the performance, a man from the stage wings is seen attempting to wrestle the flag away from the cast member but they resist and hold on to it for the remainder of the curtain call.\nOther officials stood in the wings can then be seen shouting messages to the cast member.\nImage source,\nMagdalini Liousa\nImage caption,\nThe performer held the flag during the curtain call of Il trovatore\nOne member of the audience posted on X: \"Extraordinary scenes at the Royal Opera House tonight.\n\"During the curtain call for Il trovatore one of the background artists came on stage waving a Palestine flag.\n\"Just stood there, no bowing or shouting. Someone off stage kept trying to take it off him. Incredible.\"\nThe identity of the cast member is unclear, but Il trovatore has now finished its 11-night run at the Royal Opera House, Covent Garden.\nThe protest comes as the war between Israel and Gaza continues, with a ceasefire yet to be struck.\nGet in touch\nWere you at the performance?\nContact form\nContact form\nRelated topics\nOpera\nLondon\nTop stories\nSewage discharges to halve by 2030, minister pledges\nPublished\n1 hour ago\nAt least 14 dead in South Korea floods and landslides\nPublished\n3 hours ago\nNew criminal offence to target violence-obsessed suspects earlier\nPublished\n11 hours ago\nMore to explore\nHow the rise ",
+        "topics": [
+          "cast",
+          "related topics",
+          "flag",
+          "member",
+          "get in touch",
+          "stage",
+          "more to explore",
+          "opera",
+          "news",
+          "best of the bbc",
+          "house",
+          "iplayer",
+          "most read",
+          "top stories",
+          "bbc news services",
+          "royal"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/newsbeat",
+          "https://bbc.co.uk/news/in_pictures"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:03.117235",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.240219",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_12672",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cp82x4709n0o",
+        "keywords": [
+          "school",
+          "weeks",
+          "could",
+          "top stories",
+          "bbc news services"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Would shorter summer school holidays be better? - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nFamily & Education\nYoung Reporter\nShould school summer holidays be shorter?\nImage source,\nTara Moore/Getty Images\nPublished\n20 July 2025, 00:05 BST\nShorter school summer holidays may sound like a child's nightmare \u2013 but they could be a relief for parents who are trying to juggle childcare with their jobs.\nSome schools now have five-week breaks in the summer, but a two-week October half term. But is there an argument for shorter summers at all schools?\nCould a shorter break help with learning? Or do pupils - and teachers - need the time to recharge? Would spreading out school holidays across the year help reduce the cost of family holidays, or would smaller windows create a rush to book time off?\nLet's take a look at some of the issues.\nWould it help parents and pupils?\nBranwen Jeffreys\nEducation Editor\n@branwenjeffreys\nSix weeks is a long time away from learning, especially for children whose parents are working or who can't afford lots of costly day trips, activities or a long family holiday.\nSo while all children may forget a little of what they have learnt, families with more money can enrich their understanding by giving them other experiences, and this widens the learning gap.\nFor many families with children, food is one of the biggest bills. During term time, more than a quarter of children across England are eligible for free school meals, and in some schools, it is closer to half of all pupils.\nAs food costs have risen, there has been growing awareness of what is called holiday hunger, with some families struggling to feed children without school support.\nThere are other factors too. While summer allows for playing outside, footy kickarounds and being in the garden, extending winter holidays may mean families need to heat their homes more in the daytime.\nEngland, Wales and Scotland all have six-week summer breaks, though Scotland's tends to be earlier, finishing in mid-August.\nIn Northern Ireland, schools are closed for all of July and August.\nMost of England's schools are now academies who can set their own holidays, and some have already opted for five weeks in summer and two weeks in October. In Surrey, the county council has\ndecided to follow suit\nfor all the schools it supports from autumn 2026.\nHow we saved hundreds of pounds on our summer holiday\nPublished\n7 days ago\nWhen to book and where to stay: Six ways to save money on your summer holiday\nPublished\n10 July\nIn Wales, that model was put out to consultation, attracting more than 16,000 responses from parents and teachers. It was divisive. Only a nar",
+        "topics": [
+          "school",
+          "weeks",
+          "could",
+          "top stories",
+          "bbc news services",
+          "holidays",
+          "summer",
+          "related topics",
+          "most read",
+          "holiday",
+          "best of the bbc",
+          "more to explore"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/newsbeat",
+          "https://bbc.co.uk/news/in_pictures"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:04.433810",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.240534",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_5890",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cx23glez5ezo",
+        "keywords": [
+          "school",
+          "term",
+          "top stories",
+          "bbc news services",
+          "private schools"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "The Surrey schools yet to make decision on a two week half term  - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nEngland\nLocal News\nSurrey\nThe schools still deciding on two week half term\nImage caption,\nCommunity and voluntary controlled schools in Surrey will have a two week half term in October 2026\nJack Fiehn\nBBC political reporter, Surrey\nPublished\n14 July 2025\n38 Comments\nFrom October 2026, schools which come under the responsibility of Surrey County Council (SCC) will have a two week half term and fewer days in the 2027 summer break.\nBut with many state schools being run in different ways and making their own decisions about term dates, the BBC's Political Reporter in Surrey, Jack Fiehn, looks at the current system and what is happening across the area.\nWhat is happening with school holidays?\nSCC carried out a survey and also asked schools for feedback on the plan for a two week half term in the autumn term.\nAfterwards, it said there is a\n\"clear appetite\"\nfor the change, with 60% of schools in favour of the change, 30% against and a further 10% being undecided.\nThe two week  break for community and voluntary controlled schools will begin in the 2026/27 academic year.\nFive days will be taken away from the summer holiday which starts in July 2027.\nCouncillor Jonathan Hulley, Cabinet Member for Children, Families and Lifelong Learning at SCC, said: \"While the majority of feedback we have received supports this change, we appreciate that this is not the preferred option for some families, which is why we are allowing plenty of time to plan for the new arrangements.\"\nThere is a legal limit of a minimum of 190 school days each year.\nMany schools can set their own term dates\nThe majority of schools in Surrey are academies, which are independent, state-funded schools, receiving their funding directly from central government, rather than through SCC.\nThere are also 10 free schools, which are schools set up as academies by groups of parents, teachers, charities, trusts, religious and voluntary groups.\nAlong with foundation and voluntary aided schools, they are able to set their own term dates, so it is up to trust boards and governors to make final decisions.\nImage source,\nGoogle\nImage caption,\nSchools like Bramley Oak Academy already have a two week half term in the autumn\nSome schools already have two week half terms\nPart of the reason that SCC is making the change is because several schools already have a two week half term and the aim is to have more consistency.\nFor example, Engage Enrich Excel Academies, which runs five schools in Surrey, has had one for several years.\nAlso the Pioneer Academy, which runs Holland Junior Scho",
+        "topics": [
+          "school",
+          "term",
+          "top stories",
+          "bbc news services",
+          "private schools",
+          "schools",
+          "related topics",
+          "bbc surrey political reporter",
+          "week",
+          "more on this story",
+          "news",
+          "related internet links",
+          "most read",
+          "surrey",
+          "jack fiehn",
+          "half",
+          "best of the bbc",
+          "more to explore"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/topics/c1038wnxe08t",
+          "https://bbc.co.uk/news/england/surrey",
+          "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:05.797036",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.240840",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_25603",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cy7n3epl1yxo",
+        "keywords": [
+          "'it's clobberin' time!'",
+          "related topics",
+          "week",
+          "other highlights this week",
+          "more on this story"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Fantastic Four and Pok\u00e9mon Presents: What's coming up this week? - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nCulture\nFantastic Four and Pok\u00e9mon Presents: What's coming up this week?\nImage source,\nBBC/Disney/Marvel/Getty\nPaul Glynn\nCulture reporter\nPublished\n19 July 2025\nThis week, another new Marvel movie arrives in the form of Fantastic Four: First Steps.\nBut that's not all the next seven days have in store.\nPok\u00e9mon Presents appears to place Pikachu in the DJ booth, while Ray of Light-era Madonna gets the remix treatment, and Happy Gilmore returns to the greens after almost 30 years.\nRead on for what's coming up this week...\n'It's clobberin' time!'\nThe 37th film in the Marvel Cinematic Universe - the first of phase six - lands in UK cinemas from Thursday, so we hope you've been keeping up.\nThe Fantastic Four: First Steps\nstars\nPedro Pascal\nas Mister Fantastic,\nVanessa Kirby\nas The Invisible Woman,\nJoseph Quinn\nas the Human Torch and\nEbon Moss-Bachrach\nas The Thing - complete with his catchphrase: \"It's clobberin' time!\"\nSet in the 1960s, the films sees the heroes forced to defend Earth from a hungry space god named Galactus, played by Ralph Ineson, and the Silver Surfer, played by Julia Garner.\nBut don't worry if you haven't seen all or any of the previous 36 MCU films, as director Matt Shakman says his latest attempt to bring comic book heroes to the big screen exists in its \"own universe\".\n\"There's really no [other] superheroes,\"\nhe told Empire\n,\nexternal\n. \"There's no Easter eggs. There's no running into Iron Man or whatever. They're it, in this universe. I love the interconnected Marvel Universe, but we get to do something so new and so different. Eventually, this world will meet up with other worlds - but for now this is our own little corner.\"\nJohn Malkovich was due to appear in the film as Red Ghost, however\nShakman told Variety\n,\nexternal\nit was \"heart-breaking\" to ultimately have to leave his scenes on the cutting room floor.\nGilmore happy to be back\nImage source,\nBBC/Getty\nAdam Sandler\n's much-loved goofball golfer Happy Gilmore is back on the greens for the first time in nearly three decades, so watch your heads.\nThe original 1996 movie saw the aspiring hockey player switch sports to comedic effect, and now Sandler, 58, will reprise his role on Netflix from Friday.\nHappy Gilmore 2\nwill see the main character dusting off his clubs in order to raise money to put his daughter Vienna, played by the actor's real life daughter Sunny Sandler, through ballet school.\nOther stars of the original including Julie Bowen, Dennis Dugan, Christopher McDonald and Ben Stiller all return.\nNew faces also join such as Lavell Crawfo",
+        "topics": [
+          "'it's clobberin' time!'",
+          "related topics",
+          "week",
+          "other highlights this week",
+          "more on this story",
+          "madonna in the mix",
+          "more to explore",
+          "news",
+          "gotta mix 'em all",
+          "best of the bbc",
+          "most read",
+          "top stories",
+          "bbc news services",
+          "iplayer"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/topics/c207p54m4e5t",
+          "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/newsbeat"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:07.001418",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.241160",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_72482",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/topics/c207p54m4e5t",
+        "keywords": [
+          "posted",
+          "business",
+          "attribution",
+          "cbbc",
+          "sounds"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Pokemon Go - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nPokemon Go\nFollow\nPokemon Go\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Pokemon Go\nUpdates from your News topics will appear in\nMy News\nand in a collection on the\nNews homepage\n.\nFantastic Four and Pok\u00e9mon Presents: What's coming up this week?\nAttribution\nCulture\nPosted\n23 hours ago\n23h\n'My trading cards show is for everyone'\nAttribution\nWolverhampton\nPosted\n5 July\n5 Jul\nFurbys and Power Rangers feature in 90s exhibition\nAttribution\nHereford & Worcester\nPosted\n5 July\n5 Jul\nMen wanted after Pokemon cards theft\nAttribution\nDorset\nPosted\n4 June\n4 Jun\nMan held after Pok\u00e9mon cards worth \u00a3250k seized\nAttribution\nManchester\nPosted\n14 May\n14 May\nCard collectors gather for major three-day event\nAttribution\nSurrey\nPosted\n9 May\n9 May\nCan we expect a new Pok\u00e9mon game? Video, 00:00:46\nCan we expect a new Pok\u00e9mon game?\nPosted\n25 March\n25 Mar\n0:46\nPok\u00e9mon: 'It's a passion, not just a card game'\nAttribution\nLincolnshire\nPosted\n14 March\n14 Mar\nWhat in the World. Why did Saudi Arabia capture Pok\u00e9mon Go? Audio, 13 minutes\nWhat in the World\nWhy did Saudi Arabia capture Pok\u00e9mon Go?\nThe Kingdom is becoming a major player in gaming\nAttribution\nBBC World Service\nAvailable for over a year\n13 mins\nSaudi Investment Fund pays $3.5bn to capture Pok\u00e9mon Go\nAttribution\nTechnology\nPosted\n12 March\n12 Mar\nFans at gaming convention guess names of Pok\u00e9mon. Video, 00:00:51\nFans at gaming convention guess names of Pok\u00e9mon\nAttribution\nTechnology\nPosted\n27 February\n27 Feb\n0:51\nPok\u00e9mon boss believes series can last another 50 to 100 years\nAttribution\nNewsbeat\nPosted\n27 February\n27 Feb\n'I quit my job to live and breathe Pok\u00e9mon cards'\nAttribution\nBeds, Herts & Bucks\nPosted\n27 February\n27 Feb\nBusiness Daily. Business Daily meets: Pok\u00e9mon Company president Tsunekazu Ishihara. Audio, 18 minutes\nBusiness Daily\nBusiness Daily meets: Pok\u00e9mon Company president Tsunekazu Ishihara\nThe Pok\u00e9mon Company president on running one of the world's biggest media franchises\nAttribution\nBBC World Service\nAvailable for over a year\n18 mins\nMeet the 11-year-old Pok\u00e9mon champion from the UK\nAttribution\nNewsround\nPosted\n25 February\n25 Feb\nComments\n6\nHot Ones host on Louis Theroux podcast and big Pok\u00e9mon news: What to stream this week\nAttribution\nCulture\nPosted\n23 February\n23 Feb\nPok\u00e8mon Journeys\nAttribution\nCBBC\nYouTuber's trading card company raided by thieves\nAttribution\nOxfordshire\nPosted\n18 December 2024\n18 Dec 2024\nStolen rare \u00a330,000 Pok\u00e9mon card returned to owner\nAttribution\nSussex\nPosted\n4 November 2024\n4 Nov 2024\nPok\u00e9mon: Sun and M",
+        "topics": [
+          "posted",
+          "business",
+          "attribution",
+          "cbbc",
+          "sounds",
+          "card",
+          "february",
+          "news",
+          "best of the bbc",
+          "world",
+          "video",
+          "iplayer",
+          "pokemon go"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/england/surrey",
+          "https://bbc.co.uk/news/articles/c5y0v3gd5e5o",
+          "https://bbc.co.uk/newsround",
+          "https://bbc.co.uk/news/articles/cn05x7rnjxno",
+          "https://bbc.co.uk/iplayer/episode/m002fbt3?at_mid=IP4gswygMS&at_campaign=Ghosts_US_S4&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0dcfyxf&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Ghosts_US_S4&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:08.238388",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:08.241476",
+      "quality_score": 1.0
+    }
+  ],
+  "summary": {
+    "total_nodes": 11,
+    "average_relevance": 10.0,
+    "max_relevance": 10.0,
+    "unique_topics": 88,
+    "total_topics": 170,
+    "depth_distribution": {
+      "0": 1,
+      "1": 3,
+      "2": 7
+    },
+    "high_relevance_pages": 11
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "timestamp": "2025-07-20T12:47:15.995465",
+  "root_url": "https://bbc.co.uk/sport",
+  "keywords": [
+    "news",
+    "article",
+    "breaking",
+    "latest",
+    "update"
+  ],
+  "total_pages_scraped": 6,
+  "knowledge_nodes": [
+    {
+      "url": "https://bbc.co.uk/sport",
+      "title": "BBC Sport - Scores, Fixtures, News - Live Sport",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 0
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c8073xpxld1o#comments",
+      "title": "Hannah Hampton: From serious eye condition to England goalkeeper - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 7,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cz6g4y855gdo#comments",
+      "title": "England v Sweden: What is the most extraordinary penalty shootout? - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c8j1d0v2pd8o",
+      "title": "Marcus Rashford: Manchester United forward's move to Barcelona agreed in principle - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/rugby-union/articles/c74zkywgg91o",
+      "title": "British and Irish Lions 2025: 'Desperation driving Australia - but it only gets you so far' - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c20n9y68g6jo#comments",
+      "title": "West Ham sign Kyle Walker-Peters on free transfer - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 12,
+      "depth": 1
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_27644",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport",
+        "keywords": [
+          "football",
+          "posted",
+          "bite-sized videos",
+          "the open - leaderboard",
+          "also in sport"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "BBC Sport - Scores, Fixtures, News - Live Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nSign In Banner\nDiscover your BBC\nSign in or create an account to watch, listen and join in\nSign in\nor\nRegister\nClose sign in banner\nBBC Sport\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nBBC Sport looks at where Oleksandr Usyk ranks among the all-time heavyweight greats and who in the current generation could beat him.\nAttribution\nBoxing\nPosted\n4 hours ago\n4h\nComments\n425\nLive\n.\nListen to The Open final day - Can anyone deny Scheffler a fourth major title?\nAttribution\nGolf\nLive\n.\nTour de France stage 15 - Pogacar rivals look to cut gap before rest day\nAttribution\nCycling\n'Desperation driving Australia - but it only gets you so far'\nAttribution\nBritish & Irish Lions\nPosted\n54 minutes ago\n54min\nComments\n61\nEngland overcome lightning delay to beat US\nAttribution\nEngland\nPosted\n10 hours ago\n10h\nComments\n176\nGolden Boot winner to substitute - England's Mead on role 'shift'\nAttribution\nUEFA Women's Euro\nPosted\n3 hours ago\n3h\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch. Video, 00:02:57\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\nAttribution\nBoxing\nPosted\n2 hours ago\n2h\n2:57\nPacquiao, 46, draws with Barrios in comeback fight\nAttribution\nBoxing\nPosted\n5 hours ago\n5h\nComments\n104\nHumphries suffers shock defeat in Blackpool\nAttribution\nDarts\nPosted\n14 hours ago\n14h\nComments\n36\nHeavyweight permutations - what next after Usyk win?\nAttribution\nBoxing\nPosted\n12 hours ago\n12h\nComments\n39\nHolloway retains BMF title as Poirier retires\nAttribution\nMMA\nPosted\n4 hours ago\n4h\nComments\n11\nThe Open - leaderboard\nMust-watch videos\nBerger's stunning save prevents extra-time own goal. Video, 00:00:28\nBerger's stunning save prevents extra-time own goal\nAttribution\nWomen's Football\nPosted\n13 hours ago\n13h\n0:28\n'Ivan' - Usyk nicknames punch that stopped Dubois. Video, 00:03:47\n'Ivan' - Usyk nicknames punch that stopped Dubois\nAttribution\nBoxing\nPosted\n11 hours ago\n11h\n3:47\n'Listen to that roar' - McIlroy wows the crowd with a round of 66. Video, 00:03:26\n'Listen to that roar' - McIlroy wows the crowd with a round of 66\nAttribution\nGolf\nPosted\n16 hours ago\n16h\n3:26\nBerger stars as Germany reach semi-final on penalties. Video, 00:06:41\nBerger ",
+        "topics": [
+          "football",
+          "posted",
+          "bite-sized videos",
+          "the open - leaderboard",
+          "also in sport",
+          "more video",
+          "must-watch videos",
+          "find us here",
+          "find out more",
+          "more top stories",
+          "best of the bbc",
+          "bbc sport",
+          "iplayer",
+          "bbc sport emails",
+          "play",
+          "comments",
+          "discover your bbc",
+          "results",
+          "sport",
+          "usyk",
+          "england",
+          "attribution",
+          "hours",
+          "women's summer of sport",
+          "more to explore"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/articles/c8073xpxld1o#comments",
+          "https://bbc.co.uk/sport/football/articles/cz6g4y855gdo#comments",
+          "https://bbc.co.uk/sport/sports-personality",
+          "https://bbc.co.uk/sport/football/articles/c8j1d0v2pd8o",
+          "https://bbc.co.uk/sport/rugby-union/articles/c74zkywgg91o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:47:17.269466",
+          "depth": 0,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:47:23.419695",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_59748",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c8073xpxld1o#comments",
+        "keywords": [
+          "football",
+          "'i've proven people wrong'",
+          "related topics",
+          "best of the bbc",
+          "england"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Hannah Hampton: From serious eye condition to England goalkeeper - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nEngland\nMen's Scores & Fixtures\nWomen's Scores & Fixtures\nMen's Table\nWomen's Table\nSport Insight\nHampton's rise to England goalkeeper\nPublished\n20 June 2025\n320 Comments\nUpdated 9 July 2025\nImage source,\nGetty Images\nEmma Sanders\nBBC Sport women\u2019s football news reporter\nBorn with a serious eye condition, England goalkeeper Hannah Hampton was told by doctors she should not play football.\nThe 24-year-old has had multiple operations to try and correct her vision but it is not perfect and she still has depth perception issues.\nIt is remarkable she has defied the odds and is now at Euro 2025 as England's number one.\n\"I've always gone through life trying to prove people wrong,\" Hampton said.\n\"I was told from a young age that I couldn't play football, that it wouldn't be a profession I could pursue. But here I am.\"\nHampton has been used to setbacks and her career has been far from smooth.\nShe was dropped by England months after being part of the winning Euro 2022 squad.\nShe was forced to prove herself again and has bounced back and risen to the top. This is the story of her journey.\n'She was born to be a footballer'\nWhen Carla Ward arrived at Birmingham City as their new manager in 2020 she had already heard about teenager Hampton.\n\"We spoke on the first day. I wanted to know where she wanted to be,\" Ward told BBC Sport.\n\"She was an endearing character, as well as being a livewire, like most goalkeepers. But she articulated things in a way that was far more mature than her age.\n\"It was on day two that I really saw what everyone was talking about. She was one of the most talented individuals I've ever worked with.\n\"Everyone has different talents but she was born to be a footballer.\"\nHampton's love for football developed in Spain, where she moved with her family at the age of five and learned to speak the language fluently during her five years living there.\nShe was scouted by Villarreal's academy after former Argentine defender Fabio Fuentes recommended Hampton go to a club trial.\nOn her return to England, she joined Stoke City's academy before eventually breaking into the first team at Birmingham City at the age of 16 - switching positions from a striker to a goalkeeper.\nShe",
+        "topics": [
+          "football",
+          "'i've proven people wrong'",
+          "related topics",
+          "best of the bbc",
+          "england",
+          "sport",
+          "hampton"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/american-football",
+          "https://bbc.co.uk/sport/sports-personality",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/sport/football/womens",
+          "https://bbc.co.uk/sport/football/teams/england/table"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:47:18.518369",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:47:23.420090",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_60581",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cz6g4y855gdo#comments",
+        "keywords": [
+          "football",
+          "top stories",
+          "elsewhere in sport",
+          "league",
+          "best of the bbc"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "England v Sweden: What is the most extraordinary penalty shootout? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nFootball\nScores & Fixtures\nTables\nGossip\nEuro 2025\nTransfers\nTop Scorers\nWomen\nChampions League\nFA Cup\nAll Teams\nLeagues & Cups\nQuizzes\nWhat is the most extraordinary penalty shootout?\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nWatch all the penalties as England beat Sweden\nEmma Smith\nBBC Sport journalist\nPublished\n18 July 2025\n597 Comments\nWhen football historians of the future look back over the strangest and most extraordinary penalty shootouts of all time, England's victory over Sweden at Euro 2025 will be a prized artefact.\nOf the 14 penalties taken, five were scored, six were saved and three from the Swedes were missed. When BBC pundit Ellen White\ndescribed it as \"terrifying watching\"\n, she was spot on \u2013 this was the football coach's version of The Exorcist.\nOf course, shootouts are a scary prospect for any participant, with so much on the line and the spectre of failure and embarrassment so present.\nWhile the myth of penalties being a lottery has been dispelled in the era of football coaching driven by data and psychology, you can never quite predict what the pressure will do to a player, even at the elite level.\nAs Alan Shearer memorably exclaimed as England's men celebrated their\nshootout victory over Switzerland at Euro 2024\n: \"Pressure is for tyres.\"\nInspired by the Lionesses' chaotic triumph in Zurich, here are some of the greatest moments when the tyre exploded...\nMiss, and miss, and miss\u2026\nImage source,\nReuters\nImage caption,\nHelmuth Duckadam's European Cup final heroics came in his final game for Steaua Bucharest\nEngland became the first side at the Women's Euros to miss three successive penalties in a shootout and still go through.\nThe 36% conversion rate of spot-kicks in Zurich was the worst of any shootout in the competition's history, lower than the\n2017 semi-final between Denmark and Austria.\nThat shootout saw Denmark progress 3-0 on penalties \u2013 four of the seven spot-kicks were missed, including all three from the Austrians.\nBut for the worst shootout on a major European stage, there is only one answer: the 1986 European Cup final.\nAfter a tedious goalless 120 minutes between Barcelo",
+        "topics": [
+          "football",
+          "top stories",
+          "elsewhere in sport",
+          "league",
+          "best of the bbc",
+          "penalties",
+          "related topics",
+          "final",
+          "more on this story",
+          "england",
+          "sport",
+          "penalty",
+          "shootout"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/american-football",
+          "https://bbc.co.uk/sport/sports-personality",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/sport/cricket/articles/c79qg5z54lgo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:47:19.854617",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:47:23.420328",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_99497",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c8j1d0v2pd8o",
+        "keywords": [
+          "news",
+          "football",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Marcus Rashford: Manchester United forward's move to Barcelona agreed in principle - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nEuropean Football\nScores & Fixtures\nTable\nChampions League\nEuropa League\nDeal in principle agreed for Rashford to join Barcelona\nImage source,\nGetty Images\nImage caption,\nMarcus Rashford has not played for Manchester United since being substituted during their 2-1 Europa League win at Viktoria Plzen on 12 December\nSimon Stone\nChief football news reporter\nPublished\n19 July 2025\n1725 Comments\nManchester United forward Marcus Rashford's dream transfer to Barcelona is moving closer with a deal in principle reached over a potential loan move to the Spanish giants.\nBarcelona have been Rashford's preferred destination since\nhe suggested it was time for a new challenge\nin December after being dropped by head coach Ruben Amorim.\nBBC Sport has been told talks have taken place involving intermediaries and an outline verbal agreement has been reached.\nThe transfer would be an initial loan with an option to buy.\nSpanish champions Barcelona looked set to sign Spain winger Nico Williams earlier this summer.\nHowever, the 22-year-old signed\na new 10-year contract at Athletic Bilbao.\nRashford spent the second half of last season on loan at Aston Villa, where he made 17 appearances across all competitions - scoring four goals and providing six assists.\nHe is one of five United players - and the highest paid -\ntold to train separately\nfrom Amorim's squad amid a stand-off over their futures.\nThe 27-year-old does not believe he will play for United again while Amorim is at the club.\nHim joining Barcelona would be a big positive for United as they look to strengthen Amorim's squad.\nWith more than \u00a3130m committed to signing Matheus Cunha and\nBryan Mbeumo\n, further deals have to be funded through departures.\nEven if Rashford's exit were initially on loan, the saving off the wage bill would be significant given only Casemiro earns more than his \u00a3325,000-a-week salary.\nMan Utd new boy Leon catches the eye in Leeds stalemate\nPublished\n20 hours ago\nRashford would like to play at Barcelona with Yamal\nPublished\n22 June\nRashford doubts he will play for Man Utd again under Amorim\nPublished\n23 April\nWe like Rashford - Deco\nBarcelona sporting director Deco has previously spoken of his admiration for Ras",
+        "topics": [
+          "news",
+          "football",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "league",
+          "best of the bbc",
+          "related topics",
+          "more on this story",
+          "sport",
+          "barcelona",
+          "united",
+          "rashford"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/american-football",
+          "https://bbc.co.uk/sport/sports-personality",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/sport/football/62294536"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:47:21.015448",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:47:23.420560",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_73040",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/rugby-union/articles/c74zkywgg91o",
+        "keywords": [
+          "desperation",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "best of the bbc"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "British and Irish Lions 2025: 'Desperation driving Australia - but it only gets you so far' - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nRugby Union\nScores & Fixtures\nLions\nTables\nVideo\nAll Teams\nEnglish\nScottish\nWelsh\nIrish\n'Desperation driving Australia - but it only gets you so far'\nImage source,\nGetty Images\nImage caption,\nAustralia are 1-0 down going into Saturday's second Test\nTom English\nBBC Sport in Australia\nPublished\n54 minutes ago\n62 Comments\nThere was no mistaking the word of the night at the Suncorp Stadium after the British and Irish Lions' first Test win over Australia - desperation.\nAs in, Wallaby desperation. As in, they'll be so desperate to keep the series alive in Melbourne on Saturday they'll metamorphose into a team of belligerence and belief - a band of brothers who will blow the Lions away.\n\"We expect them to be desperate,\" said Lions centre Sione Tuipulotu after the\n27-19 victory.\n\"When an Australia team becomes desperate, it's difficult to handle,\" said head coach Andy Farrell.\n\"The desperation is all on the line for them at the weekend,\" said prop Tadhg Furlong.\nFlanker Tadhg Beirne also spoke about Australian desperation. So did Wallabies head coach Joe Schmidt, repeatedly, and so did his replacement scrum-half Tate McDermott and others.\nAnd they will be desperate, no question, but how far does desperation get you?\nSchmidt said his team had desperation written all over their performance in Brisbane, and he meant it as a compliment. He admired their hunger and their refusal to wilt.\nFarrell said the Wallabies would be a different team\nin Melbourne. Maybe. Or maybe we're reading too much into the desperation thing. Maybe they're just an Australia team early in their development and out of their depth in games such as this.\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nMore to come from Lions after opening win - Farrell\nFor drama and intrigue, we want the series to go to the wire, so we construct an argument around that.\nThe fightback exposed weaknesses in the Lions make-up. Things might have been closer had big calls gone with the Wallabies - a possible yellow card for Tom Curry for taking Tom Lynagh in the air, a possible yellow for Furlong going high on Len Ikitau, a possible yellow for a Ben Earl no-arms tackle ",
+        "topics": [
+          "desperation",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "best of the bbc",
+          "related topics",
+          "more on this story",
+          "video",
+          "lions",
+          "sport",
+          "wallabies",
+          "writes tom english.",
+          "their"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/iplayer/episode/l00579wr/lions-tour-first-test-reaction",
+          "https://bbc.co.uk/sport/american-football",
+          "https://bbc.co.uk/sport/sports-personality",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:47:22.267201",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:47:23.420788",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_90714",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c20n9y68g6jo#comments",
+        "keywords": [
+          "west",
+          "top stories",
+          "walker",
+          "iplayer",
+          "elsewhere in sport"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "West Ham sign Kyle Walker-Peters on free transfer - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nWest Ham United\nScores & Fixtures\nTable\nWest Ham sign Walker-Peters on free transfer\nImage source,\nGetty Images\nImage caption,\nKyle Walker-Peters made his England debut in 2022\nMandeep Sanghera\nBBC Sport journalist\nPublished\n2 hours ago\n63 Comments\nWest Ham have signed defender Kyle Walker-Peters on a free transfer following his departure from Southampton.\nThe 28-year-old full-back, who has two England caps, has joined the Hammers on a three-year contract.\n\"He is a player I've always thought highly of and been impressed by whenever he has faced one of my teams,\" said West Ham manager Graham Potter.\n\"He has a really good pedigree, a top professional who has established himself as a respected Premier League player and still has his best years in front of him.\"\nWalker-Peters started his career at Tottenham and moved to Southampton on loan in January 2020 before making the switch permanent that summer.\nHe made 202 appearances for Southampton but, after they were relegated from the Premier League last season, left following the expiry of his contract.\nWalker-Peters was on the verge of joining Ole Gunnar Solskjaer's Besiktas, but the Turkish club said on Thursday they were no longer interested after Walker-Peters delayed his medical following interest from West Ham.\n\"I spoke to Graham Potter and he was a big, big part of me making the decision,\" said Walker-Peters.\n\"I've always liked his style as a coach, and I think it will suit me well.\n\"Every team wants to win trophies and West Ham have that ambition. From speaking to Graham, he wants to create something special, and hopefully I can be a part of that.\"\nThis summer West Ham have signed Senegal defender El Hadji Malick Diouf for \u00a319m from Slavia Prague and made defender Jean-Clair Todibo's loan move from Nice permanent.\nThey have sold winger Mohammed Kudus to Tottenham for \u00a355m.\nRelated topics\nWest Ham United\nPremier League\nFootball\nMore on this story\nLatest West Ham news, analysis and fan views\nGet West Ham news sent straight to your phone\nPublished\n26 July 2022\nComments can not be loaded\nTo load Comments you need to enable JavaScript in your browser\nView comments | 63\nTop stories\nUsyk and 'Ivan' - the untouchable duo who ",
+        "topics": [
+          "west",
+          "top stories",
+          "walker",
+          "iplayer",
+          "elsewhere in sport",
+          "best of the bbc",
+          "peters",
+          "related topics",
+          "more on this story",
+          "video",
+          "sport",
+          "news"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/american-football",
+          "https://bbc.co.uk/sport/sports-personality",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/sport/cricket/articles/c79qg5z54lgo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:47:23.419571",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:47:23.421017",
+      "quality_score": 1.0
+    }
+  ],
+  "summary": {
+    "total_nodes": 6,
+    "average_relevance": 10.0,
+    "max_relevance": 10.0,
+    "unique_topics": 49,
+    "total_topics": 83,
+    "depth_distribution": {
+      "0": 1,
+      "1": 5
+    },
+    "high_relevance_pages": 6
+  }
+}

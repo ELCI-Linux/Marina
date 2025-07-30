@@ -1,0 +1,396 @@
+{
+  "timestamp": "2025-07-27T12:00:02.019331",
+  "entry_points": [
+    "https://wiki.archlinux.org/title/Flatpak",
+    "https://wiki.archlinux.org/title/Bubblewrap",
+    "https://wiki.archlinux.org/title/Sandboxing",
+    "https://wiki.archlinux.org/title/Application_sandboxing",
+    "https://wiki.archlinux.org/title/Package_management"
+  ],
+  "total_pages_scraped": 16,
+  "knowledge_nodes": [],
+  "corpus_entries": [
+    {
+      "id": "archwiki_flatpak_51500",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Flatpak",
+        "keywords": [
+          "contents",
+          "view sandbox permissions of application",
+          "com.spotify.client",
+          "failed to connect to wayland display",
+          "flatpak applications not picking up the default system theme"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:03.840109",
+        "depth": 0,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_62971",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Security#Sandboxing_applications",
+        "keywords": [
+          "linux kernel runtime guard (lkrg)",
+          "microcode",
+          "use sudo instead of su",
+          "suid and sgid files",
+          "boot loaders"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11219594439250187
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:05.682361",
+        "depth": 1,
+        "relevance_score": 1.1219594439250187
+      },
+      "quality_score": 0.11219594439250187
+    },
+    {
+      "id": "archwiki_flatpak_49778",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Systemd/Sandboxing",
+        "keywords": [
+          "contents",
+          "without special configuration",
+          "disabling non-native syscalls",
+          "cgroups",
+          "articles"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.1891944606982641
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:07.337398",
+        "depth": 2,
+        "relevance_score": 1.8919446069826409
+      },
+      "quality_score": 0.1891944606982641
+    },
+    {
+      "id": "archwiki_flatpak_91937",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Systemd/Sandboxing&oldid=831510",
+        "keywords": [
+          "contents",
+          "without special configuration",
+          "disabling non-native syscalls",
+          "cgroups",
+          "articles"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.1891944606982641
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:09.191801",
+        "depth": 3,
+        "relevance_score": 1.8919446069826409
+      },
+      "quality_score": 0.1891944606982641
+    },
+    {
+      "id": "archwiki_flatpak_58817",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Systemd/Sandboxing&action=info",
+        "keywords": [
+          "display",
+          "basic",
+          "information",
+          "page properties",
+          "systemd"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.40612516644474034
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:11.001876",
+        "depth": 3,
+        "relevance_score": 4.061251664447403
+      },
+      "quality_score": 0.40612516644474034
+    },
+    {
+      "id": "archwiki_flatpak_68516",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Talk:Systemd/Sandboxing",
+        "keywords": [
+          "contents",
+          "replacing \u201cimpact\u201d and \u201cbreakage\u201d",
+          "talk:systemd/sandboxing",
+          "warning",
+          "add dedicated section for fine-grained device and network access control"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.3663929248262793
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:12.840188",
+        "depth": 3,
+        "relevance_score": 3.6639292482627925
+      },
+      "quality_score": 0.3663929248262793
+    },
+    {
+      "id": "archwiki_flatpak_25247",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=837595",
+        "keywords": [
+          "contents",
+          "view sandbox permissions of application",
+          "com.spotify.client",
+          "failed to connect to wayland display",
+          "flatpak applications not picking up the default system theme"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:18.146441",
+        "depth": 1,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_12931",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=837595",
+        "keywords": [
+          "contents",
+          "view sandbox permissions of application",
+          "revision",
+          "com.spotify.client",
+          "failed to connect to wayland display"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8565899806493228
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:20.128776",
+        "depth": 2,
+        "relevance_score": 8.565899806493228
+      },
+      "quality_score": 0.8565899806493228
+    },
+    {
+      "id": "archwiki_flatpak_8324",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=832000",
+        "keywords": [
+          "contents",
+          "view sandbox permissions of application",
+          "revision",
+          "com.spotify.client",
+          "failed to connect to wayland display"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8323227423397203
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:23.788889",
+        "depth": 3,
+        "relevance_score": 8.323227423397203
+      },
+      "quality_score": 0.8323227423397203
+    },
+    {
+      "id": "archwiki_flatpak_47268",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit&oldid=832000",
+        "keywords": [
+          "com.spotify.client",
+          "have",
+          "org.libreoffice.libreoffice",
+          "org.freedesktop.basesdk",
+          "flatpak model"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.7954927054960635
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:25.584643",
+        "depth": 3,
+        "relevance_score": 7.954927054960636
+      },
+      "quality_score": 0.7954927054960635
+    },
+    {
+      "id": "archwiki_flatpak_38712",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Bubblewrap",
+        "keywords": [
+          "contents",
+          "org.freedesktop.portal",
+          "security",
+          "using x11",
+          "no sound output"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.4697715171530633
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:36.024645",
+        "depth": 0,
+        "relevance_score": 4.697715171530633
+      },
+      "quality_score": 0.4697715171530633
+    },
+    {
+      "id": "archwiki_flatpak_55728",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Category:Sandboxing",
+        "keywords": [
+          "bubblejail",
+          "toolbox",
+          "security",
+          "category",
+          "category:sandboxing"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:37.833690",
+        "depth": 1,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_31722",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&action=edit",
+        "keywords": [
+          "edit",
+          "have",
+          "page",
+          "permission",
+          "view source for category:sandboxing"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.89
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:39.560962",
+        "depth": 2,
+        "relevance_score": 8.9
+      },
+      "quality_score": 0.89
+    },
+    {
+      "id": "archwiki_flatpak_43146",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&action=info",
+        "keywords": [
+          "display",
+          "basic",
+          "category information",
+          "information",
+          "category"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.48
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:43.048059",
+        "depth": 3,
+        "relevance_score": 4.8
+      },
+      "quality_score": 0.48
+    },
+    {
+      "id": "archwiki_flatpak_64717",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&action=history",
+        "keywords": [
+          "edit",
+          "date",
+          "31 october 2018",
+          "collapse",
+          "10 june 2021"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.2287419194430631
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:44.915013",
+        "depth": 3,
+        "relevance_score": 2.287419194430631
+      },
+      "quality_score": 0.2287419194430631
+    },
+    {
+      "id": "archwiki_flatpak_82532",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/XDG_Desktop_Portal",
+        "keywords": [
+          "contents",
+          "backends",
+          "force desktop environment",
+          "portal does not start",
+          "gtk (possibly others) file chooser not working"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6164461033819705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-27T12:00:51.966975",
+        "depth": 1,
+        "relevance_score": 6.164461033819705
+      },
+      "quality_score": 0.6164461033819705
+    }
+  ],
+  "summary": {
+    "total_nodes": 16,
+    "average_relevance": 5.4906507452858,
+    "max_relevance": 8.9,
+    "unique_topics": 165,
+    "total_topics": 277,
+    "depth_distribution": {
+      "0": 2,
+      "1": 4,
+      "2": 3,
+      "3": 7
+    },
+    "high_relevance_pages": 8
+  }
+}

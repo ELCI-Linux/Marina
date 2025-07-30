@@ -1,0 +1,386 @@
+{
+  "timestamp": "2025-07-20T12:46:34.688771",
+  "root_url": "https://bbc.co.uk/news",
+  "keywords": [
+    "news",
+    "breaking"
+  ],
+  "total_pages_scraped": 6,
+  "knowledge_nodes": [
+    {
+      "url": "https://bbc.co.uk/news",
+      "title": "Home - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 24,
+      "depth": 0
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/c0m87d4p9gvo",
+      "title": "Syria struggles to quell deadly Bedouin-Druze clashes in south - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cy7n3epl1yxo",
+      "title": "Fantastic Four and Pok\u00e9mon Presents: What's coming up this week? - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+      "title": "St Helens fire: Man arrested on suspicion of double murder - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 18,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cvgn0dmdkepo",
+      "title": "World's first 150mph car Blue Bird to return to Pendine Sands - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/entertainment_and_arts",
+      "title": "Culture | Latest News & Updates | BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 12,
+      "depth": 1
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_25556",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news",
+        "keywords": [
+          "discover your bbc",
+          "summer essential newsletter",
+          "your",
+          "elsewhere on the bbc",
+          "the video playlist"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Home - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nEngland\nN. Ireland\nScotland\nAlba\nWales\nCymru\nLocal News\nMy News\nSign In Banner\nDiscover your BBC\nSign in or create an account to watch, listen and join in\nSign in\nor\nRegister\nClose sign in banner\nBBC News\nSewage discharges to halve by 2030 in 'water revolution', minister pledges\nEnvironment Secretary Steve Reed says the government is preparing a \"water revolution\" and that the water sector is broken.\nAttribution\nScience & Environment\nPosted\n1 hour ago\n1h\nAt least 14 dead in South Korea floods and landslides\nAttribution\nAsia\nPosted\n3 hours ago\n3h\nA baby loss certificate would be 'powerful validation of grief'\nAttribution\nNorthern Ireland\nPosted\n6 hours ago\n6h\nParked in lay-bys - the drivers determined to avoid airport drop-off fees\nAttribution\nScotland\nPosted\n12 hours ago\n12h\nNew criminal offence to target violence-obsessed suspects before they attack\nAttribution\nPolitics\nPosted\n11 hours ago\n11h\nPerformer unfurls Palestinian flag on Royal Opera House stage\nAttribution\nUK\nPosted\n1 minute ago\n1min\nHow the rise of green tech is feeding another environmental crisis\nAttribution\nBBC InDepth\nPosted\n12 hours ago\n12h\nMr and Mrs XCX: Brat star weds drummer of The 1975\nAttribution\nCulture\nPosted\n7 hours ago\n7h\nChange my nation\nclose panel\nChange my nation\nChange your nation to get more top stories from where you are, as well as the UK and international headlines.\nUnited Kingdom\nEngland\nScotland\nWales\nNorthern Ireland\nConfirm\nYou are now seeing top stories for\nNorthern Ireland\nSewage discharges to halve by 2030 in 'water revolution', minister pledges\nEnvironment Secretary Steve Reed says the government is preparing a \"water revolution\" and that the water sector is broken.\nAttribution\nScience & Environment\nPosted\n1 hour ago\n1h\nAt least 14 dead in South Korea floods and landslides\nAttribution\nAsia\nPosted\n3 hours ago\n3h\nParked in lay-bys - the drivers determined to avoid airport drop-off fees\nAttribution\nScotland\nPosted\n12 hours ago\n12h\nNew criminal offence to target violence-obsessed suspects before they attack\nAttribution\nPolitics\nPosted\n11 hours ago\n11h\nPerformer unfurls Palestinian flag on Royal Opera House stage\nAttribution\nUK\nPosted\n1 minute ago\n1min\nHow the rise of green tech is feeding another environmental crisis\nAttribution\nBBC InDepth\nPosted\n12 hours ago\n12h\nMr and Mrs XCX: Brat star weds drummer of The 1975\nAttribution\nCulture\nPosted\n7 hours ago\n7h\nChange my nation\nclose panel\nChange my nation\nChange your nation to get more top stories from where you are, as well as the UK and international headlines.\nUnited Kingdom\nEng",
+        "topics": [
+          "discover your bbc",
+          "summer essential newsletter",
+          "your",
+          "elsewhere on the bbc",
+          "the video playlist",
+          "breaking news",
+          "more top stories",
+          "video",
+          "bbc news app",
+          "business",
+          "bbc news",
+          "attribution",
+          "news",
+          "water",
+          "weekend picks",
+          "sport",
+          "change",
+          "most watched",
+          "most read",
+          "watch live on iplayer",
+          "nation",
+          "best of the bbc",
+          "posted",
+          "hours"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/c0m87d4p9gvo",
+          "https://bbc.co.uk/news/entertainment_and_arts",
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/articles/cy7n3epl1yxo",
+          "https://bbc.co.uk/news/my"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:46:36.984290",
+          "depth": 0,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:46:48.456189",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_76098",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/c0m87d4p9gvo",
+        "keywords": [
+          "more on this story",
+          "more to explore",
+          "druze",
+          "most read",
+          "reports say"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Syria struggles to quell deadly Bedouin-Druze clashes in south - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nWorld\nAfrica\nAsia\nAustralia\nEurope\nLatin America\nMiddle East\nUS & Canada\nSyria struggles to quell deadly Bedouin-Druze clashes in south\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nWatch: Sectarian clashes continue in Syria despite ceasefire\nJon Donnison\nBBC News, Damascus\n@jondonnisonbbc\nJaroslav Lukiv & Amy Walker\nBBC News\nPublished\n19 July 2025\nUpdated 7 hours ago\nSectarian clashes have continued in southern Syria despite an \"immediate ceasefire\" announced by the country's president.\nReports say that Druze fighters on Saturday pushed out Bedouin gunmen from the city of Suweida - but fighting continued in other parts of the province. This has not been verified by the BBC.\nGovernment forces deployed earlier this week by interim President Ahmed al-Sharaa were blamed for joining in attacks on the Druze. More than 900 people are reported to have been killed in the past week. All sides are accused of atrocities.\nThe US Secretary of State, Marco Rubio, demanded an end to \"the rape and slaughter of innocent people\" in Syria, in a post on X on Saturday.\nRubio wrote: \"If authorities in Damascus want to preserve any chance of achieving a unified, inclusive and peaceful Syria free of ISIS [Islamic State] and of Iranian control they must help end this calamity by using their security forces to prevent ISIS and any other violent jihadists from entering the area and carrying out massacres.\n\"And they must hold accountable and bring to justice anyone guilty of atrocities including those in their own ranks,\" the top US diplomat added.\nImage source,\nReuters\nImage caption,\nBedouin fighters have reportedly been pushed out of the city of Suweida\nOn Saturday evening, the Syrian interior ministry said clashes in Suweida had been halted after the intervention of its forces in the city.\nReuters news agency reported that fighting persisted in other parts of Suweida province.\nEarlier this week, Israel declared support for the Druze and intervened, hitting government forces and\nthe defence ministry in the capital Damascus\n.\nSharaa announced a ceasefire on Saturday as Syrian security forces were deployed to Suweida to end the clashes. The deal included a halt to Israeli military strikes and was approved by Israel as part of a US-brokered pact, as long as the Druze citizens were protected.\nGovernment troops have been setting up checkpoints to try to prevent more people joining the fighting. But gunfire was reported inside Suweida earlier on Saturday.\nA correspondent for AFP news ",
+        "topics": [
+          "more on this story",
+          "more to explore",
+          "druze",
+          "most read",
+          "reports say",
+          "syria",
+          "clashes",
+          "suweida",
+          "israel",
+          "saturday",
+          "best of the bbc",
+          "news",
+          "related topics",
+          "bbc news services",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/entertainment_and_arts",
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/news/articles/cwyg0ldvw0eo",
+          "https://bbc.co.uk/news/articles/cy7n3epl1yxo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:46:39.121119",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:46:48.456567",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_81075",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cy7n3epl1yxo",
+        "keywords": [
+          "more on this story",
+          "more to explore",
+          "most read",
+          "'it's clobberin' time!'",
+          "week"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Fantastic Four and Pok\u00e9mon Presents: What's coming up this week? - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nCulture\nFantastic Four and Pok\u00e9mon Presents: What's coming up this week?\nImage source,\nBBC/Disney/Marvel/Getty\nPaul Glynn\nCulture reporter\nPublished\n19 July 2025\nThis week, another new Marvel movie arrives in the form of Fantastic Four: First Steps.\nBut that's not all the next seven days have in store.\nPok\u00e9mon Presents appears to place Pikachu in the DJ booth, while Ray of Light-era Madonna gets the remix treatment, and Happy Gilmore returns to the greens after almost 30 years.\nRead on for what's coming up this week...\n'It's clobberin' time!'\nThe 37th film in the Marvel Cinematic Universe - the first of phase six - lands in UK cinemas from Thursday, so we hope you've been keeping up.\nThe Fantastic Four: First Steps\nstars\nPedro Pascal\nas Mister Fantastic,\nVanessa Kirby\nas The Invisible Woman,\nJoseph Quinn\nas the Human Torch and\nEbon Moss-Bachrach\nas The Thing - complete with his catchphrase: \"It's clobberin' time!\"\nSet in the 1960s, the films sees the heroes forced to defend Earth from a hungry space god named Galactus, played by Ralph Ineson, and the Silver Surfer, played by Julia Garner.\nBut don't worry if you haven't seen all or any of the previous 36 MCU films, as director Matt Shakman says his latest attempt to bring comic book heroes to the big screen exists in its \"own universe\".\n\"There's really no [other] superheroes,\"\nhe told Empire\n,\nexternal\n. \"There's no Easter eggs. There's no running into Iron Man or whatever. They're it, in this universe. I love the interconnected Marvel Universe, but we get to do something so new and so different. Eventually, this world will meet up with other worlds - but for now this is our own little corner.\"\nJohn Malkovich was due to appear in the film as Red Ghost, however\nShakman told Variety\n,\nexternal\nit was \"heart-breaking\" to ultimately have to leave his scenes on the cutting room floor.\nGilmore happy to be back\nImage source,\nBBC/Getty\nAdam Sandler\n's much-loved goofball golfer Happy Gilmore is back on the greens for the first time in nearly three decades, so watch your heads.\nThe original 1996 movie saw the aspiring hockey player switch sports to comedic effect, and now Sandler, 58, will reprise his role on Netflix from Friday.\nHappy Gilmore 2\nwill see the main character dusting off his clubs in order to raise money to put his daughter Vienna, played by the actor's real life daughter Sunny Sandler, through ballet school.\nOther stars of the original including Julie Bowen, Dennis Dugan, Christopher McDonald and Ben Stiller all return.\nNew faces also join such as Lavell Crawfo",
+        "topics": [
+          "more on this story",
+          "more to explore",
+          "most read",
+          "'it's clobberin' time!'",
+          "week",
+          "news",
+          "bbc news services",
+          "other highlights this week",
+          "related topics",
+          "best of the bbc",
+          "gotta mix 'em all",
+          "madonna in the mix",
+          "iplayer",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/entertainment_and_arts",
+          "https://bbc.co.uk/news/topics/cg41ylwvgjyt",
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/topics/c008ql15vdxt",
+          "https://bbc.co.uk/news/articles/cm207j79zvko"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:46:41.522771",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:46:48.456870",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_17488",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+        "keywords": [
+          "police",
+          "related topics",
+          "bbc news services",
+          "more to explore",
+          "helens"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "St Helens fire: Man arrested on suspicion of double murder - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nEngland\nLocal News\nLiverpool\nMan held on suspicion of double murder after fire\nImage source,\nPolice handout\nImage caption,\nMr Greener and Ms Jackson died of their injuries shortly after the fire\nLynette Horsburgh\nBBC News, Merseyside\nPublished\n20 July 2025, 11:45 BST\nUpdated 22 minutes ago\nA man has been arrested on suspicion of double murder after the deaths of an elderly couple in a fire at their home.\nGrandparents Peter Eric Greener, 77, who is known as Eric, and his partner Sheila Jackson, 83, died following the blaze at their home on South John Street, St Helens, on Tuesday, Merseyside Police said.\nThe force said an accelerant was used to start the fire.\nA 31-year-old from St Helens was arrested earlier and has been taken into custody for questioning, it added.\nImage source,\nPolice handout\nImage caption,\nSheila Jackson died on Thursday\nMr Greener died on Wednesday evening, while Ms Jackson died from her injuries on Thursday morning.\nDet Supt Rachel Wilson said: \"Although an arrest has been made, I would like to take this opportunity to remind people to pass on information directly to police or anonymously via Crimestoppers.\u200b\n\"Extensive inquiries continue, and to that end we are still appealing for anyone with information to come forward, particularly if you live in the area of South John Street and recall seeing or hearing anything suspicious at around the time of the incident.\"\nImage source,\nPolice handout\nImage caption,\nPeter Eric Greener was known as Eric\nShe said: \"Please do not assume what you know has already been reported to us, as we can quickly make that assessment.\"\nShe also urged people not to comment or post on social media anything which could jeopardise the investigation.\nGet in touch\nTell us which stories we should cover on Merseyside\nContact form\nContact form\nListen to the best of\nBBC Radio Merseyside on Sounds\nand follow BBC Merseyside on\nFacebook\n,\nexternal\n,\nX\n,\nexternal\n, and\nInstagram\n,\nexternal\n. You can also send story ideas via Whatsapp to 0808 100 2230.\nRelated topics\nSt Helens\nRelated internet links\nMerseyside Police\nFrom other local news sites\nLiverpool Empire Theatre announces summer saver campaign\nExternal\nRuncorn and Widnes World\nLiverpool school term dates 2025/26: Full list of half term dates & school holidays for the next academic year\nExternal\nLiverpoolWorld\nUnderworld gun runner linked to bombs and drugs dies in prison\nExternal\nLiverpool Echo\n'Our vibrant high street should be celebrated, not told it's dying'\nExternal\nLiverpool Echo\n31-year-old St Helens man arrested on suspic",
+        "topics": [
+          "police",
+          "related topics",
+          "bbc news services",
+          "more to explore",
+          "helens",
+          "home",
+          "after",
+          "image",
+          "related internet links",
+          "news",
+          "sounds",
+          "top stories",
+          "merseyside",
+          "external",
+          "most read",
+          "get in touch",
+          "school",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/entertainment_and_arts",
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/articles/cm207j79zvko",
+          "https://bbc.co.uk/news/articles/cwyg0ldvw0eo",
+          "https://bbc.co.uk/news/articles/cy7n3epl1yxo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:46:43.776773",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:46:48.457105",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_94014",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cvgn0dmdkepo",
+        "keywords": [
+          "speed",
+          "more to explore",
+          "record",
+          "most read",
+          "wales"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "World's first 150mph car Blue Bird to return to Pendine Sands - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nWales\nWales Politics\nWales Business\nNorth West\nNorth East\nMid\nSouth West\nSouth East\nCymru\nWorld's first 150mph car returns to beach where it broke record\nImage source,\nNational Motor Museum, Beaulieu\nImage caption,\nBlue Bird returned to Pendine Sands 10 years ago for the 90th anniversary of the land-speed record\nNeil Prior\nBBC News\nPublished\n19 July 2025\nUpdated 5 hours ago\nIn 1925, on a beach in south-west Wales, the automotive world was changed forever.\nA car dealer named Malcolm Campbell and his 350-horsepower Sunbeam car named Blue Bird, hoped to use the seven miles of Pendine Sands in Carmarthenshire to break the 150mph (241km/h) barrier in a car for the first time.\nHe had already set - and lost - the world land-speed record several times before, but in front of the world's media, he looked to smash through a target which nobody was sure was possible.\nBut it was. Over two runs on 21 July 1925, he recorded an average speed of 150.766mph, catapulting him to international stardom.\nNow, 100 years later, Blue Bird will be back at Pendine to mark the historic achievement.\nImage source,\nNational Motor Museum, Beaulieu\nImage caption,\nMalcolm Campbell sitting in Blue Bird ahead of his world land-speed attempt on 21 July 1925\nIt will be wheeled on to the beach for a ceremonial start-up in front of Sir Malcolm's grandson, Don Wales.\nMr Wales is just one part of Sir Malcolm's record breaking lineage.\nDonald Campbell, Sir Malcolm's son, was the only man to hold both the land and water-speed records at the same time, before he was killed at Coniston Water in the Lake District in 1967 in another record attempt.\nHis daughter Gina broke the women's world water speed record.\nWhile Mr Wales, Donald Campbell's nephew, has previously held UK and world records for the fastest electric car, steam-powered car and quickest lawnmower on Earth.\nSpeed record attempt photo sold\nPublished\n28 December 2015\nPendine racer's building honour\nPublished\n21 July 2010\nBlue Bird back to sands of triumph\nPublished\n21 July 2015\nMr Wales said: \"There's just something in our genes, I think it was Grandad's buccaneering Scottish ancestors.\n\"We're all family people, but when the red mist of racing descends, nothing matters more than burying our right foot and seeing how fast our vehicles, talent and bravery can take us.\"\nMr Wales said he thought his grandfather was unprepared for the fame the feat would bring him.\n\"He went from an aside on the back pages to the main headline in every paper, he had congratulations from the King, and suddenly everyone wanted",
+        "topics": [
+          "speed",
+          "more to explore",
+          "record",
+          "most read",
+          "wales",
+          "best of the bbc",
+          "blue",
+          "related topics",
+          "bird",
+          "world",
+          "land",
+          "bbc news services",
+          "image",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/wales/south_east_wales",
+          "https://bbc.co.uk/news/entertainment_and_arts",
+          "https://bbc.co.uk/news/topics/c8nq32jw58pt",
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/uk-wales-south-west-wales-33606932"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:46:46.033598",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:46:48.457365",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_36069",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/entertainment_and_arts",
+        "keywords": [
+          "july",
+          "published",
+          "attribution",
+          "features & analysis",
+          "news"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Culture | Latest News & Updates | BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nCulture\nCulture\nFollow\nCulture\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Culture\nUpdates from your News topics will appear in\nMy News\nand in a collection on the\nNews homepage\n.\nFantastic Four and Pok\u00e9mon Presents: What's coming up this week?\nMadonna is also in the (re)mix this week, while Happy Gilmore returns to the greens after 30 years.\nAttribution\nCulture\nPosted\n23 hours ago\n23h\nPerformer unfurls Palestinian flag on Royal Opera House stage\nAttribution\nUK\nPosted\n2 minutes ago\n2min\nIs this the death of the late night US chat show?\nAttribution\nCulture\nPosted\n1 day ago\n1d\nWayne and Coleen Rooney made heroes of Lord of the Rings spoof\nAttribution\nCulture\nPosted\n1 day ago\n1d\nMasterChef crisis: Wallace and Torode were 'never friends'\nAttribution\nCulture\nPosted\n1 day ago\n1d\nUS tech CEO suspended after Coldplay concert embrace goes viral\nAttribution\nUS & Canada\nPosted\n1 day ago\n1d\nPolice drop investigation into Kneecap's Glastonbury performance\nAttribution\nNorthern Ireland\nPosted\n1 day ago\n1d\nTrusting The Salt Path author was our biggest mistake, family says\nAttribution\nWales\nPosted\n2 days ago\n2d\nWhy 2025 is a scarily good year for horror movies\nAttribution\nNewsbeat\nPosted\n1 day ago\n1d\nOriginal Balamory stars return for new CBeebies series\nAttribution\nGlasgow & West Scotland\nPosted\n2 days ago\n2d\nColbert says The Late Show will end after 33 years\nAttribution\nUS & Canada\nPosted\n2 days ago\n2d\nActor Toby Jones awarded honorary doctorate\nAttribution\nStoke & Staffordshire\nPosted\n2 days ago\n2d\nFeatures & analysis\nThe art made out of plastic bottles and old toys\nAttribution\nEngland\nPosted\n1 day ago\n1d\nUnder-pressure BBC boss getting tough after controversies\nAttribution\nCulture\nPosted\n4 days ago\n4d\nBBC pay 2024-2025: The full list of star salaries\nAttribution\nCulture\nPosted\n4 days ago\n4d\nWho's missing from the BBC salaries list, and why?\nAttribution\nCulture\nPosted\n4 days ago\n4d\nBBC's twin-crises prompt apologies and promises - but will they work?\nAttribution\nCulture\nPosted\n5 days ago\n5d\nWatch/Listen\nWatch: Fire engulfs main stage of Tomorrowland music festival. Video, 00:00:43\nWatch: Fire engulfs main stage of Tomorrowland music festival\nAttribution\nEurope\nPosted\n3 days ago\n3d\n0:43\nWatch: How do you get a phone call with the president? Video, 00:02:05\nWatch: How do you get a phone call with the president?\nAttribution\nUS & Canada\nPosted\n4 days ago\n4d\n2:05\nWatch: Timeline of the allegations against Gregg Wallace. Video, 00:01:52\nWatch: Timeline of the allegations against Gregg Wallace\nAtt",
+        "topics": [
+          "july",
+          "published",
+          "attribution",
+          "features & analysis",
+          "news",
+          "best of the bbc",
+          "culture",
+          "days",
+          "posted",
+          "latest updates",
+          "watch/listen",
+          "festival"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/england/hampshire",
+          "https://bbc.co.uk/news/entertainment_and_arts",
+          "https://bbc.co.uk/news/articles/c9w1e9gvey9o",
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/articles/cy7n3epl1yxo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:46:48.456068",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:46:48.457580",
+      "quality_score": 1.0
+    }
+  ],
+  "summary": {
+    "total_nodes": 6,
+    "average_relevance": 10.0,
+    "max_relevance": 10.0,
+    "unique_topics": 68,
+    "total_topics": 97,
+    "depth_distribution": {
+      "0": 1,
+      "1": 5
+    },
+    "high_relevance_pages": 6
+  }
+}

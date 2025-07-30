@@ -1,0 +1,603 @@
+{
+  "timestamp": "2025-07-26T12:00:01.549641",
+  "entry_points": [
+    "https://wiki.archlinux.org/title/Flatpak",
+    "https://wiki.archlinux.org/title/Bubblewrap",
+    "https://wiki.archlinux.org/title/Sandboxing",
+    "https://wiki.archlinux.org/title/Application_sandboxing",
+    "https://wiki.archlinux.org/title/Package_management"
+  ],
+  "total_pages_scraped": 25,
+  "knowledge_nodes": [],
+  "corpus_entries": [
+    {
+      "id": "archwiki_flatpak_53985",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Flatpak",
+        "keywords": [
+          "flatpak\nis",
+          "downgrade a runtime or application",
+          "permission denied error when running flatpak applications",
+          "managing repositories",
+          "automatic updates via systemd"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:03.476920",
+        "depth": 0,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_65702",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=history",
+        "keywords": [
+          "15 may 2023",
+          "21 september 2024",
+          "revisions",
+          "edit",
+          "4 november 2024"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.20466347622441705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:07.210702",
+        "depth": 1,
+        "relevance_score": 2.0466347622441705
+      },
+      "quality_score": 0.20466347622441705
+    },
+    {
+      "id": "archwiki_flatpak_57376",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=837595&oldid=778200",
+        "keywords": [
+          "visual",
+          "revision",
+          "downgrade a runtime or application",
+          "permission denied error when running flatpak applications",
+          "edit"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8575616906914245
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:09.274429",
+        "depth": 2,
+        "relevance_score": 8.575616906914245
+      },
+      "quality_score": 0.8575616906914245
+    },
+    {
+      "id": "archwiki_flatpak_32128",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=778200",
+        "keywords": [
+          "visual",
+          "revision",
+          "flatpak\nis",
+          "downgrade a runtime or application",
+          "revision as of 14:29, 16 may 2023"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.879385137683893
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:11.286263",
+        "depth": 3,
+        "relevance_score": 8.79385137683893
+      },
+      "quality_score": 0.879385137683893
+    },
+    {
+      "id": "archwiki_flatpak_41063",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit",
+        "keywords": [
+          "edit",
+          "flatpak which",
+          "view source for flatpak",
+          "flatpak permission",
+          "docs.flatpak"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.7969122911694511
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:14.797893",
+        "depth": 3,
+        "relevance_score": 7.969122911694511
+      },
+      "quality_score": 0.7969122911694511
+    },
+    {
+      "id": "archwiki_flatpak_57476",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=780581",
+        "keywords": [
+          "visual",
+          "revision",
+          "flatpak\nis",
+          "revision as of 21:35, 7 june 2023",
+          "downgrade a runtime or application"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8819105783692631
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:16.773092",
+        "depth": 2,
+        "relevance_score": 8.819105783692631
+      },
+      "quality_score": 0.8819105783692631
+    },
+    {
+      "id": "archwiki_flatpak_97704",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=780580",
+        "keywords": [
+          "visual",
+          "revision",
+          "flatpak\nis",
+          "downgrade a runtime or application",
+          "edit"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8786803667695711
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:20.633290",
+        "depth": 3,
+        "relevance_score": 8.786803667695711
+      },
+      "quality_score": 0.8786803667695711
+    },
+    {
+      "id": "archwiki_flatpak_87246",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit&oldid=780581",
+        "keywords": [
+          "edit",
+          "flatpak which",
+          "flatpak sandbox",
+          "view source for flatpak",
+          "flatpak frontend"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8120193915078572
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:22.442892",
+        "depth": 3,
+        "relevance_score": 8.120193915078572
+      },
+      "quality_score": 0.8120193915078572
+    },
+    {
+      "id": "archwiki_flatpak_14086",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=829349",
+        "keywords": [
+          "visual",
+          "revision",
+          "flatpak\nis",
+          "downgrade a runtime or application",
+          "permission denied error when running flatpak applications"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8253743170538433
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:24.583931",
+        "depth": 2,
+        "relevance_score": 8.253743170538433
+      },
+      "quality_score": 0.8253743170538433
+    },
+    {
+      "id": "archwiki_flatpak_98918",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=829348",
+        "keywords": [
+          "visual",
+          "revision",
+          "flatpak\nis",
+          "downgrade a runtime or application",
+          "permission denied error when running flatpak applications"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8597743884405764
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:26.548683",
+        "depth": 3,
+        "relevance_score": 8.597743884405764
+      },
+      "quality_score": 0.8597743884405764
+    },
+    {
+      "id": "archwiki_flatpak_33551",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Talk:Flatpak",
+        "keywords": [
+          "discussion",
+          "flatpak applications",
+          "february",
+          "flatpak search",
+          "latest"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.5169082125603863
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:29.938580",
+        "depth": 3,
+        "relevance_score": 5.169082125603864
+      },
+      "quality_score": 0.5169082125603863
+    },
+    {
+      "id": "archwiki_flatpak_55462",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=837595&oldid=791839",
+        "keywords": [
+          "visual",
+          "revision",
+          "downgrade a runtime or application",
+          "permission denied error when running flatpak applications",
+          "edit"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8540262504434196
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:31.938760",
+        "depth": 2,
+        "relevance_score": 8.540262504434196
+      },
+      "quality_score": 0.8540262504434196
+    },
+    {
+      "id": "archwiki_flatpak_63433",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit&oldid=791839",
+        "keywords": [
+          "edit",
+          "flatpak which",
+          "view source for flatpak",
+          "flatpak permission",
+          "docs.flatpak"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.7989409094729766
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:35.443399",
+        "depth": 3,
+        "relevance_score": 7.989409094729766
+      },
+      "quality_score": 0.7989409094729766
+    },
+    {
+      "id": "archwiki_flatpak_66440",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=810627",
+        "keywords": [
+          "flatpak\nis",
+          "downgrade a runtime or application",
+          "managing repositories",
+          "automatic updates via systemd",
+          "xdg-desktop-portal is failing to start"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8561053954657604
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:37.462594",
+        "depth": 2,
+        "relevance_score": 8.561053954657604
+      },
+      "quality_score": 0.8561053954657604
+    },
+    {
+      "id": "archwiki_flatpak_57440",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=next&oldid=810627",
+        "keywords": [
+          "visual",
+          "revision",
+          "flatpak install",
+          "flatpak\nis",
+          "downgrade a runtime or application"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8444893491622464
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:39.453352",
+        "depth": 3,
+        "relevance_score": 8.444893491622464
+      },
+      "quality_score": 0.8444893491622464
+    },
+    {
+      "id": "archwiki_flatpak_90073",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=cur&oldid=810627",
+        "keywords": [
+          "visual",
+          "revision",
+          "downgrade a runtime or application",
+          "permission denied error when running flatpak applications",
+          "edit"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8464332686165215
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:41.484672",
+        "depth": 3,
+        "relevance_score": 8.464332686165214
+      },
+      "quality_score": 0.8464332686165215
+    },
+    {
+      "id": "archwiki_flatpak_4652",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Bubblewrap",
+        "keywords": [
+          "flatpak\nand",
+          "using x11",
+          "firejail",
+          "lightweight",
+          "opening urls from wrapped applications"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.4697715171530633
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:45.051708",
+        "depth": 0,
+        "relevance_score": 4.697715171530633
+      },
+      "quality_score": 0.4697715171530633
+    },
+    {
+      "id": "archwiki_flatpak_3334",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Category:Sandboxing",
+        "keywords": [
+          "pages in category \"sandboxing\"",
+          "pages",
+          "firejail",
+          "category",
+          "systemd/sandboxing"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:46.838226",
+        "depth": 1,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_15970",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Systemd/Sandboxing",
+        "keywords": [
+          "harden",
+          "cgroups",
+          "enabling more unit statistics",
+          "firejail",
+          "systemd/sandboxing"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.1891944606982641
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:52.060993",
+        "depth": 2,
+        "relevance_score": 1.8919446069826409
+      },
+      "quality_score": 0.1891944606982641
+    },
+    {
+      "id": "archwiki_flatpak_33612",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Systemd/Sandboxing&action=info",
+        "keywords": [
+          "page properties",
+          "title",
+          "information for \"systemd/sandboxing\"",
+          "basic information",
+          "basic"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.40612516644474034
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:53.832965",
+        "depth": 3,
+        "relevance_score": 4.061251664447403
+      },
+      "quality_score": 0.40612516644474034
+    },
+    {
+      "id": "archwiki_flatpak_96276",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Systemd/Sandboxing&action=history",
+        "keywords": [
+          "systemd/sandboxing: revision history",
+          "23 november 2024",
+          "3 june 2024",
+          "revisions",
+          "edit"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11387649683024181
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:57.500382",
+        "depth": 3,
+        "relevance_score": 1.1387649683024181
+      },
+      "quality_score": 0.11387649683024181
+    },
+    {
+      "id": "archwiki_flatpak_79751",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&oldid=836566",
+        "keywords": [
+          "pages in category \"sandboxing\"",
+          "pages",
+          "firejail",
+          "category",
+          "systemd/sandboxing"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:00:59.243324",
+        "depth": 2,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_11544",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&diff=prev&oldid=836566",
+        "keywords": [
+          "visual",
+          "revision",
+          "edit",
+          "view",
+          "pages in category \"sandboxing\""
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.9339622641509433
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:01:02.737259",
+        "depth": 3,
+        "relevance_score": 9.339622641509433
+      },
+      "quality_score": 0.9339622641509433
+    },
+    {
+      "id": "archwiki_flatpak_96399",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Security#Sandboxing_applications",
+        "keywords": [
+          "boot partition on removable flash drive",
+          "mount options",
+          "disable kexec",
+          "authentication",
+          "suid and sgid files"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11219594439250187
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:01:04.706435",
+        "depth": 1,
+        "relevance_score": 1.1219594439250187
+      },
+      "quality_score": 0.11219594439250187
+    },
+    {
+      "id": "archwiki_flatpak_4700",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/XDG_Desktop_Portal",
+        "keywords": [
+          "flatpak\npipewire",
+          "xdg desktop portal",
+          "gtk (possibly others) file chooser not working",
+          "screen",
+          "using multiple monitors with xdg-desktop-portal-wlr"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6164461033819705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-26T12:01:06.551536",
+        "depth": 1,
+        "relevance_score": 6.164461033819705
+      },
+      "quality_score": 0.6164461033819705
+    }
+  ],
+  "summary": {
+    "total_nodes": 25,
+    "average_relevance": 6.676417444060138,
+    "max_relevance": 9.339622641509433,
+    "unique_topics": 198,
+    "total_topics": 480,
+    "depth_distribution": {
+      "0": 2,
+      "1": 4,
+      "2": 7,
+      "3": 12
+    },
+    "high_relevance_pages": 19
+  }
+}

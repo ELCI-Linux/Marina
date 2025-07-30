@@ -1,0 +1,425 @@
+{
+  "timestamp": "2025-07-21T19:38:20.950453",
+  "root_url": "https://www.legislation.gov.uk/primary+secondary?title=employment",
+  "keywords": [
+    "employment law"
+  ],
+  "enhanced_keywords": [
+    [
+      "employment law consolidation legislation.gov.uk",
+      1.0
+    ],
+    [
+      "discrimination law legislation",
+      1.0
+    ],
+    [
+      "employment law acts",
+      1.0
+    ],
+    [
+      "ACAS legislation",
+      1.0
+    ],
+    [
+      "national minimum wage act legislation",
+      1.0
+    ],
+    [
+      "employment law statutes",
+      1.0
+    ],
+    [
+      "employment law legislation",
+      1.0
+    ],
+    [
+      "employment law regulations",
+      1.0
+    ],
+    [
+      "working time regulations",
+      1.0
+    ],
+    [
+      "maternity rights legislation",
+      1.0
+    ]
+  ],
+  "total_pages_scraped": 6,
+  "knowledge_nodes": [
+    {
+      "url": "https://www.legislation.gov.uk/primary+secondary?title=employment",
+      "title": "Legislation.gov.uk",
+      "relevance_score": 2.0,
+      "topics_count": 18,
+      "depth": 0
+    },
+    {
+      "url": "https://www.legislation.gov.uk/search",
+      "title": "Legislation.gov.uk",
+      "relevance_score": 2.0,
+      "topics_count": 15,
+      "depth": 1
+    },
+    {
+      "url": "https://www.legislation.gov.uk/research-tools",
+      "title": "Research tools",
+      "relevance_score": 2.0,
+      "topics_count": 17,
+      "depth": 2
+    },
+    {
+      "url": "https://www.legislation.gov.uk/new-design",
+      "title": "New site design",
+      "relevance_score": 2.0,
+      "topics_count": 11,
+      "depth": 3
+    },
+    {
+      "url": "https://www.legislation.gov.uk/help",
+      "title": "Help",
+      "relevance_score": 3.5,
+      "topics_count": 15,
+      "depth": 4
+    },
+    {
+      "url": "https://www.legislation.gov.uk/eu-legislation-and-uk-law#revisinglegislation",
+      "title": "EU legislation and UK law",
+      "relevance_score": 3.0,
+      "topics_count": 14,
+      "depth": 5
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_52549",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/primary+secondary?title=employment",
+        "keywords": [
+          "general",
+          "narrow results by:",
+          "search legislation",
+          "ireland",
+          "page"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.2
+      },
+      "content": {
+        "title": "Legislation.gov.uk",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nSearch Results\nYour title search for employment in the English language of Primary and Secondary Legislation has returned more than 200  results.\nSearch Welsh language text for 'employment'\nThis is results page\n1\nResults page\n2\nResults page\n3\nResults page\n4\nResults page\n5\nResults page\n6\nResults page\n7\nResults page\n8\nResults page\n9\nResults page\n10\nNext\nresults page\nNarrow results by:\nLegislation by Type\nBrowse by\nAny type\nUK Statutory Instruments (767)\nNorthern Ireland Statutory Rules (272)\nNorthern Ireland Statutory Rules and Orders (136)\nUK Public General Acts (118)\nNorthern Ireland Orders in Council (17)\nActs of the Northern Ireland Assembly (5)\nScottish Statutory Instruments (5)\nActs of the Northern Ireland Parliament (2)\nUK Statutory Rules and Orders (2)\nWales Statutory Instruments (2)\nLegislation by Year\n2025 (6)\n2024 (16)\n2023 (9)\n2022 (15)\n2021 (20)\n2020 (22)\n2019 (12)\n2018 (14)\n2017 (14)\n2016 (24)\n2015 (22)\n2014 (22)\n2013 (21)\n2012 (15)\n2011 (21)\n2010 (24)\n2009 (11)\n2008 (28)\n2007 (18)\n2006 (23)\n2005 (29)\n2004 (38)\n2003 (33)\n200",
+        "topics": [
+          "general",
+          "narrow results by:",
+          "search legislation",
+          "ireland",
+          "page",
+          "public",
+          "employment",
+          "northern",
+          "parliament",
+          "results",
+          "legislation.gov.uk",
+          "legislation",
+          "assembly",
+          "statutory",
+          "legislation by year",
+          "legislation by type",
+          "search results",
+          "acts"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/ukpga/1996/17/contents",
+          "https://www.legislation.gov.uk/ukpga/1993/19/contents",
+          "https://www.legislation.gov.uk/ukpga/1989/38/contents",
+          "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&page=10"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:38:22.556582",
+          "depth": 0,
+          "relevance_score": 2.0
+        }
+      },
+      "timestamp": "2025-07-21T19:38:30.311640",
+      "quality_score": 0.2
+    },
+    {
+      "id": "news_60353",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/search",
+        "keywords": [
+          "language of legislation text",
+          "number",
+          "search legislation",
+          "search",
+          "ireland"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.2
+      },
+      "content": {
+        "title": "Legislation.gov.uk",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nAdvanced Search - General search\nFind legislation\nGeneral\nGeographical Extent\nPoint in Time\nDraft Legislation\nImpact Assessments\nSearch Form\nTitle:\n(or keywords in the title)\nKeywords in content:\n(using double quotes around a phrase will give faster results)\nLanguage of legislation text\nSearch English language text\n(searches all English text, including in Welsh legislation)\nSearch Welsh language text\n(only searches Welsh language text in Welsh legislation)\nYear:\nSpecific Year\nSpecific Year\nRange\nFrom\nTo\nNumber:\nMain\nWelsh\nScottish\nN.I.\nCommencement\nLegal\nSeries Number\nType:\nAll Legislation\nAll Primary\nAll Secondary\nAll Legislation originating from the EU\nSelect types\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliam",
+        "topics": [
+          "language of legislation text",
+          "number",
+          "search legislation",
+          "search",
+          "ireland",
+          "parliament",
+          "northern",
+          "title",
+          "legislation.gov.uk",
+          "legislation",
+          "find legislation",
+          "statutory",
+          "search form",
+          "originating",
+          "acts"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/research-tools",
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/search/point-in-time",
+          "https://www.legislation.gov.uk/new-design",
+          "https://www.legislation.gov.uk/help"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:38:24.097891",
+          "depth": 1,
+          "relevance_score": 2.0
+        }
+      },
+      "timestamp": "2025-07-21T19:38:30.312041",
+      "quality_score": 0.2
+    },
+    {
+      "id": "news_12832",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/research-tools",
+        "keywords": [
+          "changes to legislation",
+          "find",
+          "find case law",
+          "advanced search",
+          "changes"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.2
+      },
+      "content": {
+        "title": "Research tools",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nHome\nResearch tools\nResearch tools\nThe Changes To Legislation search tool is a great way to discover how a piece of legislation has changed, and has been changed by, other legislation and the Advanced Search provides extra ways to find legislation by type, or by a range of years. You can now access judgments and decisions to see how legislation has been applied and interpreted in courts and tribunals by visiting the Find Case Law website.\nAdvanced search\nSearch for keywords in content, Welsh language legislation, legislation with specific geographical extent, and more.\nChanges to legislation\nA search tool to find all changes made to or by specific pieces or types of legislation.\nChanges to Local, and Private and Personal Acts\nChronological lists detailing changes to Local, and Private and Personal Acts, between 1539 and 2008.\nFind case law\nPublic access to court judgments and tribunal decisions is an essential part of interpreting legislation. Explore The National Archives\u2019 Find Case Law service.\nNew site design\nHelp\nAbout us\nSite map\nA",
+        "topics": [
+          "changes to legislation",
+          "find",
+          "find case law",
+          "advanced search",
+          "changes",
+          "search legislation",
+          "search",
+          "ireland",
+          "parliament",
+          "northern",
+          "research tools",
+          "legislation.gov.uk",
+          "legislation",
+          "instruments",
+          "statutory",
+          "originating",
+          "acts"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/research-tools",
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/new-design",
+          "https://www.legislation.gov.uk/help",
+          "https://www.legislation.gov.uk/explore"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:38:25.633964",
+          "depth": 2,
+          "relevance_score": 2.0
+        }
+      },
+      "timestamp": "2025-07-21T19:38:30.312282",
+      "quality_score": 0.2
+    },
+    {
+      "id": "news_73890",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/new-design",
+        "keywords": [
+          "search legislation",
+          "content",
+          "design",
+          "parliament",
+          "northern"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.2
+      },
+      "content": {
+        "title": "New site design",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nSection Navigation\nWhy we have changed the design\nWhat has stayed the same\nWhat improvements the new design brings\nBack to top\nIntroducing our new legislation.gov.uk design\nWhy we have changed the design\nThe design of the legislation.gov.uk website has remained largely the same for the last decade, since its release. Over that period, desktop screens have got larger, technology has changed to allow us to present things in a clearer way, and design aesthetics have changed.\nFor some time you have been asking for a more up-to-date website, one that has a larger text size, to make it easier to read. We always listen to what you tell us and we have been working to make some changes to the website to accommodate your requests.\nWhat has stayed the same\nAll of the legislation content and all of the functionality you are used to has stayed the same. The new design is purely that - a change to its appearance; everything works in the same way that you are familiar with.\nOur website - whilst viewable on mobile devices - is not yet optimised for mob",
+        "topics": [
+          "search legislation",
+          "content",
+          "design",
+          "parliament",
+          "northern",
+          "ireland",
+          "legislation.gov.uk",
+          "legislation",
+          "statutory",
+          "section navigation",
+          "acts"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/research-tools",
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/new-design",
+          "https://www.legislation.gov.uk/help",
+          "https://www.legislation.gov.uk/explore"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:38:27.179807",
+          "depth": 3,
+          "relevance_score": 2.0
+        }
+      },
+      "timestamp": "2025-07-21T19:38:30.312561",
+      "quality_score": 0.2
+    },
+    {
+      "id": "news_49156",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/help",
+        "keywords": [
+          "using legislation.gov.uk",
+          "legislation.gov.uk",
+          "legislation",
+          "frequently asked questions (faqs)",
+          "q. what are annotations?"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.35
+      },
+      "content": {
+        "title": "Help",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nSection Navigation\nFrequently Asked Questions (FAQs)\nGlossary\nGuide to Revised Legislation on legislation.gov.uk\nStatutory Instrument Practice\nBack to top\nHelp\nFrequently Asked Questions (FAQs)\nLegislation content on this website\nWhat legislation is held on\n\t\t\tlegislation.gov.uk?\nWill I find new legislation on\n\t\t\tlegislation.gov.uk?\nWhy isn't the legislation I am\n\t\t\tlooking for on this site?\nHow can I access legislation\n\t\t\tthat isn\u2019t available on legislation.gov.uk?\nWhat legislation is available as\n\t\t\trevised?\nHow up to date is the revised content on\n\t\t\tthis website?\nHow will I know if the legislation I\n\t\t\tam viewing is up to date or if there are changes (e.g.\n\t\t\teffects or amendments) that have not yet been applied to it?\nHow up to date are the lists of\n\t\t\toutstanding changes in the Changes to Legislation box at\n\t\t\tthe top of legislation items?\nWho produces the latest revised\n\t\t\tversion of the legislation?\nUsing legislation.gov.uk\nHow do I open a whole Act on\n\t\t\tlegislation.gov.uk?\nI don't understand the tooltips, where\n\t\t\tcan I get mo",
+        "topics": [
+          "using legislation.gov.uk",
+          "legislation.gov.uk",
+          "legislation",
+          "frequently asked questions (faqs)",
+          "q. what are annotations?",
+          "section navigation",
+          "northern",
+          "glossary",
+          "revised",
+          "statutory",
+          "search legislation",
+          "help with legislation",
+          "ireland",
+          "statutory instrument practice",
+          "acts"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/eu-legislation-and-uk-law#revisinglegislation",
+          "https://www.legislation.gov.uk/eu-legislation-and-uk-law",
+          "https://www.legislation.gov.uk/",
+          "https://www.legislation.gov.uk/changes"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:38:28.771029",
+          "depth": 4,
+          "relevance_score": 3.5
+        }
+      },
+      "timestamp": "2025-07-21T19:38:30.312825",
+      "quality_score": 0.35
+    },
+    {
+      "id": "news_1260",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/eu-legislation-and-uk-law#revisinglegislation",
+        "keywords": [
+          "exemptions and exceptions",
+          "legislation.gov.uk",
+          "legislation",
+          "european",
+          "citation, numbering and search"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.3
+      },
+      "content": {
+        "title": "EU legislation and UK law",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nSection Navigation\nLegislation originating from the European Union\nEU Exit Arrangements\nFinding the right version of legislation originating from the EU\nRevising legislation originating from the EU\nSelecting legislation originating from the EU to publish on legislation.gov.uk\nCitation, Numbering and Search\nBack to top\nEU legislation and UK law\nThe UK is no longer a member of the European Union. EU legislation as it applied to the UK on 31 December 2020 became part of UK domestic legislation under the control of the UK\u2019s Parliaments and Assemblies, and is published on legislation.gov.uk. It is being kept up to date on legislation.gov.uk in the same way as other forms of domestic legislation. The information below will help you understand what we have published, and how to find the legislation you need.\nLegislation originating from the EU published on legislation.gov.uk covers a wide range of subjects, from trade to travel. Changes to these laws may affect your business, family or personal circumstances. If you are looking for government ",
+        "topics": [
+          "exemptions and exceptions",
+          "legislation.gov.uk",
+          "legislation",
+          "european",
+          "citation, numbering and search",
+          "originating",
+          "union",
+          "section navigation",
+          "published",
+          "search legislation",
+          "eu exit web archive",
+          "withdrawal",
+          "eu exit arrangements",
+          "exit"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/ukpga/2020/29/contents",
+          "https://www.legislation.gov.uk/ukpga/1972/68/section/2",
+          "https://www.legislation.gov.uk/eu-legislation-and-uk-law#revisinglegislation",
+          "https://www.legislation.gov.uk/"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:38:30.311272",
+          "depth": 5,
+          "relevance_score": 3.0
+        }
+      },
+      "timestamp": "2025-07-21T19:38:30.313069",
+      "quality_score": 0.3
+    }
+  ],
+  "summary": {
+    "total_nodes": 6,
+    "average_relevance": 2.4166666666666665,
+    "max_relevance": 3.5,
+    "unique_topics": 51,
+    "total_topics": 90,
+    "depth_distribution": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "high_relevance_pages": 0
+  },
+  "rejected_sources": 13
+}

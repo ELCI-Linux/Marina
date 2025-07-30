@@ -1,0 +1,350 @@
+{
+  "timestamp": "2025-07-24T15:40:06.136922",
+  "entry_points": [
+    "https://wiki.archlinux.org/title/Flatpak",
+    "https://wiki.archlinux.org/title/Bubblewrap",
+    "https://wiki.archlinux.org/title/Sandboxing",
+    "https://wiki.archlinux.org/title/Application_sandboxing",
+    "https://wiki.archlinux.org/title/Package_management"
+  ],
+  "total_pages_scraped": 14,
+  "knowledge_nodes": [],
+  "corpus_entries": [
+    {
+      "id": "archwiki_flatpak_63158",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Flatpak",
+        "keywords": [
+          "flatpak which",
+          "links fail to open on wlroots-based compositors",
+          "run applications",
+          "downgrade a runtime or application",
+          "articles"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:10.647868",
+        "depth": 0,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_34487",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=837595",
+        "keywords": [
+          "flatpak which",
+          "links fail to open on wlroots-based compositors",
+          "run applications",
+          "downgrade a runtime or application",
+          "articles"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:13.171978",
+        "depth": 1,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_88651",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Security#Sandboxing_applications",
+        "keywords": [
+          "enforce a delay after a failed login attempt",
+          "grub",
+          "proxies",
+          "firewalls",
+          "disable kexec"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11219594439250187
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:18.267675",
+        "depth": 2,
+        "relevance_score": 1.1219594439250187
+      },
+      "quality_score": 0.11219594439250187
+    },
+    {
+      "id": "archwiki_flatpak_95249",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Systemd/Sandboxing",
+        "keywords": [
+          "configurable directives",
+          "articles",
+          "general",
+          "harden",
+          "contents"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.1891944606982641
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:20.508225",
+        "depth": 3,
+        "relevance_score": 1.8919446069826409
+      },
+      "quality_score": 0.1891944606982641
+    },
+    {
+      "id": "archwiki_flatpak_28428",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit",
+        "keywords": [
+          "flatpak which",
+          "org.mydomain.baseplatform",
+          "org.freedesktop.basesdk",
+          "docs.flatpak",
+          "have"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.7969122911694511
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:24.576008",
+        "depth": 2,
+        "relevance_score": 7.969122911694511
+      },
+      "quality_score": 0.7969122911694511
+    },
+    {
+      "id": "archwiki_flatpak_63088",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=history",
+        "keywords": [
+          "revisions",
+          "5 november 2023",
+          "26 october 2024",
+          "14 april 2025",
+          "4 november 2024"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.20466347622441705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:31.046154",
+        "depth": 3,
+        "relevance_score": 2.0466347622441705
+      },
+      "quality_score": 0.20466347622441705
+    },
+    {
+      "id": "archwiki_flatpak_6835",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Talk:Flatpak",
+        "keywords": [
+          "talk:flatpak",
+          "why is an arch-based runtime unsuitable?",
+          "flatpak applications",
+          "to do",
+          "comments"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.5169082125603863
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:33.148755",
+        "depth": 3,
+        "relevance_score": 5.169082125603864
+      },
+      "quality_score": 0.5169082125603863
+    },
+    {
+      "id": "archwiki_flatpak_96701",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Bubblewrap",
+        "keywords": [
+          "lightweight",
+          "articles",
+          "sandbox",
+          "configuration",
+          "contents"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.4697715171530633
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:37.177714",
+        "depth": 0,
+        "relevance_score": 4.697715171530633
+      },
+      "quality_score": 0.4697715171530633
+    },
+    {
+      "id": "archwiki_flatpak_83400",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Category:Sandboxing",
+        "keywords": [
+          "bubblewrap/examples",
+          "pages",
+          "security",
+          "kata containers",
+          "waydroid"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:40.208555",
+        "depth": 1,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_12418",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Special:WhatLinksHere/Category:Sandboxing",
+        "keywords": [
+          "links",
+          "whatlinkshere",
+          "target",
+          "page",
+          "pages that link to \"category:sandboxing\""
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.43
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:43.592724",
+        "depth": 2,
+        "relevance_score": 4.3
+      },
+      "quality_score": 0.43
+    },
+    {
+      "id": "archwiki_flatpak_2631",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Special:WhatLinksHere/Category:Sandboxing&limit=250",
+        "keywords": [
+          "links",
+          "whatlinkshere",
+          "target",
+          "page",
+          "pages that link to \"category:sandboxing\""
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.43
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:48.758364",
+        "depth": 3,
+        "relevance_score": 4.3
+      },
+      "quality_score": 0.43
+    },
+    {
+      "id": "archwiki_flatpak_98190",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Special:WhatLinksHere/Category:Sandboxing&limit=500",
+        "keywords": [
+          "links",
+          "whatlinkshere",
+          "target",
+          "page",
+          "pages that link to \"category:sandboxing\""
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.43
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:52.675210",
+        "depth": 3,
+        "relevance_score": 4.3
+      },
+      "quality_score": 0.43
+    },
+    {
+      "id": "archwiki_flatpak_42018",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&oldid=836566",
+        "keywords": [
+          "bubblewrap/examples",
+          "pages",
+          "security",
+          "kata containers",
+          "waydroid"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:40:56.785529",
+        "depth": 2,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_90224",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/XDG_Desktop_Portal",
+        "keywords": [
+          "articles",
+          "force desktop environment",
+          "backends",
+          "configuration",
+          "from"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6164461033819705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-24T15:41:07.543398",
+        "depth": 1,
+        "relevance_score": 6.164461033819705
+      },
+      "quality_score": 0.6164461033819705
+    }
+  ],
+  "summary": {
+    "total_nodes": 14,
+    "average_relevance": 5.134760908938629,
+    "max_relevance": 8.562866334670135,
+    "unique_topics": 153,
+    "total_topics": 232,
+    "depth_distribution": {
+      "0": 2,
+      "1": 3,
+      "2": 4,
+      "3": 5
+    },
+    "high_relevance_pages": 7
+  }
+}

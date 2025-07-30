@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<map version="1.1">
+  <node id="1" side="right" color="#FF6B6B" folded="false" text="employment law Research (6 pages)">
+    <node id="2" side="right" color="#4ECDC4" folded="false" text="Knowledge Structure (6 levels)">
+      <node id="3" side="right" color="#45B7D1" folded="false" text="Level 0 (1 pages)">
+        <node id="4" side="right" color="#96CEB4" folded="false" text="Legislation.gov.uk (Score: 2.0)"/>
+      </node>
+      <node id="5" side="right" color="#45B7D1" folded="false" text="Level 1 (1 pages)">
+        <node id="6" side="right" color="#96CEB4" folded="false" text="Legislation.gov.uk (Score: 2.0)"/>
+      </node>
+      <node id="7" side="right" color="#45B7D1" folded="false" text="Level 2 (1 pages)">
+        <node id="8" side="right" color="#96CEB4" folded="false" text="Research tools (Score: 2.0)"/>
+      </node>
+      <node id="9" side="right" color="#45B7D1" folded="false" text="Level 3 (1 pages)">
+        <node id="10" side="right" color="#96CEB4" folded="false" text="New site design (Score: 2.0)"/>
+      </node>
+    </node>
+    <node id="11" side="left" color="#45B7D1" folded="false" text="Key Topics (14 unique)">
+      <node id="12" side="right" color="#FF6B6B" folded="false" text="changes to legislation"/>
+      <node id="13" side="right" color="#4ECDC4" folded="false" text="content"/>
+      <node id="14" side="right" color="#45B7D1" folded="false" text="design"/>
+      <node id="15" side="right" color="#96CEB4" folded="false" text="exemptions and exceptions"/>
+      <node id="16" side="right" color="#FFEAA7" folded="false" text="find"/>
+      <node id="17" side="right" color="#DDA0DD" folded="false" text="find case law"/>
+      <node id="18" side="right" color="#98D8C8" folded="false" text="general"/>
+      <node id="19" side="right" color="#F7DC6F" folded="false" text="language of legislation text"/>
+    </node>
+    <node id="20" side="right" color="#96CEB4" folded="false" text="Sources (6 articles)">
+      <node id="21" side="right" color="#FFC107" folded="false" text="Legislation.gov.uk (Q: 0.20)"/>
+      <node id="22" side="right" color="#FFC107" folded="false" text="Legislation.gov.uk (Q: 0.20)"/>
+      <node id="23" side="right" color="#FFC107" folded="false" text="Research tools (Q: 0.20)"/>
+      <node id="24" side="right" color="#FFC107" folded="false" text="New site design (Q: 0.20)"/>
+      <node id="25" side="right" color="#4CAF50" folded="false" text="Help (Q: 0.35)"/>
+    </node>
+    <node id="26" side="left" color="#FFEAA7" folded="false" text="Statistics">
+      <node id="27" side="right" color="#F7DC6F" folded="false" text="Avg Relevance: 2.42"/>
+      <node id="28" side="right" color="#F7DC6F" folded="false" text="Max Relevance: 3.5"/>
+      <node id="29" side="right" color="#F7DC6F" folded="false" text="Total Topics: 51"/>
+      <node id="30" side="right" color="#F7DC6F" folded="false" text="Rejected: 13"/>
+    </node>
+  </node>
+</map>

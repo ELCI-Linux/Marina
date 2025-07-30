@@ -1,0 +1,1369 @@
+{
+  "timestamp": "2025-07-20T12:43:08.243677",
+  "root_url": "https://bbc.co.uk/sport",
+  "keywords": [
+    "sport",
+    "football",
+    "cricket",
+    "tennis",
+    "match",
+    "game"
+  ],
+  "total_pages_scraped": 23,
+  "knowledge_nodes": [
+    {
+      "url": "https://bbc.co.uk/sport",
+      "title": "BBC Sport - Scores, Fixtures, News - Live Sport",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 0
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c62z76ewgn0o",
+      "title": "Casey Stoney: Ex-England captain on rebuilding after San Diego sacking and becoming Canada boss - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 7,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cw55541e6e3o",
+      "title": "Casey Stoney: NWSL club San Diego Wave sack English coach - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/57091581",
+      "title": "Casey Stoney: Manchester United boss to leave WSL side at end of season - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+      "title": "Gaelic Games - latest GAA news, results and fixtures - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 16,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/womens",
+      "title": "Women's Football - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 22,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/american-football",
+      "title": "NFL scores, schedule & news - American Football \u2013 BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/tennis/articles/cvgnmd8v82mo",
+      "title": "Wimbledon 2025: No line judges this year, but will they be missed? - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 9,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/tennis/68450687",
+      "title": "Andrey Rublev: Russian defaulted in Dubai semi-final for yelling at line judge - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/tennis/scores-and-schedule",
+      "title": "Scores & Schedule - Tennis - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 23,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/tennis/wimbledon/scores-and-schedule",
+      "title": "Wimbledon - Scores & Schedule - Tennis - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 7,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c994dnn013ro",
+      "title": "Manchester United 0-0 Leeds: Diego Leon catches eye in friendly draw - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c0r1lx8vg7jo",
+      "title": "Man Utd transfer news: Matheus Cunha signs for \u00a362.5m from Wolves - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+      "title": "England vs India: How to solve Test cricket's slow over-rate problem - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 11,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/premier-league",
+      "title": "Premier League Football - Latest news, results, stats & transfers - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/premier-league/scores-fixtures",
+      "title": "Premier League - Scores & Fixtures - Football - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cy0yq8287weo",
+      "title": "Kevin Campbell: Wayne Rooney, Andy Cole and more discuss ex-Arsenal and Everton striker's life and death - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/teams/nottingham-forest",
+      "title": "Nottingham Forest FC - Transfer news, results, fixtures, video and audio",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/teams/sheffield-united",
+      "title": "Sheffield United FC - Transfer news, results, fixtures, video and audio",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cx23zwx798yo",
+      "title": "Marcus Rashford: Why do Barcelona want to sign the Manchester United forward? - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 10,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c0l4kpg6e93o",
+      "title": "Manchester United: Marcus Rashford, Alejandro Garnacho and Jadon Sancho among five to tell club they want to leave - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c0m1lemv8w7o",
+      "title": "Marcus Rashford: Ruben Amorim suggests he'd rather pick 63-year-old coach over forward - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 12,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/champions-league",
+      "title": "UEFA Champions League - News, Games, Results, Video Highlights & Stats",
+      "relevance_score": 10.0,
+      "topics_count": 16,
+      "depth": 2
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_10026",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport",
+        "keywords": [
+          "comments",
+          "iplayer",
+          "also in sport",
+          "more video",
+          "best of the bbc"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "BBC Sport - Scores, Fixtures, News - Live Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nSign In Banner\nDiscover your BBC\nSign in or create an account to watch, listen and join in\nSign in\nor\nRegister\nClose sign in banner\nBBC Sport\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nBBC Sport looks at where Oleksandr Usyk ranks among the all-time heavyweight greats and who in the current generation could beat him.\nAttribution\nBoxing\nPosted\n4 hours ago\n4h\nComments\n416\nLive\n.\nListen to The Open final day - Can anyone deny Scheffler a fourth major title?\nAttribution\nGolf\nLive\n.\nTour de France stage 15 - Pogacar rivals look to cut gap before rest day\nAttribution\nCycling\n'Desperation driving Australia - but it only gets you so far'\nAttribution\nBritish & Irish Lions\nPosted\n50 minutes ago\n50min\nComments\n53\nEngland overcome lightning delay to beat US\nAttribution\nEngland\nPosted\n10 hours ago\n10h\nComments\n173\nGolden Boot winner to substitute - England's Mead on role 'shift'\nAttribution\nUEFA Women's Euro\nPosted\n3 hours ago\n3h\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch. Video, 00:02:57\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\nAttribution\nBoxing\nPosted\n2 hours ago\n2h\n2:57\nPacquiao, 46, draws with Barrios in comeback fight\nAttribution\nBoxing\nPosted\n4 hours ago\n4h\nComments\n103\nHumphries suffers shock defeat in Blackpool\nAttribution\nDarts\nPosted\n14 hours ago\n14h\nComments\n33\nHeavyweight permutations - what next after Usyk win?\nAttribution\nBoxing\nPosted\n12 hours ago\n12h\nComments\n38\nHolloway retains BMF title as Poirier retires\nAttribution\nMMA\nPosted\n4 hours ago\n4h\nComments\n11\nThe Open - leaderboard\nMust-watch videos\nBerger's stunning save prevents extra-time own goal. Video, 00:00:28\nBerger's stunning save prevents extra-time own goal\nAttribution\nWomen's Football\nPosted\n13 hours ago\n13h\n0:28\n'Ivan' - Usyk nicknames punch that stopped Dubois. Video, 00:03:47\n'Ivan' - Usyk nicknames punch that stopped Dubois\nAttribution\nBoxing\nPosted\n10 hours ago\n10h\n3:47\n'Listen to that roar' - McIlroy wows the crowd with a round of 66. Video, 00:03:26\n'Listen to that roar' - McIlroy wows the crowd with a round of 66\nAttribution\nGolf\nPosted\n16 hours ago\n16h\n3:26\nBerger stars as Germany reach semi-final on penalties. Video, 00:06:41\nBerger ",
+        "topics": [
+          "comments",
+          "iplayer",
+          "also in sport",
+          "more video",
+          "best of the bbc",
+          "results",
+          "insight: must-read sports stories",
+          "more top stories",
+          "sport",
+          "play",
+          "women's summer of sport",
+          "video",
+          "football",
+          "find out more",
+          "must-watch videos",
+          "attribution",
+          "the open - leaderboard",
+          "discover your bbc",
+          "elsewhere on the bbc",
+          "england",
+          "bite-sized videos",
+          "find us here",
+          "bbc sport emails",
+          "usyk",
+          "hours"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/articles/c62z76ewgn0o",
+          "https://bbc.co.uk/sport/football/premier-league",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/iplayer/episode/m002fy6g?at_mid=r9MlPRuTwf&at_campaign=Mix_Tape&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002fy6d&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mix_Tape&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:09.502566",
+          "depth": 0,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.844394",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_46311",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c62z76ewgn0o",
+        "keywords": [
+          "related topics",
+          "'this team excites me'",
+          "their",
+          "more on this story",
+          "best of the bbc"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Casey Stoney: Ex-England captain on rebuilding after San Diego sacking and becoming Canada boss - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nWomen's Football\nScores & Fixtures\nEuro 2025\nTable\nTop Scorers\nWomen's Super League\nSport Insight\nI was effectively homeless after getting sacked - Stoney\nPublished\n2 March 2025\nImage source,\nGetty Images\nKatie Wright\nBBC Sport Senior Journalist\nCasey Stoney was only meant to be returning to England temporarily last June for a funeral when she found herself stuck in the country, along with her family, unable to go back to their home in California.\nUpon landing on British soil, the former England captain was informed by her agent that she had been\nsacked as head coach of NWSL club San Diego Wave.\n\"When I got fired, it terminated our visas with immediate effect whilst I was in the UK, pretty much rendering me and my partner homeless, with three children,\" she tells BBC Sport.\nAs she had been outside of the US when her sacking happened and her visa was dependent on her work, she had no way of returning without finding another sponsor.\nThat led to a turbulent few months for the 42-year-old, who was left questioning whether she even wanted to keep working in football.\nNow the former Manchester United boss is taking on international management for the first time in her new role as Canada coach, and is finally back to doing what she loves - getting out on the training pitch and working with her players.\n'The game chewed me up and spat me out'\nImage source,\nGetty Images\nImage caption,\nFormer England defender Casey Stoney (right) joined newly formed club San Diego Wave in June 2021\nStoney, who won 130 caps for England and captained Great Britain at the 2012 Olympics, had been in charge of San Diego Wave for nearly three years after\nresigning as Manchester United manager\nin 2021.\nThe NWSL club were a new franchise when she became head coach and she led them to third place and then top spot during the first two seasons.\nThey twice reached the semi-finals of the end-of-season play-offs, which crowns the league's champions, but her third season had not continued on the same trajectory with just three wins after 14 games.\nShe saw the job as a long-term project. She had experienced a painful spell apart from her partner, Megan, and three children - twins Teddy and Tilly and youngest ",
+        "topics": [
+          "related topics",
+          "'this team excites me'",
+          "their",
+          "more on this story",
+          "best of the bbc",
+          "sport",
+          "were"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/articles/c1vd91envz2o",
+          "https://bbc.co.uk/sport/football/articles/cw55541e6e3o",
+          "https://bbc.co.uk/sport/football/57091581",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:10.695808",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.844774",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_60134",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cw55541e6e3o",
+        "keywords": [
+          "related topics",
+          "diego",
+          "stoney",
+          "football",
+          "more on this story"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Casey Stoney: NWSL club San Diego Wave sack English coach - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nWomen's Football\nScores & Fixtures\nEuro 2025\nTable\nTop Scorers\nWomen's Super League\nStoney sacked by San Diego\nImage source,\nGetty Images\nImage caption,\nStoney's San Diego Wave side won the NWSL Challenge Cup in March\nPublished\n24 June 2024\nCasey Stoney has been sacked as boss of NWSL club San Diego Wave.\nThe former England and Arsenal defender, 42, moved to San Diego in 2021, two months after leading Manchester United to fourth place in the WSL.\nWave won the NWSL Shield last season - awarded to the team with the most wins - but they have managed just three league victories in 14 games during this campaign and are winless in the last seven.\n\"We are immensely grateful to Casey for her commitment to our club and the positive impact she has had both on and off the pitch,\" said San Diego Wave president Jill Ellis.\n\"The decision to part ways was very hard and not made in haste, but given the ambition of this club, and where we are in our season, we felt a change was necessary at this time.\"\nWave started this season by beating NJ/NY Gotham FC in the NWSL Challenge Cup in March, played between the 2023 Shield and Championship winners.\nA new ownership group agreed to buy the franchise that month and the deal is expected to be completed at the end of the 2024 season.\nAs well as Arsenal, Stoney also represented Charlton, Chelsea, Lincoln and Liverpool during her playing career, earning 130 England caps along the way.\nShe became the first manager of the newly formed Manchester United team in 2018, helping them win the Championship title and promotion to the WSL in their inaugural season.\n'Stoney unlikely to be short of offers'\nEmma Sanders, BBC Sport\nStoney's time in the NWSL has been a whirlwind, having led the club to their first two trophies in 2023 and 2024 before a poor run of form hit this season.\nThere has been change at Wave recently with new general manager Camille Ashton coming in and this news of Stoney's shock sacking comes six months after she signed a new long-term deal until 2027, with a mutual option to extend to 2028.\nHer departure will raise eyebrows in England with the former Manchester United boss highly regarded by many in the WSL.\nShe reportedly showed inter",
+        "topics": [
+          "related topics",
+          "diego",
+          "stoney",
+          "football",
+          "more on this story",
+          "wave",
+          "season",
+          "best of the bbc",
+          "sport",
+          "iplayer",
+          "top stories",
+          "video",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/golf/live/c04d259k309t",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/iplayer/episode/m002fy6g?at_mid=r9MlPRuTwf&at_campaign=Mix_Tape&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002fy6d&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mix_Tape&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:12.025578",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.844966",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_21992",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/57091581",
+        "keywords": [
+          "related topics",
+          "united",
+          "league",
+          "stoney",
+          "football"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Casey Stoney: Manchester United boss to leave WSL side at end of season - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nWomen's Football\nScores & Fixtures\nEuro 2025\nTable\nTop Scorers\nWomen's Super League\nCasey Stoney: Manchester United boss to leave WSL side at end of season\nPublished\n12 May 2021\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\nImage source,\nRex Features\nImage caption,\nCasey Stoney led Manchester United to a fourth-placed finish in the Women's Super League this season\nManchester United head coach Casey Stoney is to leave the Women's Super League club at the end of the season.\nThe former England defender, 38, was\nappointed as the club's first manager in July 2018\nand led them to the WSL in 2018-19.\nUnited finished fourth this season, missing out on a place in the Champions League by one point.\nStoney's final game in charge of the club will be Sunday's FA Cup fifth-round tie against Leicester City.\nShe told the club website\n,\nexternal\nthat she felt now was the right time to \"take some time away\".\n\"It has been an honour to lead the women's team at this great club and this has been an incredibly tough decision,\" Stoney said.\n\"Having come on board to start the team from scratch, then winning the Women's Championship in our first season, we have now successfully established the team as a force in the Women's Super League.\n\"I have loved leading this group and I am proud of what we have achieved together.\"\nUnited were fourth in their first season in the WSL last year before the campaign was ended early - in March 2020 - because of the coronavirus pandemic.\nThey started this season in excellent form and led the table in January with nine wins from their opening 12 games but a run of just five wins from their final 10 matches saw them\nmiss out on a place in the top three.\nUnited's executive vice-chairman Ed Woodward said Stoney, who won 130 caps for the Lionesses as a player, would \"always be part of the Manchester United family\".\nAnalysis - Stoney 'shown huge potential as a coach'\nEmma Sanders, BBC Sport reporter\nThere have been growing concerns over resources and facilities for Manchester United's women's team in recent months, with Stoney showing glimpses of frustration over pitch conditions in training.\nThe team have suffered numerous injuries throughout the season which ",
+        "topics": [
+          "related topics",
+          "united",
+          "league",
+          "stoney",
+          "football",
+          "season",
+          "club",
+          "best of the bbc",
+          "related internet links",
+          "sport",
+          "women",
+          "iplayer",
+          "top stories",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/newsbeat-56997362?xtor=CS8-1000-%5BIn_Article_Promo_Box%5D-%5BSport_Promo_In_Article%5D-%5BSport_Promo_In_Article_BBCiPlayer%5D-%5BPS_NEWS~~~A_NewsbeatYoungGambling%5D",
+          "https://bbc.co.uk/sport/golf/live/c04d259k309t",
+          "https://bbc.co.uk/sounds/play/p09gthn9?xtor=CS8-1000-%5BIn_Article_Promo_Box%5D-%5BSport_Promo_In_Article%5D-%5BSport_Promo_In_Article_BBCiPlayer%5D-%5BPS_SOUNDS~~p09gthn9~S_JoeWicksPodcast10thMay%5D",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/football/womens-super-league/table"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:13.446164",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.845196",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_93847",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+        "keywords": [
+          "ireland",
+          "donegal",
+          "published",
+          "gaelic games",
+          "find us here"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Gaelic Games - latest GAA news, results and fixtures - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nNorthern Ireland\nIrish Football\nIrish Rugby\nGaelic Games\nMotorbikes\nIreland Cricket\nGaelic Games\nFollow\nGaelic Games\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Gaelic Games\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nLatest updates\nDublin to face Meath in Ladies All-Ireland final\npublished at 10:50\n10:50\nImage source,\nInpho\nImage caption,\nDublin will now meet Meath in the All-Ireland final, a repeat of the 2021 decider that the Royal County won\nMeath knocked out holders Kerry to book their place in the Ladies All-Ireland SFC final against Dublin, who required extra time to see off Galway in their semi-final.\nGoals in either half from Kerrie Cole and Sarah Wall helped the Royals to a 2-12 to 1-9 victory against the reigning champions as they reached the final for the first time in three years.\nA late flurry of goals and points in the second half of extra time helped the Dubs to claim a 3-14 to 2-14 win which sets up an all-Leinster decider.\nThe two sides will now face off in a repeat of the 2021 final on Sunday, 3 August at Croke Park.\nMeath led 1-5 to 0-6 in Tullamore at half-time with Cole's smashed effort putting them in the ascendancy.\nKerry fought back to level early in the second half with a goal from Danielle O'Leary, but Meath wrestled back control and a second goal, this time from defender Wall proved crucial as they saw out the win.\nDublin and Galway were level at 1-6 to 0-9 half-time with Hannah Tyrell scoring a penalty for the Dubs.\nIt was nip-and-tuck in the second half right up until the closing stages, with Tyrell scoring a late free to force extra time.\nThe game sprang into life in the second half of extra time, as Carla Rowe and Kate Sullivan added further goals for the Dubs.\nAndrea Trill and Olivia Divilly replied with goals for Galway, but it was not enough as Dublin tagged on a few more late points to progress.\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\n09:15\nBBC pundits preview All-Ireland hurling final\n,\npublished at\n09:15\nBBC pundits preview All-Ireland hurling final\nAttribution\nGaelic Games\n08:56\nMaking Patrick Horgan's hurley with Aidan Wal",
+        "topics": [
+          "ireland",
+          "donegal",
+          "published",
+          "gaelic games",
+          "find us here",
+          "kerry",
+          "july",
+          "fixtures",
+          "latest updates",
+          "share",
+          "meath",
+          "final",
+          "panel",
+          "video and audio.",
+          "best of the bbc",
+          "results"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/sport/videos/c70rdrzw22eo",
+          "https://bbc.co.uk/iplayer/episode/m002fy6g?at_mid=r9MlPRuTwf&at_campaign=Mix_Tape&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002fy6d&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mix_Tape&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/15890345"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:14.840495",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.845452",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_63504",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/womens",
+        "keywords": [
+          "more news & analysis",
+          "attribution",
+          "find us here",
+          "women's football video",
+          "women"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Women's Football - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nWomen's Football\nScores & Fixtures\nEuro 2025\nTable\nTop Scorers\nWomen's Super League\nWomen's Football\nFollow\nWomen's Football\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Women's Football\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nEuro 2025 latest\nHead to our dedicated page for all of the news, analysis and reports from the European Championship.\nMore news & analysis\nLondon City sign goalkeeper Poor on permanent deal\nNewly promoted Women's Super League side London City Lionesses sign goalkeeper Sophia Poor on a permanent transfer.\nAttribution\nWomen's Football\nPosted\n20 hours ago\n20h\nLiverpool sign Scotland midfielder Kerr after loan\nAttribution\nScotland Women\nPosted\n1 day ago\n1d\nHosts Morocco cruise past Mali to reach Wafcon semis\nAttribution\nAfrica Sport\nPosted\n1 day ago\n1d\nWhy Arsenal made Smith the first \u00a31m women's footballer\nAttribution\nWomen's Football\nPosted\n3 days ago\n3d\nComments\n654\nWSL latest: Ex-Man Utd defender Mannion joins Newcastle\nVilla sign Baijings on permanent deal from Bayern\nAttribution\nWomen's Football\nPosted\n4 days ago\n4d\nComments\n36\nEverton sign England winger Robinson on loan\nAttribution\nWomen's Football\nPosted\n3 days ago\n3d\nMary Earps: Queen Of Stops documentary\nWatch England trailblazer Earps' inspiring story\nOn BBC iPlayer now\nMore top stories\nWafcon return provides 'hope' in war-torn eastern DR Congo\nResidents of eastern DR Congo say the country's appearance at the Women's Africa Cup of Nations provides hope at a time of conflict.\nAttribution\nAfrica Sport\nPosted\n11 July\n11 Jul\nWSL record appearance holder Nobbs joins Newcastle\nAttribution\nWomen's Football\nPosted\n4 days ago\n4d\nSouth Africa rescue point against Tanzania at Wafcon\nAttribution\nAfrica Sport\nPosted\n11 July\n11 Jul\n'Statement amount' - what first \u00a31m signing will mean for WSL\nAttribution\nWomen's Football\nPosted\n3 days ago\n3d\nComments\n228\nEverton sign ex-Leicester forward Momiki\nAttribution\nWomen's Football\nPosted\n11 July\n11 Jul\nComments\n16\nChelsea forward Fishel signs for Seattle Reign\nAttribution\nWomen's Football\nPosted\n10 July\n10 Jul\nArsenal agree world record \u00a31m fee with Liverpool for",
+        "topics": [
+          "more news & analysis",
+          "attribution",
+          "find us here",
+          "women's football video",
+          "women",
+          "fixtures",
+          "more top stories",
+          "women's football podcasts",
+          "euro",
+          "sport",
+          "spain",
+          "euro 2025 latest",
+          "video",
+          "women's super league",
+          "posted",
+          "football",
+          "video and audio.",
+          "women's football",
+          "england",
+          "best of the bbc",
+          "uefa",
+          "results"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/articles/cj0mdelzvm1o",
+          "https://bbc.co.uk/sport/football/videos/crmvr0xj31ko",
+          "https://bbc.co.uk/sport/football/articles/c87323w3xd3o",
+          "https://bbc.co.uk/sounds/play/p0l48r4f",
+          "https://bbc.co.uk/sport/football/videos/cdjx0k829geo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:16.002734",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.845797",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_21393",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/american-football",
+        "keywords": [
+          "posted",
+          "april",
+          "eagles",
+          "super",
+          "football"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "NFL scores, schedule & news - American Football \u2013 BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nAmerican Football\nSuper Bowl\nScores & Fixtures\nTables\nAmerican Football\nFollow\nAmerican Football\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      American Football\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nEagles Super Bowl winner Braman dies aged 38\nSuper Bowl winner Bryan Braman dies at the age of 38 having been diagnosed with an aggressive form of cancer in February.\nAttribution\nAmerican Football\nPosted\n2 days ago\n2d\nOjabo 'ready' for crunch NFL season with Baltimore\nAttribution\nAmerican Football\nPosted\n19 June\n19 Jun\nWhy has Rodgers signed for the Steelers?\nAttribution\nAmerican Football\nPosted\n12 June\n12 Jun\nComments\n91\nJets owner Johnson in talks to buy stake in Crystal Palace\nAttribution\nCrystal Palace\nPosted\n12 June\n12 Jun\nRodgers reveals secret wedding on first day with Steelers\nAttribution\nAmerican Football\nPosted\n11 June\n11 Jun\nRodgers agrees Steelers deal to extend NFL career\nAttribution\nAmerican Football\nPosted\n6 June\n6 Jun\nMahomes to leave Olympic flag football to 'the younger guys'\nAttribution\nAmerican Football\nPosted\n31 May\n31 May\nNFL flag vote sees Olympic 'Dream Team' move closer\nAttribution\nOlympic Games\nPosted\n21 May\n21 May\nComments\n19\nNFL 2025 key dates & fixtures - Christmas Day, play-offs & Super Bowl 60\nAttribution\nAmerican Football\nPosted\n15 May\n15 May\nVikings head coach excited for historic UK-Ireland double-header. Video, 00:02:07\nVikings head coach excited for historic UK-Ireland double-header\nPosted\n14 May\n14 May\n2:07\nVikings will bring 'best on the planet' to Dublin\nAttribution\nAmerican Football\nPosted\n13 May\n13 May\nWatch: NFL wants to create 'mini-Super Bowl' in Dublin. Video, 00:02:20\nWatch: NFL wants to create 'mini-Super Bowl' in Dublin\nAttribution\nAmerican Football\nPosted\n13 May\n13 May\n2:20\n2027 NFL Draft to take place in Washington DC\nAttribution\nAmerican Football\nPosted\n5 May\n5 May\nWho are the big winners & losers from the NFL Draft?\nAttribution\nAmerican Football\nPosted\n28 April\n28 Apr\nComments\n167\nNFL fine Falcons and coach \u00a3262,000 for prank call\nAttribution\nAmerican Football\nPosted\n30 April\n30 Apr\nHurts among Eagles players to skip White H",
+        "topics": [
+          "posted",
+          "april",
+          "eagles",
+          "super",
+          "football",
+          "bowl",
+          "american football",
+          "attribution",
+          "february",
+          "find us here",
+          "best of the bbc",
+          "must-read nfl",
+          "american",
+          "sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/articles/cqj7n8dkjg4o",
+          "https://bbc.co.uk/sport/american-football/articles/cn8vq77xqzxo#comments",
+          "https://bbc.co.uk/sport/american-football/articles/cj9en8vl0jyo",
+          "https://bbc.co.uk/news/world/us_and_canada",
+          "https://bbc.co.uk/sport/american-football/articles/cp3wrqnp5zdo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:17.381184",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.846126",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_88488",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/tennis/articles/cvgnmd8v82mo",
+        "keywords": [
+          "related topics",
+          "tennis",
+          "line",
+          "wimbledon",
+          "more on this story"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Wimbledon 2025: No line judges this year, but will they be missed? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nTennis\nScores & Schedule\nCalendar\nVideo\nSport Insight\nWhy 'best-dressed officials' are missing from Wimbledon\nPublished\n25 June 2025\nUpdated 30 June 2025\nImage source,\nGetty Images\nJess Anderson\nBBC Sport journalist\nSonia Oxley\nBBC Sport Producer\nThomas Sweeney's first incentive to become a line judge was the offer of a free sandwich.\nFor Pauline Eyre, who called the lines at Wimbledon for 16 years, some natty blazers and the chance to buy tickets for the tournament were the main recompense for work she had to take annual leave to do.\nNowadays the best officials might earn up to \u00a3200 a day plus expenses.\nBut line judging has never been about the money for those who spend hours leaning forward, hands resting on knees, staring intently at a line of chalk to determine in a split second on which side of it the yellow ball has bounced.\nBeing so close to Jana Novotna on Centre Court that she could see her foot shaking on the first point of a Wimbledon final or being \"psyched out\" by John McEnroe  were priceless experiences for Eyre.\nAnd then there were the outfits.\n\"There's nothing quite like walking out on to the iconic grass courts at SW19, wearing the uniform of what many consider the best-dressed officials in all of sport,\" Malgorzata Grzyb, chair of the Association of British Tennis Officials (ABTO), told BBC Sport.\nBut times have changed. At Wimbledon there will be no line judges for the first time in its 148-year history, with electronic line calling being introduced.\nPlayers and umpires have already got used to the new set-up as it has been at other tournaments for a while, but on the green grass at Wimbledon, where advertising logos are muted and the players are dressed in white, the emptier courts may feel that bit more noticeable.\n\"It's all the tradition of Wimbledon - the people and the funny uniforms - and that's a bit of personality that's gone,\" said Eyre. \"I think it's all of those little things that made Wimbledon Wimbledon.\"\nTraditionalists will miss them, but technology fans will point to progress.\nBBC Sport has been finding out what umpires, players and line judges make of the move.\nWill there be line judges at Wimbledon 2025?\nPublished\n26 June\nWhy does F",
+        "topics": [
+          "related topics",
+          "tennis",
+          "line",
+          "wimbledon",
+          "more on this story",
+          "challenges are 'out'",
+          "there",
+          "best of the bbc",
+          "sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/tennis/68450687",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/iplayer/episode/m002fy6g?at_mid=r9MlPRuTwf&at_campaign=Mix_Tape&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002fy6d&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mix_Tape&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/15890345"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:18.667230",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.846459",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_88586",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/tennis/68450687",
+        "keywords": [
+          "rublev",
+          "related topics",
+          "tennis",
+          "russian",
+          "cricket"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Andrey Rublev: Russian defaulted in Dubai semi-final for yelling at line judge - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nTennis\nScores & Schedule\nCalendar\nVideo\nAndrey Rublev: Russian defaulted in Dubai semi-final for yelling at line judge\nPublished\n1 March 2024\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\nImage source,\nGetty Images\nImage caption,\nA Russian-speaking official appeared to accuse Rublev of swearing at the line judge\nBy Russell Fuller\nBBC tennis correspondent\nAndrey Rublev has been disqualified from the Dubai Tennis Championships for unsportsmanlike conduct.\nThe Russian second seed screamed in the face of a line judge following a disputed call in the third set of his semi-final with Alexander Bublik.\nA Russian-speaking official told ATP supervisor Roland Herfel that Rublev had sworn at the line judge in Russian.\nRublev denied he was speaking Russian, but was defaulted for unsportsmanlike conduct by umpire Miriam Bley.\nThe world number five, who was trailing 6-5 in the final set, will lose all of his prize money and ranking points for the week.\nFellow Russian Daria Kasatkina, world number 12 in the women's rankings, called the decision a \"joke\".\n\"So you can just default a player, take his points and money away, without even checking a video replay? What a joke, another confirmation we need a VAR in tennis and electronic line calling on all tournaments,\" Kasatkina posted on X, formerly known as Twitter.\nRussian-born Kazakh Bublik, who received a code violation for smashing his racquet earlier in the match, was awarded the win at 6-7 (4-7) 7-6 (7-5) 6-5.\n\"I highly doubt Andrey said something crazy, he's not this kind of guy. But I guess that's the rules. That's what they did, they just follow the procedure,\" Bublik said.\n\"There's not much to say. With all due respect, it was a great match and both of us deserved to win. The crowd was there and we could have played one of the greatest matches against each other. It's a pity it ended like this.\n\"I wish Andrey to get back on track as soon as possible.\"\nBublik will face top seed Daniil Medvedev or Frenchman Ugo Humbert in Saturday's final.\nLive scores, results and order of play\nAlerts: Get tennis news sent to your phone\nRelated topics\nTennis\nTop stories\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nPublished\n4 ",
+        "topics": [
+          "rublev",
+          "related topics",
+          "tennis",
+          "russian",
+          "cricket",
+          "sports",
+          "news",
+          "best of the bbc",
+          "sport",
+          "iplayer",
+          "top stories",
+          "video",
+          "elsewhere in sport",
+          "final"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/golf/live/c04d259k309t",
+          "https://bbc.co.uk/sport/35176037",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:19.893868",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.846771",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_59537",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/tennis/scores-and-schedule",
+        "keywords": [
+          "wta ia\u0219i open",
+          "atp swiss open gstaad",
+          "us open",
+          "atp croatia open",
+          "atp swedish open"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Scores & Schedule - Tennis - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nTennis\nScores & Schedule\nCalendar\nVideo\nTennis Scores and Schedule\nJuly 2025\nToday\nChoose date, selected date is Sunday 20 July 2025\nSkip to content\nSkip to today\nSun\n22\nMon\n23\nTue\n24\nWed\n25\nThu\n26\nFri\n27\nSat\n28\nSun\n29\nMon\n30\nTue\n1\nWed\n2\nThu\n3\nFri\n4\nSat\n5\nSun\n6\nMon\n7\nTue\n8\nWed\n9\nThu\n10\nFri\n11\nSat\n12\nSun\n13\nMon\n14\nTue\n15\nWed\n16\nThu\n17\nFri\n18\nSat\n19\nToday\n20\nMon\n21\nTue\n22\nWed\n23\nThu\n24\nFri\n25\nSat\n26\nSun\n27\nMon\n28\nTue\n29\nWed\n30\nThu\n31\nFri\n1\nSat\n2\nSun\n3\nMon\n4\nTue\n5\nWed\n6\nThu\n7\nFri\n8\nSat\n9\nSun\n10\nMon\n11\nTue\n12\nWed\n13\nThu\n14\nFri\n15\nSat\n16\nSun\n17\nScroll left\nScroll right\nFilter by\nTournament:\nAll Tournaments\nHopman Cup\nATP Swedish Open\nATP Swiss Open Gstaad\nATP Croatia Open\nWTA Hamburg European Open\nATP Abierto Mexicano de Tenis Mifel\nWTA Ia\u0219i Open\nShow Live Matches (1)\nFilter by tournament:\nCurrently selected: All Tournaments\nAll Tournaments\nHopman Cup\nATP Swedish Open\nATP Swiss Open Gstaad\nATP Croatia Open\nWTA Hamburg European Open\nATP Abierto Mexicano de Tenis Mifel\nWTA Ia\u0219i Open\nFilter by event status:\nCurrently selected: All Events\nAll Events\nLive Events\nHopman Cup\nCenter Court\nWomen's Singles\n-\nFinal\nLucia Bronzetti (Italy) vs Bianca Andreescu (Canada)\nScheduled\nBronzetti\nLucia Bronzetti\nAndreescu\nBianca Andreescu\nMen's Singles\n-\nFinal\nFlavio Cobolli (Italy) vs Felix Auger-Aliassime (Canada)\nScheduled\nCobolli\nFlavio Cobolli\nAuger-Aliassime\nFelix Auger-Aliassime\nMixed Doubles\n-\nFinal\nLucia Bronzetti (Italy) and Flavio Cobolli (Italy) vs Bianca Andreescu (Canada) and Felix Auger-Aliassime (Canada)\nScheduled\nBronzetti\nLucia Bronzetti\nCobolli\nFlavio Cobolli\nAndreescu\nBianca Andreescu\nAuger-Aliassime\nFelix Auger-Aliassime\nATP Swedish Open\nCentre Court\nMen's Doubles\n-\nFinal\nGuido Andreozzi (Argentina) (Seed ranking 1) and Sander Arends (Netherlands) (Seed ranking 1) beat Adam Pavlasek (Czech Republic) (Seed ranking 4) and Jan Zielinski (Poland) (Seed ranking 4)\nResult\n1\n2\n3\nSet 1: 6 - 7, tie break 4 - 7\nSet 2: 7 - 5\nSet 3: 10 - 6\nAndreozzi\nGuido Andreozzi\n(1)\nSeed ranking 1\nArends\nSander Arends\n(1)\nSeed ranking 1\n6\n4\n7\n10\nPavlasek\nAdam Pavlasek\n(4)\nSeed ranking 4\nZielinski\nJan Zielinski\n(4)\nSeed ranking 4\n7\n7\n5\n6\nMen's Singles\n-\nFinal\nLuciano Darderi (Italy) (Seed ranking 6) ",
+        "topics": [
+          "wta ia\u0219i open",
+          "atp swiss open gstaad",
+          "us open",
+          "atp croatia open",
+          "atp swedish open",
+          "stadium goran ivanisevic",
+          "wta hamburg european open",
+          "hopman cup",
+          "seed",
+          "australian open",
+          "open",
+          "sport",
+          "singles",
+          "final",
+          "french open",
+          "roy emerson arena",
+          "tennis scores and schedule",
+          "stadium",
+          "center court",
+          "centre court",
+          "ranking",
+          "best of the bbc",
+          "july 2025"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/tennis/atp-swedish-open/scores-and-schedule",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/iplayer/episode/m002fy6g?at_mid=r9MlPRuTwf&at_campaign=Mix_Tape&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002fy6d&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mix_Tape&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/15890345"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:21.116797",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.847084",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_54614",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/tennis/wimbledon/scores-and-schedule",
+        "keywords": [
+          "tennis",
+          "tennis scores and schedule",
+          "best of the bbc",
+          "july 2025",
+          "open"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Wimbledon - Scores & Schedule - Tennis - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nTennis\nScores & Schedule\nCalendar\nVideo\nTennis Scores and Schedule\nJuly 2025\nToday\nChoose date, selected date is Sunday 20 July 2025\nSkip to content\nSkip to today\nSun\n22\nMon\n23\nTue\n24\nWed\n25\nThu\n26\nFri\n27\nSat\n28\nSun\n29\nMon\n30\nTue\n1\nWed\n2\nThu\n3\nFri\n4\nSat\n5\nSun\n6\nMon\n7\nTue\n8\nWed\n9\nThu\n10\nFri\n11\nSat\n12\nSun\n13\nMon\n14\nTue\n15\nWed\n16\nThu\n17\nFri\n18\nSat\n19\nToday\n20\nMon\n21\nTue\n22\nWed\n23\nThu\n24\nFri\n25\nSat\n26\nSun\n27\nMon\n28\nTue\n29\nWed\n30\nThu\n31\nFri\n1\nSat\n2\nSun\n3\nMon\n4\nTue\n5\nWed\n6\nThu\n7\nFri\n8\nSat\n9\nSun\n10\nMon\n11\nTue\n12\nWed\n13\nThu\n14\nFri\n15\nSat\n16\nSun\n17\nScroll left\nScroll right\nFilter by\nTournament:\nAll Tournaments\nHopman Cup\nATP Swedish Open\nATP Swiss Open Gstaad\nATP Croatia Open\nWTA Hamburg European Open\nATP Abierto Mexicano de Tenis Mifel\nWTA Ia\u0219i Open\nWimbledon\nEvent Type:\nAll Events\nFilter by tournament:\nCurrently selected: Wimbledon\nAll Tournaments\nHopman Cup\nATP Swedish Open\nATP Swiss Open Gstaad\nATP Croatia Open\nWTA Hamburg European Open\nATP Abierto Mexicano de Tenis Mifel\nWTA Ia\u0219i Open\nWimbledon\nFilter by event type:\nCurrently selected: All Event Types\nAll Event Types\nNo Results\nAll times are UK and subject to change. BBC is not responsible for any changes.\nBest of the BBC\nWill Alison and Daniel be in tune again?\nAttribution\niPlayer\nDo estate agents treat customers fairly?\nAttribution\niPlayer\nThe golden age of tennis\nAttribution\niPlayer\nThe Bafta-award winning chaotic comedy\nAttribution\niPlayer\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nTerms of Use\nAbout the BBC\nPrivacy Policy\nCookies\nAccessibility Help\nParental Guidance\nContact the BBC\nMake an editorial complaint\nBBC emails for you\nCopyright \u00a9 2025 BBC. The BBC is not responsible for the content of external sites.\nRead about our approach to external linking.",
+        "topics": [
+          "tennis",
+          "tennis scores and schedule",
+          "best of the bbc",
+          "july 2025",
+          "open",
+          "sport",
+          "iplayer"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/tennis/atp-swedish-open/scores-and-schedule",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/iplayer/episode/m002fy6g?at_mid=r9MlPRuTwf&at_campaign=Mix_Tape&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002fy6d&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mix_Tape&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/15890345"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:22.357674",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.847421",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_28553",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c994dnn013ro",
+        "keywords": [
+          "united",
+          "related topics",
+          "manchester",
+          "more on this story",
+          "leeds"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Manchester United 0-0 Leeds: Diego Leon catches eye in friendly draw - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nMan Utd new boy Leon catches eye in draw with Leeds\nImage source,\nGetty Images\nImage caption,\nDiego Leon made 33 first-team appearances for Cerro Porteno before signing for Manchester United\nSimon Stone\nChief football news reporter in Stockholm\nPublished\n19 July 2025\nWhisper it quietly but Manchester United may have found a little gem in young full-back Diego Leon.\nThe club had made some pretty significant decisions around the 18-year-old - which indicated the recruitment department believed he had a bright future - even before they opened their pre-season campaign with a 0-0 draw against newly promoted Leeds.\nFor a start, they invested to bring the Paraguay Under-20 international over from South America.\nThey then gave him a prized first-team shirt - number 30 - and\nlet highly rated English youngster Harry Amass\nleave on loan rather than let him compete with Leon for what is presumed to be the back-up left wing-back slot.\nHead coach Ruben Amorim opted to start Leon against Leeds in Stockholm, with Matheus Cunha -\na summer signing from Wolves\n- also appearing in a Manchester United shirt for the first time.\nAnd there were little signs that, with the right work ethic, a willingness to listen and enough motivation, Leon could be a very useful asset.\nBarcelona open talks over Rashford deal\nPublished\n17 hours ago\nLeeds agree \u00a317m deal for Germany midfielder Stach\nPublished\n23 hours ago\nMbeumo 'proven quality' - but Man Utd still have striker dilemma\nPublished\n1 day ago\nThe highlight came at the back end of the first half. A short pass to Chido Obi inside the penalty area was delivered with a delicate touch you would not normally expect of someone Leon's size.\nGoodness knows what he was like as a schoolboy in South America, but he is already a solid unit.\nThat might bring its own problems as he gets accustomed to the intensity of the Premier League and, even in this encounter - played in pleasant conditions despite the sun and mid-afternoon kick-off - Leon seemed to be catching his breath on a couple of occasions.\n\"He's [in] the first week, second week in Manchester United. He did really well. He's learning things,\" Amorim ",
+        "topics": [
+          "united",
+          "related topics",
+          "manchester",
+          "more on this story",
+          "leeds",
+          "first",
+          "news",
+          "best of the bbc",
+          "sport",
+          "iplayer",
+          "top stories",
+          "elsewhere in sport",
+          "leon"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/premier-league",
+          "https://bbc.co.uk/sport/football/articles/c0r1lx8vg7jo",
+          "https://bbc.co.uk/sport/golf/live/c04d259k309t",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:23.496727",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.847730",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_76813",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c0r1lx8vg7jo",
+        "keywords": [
+          "united",
+          "related topics",
+          "league",
+          "cunha",
+          "football"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Man Utd transfer news: Matheus Cunha signs for \u00a362.5m from Wolves - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nCunha completes 'dream' \u00a362.5m Man Utd move - how does he fit in?\nImage source,\nBBC Sport\nImage caption,\nMatheus Cunha has scored one goal in 15 games for Brazil\nSean Kearns\nBBC Sport\nNeil Johnston\nBBC Sport journalist\nPublished\n12 June 2025\n1854 Comments\nBrazil forward Matheus Cunha said his \"dream\" had become a reality after completing a \u00a362.5m move to Manchester United.\nUnited activated a release clause in Cunha's Wolves contract this month.\nThe deal, which was subject to a visa and a medical, has now been completed.\nCunha has signed a five-year contract, with the option of a further 12 months.\n\"It is hard to put into words my feelings about becoming a Manchester United player,\" he said.\n\"Ever since I was a child in Brazil watching Premier League games on TV at my grandmother's house, United was my favourite English team and I dreamed of wearing the red shirt.\n\"I want to thank my family and everyone who has helped me make that dream a reality.\"\nCunha scored 31 goals in 76 games in all competitions for Wolves after joining from Atletico Madrid in 2023.\n\"Bringing in Matheus was one of our main priorities for this summer, so we are delighted to have completed his signing so early in the window,\" said United director of football Jason Wilcox.\n'United lucky they still have historic appeal'\nAfter United scored a record low of 44 goals in 38 Premier League matches last season, bolstering the attack was a clear priority for manager Ruben Amorim.\nAlthough not a traditional centre-forward, Cunha scored 27 goals in 65 league games for Wolves in the past two seasons.\nWinger Antony and striker Rasmus Hojlund have arrived at Old Trafford for big transfer fees in recent years and struggled to adapt to the Premier League.\nNewcastle United, who will play in the Champions League next season, were interested in signing Cunha.\nUnited will not play European football next season and it is more than three years since they last reached the Champions League knockout stages.\n\"United are lucky they still have their historic appeal and reputation as a club, so players of the Brazilian's quality and potential want to move there,\" former England",
+        "topics": [
+          "united",
+          "related topics",
+          "league",
+          "cunha",
+          "football",
+          "more on this story",
+          "premier",
+          "news",
+          "best of the bbc",
+          "'cunha fits amorim's system'",
+          "sport",
+          "iplayer",
+          "top stories",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/premier-league",
+          "https://bbc.co.uk/sport/golf/live/c04d259k309t",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:24.725516",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.848044",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_86614",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+        "keywords": [
+          "play",
+          "related topics",
+          "cricket",
+          "overs",
+          "more on this story"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "England vs India: How to solve Test cricket's slow over-rate problem - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nCricket\nScores & Fixtures\nTables\nVideo\nEngland Men\nEngland Women\nCounties\nThe Hundred\nFranchise Cricket\nAll Teams\nWhat to do about Test cricket's slow play problem?\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nTest matches before final day being played at 'snail's pace' - analysis\nMatthew Henry\nBBC Sport journalist at Lord's\nPublished\n12 July 2025\nUpdated 16 July 2025\nIt has become an unwanted story of England's series against India.\nSlow over-rates. A topic frequently discussed but that never goes away.\nOnly 72.3 overs were bowled on day two of the third Test at Lord's.\nThat means, including the necessary time taken for a change of innings, 15 overs were lost from the match not because of rain or bad light but because of the slowness of play.\nA further 19 overs were lost over days three and four.\nThere was\nIndian frustration\nat the end of day three as England opener Zak Crawley used delaying tactics, meaning one over took seven minutes.\nEngland have subsequently been\ndocked two points\nin the World Test Championship (WTC) and fined 10% of their match fee for a slow over-rate.\nThey were deemed to be below the required rate despite mitigating circumstances, including India captain Shubman Gill having an eight-minute massage on the outfield and Ravindra Jadeja taking a toilet break while batting on day five.\nThe stoppages are a poor look for the sport, but what are the rules, do over-rates matter and what can be done?\nWhat are the rules?\nIn a five-day Test, 90 overs are scheduled for each day.\nTo prevent teams tactically wasting time to ensure a draw, all of the overs must be bowled on the fifth day, barring interruptions for the weather.\nOn the previous days, the overs must be fitted into the six hours of play, with an extra half hour made available at the end of the day.\nWhile time can be made up for overs lost to the weather, there is no such provision when the reason is simply slow play. If overs are not bowled in that time they are lost from the match.\nThere are some penalties already in place in the International Cricket Council's playing conditions but they have limited impact.\nAn umpire can, after an",
+        "topics": [
+          "play",
+          "related topics",
+          "cricket",
+          "overs",
+          "more on this story",
+          "england",
+          "best of the bbc",
+          "what has changed?",
+          "top stories",
+          "what are the rules?",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cricket/the-hundred",
+          "https://bbc.co.uk/sport/golf/live/c04d259k309t",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:25.957256",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.848516",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_80204",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/premier-league",
+        "keywords": [
+          "about",
+          "find us here",
+          "july",
+          "fixtures",
+          "premier league"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Premier League Football - Latest news, results, stats & transfers - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nPremier League\nFollow\nPremier League\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Premier League\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nRashford's big move - from unwanted at Man Utd to wanted by Barcelona\nWith Marcus Rashford set to leave Old Trafford, BBC Sport explains how he ended up on the brink of a remarkable move to Barcelona.\nAttribution\nFootball\nPosted\n16 hours ago\n16h\nComments\n1473\nWest Ham sign Walker-Peters on free transfer\nAttribution\nWest Ham\nPosted\n2 hours ago\n2h\nComments\n60\nDeal in principle agreed for Rashford to join Barcelona\nAttribution\nEuropean Football\nPosted\n17 hours ago\n17h\nComments\n1725\nHowe confident 'happy' Isak will stay at Newcastle\nAttribution\nFootball\nPosted\n18 hours ago\n18h\nComments\n804\nBamford 'not part of my plans' - Leeds boss Farke\nAttribution\nLeeds\nPosted\n18 hours ago\n18h\nComments\n333\nMan Utd new boy Leon catches eye in draw with Leeds\nAttribution\nPremier League\nPosted\n20 hours ago\n20h\nGibbs-White 'keeping it professional' amid transfer row\nAttribution\nNottm Forest\nPosted\n17 hours ago\n17h\nMbeumo 'proven quality' - but Man Utd still have striker dilemma\nAttribution\nMan Utd\nPosted\n1 day ago\n1d\nComments\n1353\nArsenal complete \u00a348.5m signing of Madueke from Chelsea\nAttribution\nPremier League\nPosted\n1 day ago\n1d\nComments\n1660\nLeeds agree \u00a317m deal for Germany midfielder Stach\nAttribution\nFootball\nPosted\n23 hours ago\n23h\nComments\n350\nBrentford attempt to open contract talks with Wissa\nAttribution\nBrentford\nPosted\n1 day ago\n1d\nComments\n341\nMan Utd agree \u00a365m deal to sign Brentford's Mbeumo\nAttribution\nPremier League\nPosted\n1 day ago\n1d\nComments\n1162\nAndrews 'not fazed' by 'enormity' of Brentford job. Video, 00:01:52\nAndrews 'not fazed' by 'enormity' of Brentford job\nAttribution\nFootball\nPosted\n1 July\n1 Jul\n1:52\n'Liverpool one of world's top-three teams - choosing them was easy' Video, 00:01:05\n'Liverpool one of world's top-three teams - choosing them was easy'\nAttribution\nLiverpool\nPosted\n20 June\n20 Jun\n1:05\nBlack boots policy at Man Utd academy 'perfect' - Gomes. Video, 00:04:27\nBlack boots",
+        "topics": [
+          "about",
+          "find us here",
+          "july",
+          "fixtures",
+          "premier league",
+          "share",
+          "league",
+          "results",
+          "video and audio.",
+          "premier",
+          "select a club",
+          "club",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/teams/manchester-city",
+          "https://bbc.co.uk/sport/football/teams/nottingham-forest",
+          "https://bbc.co.uk/sport/football/teams",
+          "https://bbc.co.uk/sport/football/premier-league",
+          "https://bbc.co.uk/sport/football/articles/c20n9y68g6jo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:27.506811",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.848828",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_91361",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/premier-league/scores-fixtures",
+        "keywords": [
+          "rugby",
+          "skip",
+          "home",
+          "help",
+          "sports"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Premier League - Scores & Fixtures - Football - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nPremier League Scores & Fixtures\nSearch\nSkip to content\nSkip to today\nJul\n2024\nAug\n2024\nSep\n2024\nOct\n2024\nNov\n2024\nDec\n2024\nJan\n2025\nFeb\n2025\nMar\n2025\nApr\n2025\nMay\n2025\nJun\n2025\nJul\n2025\nAug\n2025\nSep\n2025\nOct\n2025\nNov\n2025\nDec\n2025\nJan\n2026\nFeb\n2026\nMar\n2026\nApr\n2026\nMay\n2026\nJun\n2026\nJul\n2026\nScroll left\nScroll right\nWe have no events to show on this date\nAll times are UK and subject to change. BBC is not responsible for any changes.\nBack to top\nBest of the BBC\nWill Alison and Daniel be in tune again?\nAttribution\niPlayer\nDo estate agents treat customers fairly?\nAttribution\niPlayer\nThe golden age of tennis\nAttribution\niPlayer\nThe Bafta-award winning chaotic comedy\nAttribution\niPlayer\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nTerms of Use\nAbout the BBC\nPrivacy Policy\nCookies\nAccessibility Help\nParental Guidance\nContact the BBC\nMake an editorial complaint\nBBC emails for you\nCopyright \u00a9 2025 BBC. The BBC is not responsible for the content of external sites.\nRead about our approach to external linking.",
+        "topics": [
+          "rugby",
+          "skip",
+          "home",
+          "help",
+          "sports",
+          "attribution",
+          "content",
+          "news",
+          "weather",
+          "best of the bbc",
+          "sport",
+          "iplayer",
+          "menu",
+          "including live football scores",
+          "premier league scores"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/premier-league",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/iplayer/episode/m002fy6g?at_mid=r9MlPRuTwf&at_campaign=Mix_Tape&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002fy6d&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mix_Tape&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/15890345"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:28.674072",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.849133",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_47690",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cy0yq8287weo",
+        "keywords": [
+          "the inquest",
+          "highbury, north london, 1985-95",
+          "manchester, january-march 2024",
+          "related topics",
+          "campbell"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Kevin Campbell: Wayne Rooney, Andy Cole and more discuss ex-Arsenal and Everton striker's life and death - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nSport Insight\nThe life, loss and legacy of Kevin Campbell\nPublished\n15 April 2025\nDaniel Austin\nBBC Sport senior journalist\nKevin Campbell was the all-action, hard-grafting centre-forward who delighted football fans with great goals across a 19-year career at the top of the game.\nAffectionately known as Super Kev at Arsenal, Nottingham Forest and Everton, he developed a reputation as one of the hardest-to-handle forwards in the country, while his beaming smile and joyous celebrations made him one of English football's most popular characters.\n\"I think if you ask anyone who's ever been in the presence of him, they'll always remember him and speak about how good a person he was,\" says Campbell's son Tyrese, 25, who plays as a striker for Sheffield United. \"He carried the whole room - you knew when he was in there because you could probably hear him.\n\"He was a respectful, happy, positive person. You could even say almost too good for this Earth. A proper angel sent from heaven.\"\nIn 2024 Kevin Campbell's life was tragically cut short after he suffered a serious illness, and an investigation was launched into concerns over his care.\nAfter his inquest concluded on Monday, this is the story of Campbell's life, loss and legacy, told by those who knew him best.\nThe Life, Loss and Legacy of Kevin Campbell\n15/4/2025\nWatch on iPlayer\nBrixton, south London, 1970-80s\nCampbell will eventually raise his own family in the north-west, but is born in south London in 1970, the second youngest of seven children in a family with Jamaican roots.\n\"We were brought up by a single mother so resources were extremely tight,\" Campbell's younger sister Lorna says. \"We used to play tennis against a back wall because we couldn't afford to hire a court. Kevin wanted to be in different football teams and it was a struggle for my mother to pay all the subs.\n\"We had three big brothers and he was never afraid to play football with them and their friends - he would just take them on. And this was on the mean streets of Brixton. That's when he came alive.\"\nImage source,\nCampbell family\nImage caption,\nKevin and his sister Lorna grew up playing sport together ",
+        "topics": [
+          "the inquest",
+          "highbury, north london, 1985-95",
+          "manchester, january-march 2024",
+          "related topics",
+          "campbell",
+          "says",
+          "manchester, may 2024",
+          "kevin",
+          "liverpool, 1999-2005",
+          "andrew cole",
+          "the investigation",
+          "best of the bbc",
+          "the future",
+          "wayne rooney",
+          "brixton, south london, 1970-80s"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/teams/nottingham-forest",
+          "https://bbc.co.uk/sport/football/premier-league",
+          "https://bbc.co.uk/sport/football/teams/sheffield-united",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:29.929900",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.849369",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_89385",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/teams/nottingham-forest",
+        "keywords": [
+          "transfers",
+          "july",
+          "fixtures",
+          "latest updates",
+          "share"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Nottingham Forest FC - Transfer news, results, fixtures, video and audio",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nNottingham Forest\nScores & Fixtures\nTable\nNottingham Forest\nFollow\nNottingham Forest\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Nottingham Forest\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nScores & Fixtures\nScores & Fixtures\nScroll Left\nScroll Right\nPremier League\nFull time\nFT\nNottm Forest\nNottingham Forest\n0\nChelsea\nChelsea\n1\nPremier League\nNottm Forest\nNottingham Forest\nplays\nBrentford\nBrentford\nat\n14:00\n14:00\non\nSun\nthe\n17\nof\nAug\nPremier League\nCrystal Palace\nCrystal Palace\nplays\nNottm Forest\nNottingham Forest\nat\n14:00\n14:00\non\nSun\nthe\n24\nof\nAug\nPremier League\nNottm Forest\nNottingham Forest\nplays\nWest Ham\nWest Ham United\nat\n14:00\n14:00\non\nSun\nthe\n31\nof\nAug\nPremier League\nArsenal\nArsenal\nplays\nNottm Forest\nNottingham Forest\nat\n15:00\n15:00\non\nSat\nthe\n13\nof\nSep\nPremier League\nBurnley\nBurnley\nplays\nNottm Forest\nNottingham Forest\nat\n15:00\n15:00\non\nSat\nthe\n20\nof\nSep\nPremier League\nNottm Forest\nNottingham Forest\nplays\nSunderland\nSunderland\nat\n15:00\n15:00\non\nSat\nthe\n27\nof\nSep\nPremier League\nNewcastle\nNewcastle United\nplays\nNottm Forest\nNottingham Forest\nat\n15:00\n15:00\non\nSat\nthe\n4\nof\nOct\nPremier League\nNottm Forest\nNottingham Forest\nplays\nChelsea\nChelsea\nat\n15:00\n15:00\non\nSat\nthe\n18\nof\nOct\nLatest updates\n19:02 19 July\nGibbs-White 'keeping it professional' amid transfer row\n,\npublished at\n19:02 19 July\nGibbs-White 'keeping it professional' amid transfer row\nAttribution\nNottm Forest\nSels eyes 'great moments' after signing new deal\npublished at 18:17 18 July\n18:17 18 July\nImage source,\nGetty Images\nNottingham Forest goalkeeper Matz Sels says he hopes for more \"great moments\" after signing a new deal with the club.\nThe 33-year-old, who joined from Strasbourg in February of 2024, has agreed improved terms with the Reds as part of his new contract.\n\"I'm really happy,\" said Sels, who won the Premier League's Golden Glove award along with Arsenal's David Raya on 13 clean sheets in 2024-25.\n\"We had an amazing season last year and I was one small part of that, so I'm really happy to sign a new contract.\n\"Hopefully we can continue together and have some great moments again this season.\n\"I",
+        "topics": [
+          "transfers",
+          "july",
+          "fixtures",
+          "latest updates",
+          "share",
+          "nottingham forest",
+          "scores & fixtures",
+          "forest",
+          "league",
+          "white",
+          "video and audio.",
+          "best of the bbc",
+          "nottingham",
+          "results"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/articles/c4g859lxyngo",
+          "https://bbc.co.uk/sport/football/articles/c2d0ynn9nj4o",
+          "https://bbc.co.uk/sport/football/teams/nottingham-forest",
+          "https://bbc.co.uk/sport/football/premier-league",
+          "https://bbc.co.uk/sport/football/articles/cn5kgp5nrw9o#comments"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:31.318932",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.849606",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_6733",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/teams/sheffield-united",
+        "keywords": [
+          "about",
+          "transfers",
+          "sheffield united",
+          "fixtures",
+          "sheffield"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Sheffield United FC - Transfer news, results, fixtures, video and audio",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nSheffield United\nScores & Fixtures\nTable\nSheffield United\nFollow\nSheffield United\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Sheffield United\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nScores & Fixtures\nScores & Fixtures\nScroll Left\nScroll Right\nChampionship\nFull time\nFT\nSheff Utd\nSheffield United\n1\nSunderland\nSunderland\n2\nChampionship\nSheff Utd\nSheffield United\nplays\nBristol City\nBristol City\nat\n17:30\n17:30\non\nSat\nthe\n9\nof\nAug\nLeague Cup\nBirmingham\nBirmingham City\nplays\nSheff Utd\nSheffield United\nat\n20:00\n20:00\non\nWed\nthe\n13\nof\nAug\nChampionship\nSwansea\nSwansea City\nplays\nSheff Utd\nSheffield United\nat\n15:00\n15:00\non\nSat\nthe\n16\nof\nAug\nChampionship\nSheff Utd\nSheffield United\nplays\nMillwall\nMillwall\nat\n15:00\n15:00\non\nSat\nthe\n23\nof\nAug\nChampionship\nMiddlesbrough\nMiddlesbrough\nplays\nSheff Utd\nSheffield United\nat\n12:30\n12:30\non\nSat\nthe\n30\nof\nAug\nChampionship\nIpswich\nIpswich Town\nplays\nSheff Utd\nSheffield United\nat\n20:00\n20:00\non\nFri\nthe\n12\nof\nSep\nChampionship\nSheff Utd\nSheffield United\nplays\nCharlton\nCharlton Athletic\nat\n15:00\n15:00\non\nSat\nthe\n20\nof\nSep\nChampionship\nOxford\nOxford United\nplays\nSheff Utd\nSheffield United\nat\n15:00\n15:00\non\nSat\nthe\n27\nof\nSep\nChampionship\nSheff Utd\nSheffield United\nplays\nSouthampton\nSouthampton\nat\n19:45\n19:45\non\nTue\nthe\n30\nof\nSep\nLatest updates\n07:49 17 July\nDean Windass tells graduates to 'live your dream'\n,\npublished at\n07:49 17 July\nDean Windass tells graduates to 'live your dream'\nAttribution\nEngland\nBlades looking positive in Spanish sun\npublished at 16:17 11 July\n16:17 11 July\nRob Staton\nBBC Radio Sheffield reporter\nImage source,\nBBC Sport/Getty Images\nSheffield United spent the past week in Girona taking part in a warm-weather training camp.\nI was able to spend Thursday and Friday observing the sessions, led by new manager Ruben Selles.\nThe conditions were very hot and humid with the Spaniard opting for a longer session in the morning rather than splitting things up throughout the day.\nWe saw exhaustive pressing drills in the heat, passing sequences, a lot of transition work plus a focus on set-pieces.\nPlayers would then spend some time in the",
+        "topics": [
+          "about",
+          "transfers",
+          "sheffield united",
+          "fixtures",
+          "sheffield",
+          "latest updates",
+          "share",
+          "scores & fixtures",
+          "united",
+          "blades",
+          "video and audio.",
+          "championship",
+          "season",
+          "best of the bbc",
+          "results"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/teams/sheffield-united/scores-fixtures",
+          "https://bbc.co.uk/news/articles/c4g8yjv10e9o",
+          "https://bbc.co.uk/sport/football/teams/sheffield-united",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/football/live/c62vgp6z7q3t"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:32.654201",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.849783",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_80893",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cx23zwx798yo",
+        "keywords": [
+          "united",
+          "related topics",
+          "rashford",
+          "barcelona",
+          "football"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Marcus Rashford: Why do Barcelona want to sign the Manchester United forward? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nFootball\nScores & Fixtures\nTables\nGossip\nEuro 2025\nTransfers\nTop Scorers\nWomen\nChampions League\nFA Cup\nAll Teams\nLeagues & Cups\nQuizzes\nRashford's big move - from unwanted at Man Utd to wanted by Barcelona\nImage source,\nGetty Images\nImage caption,\nMarcus Rashford last played for Manchester United in December 2024\nBrendon Mitchell\nBBC Sport journalist\nAdam Millington\nBBC Sport journalist\nPublished\n19 July 2025\n1473 Comments\nUnwanted at Manchester United, yet wanted by Barcelona.\nMarcus Rashford, an Old Trafford outcast since the end of last year, is edging ever closer to a dream move to the Nou Camp after a\ndeal in principle\nwas reached.\nIt's not a transfer which comes completely out of the blue, with Rashford reportedly long having his heart set on a switch to the Spanish giants and saying only last month he wanted to play alongside teenage superstar Lamine Yamal.\nBarca, too, have not hidden their interest in the 27-year-old England forward. In May, sporting director Deco admitted they \"like\" Rashford and suggested he could \"improve the team\".\nBut that is the bit that currently has people talking - could he really?\nBBC Sport tries to explain how Rashford finds himself on the brink of joining Barcelona and why they actually want to sign him.\nHow did we get to this point?\nRashford's departure from Old Trafford has been a relatively long time coming.\nManager Ruben Amorim dropped him for the Manchester derby on 15 December last year - and he has not played for United since.\nAmorim later criticised Rashford for a perceived lack of effort, suggesting that he would rather give a place on the bench to his\n63-year-old goalkeeping coach\nthan someone who \"doesn't give the maximum every day\".\nHe joined Aston Villa on loan in January, making 17 appearances and earning an England recall, but returned to Old Trafford last month with his longer-term future still uncertain.\nHowever, that uncertainty has been more about where he would go rather than whether he would stay, with Rashford one of\nfive players who told the club they wanted to leave\n- and\nwho were subsequently told to train separately\nfrom the rest of the squad.\n\"There is no doubt a fully-motivated, focused and determined Mar",
+        "topics": [
+          "united",
+          "related topics",
+          "rashford",
+          "barcelona",
+          "football",
+          "more on this story",
+          "best of the bbc",
+          "sport",
+          "top stories",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/champions-league",
+          "https://bbc.co.uk/sport/football/articles/c0l4kpg6e93o",
+          "https://bbc.co.uk/sport/golf/live/c04d259k309t",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:33.933244",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.850001",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_23886",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c0l4kpg6e93o",
+        "keywords": [
+          "united",
+          "related topics",
+          "rashford",
+          "cricket",
+          "football"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Manchester United: Marcus Rashford, Alejandro Garnacho and Jadon Sancho among five to tell club they want to leave - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nManchester United\nScores & Fixtures\nTable\nRashford among five to tell Man Utd they want to leave\nImage source,\nGetty Images\nImage caption,\nAston Villa had an option to sign Marcus Rashford permanently for \u00a340m\nPublished\n4 July 2025\n1691 Comments\nMarcus Rashford and Alejandro Garnacho are among five players to have informed Manchester United they want to leave the club.\nAntony, Jadon Sancho and Tyrell Malacia are also looking for a move away, with United allowing all five more time to explore their future options by delaying their pre-season return until later this month.\nBBC Sport has been told the club will welcome the players back to Carrington if their futures are not resolved, allowing them access to medical and training support.\nRashford had previously indicated a willingness to return for the start of United's pre-season preparations on Monday.\nThe 27-year-old England forward was exiled by manager Ruben Amorim in December and spent the second half of the season on loan at Aston Villa.\nAmorim had also told Garnacho, 21, he will be allowed to join a new club in the summer after the Argentine\nwas left out of the squad\nfor their final game of the Premier League season.\nSancho, meanwhile, returned to Old Trafford after Chelsea\npaid a \u00a35m penalty\nnot to sign him on a permanent basis following a season on loan at Stamford Bridge.\nBrazil winger Antony was on loan at La Liga side Real Betis last season, while defender Malacia spent the second half of the previous campaign at PSV Eindhoven.\nUnited's first pre-season friendly is against Leeds on 19 July in Stockholm before they go to the United States for the Premier League Summer Series friendlies.\nCunha given Rashford's number 10 shirt\nImage source,\nGetty Images\nImage caption,\nMatheus Cunha scored 31 goals in 76 games in all competitions for Wolves\nBrazil forward Matheus Cunha will wear the number 10 shirt at Old Trafford next season,\nhaving completed a \u00a362.5m move\nfrom Wolves last month.\nRashford had worn the number since 2018 after inheriting it from former Sweden striker Zlatan Ibrahimovic.\nBut with the English forward's future uncertain, the club have handed it to Cunha, who has signed a five-year deal, with the optio",
+        "topics": [
+          "united",
+          "related topics",
+          "rashford",
+          "cricket",
+          "football",
+          "more on this story",
+          "news",
+          "marcus rashford",
+          "season",
+          "best of the bbc",
+          "sport",
+          "iplayer",
+          "top stories",
+          "video",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/premier-league",
+          "https://bbc.co.uk/sport/football/articles/c0r1lx8vg7jo",
+          "https://bbc.co.uk/sport/golf/live/c04d259k309t",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:35.156540",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.850232",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_96059",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c0m1lemv8w7o",
+        "keywords": [
+          "amorim",
+          "united",
+          "related topics",
+          "play",
+          "manchester"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Marcus Rashford: Ruben Amorim suggests he'd rather pick 63-year-old coach over forward - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nManchester United\nScores & Fixtures\nTable\nAmorim says he'd rather pick 63-year-old coach over Rashford\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nAmorim says he'd rather pick 63-year-old coach over Rashford\nGary Rose\nBBC Sport journalist\nPublished\n26 January 2025\n3158 Comments\nManchester United boss Ruben Amorim has suggested he'd rather give a place on the bench to his 63-year-old goalkeeping coach instead of Marcus Rashford because of a perceived lack of effort.\nThe England forward has not been involved in a matchday squad for United for six weeks and he was left out once again for\nSunday's 1-0 win at Fulham\nin the Premier League.\nWith the transfer window closing on 3 February, it is unclear what the future holds for Rashford, who Amorim criticised for not showing the attitude of someone \"giving the maximum every day\".\n\"It's always the same reason - the training, the way I see a footballer should do in life. It's every day, every detail,\" said Amorim, when asked why Rashford was not available.\n\"If things don't change, I will not change. It's the same situation for every player, if you do the maximum and right things we can use every player.\n\"You can see on the bench we miss a bit of pace on the bench, but I would put [Manchester United goalkeeper coach Jorge] Vital before a player who doesn't give the maximum every day.\"\nSources close to Rashford had been adamant the 27-year-old has no issue with Amorim and was willing to play for the club again.\nHopes of a move to AC Milan have been dashed by the arrival of Kyle Walker as the Italian club can only sign one English player this month.\nA potential loan to Barcelona depends on the exit of a couple of players and neither Eric Garcia nor Ansu Fati have shown much inclination to leave the Nou Camp.\nFormer Newcastle goalkeeper Shay Given told BBC Match of the Day: \"The fans aren't stupid. They see it's not good enough from the players and Ruben Amorim is just being honest.\n\"If you don't train hard and dedicate your life, you won't be in the team. You have to show your manager you deserve a place in the team.\"\nEx-Aston Villa midfielder Thomas Hitzlsperger add",
+        "topics": [
+          "amorim",
+          "united",
+          "related topics",
+          "play",
+          "manchester",
+          "more on this story",
+          "best of the bbc",
+          "sport",
+          "iplayer",
+          "top stories",
+          "video",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/premier-league",
+          "https://bbc.co.uk/sport/golf/live/c04d259k309t",
+          "https://bbc.co.uk/iplayer/episode/m002f5tt/such-brave-girls-series-2-1-such-kept-girls?at_mid=dE9LgpQwG6&at_campaign=Such_Brave_Girls_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0gqd7m8&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Such_Brave_Girls_S2&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:36.488670",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.850448",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_7054",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/champions-league",
+        "keywords": [
+          "league",
+          "posted",
+          "score",
+          "plays",
+          "aggregate"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "UEFA Champions League - News, Games, Results, Video Highlights & Stats",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nChampions League\nScores & Fixtures\nTable\nTop Scorers\nEuropean Football\nUEFA Champions League\nFollow\nUEFA Champions League\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      UEFA Champions League\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nNo anthems or special balls - but Champions League starts now\nIn some ways the purest form of the Champions League starts this week - with 28 champions starting in the first qualifying round.\nAttribution\nChampions League\nPosted\n8 July\n8 Jul\nComments\n328\nPSG hold parade to mark Champions League victory\nAttribution\nEuropean Football\nPosted\n1 June\n1 Jun\nA new winner, but is Champions League now a Super League by default?\nAttribution\nChampions League\nPosted\n1 June\n1 Jun\nComments\n1139\nTwo dead and hundreds arrested in France after PSG Champions League win\nAttribution\nEurope\nPosted\n1 June\n1 Jun\nNew-look PSG make history on emotional night for Luis Enrique\nAttribution\nChampions League\nPosted\n1 June\n1 Jun\nComments\n1239\n'Who needs Mbappe when you have Doue?' - PSG's new superstar\nAttribution\nEuropean Football\nPosted\n1 June\n1 Jun\nIt suited PSG, but was new Champions League format a success?\nAttribution\nChampions League\nPosted\n31 May\n31 May\nComments\n829\nScores & Fixtures\nScores & Fixtures\nScroll Left\nScroll Right\nUEFA Champions League\nAgg\nKuPS\nKuPS\n(0)\nAggregate score 0\nplays\nKairat\nKairat\n(0)\nAggregate score 0\nat\n16:00\n16:00\non\nTue\nthe\n22\nof\nJul\nUEFA Champions League\nAgg\nRed Imps\nLincoln Red Imps\n(0)\nAggregate score 0\nplays\nRed Star\nRed Star Belgrade\n(0)\nAggregate score 0\nat\n17:00\n17:00\non\nTue\nthe\n22\nof\nJul\nUEFA Champions League\nAgg\nNoah\nNoah\n(0)\nAggregate score 0\nplays\nFerencv\u00e1ros\nFerencv\u00e1ros\n(0)\nAggregate score 0\nat\n17:00\n17:00\non\nTue\nthe\n22\nof\nJul\nUEFA Champions League\nAgg\nHamrun\nHamrun Spartans\n(0)\nAggregate score 0\nplays\nDynamo Kyiv\nDynamo Kyiv\n(0)\nAggregate score 0\nat\n18:00\n18:00\non\nTue\nthe\n22\nof\nJul\nUEFA Champions League\nAgg\nK\u00f8benhavn\nK\u00f8benhavn\n(0)\nAggregate score 0\nplays\nDrita\nDrita\n(0)\nAggregate score 0\nat\n18:00\n18:00\non\nTue\nthe\n22\nof\nJul\nUEFA Champions League\nAgg\nPafos\nPafos\n(0)\nAggregate score 0\nplays\nMaccabi TA\nMaccabi Tel Aviv\n(0)\nAggregate sco",
+        "topics": [
+          "league",
+          "posted",
+          "score",
+          "plays",
+          "aggregate",
+          "football",
+          "uefa champions league",
+          "video and audio.",
+          "attribution",
+          "scores & fixtures",
+          "best of the bbc",
+          "sport",
+          "uefa",
+          "champions",
+          "fixtures",
+          "results"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/iplayer/episode/p0jnhlw8",
+          "https://bbc.co.uk/sport/football/videos/cp3ye1p9kd7o",
+          "https://bbc.co.uk/sport/football/champions-league",
+          "https://bbc.co.uk/sport/football/videos/cwyn044pl7eo",
+          "https://bbc.co.uk/sport/football/articles/ce3vk4z92g5o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:43:37.844224",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:43:37.850684",
+      "quality_score": 1.0
+    }
+  ],
+  "summary": {
+    "total_nodes": 23,
+    "average_relevance": 10.0,
+    "max_relevance": 10.0,
+    "unique_topics": 156,
+    "total_topics": 327,
+    "depth_distribution": {
+      "0": 1,
+      "1": 5,
+      "2": 17
+    },
+    "high_relevance_pages": 23
+  }
+}

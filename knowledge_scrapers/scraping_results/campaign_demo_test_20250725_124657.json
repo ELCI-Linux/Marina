@@ -1,0 +1,38 @@
+{
+  "campaign_name": "demo_test",
+  "total_jobs": 3,
+  "successful_jobs": 3,
+  "failed_jobs": 0,
+  "total_items_scraped": 14,
+  "total_execution_time": 13.13353943824768,
+  "started_at": "2025-07-25 12:46:57",
+  "job_results": [
+    {
+      "status": "success",
+      "scraper_name": "job",
+      "platform": "indeed",
+      "target_url": "https://www.indeed.com/jobs?q=python+developer",
+      "results_count": 0,
+      "execution_time": 1.7019715309143066,
+      "completed_at": "2025-07-25 12:46:45"
+    },
+    {
+      "status": "success",
+      "scraper_name": "academic",
+      "platform": "arxiv",
+      "target_url": "",
+      "results_count": 5,
+      "execution_time": 2.5160720348358154,
+      "completed_at": "2025-07-25 12:46:46"
+    },
+    {
+      "status": "success",
+      "scraper_name": "documentation",
+      "platform": "readthedocs",
+      "target_url": "https://docs.python.org/",
+      "results_count": 9,
+      "execution_time": 13.129859447479248,
+      "completed_at": "2025-07-25 12:46:57"
+    }
+  ]
+}

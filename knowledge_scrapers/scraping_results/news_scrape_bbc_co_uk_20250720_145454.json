@@ -1,0 +1,1154 @@
+{
+  "timestamp": "2025-07-20T14:54:29.592333",
+  "root_url": "https://bbc.co.uk/sport/football",
+  "keywords": [
+    "transfers"
+  ],
+  "enhanced_keywords": [
+    [
+      "1) bbc transfer news",
+      1.4
+    ],
+    [
+      "2) bbc football",
+      1.4
+    ],
+    [
+      "3) bbc sport",
+      1.4
+    ],
+    [
+      "4) bbc sports daily",
+      1.4
+    ],
+    [
+      "5) bbc sport sunday",
+      1.4
+    ],
+    [
+      "6) bbc sport england",
+      1.4
+    ],
+    [
+      "7) bbc football daily",
+      1.4
+    ],
+    [
+      "8) bbc world sport",
+      1.4
+    ],
+    [
+      "9) bbc sport england saturday",
+      1.4
+    ],
+    [
+      "10-15) bbc soccer",
+      1.4
+    ]
+  ],
+  "total_pages_scraped": 19,
+  "knowledge_nodes": [
+    {
+      "url": "https://bbc.co.uk/sport/football",
+      "title": "Football - latest news today, results & video highlights - BBC Sport",
+      "relevance_score": 7.6,
+      "topics_count": 25,
+      "depth": 0
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/ce9xed05rkyo",
+      "title": "Euro 2025: Germany keeper Ann-Katrin Berger's journey from cancer to penalty shootout hero - BBC Sport",
+      "relevance_score": 6.0,
+      "topics_count": 9,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+      "title": "Usyk vs Dubois 2: Oleksandr Usyk & 'Ivan' - the untouchable duo who can't be beaten? - BBC Sport",
+      "relevance_score": 5.0,
+      "topics_count": 10,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo",
+      "title": "Ekitike, Isak, Sesko, Mbuemo, Gyokeres: The race for a striker is hotting up - BBC Sport",
+      "relevance_score": 7.5,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cp86p606gvko",
+      "title": "Manchester United transfers: What next for Rashford, Garnacho and Antony? - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 8,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/15890345",
+      "title": "RSS Feed (Really Simple Syndication) - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 10,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/rugby-league",
+      "title": "Rugby League Scores, Fixtures & News - BBC Sport",
+      "relevance_score": 6.0,
+      "topics_count": 20,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cvg8j1l0751o#comments",
+      "title": "Noni Madueke: Arsenal sign England winger from Chelsea for \u00a348.5m - BBC Sport",
+      "relevance_score": 6.0,
+      "topics_count": 13,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/transfers",
+      "title": "Football Transfer News & Confirmed Deals - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c4g8wnxg0mmo",
+      "title": "Christian Norgaard: Arsenal sign Brentford midfielder in \u00a315m deal - BBC Sport",
+      "relevance_score": 6.0,
+      "topics_count": 12,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cly1lvd003jo#comments",
+      "title": "Euro 2025: Resilience, luck and subs - England's winning formula delivers - BBC Sport",
+      "relevance_score": 6.5,
+      "topics_count": 10,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cd97w00125qo",
+      "title": "Euro 2025: England beat Sweden on penalties - how dramatic and emotional shootout played out - BBC Sport",
+      "relevance_score": 6.0,
+      "topics_count": 12,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/womens-european-championship/schedule",
+      "title": "UEFA Women's Euro 2025 - Groups & Schedule",
+      "relevance_score": 4.0,
+      "topics_count": 18,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cv2gd3jr387o",
+      "title": "Tottenham's John White and his son's search for lost superstar - BBC Sport",
+      "relevance_score": 6.5,
+      "topics_count": 9,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cekk4zp5rg8o",
+      "title": "Hungary's Euro 2024 ambitions and Viktor Orban's politics - BBC Sport",
+      "relevance_score": 7.5,
+      "topics_count": 9,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/tennis/articles/c3g527q1z0vo",
+      "title": "Andy Murray, Wimbledon & the Olympics - four weeks that changed it all - BBC Sport",
+      "relevance_score": 8.5,
+      "topics_count": 7,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/articles/c3ggg48g3yvo",
+      "title": "Transvulcania - the race on the rim of La Palma's volcanos - BBC Sport",
+      "relevance_score": 5.0,
+      "topics_count": 12,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cp8673nln6ro",
+      "title": "England at Euro 2025: Who do the Lioness play in the semi-final? - BBC Sport",
+      "relevance_score": 9.5,
+      "topics_count": 15,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/live/c98wr4x5z08t#Report",
+      "title": "Spain 2-0 Switzerland: World champions through to semi-finals as hosts knocked out - BBC Sport",
+      "relevance_score": 6.5,
+      "topics_count": 25,
+      "depth": 2
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_59553",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football",
+        "keywords": [
+          "more to explore",
+          "championship",
+          "more football video",
+          "video",
+          "follow your football teams"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.76
+      },
+      "content": {
+        "title": "Football - latest news today, results & video highlights - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nFootball\nScores & Fixtures\nTables\nGossip\nEuro 2025\nTransfers\nTop Scorers\nWomen\nChampions League\nFA Cup\nAll Teams\nLeagues & Cups\nQuizzes\nFootball\nFollow\nFootball\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Football\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nPolice called in over racist abuse of Lionesses' Carter\nEngland defender Jess Carter says she will take a step back from social media after experiencing \"a lot of racial abuse\" during Euro 2025, with police called in to investigate further.\nAttribution\nEngland Women\nPosted\n22 minutes ago\n22min\nPressure & better keepers - why penalties are being missed at Euro 2025\nAttribution\nEngland Women\nPosted\n1 hour ago\n1h\nComments\n249\nGolden Boot winner to substitute - England's Mead on role 'shift'\nAttribution\nUEFA Women's Euro\nPosted\n5 hours ago\n5h\nWest Ham sign Walker-Peters on free transfer\nAttribution\nWest Ham\nPosted\n4 hours ago\n4h\nComments\n141\nKey stats, star players and favourites - meet Euro 2025 final four\nAttribution\nUEFA Women's Euro\nPosted\n4 hours ago\n4h\nComments\n65\nRashford's big move - from unwanted at Man Utd to wanted by Barcelona\nAttribution\nFootball\nPosted\n18 hours ago\n18h\nComments\n1567\nBerger's journey from cancer to shootout hero\nAttribution\nGermany\nPosted\n8 hours ago\n8h\nSancho close to Juventus move  - Sunday's gossip\nAttribution\nFootball\nPosted\n8 hours ago\n8h\nGermany defy odds with shootout win against France\nAttribution\nUEFA Women's Euro\nPosted\n15 hours ago\n15h\nComments\n781\nBerger's stunning save prevents extra-time own goal. Video, 00:00:28\nBerger's stunning save prevents extra-time own goal\nAttribution\nWomen's Football\nPosted\n15 hours ago\n15h\n0:28\nBamford 'not part of my plans' - Leeds boss Farke\nAttribution\nLeeds\nPosted\n20 hours ago\n20h\nComments\n357\nTierney enjoys 'emotional' return to Celtic Park\nAttribution\nCeltic\nPosted\n3 hours ago\n3h\nBite-sized video\nScroll to previous item\nScroll to next item\n1:07\nWOW! Germany are into the semi-finals. 00:01:07, play video\nWOW! Germany are into the semi-finals\n0:37\nThis is OUTRAGEOUS from Berger! 00:00:37, play video\nThis is OUTRAGEOUS from Berger!\n1:05\nGermany's Hendri",
+        "topics": [
+          "more to explore",
+          "championship",
+          "more football video",
+          "video",
+          "follow your football teams",
+          "best of the bbc",
+          "football news",
+          "hours",
+          "euro",
+          "must-see football video",
+          "scores & fixtures",
+          "scores",
+          "posted",
+          "women",
+          "more from euro 2025",
+          "england",
+          "more european football",
+          "football",
+          "comments",
+          "women's football news",
+          "find us here",
+          "also in football",
+          "attribution",
+          "results",
+          "insight: must-read football stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/articles/ce9xed05rkyo",
+          "https://bbc.co.uk/sport/football/articles/cvg8j1l0751o#comments",
+          "https://bbc.co.uk/sport/football/videos/cy7nzymgl2do",
+          "https://bbc.co.uk/sport/football/articles/cly1lvd003jo#comments",
+          "https://bbc.co.uk/sport/football/videos/cdjx0k829geo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:30.940427",
+          "depth": 0,
+          "relevance_score": 7.6
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.610119",
+      "quality_score": 0.76
+    },
+    {
+      "id": "news_11938",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/ce9xed05rkyo",
+        "keywords": [
+          "top stories",
+          "related topics",
+          "germany",
+          "elsewhere in sport",
+          "video"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.6
+      },
+      "content": {
+        "title": "Euro 2025: Germany keeper Ann-Katrin Berger's journey from cancer to penalty shootout hero - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nGermany\nScores & Fixtures\nTable\nBerger's journey from cancer to shootout hero\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nGermany's Berger with 'the save of the tournament'\nEmily Salley\nBBC Sport journalist in Basel\nPublished\n8 hours ago\nAll we have is now.\nThose five words are tattooed on the neck of Germany goalkeeper Ann-Katrin Berger.\nNot only do the words themselves hold meaning to Berger, but they physically mark her journey of recovery from cancer, covering up scars from her treatment.\nBerger had been in the Germany squad that reached the final of Euro 2022, but during the tournament she had learned her thyroid cancer was back for a second time after four years of being cancer-free.\nFast-forward three years and Berger has not only made a full recovery, but she is back performing at the highest level for her country.\nThe 34-year-old was Germany's hero, making two decisive saves in a penalty shootout, as they\ndefeated France\nin a chaotic quarter-final at Euro 2025 on Saturday.\nImage source,\nGetty Images\nImage caption,\nBerger's tattoo - a stylised representation of the phrase 'all we have is now' - covers the scars behind her right ear from cancer treatment\n'I live my best life'\nAfter playing with only 10 players from the 13th minute against France - Kathrin Hendrich was sent off for foolishly pulling Griedge Mbock by her hair in the penalty area - Christian Wuck's side fought brilliantly to force extra time and then penalties.\nEven in an outstanding team performance, where Germany survived against the odds, Berger stood out.\nBefore her penalty heroics, she had made nine saves - the most by a goalkeeper in a Euros knockout stage match since 2013.\nShe saved Germany in multiple match-defining moments, including a diving one-handed save to deny a backwards header from her own player.\nThen came the shootout. She saved Amel Majri's opening spot-kick to put Germany ahead, scored a penalty herself, then made sure Sara Dabritz's miss was not costly by pulling off a diving save to keep Alice Sombath out.\n\"I am not really an emotional person,\" Berger said when asked to reflect on her journey from cancer diagno",
+        "topics": [
+          "top stories",
+          "related topics",
+          "germany",
+          "elsewhere in sport",
+          "video",
+          "berger",
+          "sport",
+          "best of the bbc",
+          "iplayer"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:32.070056",
+          "depth": 1,
+          "relevance_score": 6.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.613593",
+      "quality_score": 0.6
+    },
+    {
+      "id": "news_61057",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+        "keywords": [
+          "dubois",
+          "top stories",
+          "related topics",
+          "usyk",
+          "heavyweight"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.5
+      },
+      "content": {
+        "title": "Usyk vs Dubois 2: Oleksandr Usyk & 'Ivan' - the untouchable duo who can't be beaten? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nBoxing\nResults & Schedule\nCalendar\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\nBobbie Jackson\nBBC Sport at Wembley Stadium\nPublished\n6 hours ago\n538 Comments\nOleksandr Usyk introduced Daniel Dubois and the world to his friend 'Ivan' at Wembley on Saturday.\nThe Ukrainian southpaw landed a flush left hook to seal a\nfifth-round knockout\nwin and become undisputed heavyweight champion for a second time.\nUsyk arrived for his post-fight news conference an hour after extending his undefeated record to 24, and after a swift night's work was happy to entertain the packed room.\n\"My left hook is called Ivan,\" Usyk said.\n\"Ivan is a Ukrainian name. Ivan is a big guy who lives in a village and works for his family. It's a hard punch, Ivan.\n\"The first time 2018 [I named it] was in the USA as a cruiserweight.\"\nDubois had already climbed off the canvas moments earlier following a right hook to the temple, but it was the sequence that followed with Usyk's favoured left that proved decisive.\nIt was another vintage performance from a master of the craft.\nA 90,000-strong crowd had been forced to contend with heavy rain at Wembley Stadium earlier in the night, but it was worth persevering to watch the spectacle unfold.\nUsyk excelled in all areas - escaping Dubois' attacks with slick footwork, returning with crisp shots on the counter and displaying pure heavyweight power.\nThe triumph has propelled Usyk into a very elite category - he joins Muhammad Ali as the only men to reign undisputed in the heavyweight division on two occasions.\nUsyk destroys Dubois to reclaim undisputed crown\nPublished\n16 hours ago\nRelive Usyk's demolition of Dubois at Wembley\nHeavyweight permutations - what next after Usyk win?\nPublished\n14 hours ago\nUsyk is the best of his generation\nIf it wasn't already clear then it certainly is now. Usyk is the standout heavyweight of his generation.\nUsyk has not just cleaned out his biggest rivals - Tyson Fury, Anthony Joshua and Dubois - but he has gone all the way round the block and defeate",
+        "topics": [
+          "dubois",
+          "top stories",
+          "related topics",
+          "usyk",
+          "heavyweight",
+          "elsewhere in sport",
+          "video",
+          "sport",
+          "who can stop usyk?",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/boxing/58678537",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/boxing/live/cwyn7kvm831t"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:33.172639",
+          "depth": 2,
+          "relevance_score": 5.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.613962",
+      "quality_score": 0.5
+    },
+    {
+      "id": "news_81415",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo",
+        "keywords": [
+          "year",
+          "top stories",
+          "related topics",
+          "more on this story",
+          "sport"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.75
+      },
+      "content": {
+        "title": "Ekitike, Isak, Sesko, Mbuemo, Gyokeres: The race for a striker is hotting up - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nThe race for a striker is hotting up - who is still available?\nImage source,\nGetty Images\nImage caption,\nWhich strikers are still available this summer?\nAndy Cryer\nBBC Sport senior journalist\nPublished\n17 July 2025\n498 Comments\nWith a month to go until the start of the Premier League, the race for a striker is hotting up.\nChelsea have been quick off the mark in signing both\nLiam Delap\nfrom Ipswich and\nJoao Pedro\nfrom Brighton, but the likes of Newcastle, Liverpool, Manchester United and Arsenal are still waiting to land their man.\nWith numerous clubs being linked to numerous players and some moving for the same target, it would be easy to lose track of who is moving where and when.\nBBC Sport tries to make sense of the search for a frontman.\nAlmost off the market\nViktor Gyokeres (Sporting)\nThe Sporting striker has been linked with a number of clubs this summer but the 27-year-old former Coventry player may soon be off the market.\nArsenal are expecting to seal a \u00a363.5m deal for the Sweden forward imminently after his 97 goals in 102 appearances in Portugal.\nThe Gunners have been in the market for a while but, with Gyokeres set to join, they will soon be out of the striker market.\nVictor Osimhen (Napoli)\nArsenal, Manchester United and Chelsea are among those that have been heavily linked with the Nigeria striker, but it appears his future could soon be sorted.\nHis parent club Napoli are in talks with Turkish side Galatasaray, who he spent last season on loan with, and the forward is reportedly keen on a return to Turkey.\nFailure to come to a financial agreement though could quickly alert other suitors, with the situation expected to come to a head in the next few days.\nIn 2022-23 the 26-year-old helped Napoli win their first Italian title since 1990. He missed them repeating the feat this season but had a prolific spell on loan at Galatasaray.\nArsenal close to finalising Gyokeres deal\nPublished\n6 days ago\nBrighton flop to hot property - is Arsenal target Gyokeres ready?\nPublished\n6 July\nWanted men\nAlexander Isak (Newcastle United)\nNewcastle's message is that Isak is not for sale but you get the feeling this isn't the last",
+        "topics": [
+          "year",
+          "top stories",
+          "related topics",
+          "more on this story",
+          "sport",
+          "elsewhere in sport",
+          "ones to watch",
+          "league",
+          "move",
+          "almost off the market",
+          "best of the bbc",
+          "striker",
+          "wanted men"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/golf/videos/cql0w00kzepo",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:34.503545",
+          "depth": 2,
+          "relevance_score": 7.5
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.614449",
+      "quality_score": 0.75
+    },
+    {
+      "id": "news_79696",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cp86p606gvko",
+        "keywords": [
+          "top stories",
+          "related topics",
+          "more on this story",
+          "elsewhere in sport",
+          "united"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Manchester United transfers: What next for Rashford, Garnacho and Antony? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nManchester United\nScores & Fixtures\nTable\nThe Man Utd Five: Ousted but not out\nImage source,\nGetty Images\nImage caption,\nManchester United head coach Ruben Amorim finished last season with optimistic words\nSimon Stone\nChief football news reporter\nPublished\n15 July 2025\n1568 Comments\nRuben Amorim was unequivocal.\nDid he know what he wanted his squad to look like when Manchester United returned for the start of pre-season training in July?\n\"Yes,\" he said. \"I have a clear idea what we want.\n\"As you know, we are a bit limited and we can't do it all in one summer but there is a clear picture for what we want.\"\nThese words were just over six weeks ago, as the United head coach bade farewell to journalists following the club's end-of-season tour to Asia.\nWith the club back in training, and the first pre-season game against Leeds in Stockholm on Saturday, it is fair to assume that desired clarity has not yet materialised.\nThe unwanted five, crucial to free up funds for incoming transfers, are still at the club, though Marcus Rashford, Antony, Jadon Sancho, Alejandro Garnacho and Tyrrell Malacia are training separately from the rest of the squad.\nJust one major addition has been made - Matheus Cunha, a \u00a362.5m arrival from Wolverhampton Wanderers.\nSo, what is going on behind the scenes, and what is the prospect of Amorim re-shaping the squad to his desires? Might United have to consider selling some of their other players to raise funds?\nThe 'bomb squad' have been truly ousted\nImage source,\nGetty Images\nImage caption,\nAntony, Garnacho, Rashford, Malacia and Sancho are estimated to be earning wages to a combined total of around \u00a31m a week\nOn 4 July, United made it known that the five unwanted players had asked to leave and would not train with the remainder of Amorim's squad. Rashford's number 10 shirt was given to Cunha.\nSince their exile, the only significant development involving the quintet was news that they cannot access United's Carrington training ground - which they can enter for rehabilitation and medical purposes - until Amorim and his squad have left for the day.\nThe members of the so-called 'bomb squad', a reference to their being bombed out, can train together at Ca",
+        "topics": [
+          "top stories",
+          "related topics",
+          "more on this story",
+          "elsewhere in sport",
+          "united",
+          "squad",
+          "amorim",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo",
+          "https://bbc.co.uk/sport/football/teams/manchester-united"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:35.729000",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.614645",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_78023",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/15890345",
+        "keywords": [
+          "top stories",
+          "elsewhere in sport",
+          "content",
+          "cricket",
+          "news"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "RSS Feed (Really Simple Syndication) - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nRSS Feed (Really Simple Syndication)\nPublished\n22 May 2024\nWhat is RSS?\nIn a world heaving under the weight of billions of web pages, keeping up to date with the information you want can be a drag.\nWouldn't it be better to have the latest news and features delivered directly to you, rather than clicking from site to site?\nUsing RSS (Really Simple Syndication) allows you to see when sites from all over the internet have added new content. You can get the latest headlines and articles (or even audio files, photographs or video) in one place, as soon as they are published, without having to remember to visit each site every day.\nRSS takes the hassle out of staying up-to-date, by showing you the very latest information that you are interested in.\nRSS feeds are just a special kind of web page, designed to be read by computers rather than people. It might help to think of them as the free, internet version of the old-fashioned ticker-tape news wire machines.\nNot all websites currently provide RSS and not all sections of the BBC or BBC Sport website are available as feeds.\nHow do I start using RSS feeds?\nIn general, the first thing you need is something called a news reader.\nThis is a piece of software that checks RSS feeds and lets you read any new articles that have been added to them. There are many different versions, some of which are accessed using a browser, and some of which are downloadable applications. Browser-based news readers let you catch up with your RSS feed subscriptions from any computer, whereas downloadable applications let you store them on your main computer, in the same way that you either download your e-mail using Outlook, or keep it on a web-based service like Hotmail.\nOnce you have chosen a news reader, all you have to do is to decide what content you want to receive in your news reader, by finding and subscribing to the relevant RSS feeds. For example, if you would like the latest BBC Sport Cricket stories, simply visit the Cricket section and you will notice an orange RSS button.\nMost modern browsers, including Firefox, Opera, Internet Explorer, Safari and Chrome, automatically check for RSS feeds for you when you visit a website, and display the",
+        "topics": [
+          "top stories",
+          "elsewhere in sport",
+          "content",
+          "cricket",
+          "news",
+          "your",
+          "sport",
+          "feeds",
+          "best of the bbc",
+          "iplayer"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/golf/videos/cql0w00kzepo",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:37.255401",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.614833",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_51496",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/rugby-league",
+        "keywords": [
+          "hull",
+          "video",
+          "best of the bbc",
+          "iplayer",
+          "more top stories"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.6
+      },
+      "content": {
+        "title": "Rugby League Scores, Fixtures & News - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nRugby League\nScores & Fixtures\nTables\nAll Teams\nRugby League\nFollow\nRugby League\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Rugby League\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nLive\n.\nListen: Super League , Championship and League 1\nListen to local BBC radio commentaries of Sunday's action from four games in the Super League, Championship and League 1.\nAttribution\nRugby League\nHull FC stun Wigan to boost play-off hopes\nAttribution\nRugby League\nPosted\n20 hours ago\n20h\nComments\n351\nWigan go back top & York thrash Barrow\nAttribution\nRugby League\nPosted\n34 minutes ago\n34min\nComments\n0\nLeaders Hull KR bounce back with win at Catalans\nAttribution\nRugby League\nPosted\n18 hours ago\n18h\nComments\n86\nMcColm stars for Saints as Leigh suffer record loss\nAttribution\nRugby League\nPosted\n22 hours ago\n22h\nComments\n13\nEdgell hat-trick helps Leeds overcome Salford\nAttribution\nRugby League\nPosted\n1 day ago\n1d\nComments\n45\nWakefield dismantle Huddersfield to go sixth\nAttribution\nRugby League\nPosted\n1 day ago\n1d\nComments\n53\nRugby league video\nHull KR return to winning ways at Catalans. Video, 00:04:56\nHull KR return to winning ways at Catalans\nWatch highlights as Super League leaders Hull KR end their two-match losing streak after beating Catalans Dragons 34-6.\nAttribution\nRugby League\nPosted\n1 hour ago\n1h\n4:56\nLeeds return to winning ways after beating Salford. Video, 00:03:36\nLeeds return to winning ways after beating Salford\nAttribution\nRugby League\nPosted\n1 day ago\n1d\n3:36\nHull FC score seven tries in win at Salford. Video, 00:03:30\nHull FC score seven tries in win at Salford\nAttribution\nRugby League\nPosted\n23 June\n23 Jun\n3:30\nWakefield back into top six after win over Huddersfield. Video, 00:03:44\nWakefield back into top six after win over Huddersfield\nAttribution\nRugby League\nPosted\n1 day ago\n1d\n3:44\nLeigh pick up first win at St Helens since 1982. Video, 00:04:28\nLeigh pick up first win at St Helens since 1982\nAttribution\nRugby League\nPosted\n1 day ago\n1d\n4:28\nStruggling Salford end losing run with Cas victory. Video, 00:03:59\nStruggling Salford end losing run with Cas victory\nAttributio",
+        "topics": [
+          "hull",
+          "video",
+          "best of the bbc",
+          "iplayer",
+          "more top stories",
+          "fixtures",
+          "rugby league",
+          "posted",
+          "salford",
+          "video and audio.",
+          "wakefield",
+          "find us here",
+          "league",
+          "attribution",
+          "results",
+          "rugby",
+          "more rugby league video",
+          "elsewhere on the bbc",
+          "rugby league video",
+          "sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/iplayer/episode/m001d9r8",
+          "https://bbc.co.uk/sport/rugby-league/scores-fixtures",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:38.669194",
+          "depth": 2,
+          "relevance_score": 6.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.615052",
+      "quality_score": 0.6
+    },
+    {
+      "id": "news_36005",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cvg8j1l0751o#comments",
+        "keywords": [
+          "best of the bbc",
+          "football",
+          "top stories",
+          "related topics",
+          "more on this story"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.6
+      },
+      "content": {
+        "title": "Noni Madueke: Arsenal sign England winger from Chelsea for \u00a348.5m - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nArsenal complete \u00a348.5m signing of Madueke from Chelsea\nImage source,\nGetty Images\nImage caption,\nNoni Madueke has earned seven caps for England since making his debut in 2024\nAdwaidh Rajan\nBBC Sport journalist\nPublished\n18 July 2025\n1660 Comments\nArsenal have completed the signing of England winger Noni Madueke from Chelsea for an initial fee of \u00a348.5m.\nThe 23-year-old was part of Chelsea's squad at the Club World Cup in the United States but left the camp before\nlast Sunday's 3-0 win against Paris St-Germain\nin the final to finalise his move to Mikel Arteta's side.\nMadueke has signed a five-year contract at Emirates Stadium, with his fee rising to just over \u00a350m with add-ons.\n\"Humbled and blessed to be here. Thank you to everyone that made this possible,\" he wrote on Instagram.\n\"I can't wait to get on the pitch and start to repay the faith shown in me. It's going to be so special.\"\nHe made 92 appearances for Chelsea after joining from PSV Eindhoven for \u00a330m in January 2023 and scored 20 goals, helping them win the Conference League last season.\nHe was part of Crystal Palace and then Tottenham's academy before spending four-and-a-half years in the Netherlands, where he won the Dutch Cup.\nMadueke made his England senior debut in August 2024 and set up Harry Kane's winner as\nThomas Tuchel's side defeated Andorra 1-0\nin World Cup qualification last month.\nArteta told Arsenal's website\n,\nexternal\n: \"Noni is an exciting and powerful young player, with his performances and numbers in recent seasons being of consistently high quality.\n\"He is one of the most talented wide forward players in the Premier League.\n\"At just 23, Noni already brings experience of club and international football, and he knows the Premier League very well.\n\"Having seen the quality of Noni's performances up close in recent seasons, we're really excited he is joining us. His arrival will really improve our squad.\"\nNews of Arsenal's interest in the Chelsea winger had prompted a backlash from a section of the Gunners supporters earlier this month.\nA petition, titled #NoToMadueke, was signed more than 5,000 times and murals outside the club's Emirates Stad",
+        "topics": [
+          "best of the bbc",
+          "football",
+          "top stories",
+          "related topics",
+          "more on this story",
+          "sport",
+          "elsewhere in sport",
+          "premier",
+          "league",
+          "arsenal",
+          "chelsea",
+          "madueke",
+          "iplayer"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/transfers",
+          "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:39.807306",
+          "depth": 1,
+          "relevance_score": 6.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.615299",
+      "quality_score": 0.6
+    },
+    {
+      "id": "news_70472",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/transfers",
+        "keywords": [
+          "football",
+          "loan",
+          "attribution",
+          "sports",
+          "sport"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Football Transfer News & Confirmed Deals - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nFootball\nScores & Fixtures\nTables\nGossip\nEuro 2025\nTransfers\nTop Scorers\nWomen\nChampions League\nFA Cup\nAll Teams\nLeagues & Cups\nQuizzes\nFootball Transfers\nFollow\nFootball Transfers\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Football Transfers\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nTransfers - July 2025\nCheck out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.\nAttribution\nFootball\nLondon City sign goalkeeper Poor on permanent deal\nAttribution\nWomen's Football\nPosted\n22 hours ago\n22h\nMansfield sign Wrexham defender Bolton\nAttribution\nLeague One\nPosted\n23 hours ago\n23h\nRotherham sign midfielder Yearwood\nAttribution\nRotherham\nPosted\n1 day ago\n1d\nBarnet sign Man Utd forward Hugill on loan\nAttribution\nLeague Two\nPosted\n1 day ago\n1d\nBlackburn sign Hull defender McLoughlin\nAttribution\nChampionship\nPosted\n1 day ago\n1d\n'No brainer' as Dorrington returns to Dons on loan\nAttribution\nScottish Prem\nPosted\n1 day ago\n1d\nJapan forward Yamada joins Celtic on four-year deal\nAttribution\nCeltic\nPosted\n1 day ago\n1d\nCarlisle sign Uganda defender Mugabi\nAttribution\nCarlisle\nPosted\n1 day ago\n1d\nLongstaff joins Leeds from Newcastle in \u00a312m move\nAttribution\nPremier League\nPosted\n1 day ago\n1d\nComments\n383\nWrexham sign defender Cacace from Empoli\nAttribution\nFootball\nPosted\n1 day ago\n1d\nWatford sign Bayern forward Irankunda\nAttribution\nChampionship\nPosted\n1 day ago\n1d\nStoke goalkeeper Simkin joins Orient on loan\nAttribution\nLeague One\nPosted\n1 day ago\n1d\nWalsall sign Derby defender Cox on loan\nAttribution\nLeague Two\nPosted\n1 day ago\n1d\nArsenal complete \u00a348.5m signing of Madueke from Chelsea\nAttribution\nPremier League\nPosted\n1 day ago\n1d\nComments\n1660\nMansfield sign McDonnell on loan from Forest\nAttribution\nMansfield\nPosted\n1 day ago\n1d\nForest's Danilo joins Botafogo as Sels signs new deal\nAttribution\nNottm Forest\nPosted\n1 day ago\n1d\nChesterfield sign midfielder Butterfield\nAttribution\nChesterfield\nPosted\n1 day ago\n1d\nBlackpool sign Birmingham keeper Peacock-Farrell\nAttribution\nLeague One\nPosted\n1 day ago\n1d\nStockport sign Barnsley ",
+        "topics": [
+          "football",
+          "loan",
+          "attribution",
+          "sports",
+          "sport",
+          "scottish premiership",
+          "league",
+          "posted",
+          "defender",
+          "transfers - july 2025",
+          "football transfers",
+          "sign",
+          "best of the bbc",
+          "iplayer"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/teams/scotland-women",
+          "https://bbc.co.uk/sport/football/articles/cvg8j1l0751o#comments",
+          "https://bbc.co.uk/sport/football/articles/c9vr42rxdn2o",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:41.059716",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.615523",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_6194",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c4g8wnxg0mmo",
+        "keywords": [
+          "top stories",
+          "related topics",
+          "more on this story",
+          "elsewhere in sport",
+          "premier"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.6
+      },
+      "content": {
+        "title": "Christian Norgaard: Arsenal sign Brentford midfielder in \u00a315m deal - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nArsenal sign Brentford midfielder Norgaard\nImage source,\nGetty Images\nImage caption,\nNorgaard has won 35 caps for Denmark\nPaul Battison\nBBC Sport Journalist\nPublished\n10 July 2025\n627 Comments\nArsenal have signed Denmark midfielder Christian Norgaard from Brentford in a \u00a315m deal.\nThe 31-year-old has joined for an initial \u00a310m - with a possible \u00a35m in performance-related add-ons - on a two-year contract with the option of a third year.\nNorgaard joined Brentford from Fiorentina in 2019 and became a key player, captaining his side and making 196 appearances.\nHe is Arsenal's third signing of the summer after deals for Spaniards Martin Zubimendi and Kepa Arrizabalaga.\nNorgaard said he got \"almost emotional\" because signing for Arsenal means he will live his \"dream\" of playing Champions League football.\n\"I've just turned 31 and had signed a new deal with Brentford,\" he said.\n\"There's always a little chance that a miracle could happen with Brentford, but it was probably unrealistic to play Champions League with them.\n\"Now I get to hear the anthem and be a part of a Champions League campaign. It's a childhood dream and something I didn't think would be possible. So it's something I'm really, really happy about.\"\nNorgaard helped Brentford win promotion from the Championship in 2021, before making 122 Premier League appearances.\nMidfielder Zubimendi joined Arsenal from Real Sociedad last week in a deal worth almost \u00a360m, and goalkeeper Kepa Arrizabalaga moved from Chelsea for \u00a35m.\nArsenal are also\nin talks\nto sign Sporting striker Viktor Gyokeres for \u00a370m and have\nmade a formal approach\nfor Chelsea winger Noni Madueke.\nWhat will Norgaard bring to Arsenal?\nArteta\nsaid\n,\nexternal\nhe is \"delighted\" to sign Norgaard because of his \"proven leadership skills and strong character\".\n\"He is a strong midfielder with excellent tactical awareness and versatility. He also has physical presence and intelligence, which will give us added depth and balance,\" said Arteta.\nNorgaard was linked with a reunion with former manager Thomas Frank at Tottenham this summer.\nSince his Premier League debut in 2021, Norgaard has made 201 interceptions - the",
+        "topics": [
+          "top stories",
+          "related topics",
+          "more on this story",
+          "elsewhere in sport",
+          "premier",
+          "league",
+          "arsenal",
+          "brentford",
+          "norgaard",
+          "sport",
+          "best of the bbc",
+          "iplayer"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/transfers",
+          "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:42.278136",
+          "depth": 2,
+          "relevance_score": 6.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.615757",
+      "quality_score": 0.6
+    },
+    {
+      "id": "news_25128",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cly1lvd003jo#comments",
+        "keywords": [
+          "top stories",
+          "related topics",
+          "more on this story",
+          "elsewhere in sport",
+          "sweden"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.65
+      },
+      "content": {
+        "title": "Euro 2025: Resilience, luck and subs - England's winning formula delivers - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nEngland\nMen's Scores & Fixtures\nWomen's Scores & Fixtures\nMen's Table\nWomen's Table\nResilience, luck and subs - England's winning formula\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nEngland win on penalties after fightback against Sweden to advance to Euro semis\nEmma Sanders\nBBC Sport women\u2019s football news reporter at Stadion Letzigrund\nPublished\n18 July 2025\n2587 Comments\nThey couldn't do it again, could they?\nEngland were 2-0 down at half-time of their quarter-final with Sweden at Euro 2025 - but managed to score two goals in as many minutes to draw level.\nThey could have lost three times in the shootout - but Chloe Kelly scored, Sweden goalkeeper Jennifer Falk blasted over with a penalty of her own and England counterpart Hannah Hampton denied Sofia Jakobsson.\nSweden exposed England's defensive frailties again - but England manager Sarina Wiegman made the right substitutions to turn the game around in Zurich.\nIt was a tale of England's resilience, a large slice of luck and an explosive impact of the 'super-subs' as they booked a semi-final on Tuesday against Italy. Sound familiar?\nThey have become positive traits of England's major tournament journeys - the 'super-subs' proving the difference at Euro 2022 and the resilience, mixed with luck, taking them to the final at the 2023 World Cup when they missed key players.\n\"That's a quality that is so strong in this team, that togetherness and fighting back. It shows so much resilience,\" said manager Wiegman.\n\"We changed it and brought in other players. They brought different things to the game that really helped the team in that moment.\n\"That is so powerful from this team. That luck as well, yes, at least three times I thought we were out.\"\nEngland into semi-finals with dramatic shootout win\nHow the 'greatest and worst shootout of all time' unfolded\nPublished\n2 days ago\nFrom ball girl to England hero - who is rising star Agyemang?\nPublished\n2 days ago\n'They do whatever is neccesary'\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nSheer determination, grit & luck - How England beat Sweden\nWiegman",
+        "topics": [
+          "top stories",
+          "related topics",
+          "more on this story",
+          "elsewhere in sport",
+          "sweden",
+          "england",
+          "video",
+          "england's resilience",
+          "sport",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/womens-european-championship/schedule",
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:43.512345",
+          "depth": 1,
+          "relevance_score": 6.5
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.615983",
+      "quality_score": 0.65
+    },
+    {
+      "id": "news_79613",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cd97w00125qo",
+        "keywords": [
+          "top stories",
+          "related topics",
+          "more on this story",
+          "elsewhere in sport",
+          "sweden"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.6
+      },
+      "content": {
+        "title": "Euro 2025: England beat Sweden on penalties - how dramatic and emotional shootout played out - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nEngland\nMen's Scores & Fixtures\nWomen's Scores & Fixtures\nMen's Table\nWomen's Table\nHow the 'greatest and worst shootout of all time' unfolded\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nWatch all the penalties as England beat Sweden\nAdam Millington\nBBC Sport journalist\nPublished\n18 July 2025\n1306 Comments\nLucy Bronze scored the penalty that mattered and her feelings after England's win over Sweden summed up the Lionesses' performance - and the shootout - perfectly.\nIt was both \"overwhelming and underwhelming,\" a shootout fraught with nervy moments but lacking in quality.\nOne goalkeeper saving four penalties. The other keeping out two. Three players missing the target. A keeper blasting one over the crossbar.\nAfter England dramatically restored their hopes when a Euro 2025 exit looked a near certainty, a\n\"stressful\" shootout victory over the Swedes\nearned them a spot in the semi-finals against Italy on Tuesday.\n\"I think it was just a rollercoaster, both overwhelming and underwhelming,\" Bronze told BBC Sport. \"It was just a crazy game\".\nGoalkeeper Hannah Hampton echoed Bronze's thoughts, saying it made for \"stressful watching, stressful playing\".\nShe told BBC Sport: \"Every time I saved one I was thinking 'please just put it in so we have a bit of a cushion'. Their keeper then just went and saved the next one and I was thinking 'oh goodness, here we go.'\"\nImage source,\nGetty Images\nImage caption,\nLucy Bronze's penalty proved crucial as Sweden missed their kick\nHow the shootout unfolded\nSweden 0-1 England (penalty one)\nEngland won the toss, benefiting from a shootout in front of their own fans and took the first penalty.\nUp stepped Alessia Russo, the Lionesses' trusty goal threat. Jennifer Falk dived the right way, but Russo's powerful effort never looked like being stopped.\n\"Russo has left nothing on the pitch, so to strike that as sweetly as she did - Falk went the right way, nowhere near it,\" former England goalkeeper Rachel Brown-Finnis said on BBC One.\nSweden 0-1 England (penalty two)\nHampton stood on the line, her nose bloodied from a collision in the final moments of extra time.\nFilippa Angeldahl too",
+        "topics": [
+          "top stories",
+          "related topics",
+          "more on this story",
+          "elsewhere in sport",
+          "sweden",
+          "england",
+          "penalty",
+          "video",
+          "how the shootout unfolded",
+          "sport",
+          "best of the bbc",
+          "shootout"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/womens-european-championship/schedule",
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:44.749996",
+          "depth": 2,
+          "relevance_score": 6.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.616203",
+      "quality_score": 0.6
+    },
+    {
+      "id": "news_8896",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/womens-european-championship/schedule",
+        "keywords": [
+          "full",
+          "switzerland",
+          "italy",
+          "result",
+          "norway"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.4
+      },
+      "content": {
+        "title": "UEFA Women's Euro 2025 - Groups & Schedule",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nUEFA Women's Euro\nGroups & Schedule\nScores & Fixtures\nTop Scorers\nUEFA Women's Euro 2025 Schedule\nGroup Stage\nKnockout Stage\n(active)\nSkip to group\nA\nB\nC\nD\nGroup A\nTeam\nPlayed\nWon\nDrawn\nLost\nGoals For\nGoals Against\nGoal Difference\nPoints\nForm, Last 6 games, Oldest first\n1\nNorway\n3\n3\n0\n0\n8\n5\n3\n9\nNo Result\nNo Result\nNo Result\nW\nResult Win\nW\nResult Win\nW\nResult Win\n2\nSwitzerland\n3\n1\n1\n1\n4\n3\n1\n4\nNo Result\nNo Result\nNo Result\nL\nResult Loss\nW\nResult Win\nD\nResult Draw\n3\nFinland\n3\n1\n1\n1\n3\n3\n0\n4\nNo Result\nNo Result\nNo Result\nW\nResult Win\nL\nResult Loss\nD\nResult Draw\n4\nIceland\n3\n0\n0\n3\n3\n7\n-4\n0\nNo Result\nNo Result\nNo Result\nL\nResult Loss\nL\nResult Loss\nL\nResult Loss\nPosition\n1\n:\nNorway will play Italy on 16th July\nPosition\n2\n:\nSwitzerland will play Spain on 18th July\nFull time\nFT\nIceland\nIceland\n0\nFinland\nFinland\n1\nFull time\nFT\nSwitzerland\nSwitzerland\n1\nNorway\nNorway\n2\nFull time\nFT\nNorway\nNorway\n2\nFinland\nFinland\n1\nFull time\nFT\nSwitzerland\nSwitzerland\n2\nIceland\nIceland\n0\nFull time\nFT\nFinland\nFinland\n1\nSwitzerland\nSwitzerland\n1\nFull time\nFT\nNorway\nNorway\n4\nIceland\nIceland\n3\nSee scores & fixtures\nGroup B\nTeam\nPlayed\nWon\nDrawn\nLost\nGoals For\nGoals Against\nGoal Difference\nPoints\nForm, Last 6 games, Oldest first\n1\nSpain\n3\n3\n0\n0\n14\n3\n11\n9\nNo Result\nNo Result\nNo Result\nW\nResult Win\nW\nResult Win\nW\nResult Win\n2\nItaly\n3\n1\n1\n1\n3\n4\n-1\n4\nNo Result\nNo Result\nNo Result\nW\nResult Win\nD\nResult Draw\nL\nResult Loss\n3\nBelgium\n3\n1\n0\n2\n4\n8\n-4\n3\nNo Result\nNo Result\nNo Result\nL\nResult Loss\nL\nResult Loss\nW\nResult Win\n4\nPortugal\n3\n0\n1\n2\n2\n8\n-6\n1\nNo Result\nNo Result\nNo Result\nL\nResult Loss\nD\nResult Draw\nL\nResult Loss\nPosition\n1\n:\nSpain will play Switzerland on 18th July\nPosition\n2\n:\nItaly will play Norway on 16th July\nFull time\nFT\nBelgium\nBelgium\n0\nItaly\nItaly\n1\nFull time\nFT\nSpain\nSpain\n5\nPortugal\nPortugal\n0\nFull time\nFT\nSpain\nSpain\n6\nBelgium\nBelgium\n2\nFull time\nFT\nPortugal\nPortugal\n1\nItaly\nItaly\n1\nFull time\nFT\nItaly\nItaly\n1\nSpain\nSpain\n3\nFull time\nFT\nPortugal\nPortugal\n1\nBelgium\nBelgium\n2\nSee scores & fixtures\nGroup C\nTeam\nPlayed\nWon\nDrawn\nLost\nGoals For\nGoals Against\nGoal Difference\nPoints\nForm, Last 6 games, Oldest first\n1\nSweden\n3\n3\n0\n0\n8\n1\n7\n9\nNo Result\nNo Result\nNo Result\nW\nResult Win\nW\nResult Win\nW\nResul",
+        "topics": [
+          "full",
+          "switzerland",
+          "italy",
+          "result",
+          "norway",
+          "group c",
+          "best of the bbc",
+          "group d",
+          "final",
+          "england",
+          "spain",
+          "quarter-finals",
+          "semi-finals",
+          "loss",
+          "sweden",
+          "group a",
+          "sport",
+          "group b"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/womens-european-championship/schedule",
+          "https://bbc.co.uk/sport/football/live/cd78y0vxze0t",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/live/cvg8n4ydxnzt"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:46.134608",
+          "depth": 2,
+          "relevance_score": 4.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.616475",
+      "quality_score": 0.4
+    },
+    {
+      "id": "news_38748",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cv2gd3jr387o",
+        "keywords": [
+          "previously on insight",
+          "related topics",
+          "white",
+          "about",
+          "tottenham"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.65
+      },
+      "content": {
+        "title": "Tottenham's John White and his son's search for lost superstar - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nThe FA Cup\nScores & Fixtures\nVideo\nTop Scorers\nSport Insight\nChasing the 'Ghost' - a superstar struck down by lightning\nPublished\n4 July 2024\n60 Comments\nMike Henson\nBBC Sport\nNorth London is humid and Rob White is tired.\n\"We had ridiculous storms here last night,\" he says.\n\"I woke up at 4am and it was like someone switching a neon light on and off in my room.\n\"Even at the age of 60, that takes me somewhere.\"\nWhite is aware of the cliche.\n\"The clap of thunder, the flash of lightning, it is almost lazy as a plot device isn't it?\" he says.\n\"You see it in movies, in books, in plays - it goes all the way back to Greek tragedy.\"\nBut for his story, it is undeniable and unavoidable. Every bolt lands in the same place: 21 July 1964.\nSixty years ago, a summer storm erupted over Middlesex and lightning struck a lone golfer.\nJohn White, 27, was found crouched and scorched under a tree, the rings on his fingers fused to the shaft of the club he was clutching.\nTottenham and Scotland had lost one of the finest footballers of his generation - a Double winner, with a European Cup Winners' Cup medal to his name - at the height of his powers.\nRob, just six months old at the time, had lost a father.\nHis search has continued ever since.\nImage source,\nGetty\nImage caption,\nPat Jennings (front, far right) and Jimmy Greaves (behind Jennings) attend White's funeral on 25 July 1964\nRob has spent his life trying to unravel a death and reveal its victim, listening at closed doors and investigating sliding doors.\nThe day he knows best in his father's life is the last.\nIt is one littered with chance encounters and alternate universes, any of which would have led John out of a lightning bolt's path.\nOn the fateful morning of 21 July 1964, Tottenham's players gathered for some team photos and gentle pre-season training at White Hart Lane.\nHaving finished in the top four in seven of the previous eight seasons, they were an established power, with an attack centred on Jimmy Greaves' finishing and Cliff Jones' trickery.\nJohn White's gifts were more subtle. He  had a silken first touch, an astute passing game and an ability to lose his marker that, combined with his slight frame and pale complexion, earn",
+        "topics": [
+          "previously on insight",
+          "related topics",
+          "white",
+          "about",
+          "tottenham",
+          "image",
+          "john",
+          "sport",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/fa-cup/scores-fixtures",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/programmes/b0070hx6"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:47.356543",
+          "depth": 1,
+          "relevance_score": 6.5
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.616721",
+      "quality_score": 0.65
+    },
+    {
+      "id": "news_82559",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cekk4zp5rg8o",
+        "keywords": [
+          "orban",
+          "football",
+          "previously on insight",
+          "related topics",
+          "hungarian"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.75
+      },
+      "content": {
+        "title": "Hungary's Euro 2024 ambitions and Viktor Orban's politics - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nEuropean Football\nScores & Fixtures\nTable\nChampions League\nEuropa League\nSport Insight\nThe awkward questions behind Hungary's football revival\nPublished\n20 June 2024\nImage source,\nGetty\nDan Nolan\nBBC Sport\nIn the village of Felcsut, there stands a stadium.\nFelcsut, 28 miles outside of Budapest, is home to fewer than 2,000 people. Yet the stadium seats nearly 4,000.\nAnd in some style. Its roof - covered in slate tiles and copper turrets - is supported by soaring wooden columns, all set off with artful architectural lighting.\nIt is estimated to have cost more than \u00a310m.\nIt is called the Pancho Arena \u2013 part monument to Hungary's past, part statement of its future.\nImage source,\nGetty\nImage caption,\nPartizan Belgrade players and fans celebrate a win over Hungarian side Videoton at the Pancho Arena in August 2017\nSeventy years ago - 150 miles south of Stuttgart, where the two teams' met at Euro 2024 on Wednesday - Hungary faced West Germany in the World Cup final.\nHaving beaten the Germans 8-3 in the group stage, Hungary were hot favourites to win the final in Bern, Switzerland. But, after taking a two-goal lead inside eight minutes, they were sensationally defeated 3-2, losing their first game in five years and breaking a 31-match unbeaten run.\nThey never scaled such heights again.\nHungary's stellar group of players - known as the 'Mighty Magyars' or 'Golden Team' - broke up two years later, many of its members choosing not to return home after the Hungarian Uprising of October 1956 had been violently crushed by the Soviet Union.\nThe finest of them all - Hungary's captain Ferenc Puskas - wound up at Real Madrid, where he was given the nickname 'Pancho'.\nThe stadium in Felcsut bears Puskas' nickname thanks to the village's most famous resident - Hungary's football-crazy Prime Minister Viktor Orban.\nFirst elected in 1998 at the age of 35, and now the longest-serving leader in the European Union, Orban has transformed Hungary,\nrewriting the country's constitution\nand election laws. What he has changed it into is open to debate. Orban has described his approach as \"illiberal democracy\" and \"Christian democracy\".\nIn 2022, the European Parliament opted for a \"hybrid regime of el",
+        "topics": [
+          "orban",
+          "football",
+          "previously on insight",
+          "related topics",
+          "hungarian",
+          "image",
+          "sport",
+          "best of the bbc",
+          "hungary"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/live/cy99ezlkyk0t",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/articles/c19dlgr80pko",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:48.938274",
+          "depth": 2,
+          "relevance_score": 7.5
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.616950",
+      "quality_score": 0.75
+    },
+    {
+      "id": "news_13795",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/tennis/articles/c3g527q1z0vo",
+        "keywords": [
+          "previously on insight",
+          "related topics",
+          "wimbledon",
+          "tennis",
+          "murray"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.85
+      },
+      "content": {
+        "title": "Andy Murray, Wimbledon & the Olympics - four weeks that changed it all - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nTennis\nScores & Schedule\nCalendar\nVideo\nSport Insight\nThe people v Andy Murray: Four weeks that changed him and us\nPublished\n27 June 2024\nUpdated 1 August 2024\nImage source,\nGetty\nAmy Lofthouse\nBBC Sport\nInscribed above the doors that lead to Wimbledon's Centre Court is a famous line from Rudyard Kipling's poem, If.\n\"If you can meet with Triumph and Disaster and treat those two impostors just the same,\" it reads.\nIt is there to remind the world's best and their challengers that you are defined by more than the scoreboard.\nNo-one knows that as well as Andy Murray.\nThe grass courts at SW19 were the scene of a four-week period in 2012 that changed the way a swathe of the British public thought of Murray. Beaten in the Wimbledon final, he regrouped, returned and won Olympic gold on the same court in front of packed stands.\nHe swore. He cried. He celebrated. He felt the love.\nThis is the story of the 28 days that confirmed Murray as a national treasure.\nImage source,\nGetty\nImage caption,\nMurray watched Jessica Ennis-Hill, Mo Farah and Greg Rutherford win athletics golds the night before his London 2012 final against Roger Federer\nBefore he was Sir Andrew Murray OBE, world number one, three-time Grand Slam champion, one of the nation's greatest-ever athletes... he was, to one woman at least, something altogether less celebratory.\nIn 2006, the football World Cup was taking place at the same time as Wimbledon. A 19-year-old Murray, himself once a promising youth footballer, joked in an interview that he would support \"whoever England were playing against\".\nIt went down like a lead balloon. He\nwas abused in the comments\nof a blog he wrote on his website and even his wristbands, decorated with the Scottish saltire, attracted scrutiny.\nMurray had become a lightning rod, attracting ire in an edgy Anglo-Scottish atmosphere. The previous month, the then Scottish First Minister had been criticised for\nsaying he would not be supporting England.\nBut the reaction to Murray's joke was on a far larger scale.\nIn the aftermath, Murray, playing only his second Wimbledon, walked past a spectator on the way to his match. He overheard her telling a friend, in expletive-laden and anti-Scottish l",
+        "topics": [
+          "previously on insight",
+          "related topics",
+          "wimbledon",
+          "tennis",
+          "murray",
+          "sport",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/articles/c19dlgr80pko",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/programmes/b0070hx6"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:50.264856",
+          "depth": 2,
+          "relevance_score": 8.5
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.617156",
+      "quality_score": 0.85
+    },
+    {
+      "id": "news_60992",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/articles/c3ggg48g3yvo",
+        "keywords": [
+          "previously on insight",
+          "related topics",
+          "palma",
+          "albon",
+          "sport"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.5
+      },
+      "content": {
+        "title": "Transvulcania - the race on the rim of La Palma's volcanos - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nSport Insight\nRunning on a volcano's rim - the race in the shadow of an eruption\nPublished\n26 June 2024\nBen Collins\nBBC Sport\nIts name alone captures trail-running's spirit of adventure. And it fits perfectly.\nTransvulcania is one of the world\u2019s toughest and most spectacular ultra-marathons, skirting along a volcanic ridgeline in the Canary Islands.\nIt takes place on the island of La Palma, known as La Isla Bonita for its wealth of natural beauty.\nYet in 2021 there was a devastating reminder that Mother Nature possesses beastly power as well.\nFor the first time in 50 years, that volcanic ridge erupted.\nImage source,\nGetty\nImage caption,\nBefore 2021, La Palma had been spared any volcanic eruption since 1971\nThere had been warnings. A cluster of small earthquakes started under the Cumbre Vieja ridge on 11 September.\nThen on 19 September, the eruption began a little west of the ridgeline. The first lava flows snaked down slopes.\nHomes were evacuated, livestock moved across the island and farmers raced to guard or salvage their crops.\nThere was little they could do. Houses were swamped, roads barricaded and fields buried by molten flows and layers of ash.\nTen days after the eruption had started, the lava flow completed its 6km (3.7 mile) journey across La Palma, falling, steaming, into the Atlantic Ocean.\nLa Palma\u2019s previous eruption in 1971, from the south of the same ridge, went on for a month. The 2021 eruption lasted for 85 days.\nHaving had to cancel the 2020 race because of the coronavirus pandemic, Transvulcania's organisers were left with no choice but to scratch the 2021 event.\nIn that moment, it was the least of the island's worries.\nUltimately more than 7,000 people had to be evacuated and more than 3,000 properties were destroyed, along with farmland covering roughly 1,500 football pitches.\nThe financial damage was estimated as 862.7m euros (\u00a3729m).\nNow, though, Transvulcania has returned to help La Palma recover, along with two of Britain\u2019s best trail-runners.\nImage source,\nGetty\nImage caption,\nThe lava flows damaged La Palma's agricultural industry, which is centred around bananas\nTransvulcania is a week-long festival of races over different distances, with an",
+        "topics": [
+          "previously on insight",
+          "related topics",
+          "palma",
+          "albon",
+          "sport",
+          "transvulcania",
+          "image",
+          "island",
+          "race",
+          "la palma's volcanos erupted",
+          "best of the bbc",
+          "in 2021"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/articles/c19dlgr80pko",
+          "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+          "https://bbc.co.uk/programmes/b0070hx6"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:51.694133",
+          "depth": 2,
+          "relevance_score": 5.0
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.617373",
+      "quality_score": 0.5
+    },
+    {
+      "id": "news_70461",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cp8673nln6ro",
+        "keywords": [
+          "football",
+          "top stories",
+          "related topics",
+          "more on this story",
+          "euro"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.95
+      },
+      "content": {
+        "title": "England at Euro 2025: Who do the Lioness play in the semi-final? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nEngland\nMen's Scores & Fixtures\nWomen's Scores & Fixtures\nMen's Table\nWomen's Table\nWhat is England's route to Euro 2025 final?\nImage source,\nGetty Images\nAdam Millington\nBBC Sport journalist\nPublished\n10 July 2025\nUpdated 18 July 2025\nEngland are now two games away from defending their European crown after reaching the semi-finals of Euro 2025.\nThe Lionesses beat Sweden in a\ndramatic penalty shootout\nin the last eight to secure a third consecutive semi-final appearance.\nThey now face Italy, ranked 13th in the world, in Geneva on Tuesday at 20:00 BST for a place in the final, which is in Basel on Sunday 27 July.\nThey are on the other side of the draw to world champions Spain and would only meet in the final.\nSpain beat Switzerland\nin Bern on Friday to set up a semi-final against Germany or France, who meet in Zurich on Saturday in the final quarter-final.\nRelated topics\nEngland Women's Football Team\nUEFA Women's EURO\nFootball\nWomen's Football\nMore on this story\nEuro 2025 fixtures and group standings\nEuro 2025 TV & BBC radio schedule\nPublished\n6 days ago\nThe 16 confirmed squads for Euro 2025\nPublished\n30 June\nTop stories\nLive\n.\nThe Open final day - Fitzpatrick and McIlroy in pursuit of Scheffler\n26809 viewing\n27k viewing\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nPublished\n6 hours ago\nLive\n.\nTour de France stage 15 - Pogacar rivals look to cut gap before rest day\n2905 viewing\n2.9k viewing\nloading elsewhere stories\nElsewhere in Sport\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch. Video\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\nMcIlroy confused as he unearths a buried ball. Video\nMcIlroy confused as he unearths a buried ball\nBerger's stunning save prevents extra-time own goal. Video\nBerger's stunning save prevents extra-time own goal\n'Desperation driving Australia - but it only gets you so far'\nPressure & better keepers - why penalties are being missed at Euro 2025\n'We felt like Premier League footballers' - Jones relives 2005 Ashes\nExploring Britain's most extraordinary cricket grounds. Video\nExploring Britain's most extraordinary cricket grounds\nThe race for a striker is hotting up - who is still available?\n'Th",
+        "topics": [
+          "football",
+          "top stories",
+          "related topics",
+          "more on this story",
+          "euro",
+          "sports",
+          "elsewhere in sport",
+          "cricket",
+          "england",
+          "video",
+          "women",
+          "final",
+          "sport",
+          "best of the bbc",
+          "iplayer"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/womens-european-championship/schedule",
+          "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/articles/c4g8y491zwyo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:52.925511",
+          "depth": 1,
+          "relevance_score": 9.5
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.617813",
+      "quality_score": 0.95
+    },
+    {
+      "id": "news_83514",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/live/c98wr4x5z08t#Report",
+        "keywords": [
+          "goalkeeper saves",
+          "dispossessed",
+          "overall possession",
+          "key events",
+          "hit woodwork"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.65
+      },
+      "content": {
+        "title": "Spain 2-0 Switzerland: World champions through to semi-finals as hosts knocked out - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nUEFA Women's Euro\nGroups & Schedule\nScores & Fixtures\nTop Scorers\nSpain see off stubborn Switzerland to reach semis\nMatch Summary\nFri 18 Jul 2025\n\u2027\nUEFA Women's Euro\n-\nQuarter-finals\nSpain 2 , Switzerland 0 at Full time\nSpain\nSpain\nSpain\n2\n0\nSwitzerland\nSwitzerland\nSwitzerland\nFull time\nFT\nHalf Time Spain 0 , Switzerland 0\nHT 0-0\nKey Events\nSpain\nAthenea del Castillo\n(\n66'\n)\nGoal 66 minutes\nCl\u00e0udia Pina\n(\n71'\n)\nGoal 71 minutes\nSwitzerland\nN. Maritz\n(\n90'+2\n)\nRed Card 90 minutes plus 2\nAssists\nSpain,\nAitana Bonmat\u00ed (66')\nVenue:\nStadion Wankdorf\nAttendance:\n29,734\nSpain v Switzerland\nBBC Sport\nClose\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nLive Reporting\nReport\n(active)\nScores\nLine-ups\nMatch Stats\nWatch & listen\nHead-to-head\nSummary\nSpain set up semi-final with France or Germany\nSubstitute\nDel Castillo\ncalmly finished to put Spain ahead and\nPina\ncurled in fine second\nCaldentey and Putellas missed penalties for Spain, who also hit woodwork three times\nMaritz sent off late on for Switzerland for late foul\nGet Involved: #bbcfootball, WhatsApp on 03301231826 or text 81111 (UK only, standard message rates apply)\nLive Reporting\nJess Anderson\nShow\nMost recent\nMost popular\nGoodnight!\npublished at 22:30 British Summer Time 18 July\n22:30 BST 18 July\nWell, thanks for joining us on a far less dramatic evening in Switzerland than last night as Spain book their place in the Euro 2025 semi-final while host nation Switzerland go out.\nNext up for the world champions it's France or Germany.\nWe'll be back for that - the fourth and final quarter-final match - tomorrow evening.\nSee you then!\n22\n4\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\nPost\npublished at 22:28 British Summer Time 18 July\n22:28 BST 18 July\nFT: Spain 2-0 Switzerland\nDid somebody say semi-finals?\nImage source,\nGetty Images\n23\n8\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\nPost\npublished at 22:25 British Summer Time 18 July\n22:25 BST 18 July\nFT: Spain 2-0 Switzerland\nTwo very decent goals got the job done for Spain in Bern.\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\n'Instant impact!' Sub De",
+        "topics": [
+          "goalkeeper saves",
+          "dispossessed",
+          "overall possession",
+          "key events",
+          "hit woodwork",
+          "team lineups",
+          "substitutes",
+          "average",
+          "previous meetings",
+          "home team, spain",
+          "forward passes",
+          "away team, switzerland",
+          "penalty saves",
+          "goal kicks",
+          "attackattack",
+          "total offside",
+          "won tackles",
+          "season so far",
+          "shots",
+          "switzerland",
+          "goals conceded",
+          "backward passes",
+          "fouls",
+          "total yellow cards",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/womens-european-championship/schedule",
+          "https://bbc.co.uk/sport/15890345",
+          "https://bbc.co.uk/sport/rugby-league",
+          "https://bbc.co.uk/sport/football/articles/c4gdjxn3zelo",
+          "https://bbc.co.uk/sport/football/womens-european-championship/scores-fixtures"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T14:54:54.609845",
+          "depth": 2,
+          "relevance_score": 6.5
+        }
+      },
+      "timestamp": "2025-07-20T14:54:54.618302",
+      "quality_score": 0.65
+    }
+  ],
+  "summary": {
+    "total_nodes": 19,
+    "average_relevance": 7.057894736842105,
+    "max_relevance": 10.0,
+    "unique_topics": 137,
+    "total_topics": 251,
+    "depth_distribution": {
+      "0": 1,
+      "1": 5,
+      "2": 13
+    },
+    "high_relevance_pages": 11
+  }
+}

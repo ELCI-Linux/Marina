@@ -1,0 +1,1948 @@
+{
+  "timestamp": "2025-07-20T13:14:40.689921",
+  "root_url": "https://en.wikipedia.org/wiki/Arsenal_F.C.",
+  "keywords": [
+    "Arsenal transfers Arteta"
+  ],
+  "enhanced_keywords": [
+    [
+      "Arsenal transfers Arteta",
+      1.0
+    ]
+  ],
+  "total_pages_scraped": 30,
+  "knowledge_nodes": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Arsenal_F.C.",
+      "title": "Arsenal F.C. - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 25,
+      "depth": 0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/ESPNsoccernet",
+      "title": "ESPN FC - Wikipedia",
+      "relevance_score": 9.5,
+      "topics_count": 17,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_ESPN",
+      "title": "History of ESPN - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 23,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Taylor_Twellman",
+      "title": "Taylor Twellman - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 21,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Dykes",
+      "title": "John Dykes - Wikipedia",
+      "relevance_score": 8.5,
+      "topics_count": 19,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/ESPN_Classic_(European_TV_channel)",
+      "title": "ESPN Classic (European TV channel) - Wikipedia",
+      "relevance_score": 7.5,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Soccer_on_ESPN/ABC",
+      "title": "Soccer on ESPN/ABC - Wikipedia",
+      "relevance_score": 9.0,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boston_Red_Sox",
+      "title": "Boston Red Sox - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 25,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eddie_Collins",
+      "title": "Eddie Collins - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 22,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Smoltz",
+      "title": "John Smoltz - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bay_Village,_Boston",
+      "title": "Bay Village, Boston - Wikipedia",
+      "relevance_score": 7.5,
+      "topics_count": 23,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Billy_Wagner",
+      "title": "Billy Wagner - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brian_O%27Halloran_(baseball)",
+      "title": "Brian O'Halloran (baseball) - Wikipedia",
+      "relevance_score": 7.0,
+      "topics_count": 16,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_Norris_(businessman)",
+      "title": "Henry Norris (businessman) - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 16,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/London_County_Council",
+      "title": "London County Council - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Category:Fulham_F.C._directors_and_chairmen",
+      "title": "Category:Fulham F.C. directors and chairmen - Wikipedia",
+      "relevance_score": 4.5,
+      "topics_count": 12,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/w/index.php?title=Henry_Norris_(businessman)&oldid=1293293167",
+      "title": "Henry Norris (businessman) - Wikipedia",
+      "relevance_score": 7.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Randall_Davidson",
+      "title": "Randall Davidson - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ownership_of_Arsenal_F.C._%26_W.F.C.",
+      "title": "Ownership of Arsenal F.C. & W.F.C. - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 16,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manor_Ground_(Plumstead)",
+      "title": "Manor Ground (Plumstead) - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emirates_Cup",
+      "title": "Emirates Cup - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 20,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/YouTube_Theater",
+      "title": "YouTube Theater - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 17,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Meadow_Park_(Borehamwood)",
+      "title": "Meadow Park (Borehamwood) - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 20,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Ownership+of+Arsenal+F.C.+%26+W.F.C.",
+      "title": "Create account - Wikipedia",
+      "relevance_score": 3.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/UEFA_competitions",
+      "title": "UEFA competitions - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 23,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Homegrown_Player_Rule_(UEFA)",
+      "title": "Homegrown Player Rule (UEFA) - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 17,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Women%27s_association_football",
+      "title": "Women's association football - Wikipedia",
+      "relevance_score": 7.5,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Football_Federation",
+      "title": "French Football Federation - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/UEFA_stadium_categories",
+      "title": "UEFA stadium categories - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 17,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_UEFA_Intertoto_Cup_winning_managers",
+      "title": "List of UEFA Intertoto Cup winning managers - Wikipedia",
+      "relevance_score": 5.5,
+      "topics_count": 17,
+      "depth": 2
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_87789",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Arsenal_F.C.",
+        "keywords": [
+          "contents",
+          "first-team squad",
+          "arsenal f.c.",
+          "2018\u20132020: post-wenger revolution",
+          "further reading"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Arsenal F.C. - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\nToggle History subsection\n1.1\n1886\u20131912: Dial Square to Royal Arsenal\n1.2\n1912\u20131925: Bank of England club\n1.3\n1925\u20131934: Herbert Chapman's legendary Gunners\n1.4\n1934\u20131947: Shaw, Allison and the Second World War\n1.5\n1947\u20131962: Tom Whittaker's meteoric Gunners\n1.6\n1962\u20131984: Billy Wright, Bertie Mee and Terry Neill's cohorts\n1.7\n1984\u20131996: George Graham's Arsenal\n1.8\n1996\u20132018: Arsene Wenger Years\n1.9\n2018\u20132020: Post-Wenger revolution\n1.10\n2020\u2013present: Mikel Arteta era\n2\nCrest\n3\nColours\nToggle Colours subsection\n3.1\nKit suppliers and shirt sponsors\n4\nStadiums\n5\nSupporters and rivalries\nToggle Supporters and rivalries subsection\n5.1\nChants\n5.2\nRivalries\n6\nMascot\n7\nOwnership and finances\n8\nIn popular culture\n9\nIn the community\n10\nPlayers\nToggle Players subsection\n10.1\nFirst-team squad\n10.1.1\nOut on loan\n10.2\nAcademy\n11\nManagement and staff\nToggle Management and staff subsection\n11.1\nCurrent staff\n11.2\nArsenal board\n12\nStatistics and records\n13\nHonours\nToggle Honours subsection\n13.1\nOther\n14\nNotes\n15\nReferences\nToggle References subsection\n15.1\nCitations\n15.2\nSources\n16\nFurther reading\n17\nExternal links\nToggle External links subsection\n17.1\nIndependent websites\nToggle the table of contents\nArsenal F.C.\n117 languages\nAc\u00e8h\nAfrikaans\nAlemannisch\n\u12a0\u121b\u122d\u129b\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAragon\u00e9s\nAsturianu\nAz\u0259rbaycanca\n\u062a\u06c6\u0631\u06a9\u062c\u0647\nBasa Bali\n\u09ac\u09be\u0982\u09b2\u09be\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\n\u092d\u094b\u091c\u092a\u0941\u0930\u0940\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nBosanski\nCatal\u00e0\nCebuano\n\u010ce\u0161tina\nCymraeg\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEsperanto\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nFiji Hindi\nF\u00f8royskt\nFran\u00e7ais\nGaeilge\nGalego\n\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0\n\u0917\u094b\u0902\u092f\u091a\u0940 \u0915\u094b\u0902\u0915\u0923\u0940 / G\u00f5ychi Konknni\n\ud55c\uad6d\uc5b4\nHausa\n\u0540\u0561\u0575\u0565\u0580\u0565\u0576\n\u0939\u093f\u0928\u094d\u0926\u0940\nHrvatski\nIdo\nBahasa Indonesia\n\u00cdslenska\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nJawa\n\u0c95\u0ca8\u0ccd\u0ca8\u0ca1\n\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8\n\u049a\u0430\u0437\u0430\u049b\u0448\u0430\nKiswahili\nKurd\u00ee\n\u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430\n\u0ea5\u0eb2\u0ea7\nLatina\nLatvie\u0161u\nL\u00ebtzebuergesch\nLietuvi\u0173\nMagyar\n\u092e\u0948\u0925\u093f\u0932\u0940\n\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\nMalagasy\n\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02\nMalti\n\u092e\u0930\u093e\u0920\u0940\n\u0645\u0635\u0631\u0649\n\u0645\u0627\u0632\u0650\u0631\u0648\u0646\u06cc\nBahasa Melayu\nMinangkabau\n\u041c\u043e\u043d\u0433\u043e\u043b\n\u1019\u103c\u1014\u103a\u1019\u102c\u1018\u102c\u101e\u102c\nNaij\u00e1\nNederlands\n\u0928\u0947\u092a\u093e\u0932\u0940\n\u65e5\u672c\u8a9e\nNapulitano\nNorsk bokm\u00e5l\nNorsk nynorsk\nO\u02bbzbekcha / \u045e\u0437\u0431\u0435\u043a\u0447\u0430\n\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40\nPiemont\u00e8is\nPolski\nPortugu\u00eas\nQaraqalpaqsha\nRom\u00e2n\u0103\nRuna Simi\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n\u0421\u0430\u0445\u0430 \u0442\u044b\u043b\u0430\nScots\nShqip\nSimple English\nSloven\u010dina\nSloven\u0161\u010dina\n\u015al\u016fnski\nSoomaaliga\n\u06a9\u0648\u0631\u062f\u06cc\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSrpskohrvatski / \u0441\u0440\u043f\u0441\u043a\u043e\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0438\nSunda\nSuomi\nSvenska\n\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\n\u0422\u0430\u0442\u0430\u0440\u0447\u0430 / tatar\u00e7a\n\u0e44\u0e17\u0e22\n\u0422\u043e\u04b7\u0438\u043a\u04e3\nT\u00fcrk\u00e7e\nT\u00fcrkmen\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\n\u0627\u0631\u062f\u0648\nV\u00e8neto\nTi\u1ebfng Vi\u1ec7t\nWolof\n\u5434\u8bed\nYor\u00f9b\u00e1\n\u7cb5\u8a9e\nZazaki\n\u4e2d\u6587\nYerwa Kanuri\nEdit links\nArticle\nTalk\nEnglish\nRead\nView source\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nView source\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/",
+        "topics": [
+          "contents",
+          "first-team squad",
+          "arsenal f.c.",
+          "2018\u20132020: post-wenger revolution",
+          "further reading",
+          "stadiums",
+          "2020\u2013present: mikel arteta era",
+          "current staff",
+          "sources",
+          "notes",
+          "colours",
+          "club",
+          "first",
+          "citations",
+          "external links",
+          "independent websites",
+          "statistics and records",
+          "football",
+          "original",
+          "mascot",
+          "management and staff",
+          "arsenal board",
+          "arsenal",
+          "1984\u20131996: george graham's arsenal",
+          "rivalries"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/ESPNsoccernet",
+          "https://en.wikipedia.org/wiki/Boston_Red_Sox",
+          "https://en.wikipedia.org/wiki/Henry_Norris_(businessman)",
+          "https://en.wikipedia.org/wiki/Ownership_of_Arsenal_F.C._%26_W.F.C.",
+          "https://en.wikipedia.org/wiki/UEFA_competitions"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:42.401080",
+          "depth": 0,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.678624",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_98216",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/ESPNsoccernet",
+        "keywords": [
+          "history",
+          "contents",
+          "studio",
+          "program",
+          "references"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.95
+      },
+      "content": {
+        "title": "ESPN FC - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\n2\nTelevision program\n3\nControversy\n4\nReferences\n5\nExternal links\nToggle the table of contents\nESPN FC\n9 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\n\u09ac\u09be\u0982\u09b2\u09be\nCatal\u00e0\nEspa\u00f1ol\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\nBahasa Indonesia\nRom\u00e2n\u0103\n\u0e44\u0e17\u0e22\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\n(Redirected from\nESPNsoccernet\n)\nStreaming service of soccer content\nESPN FC\nOwner\nESPN Inc.\nURL\nespnfc\n.com\nRegistration\nOptional\nLaunched\n1995\n; 30\u00a0years ago\n(\n1995\n)\n(as SoccerNet)\nESPN FC\n(formerly\nESPN SoccerNet\n) is a website and a U.S. television studio program covering\nsoccer\nthat is broadcast daily over the streaming service\nESPN+\n. ESPN FC's origin was a website owned by\nESPN Inc.\nOriginally established in 1995 as\nSoccerNet\n, the website was acquired by ESPN in 1999. The domain ESPNFC.com now redirects to soccer news coverage on ESPN.com.\nHistory\n[\nedit\n]\nOriginally titled SoccerNet, the website was established by Greg Hadfield and his then-teenage son Tom in 1995, initially providing live score updates, tables and news articles. Greg, at that time, worked for the\nDaily Mail\nand in order to gain capital, effectively rescinded ownership of the site to his bosses in return for \u00a340,000 and a revenue sharing scheme.\n[\n1\n]\nIn 1999,\nBuena Vista Internet Group\n(BVIG) acquired a controlling interest of 60 percent in SoccerNet from the\nDaily Mail and General Trust\nfor \u00a315M.\n[\n2\n]\nTelevision program\n[\nedit\n]\nESPN eventually launched a U.S. television studio program on\nESPNews\n,\nESPN2\n,\nBT Sport\n,\nESPN Australia\n, and\nTSN\ndedicated to soccer, also known as\nESPN FC\n. The program originally aired on weekday evenings at 6 PM,\n[\n3\n]\nwith a weekly recap show airs on Sunday nights. The program has a mostly British cast. Dan Thomas works as the lead host with\nAdrian Healey\n, Sebastian Salazar, and Kay Murray filling in.\nThe studio analysts at the\nBristol, Connecticut\nstudio\n[\n4\n]\nare:\nCraig Burley\n,\nSteve Nicol\n,\nShaka Hislop\n,\nKasey Keller\n, and\nAlejandro Moreno\n. The rest of the crew joins from London and Europe, and on occasion, in the studio, and includes:\nSteve McManaman\n,\nStewart Robson\n,\nJulien Laurens\n,\nGabriele Marcotti\n,\nDon Hutchison\n,\nDanny Higginbotham\n,\nFrank Leboeuf\n,\nJan Aage Fjortoft\n,\nSid Lowe\n,\nIan Darke\n,\nDerek Rae\n",
+        "topics": [
+          "history",
+          "contents",
+          "studio",
+          "program",
+          "references",
+          "espn",
+          "wikipedia",
+          "football",
+          "website",
+          "edit",
+          "external links",
+          "controversy",
+          "soccer",
+          "espn fc",
+          "network",
+          "television program",
+          "soccernet"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Taylor_Twellman",
+          "https://en.wikipedia.org/wiki/John_Dykes",
+          "https://en.wikipedia.org/wiki/ESPN_Classic_(European_TV_channel)",
+          "https://en.wikipedia.org/wiki/Soccer_on_ESPN/ABC",
+          "https://en.wikipedia.org/wiki/History_of_ESPN"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:43.975984",
+          "depth": 1,
+          "relevance_score": 9.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.679015",
+      "quality_score": 0.95
+    },
+    {
+      "id": "news_4910",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/History_of_ESPN",
+        "keywords": [
+          "contents",
+          "2017 layoffs",
+          "professional sports arrive",
+          "2020\u2013present",
+          "college sports rights"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "History of ESPN - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nOrigins\n2\nInitial financing and development\n3\nCollege sports rights\n4\nLeadership and personnel\n5\nDebut\n6\nProfessional sports arrive\n7\nExpansion\n8\nInternational expansion\n9\n2017 layoffs\n10\n2020\u2013present\n11\n2023 layoffs\n12\nCriticism\n13\nReferences\nToggle References subsection\n13.1\nBibliography\nToggle the table of contents\nHistory of ESPN\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nMain article:\nESPN\nESPN is an\nAmerican\n-based global\ncable\nand\nsatellite television\nchannel that focuses on\nsports\n-related programming.\nOrigins\n[\nedit\n]\nESPN was founded by\nBill Rasmussen\n, his son\nScott Rasmussen\n, and 43 year old eye doctor and\nAetna\ninsurance agent Ed Eagan.\n[\n1\n]\nBill, who had an affinity with sports for much of his life, was fired from his position as the communications manager for the\nNew England Whalers\nin 1978.\n[\n1\n]\nDuring his tenure with the hockey team, Rasmussen had met Eagan, who displayed an interest in building a career in television. Eagan approached Bill with the idea of creating a monthly\ncable television\nprogram covering\nConnecticut\nsports and was curious to see if the Whalers would be interested in being the main feature on the show.\n[\n1\n]\nThough discouraged by his firing, Rasmussen and Eagan began to discuss a new course, Bill Rasmussen's original idea was to create a cable television network that focused on covering all sporting events in the state of Connecticut (for example, the Whalers, the\nBristol Red Sox\nand the\nConnecticut Huskies\n), rather than just focusing on one team as Eagan had proposed.\n[\n1\n]\nRasmussen knew little about cable television at the time and with under 20% of homes receiving cable, the task to create such a network was tedious.\n[\n2\n]\nIn the summer of 1978, the Rasmussens, with Eagan and his associate Bob Beyus \u2013 who owned a video production company \u2013 began to seek out support from cable operators and potential investors for the sports channel which they had come to name the\nEntertainment and Sports Programming Network\n(\nESP\n).\n[\n2\n]\nThey began to\npitch\ntheir idea on June 26 of that year, inviting twelve representatives from local cable operators \u2013 only five of whom had accepted the offer. The representatives that were present we",
+        "topics": [
+          "contents",
+          "2017 layoffs",
+          "professional sports arrive",
+          "2020\u2013present",
+          "college sports rights",
+          "games",
+          "debut",
+          "initial financing and development",
+          "criticism",
+          "history of espn",
+          "espn",
+          "sports",
+          "network",
+          "leadership and personnel",
+          "television",
+          "expansion",
+          "retrieved",
+          "2023 layoffs",
+          "origins",
+          "international expansion",
+          "references",
+          "bibliography",
+          "disney"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/George_Grande",
+          "https://en.wikipedia.org/wiki/ESPN_Classic_(European_TV_channel)",
+          "https://en.wikipedia.org/wiki/Boston_Red_Sox",
+          "https://en.wikipedia.org/wiki/Major_League_Soccer_All-Star_Game",
+          "https://en.wikipedia.org/wiki/Chris_Mortensen"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:45.815261",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.679238",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_70467",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Taylor_Twellman",
+        "keywords": [
+          "contents",
+          "injuries and retirement",
+          "international career",
+          "soccer",
+          "youth and college"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Taylor Twellman - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nYouth and college\n2\nProfessional career\nToggle Professional career subsection\n2.1\nInjuries and retirement\n3\nInternational career\n4\nPost-retirement\n5\nMedia career\n6\nPersonal life\n7\nCareer statistics\nToggle Career statistics subsection\n7.1\nMLS\n7.2\nInternational\n8\nHonors\n9\nReferences\n10\nExternal links\nToggle the table of contents\nTaylor Twellman\n16 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\n\u010ce\u0161tina\nDansk\nDeutsch\nEspa\u00f1ol\nEsperanto\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\nItaliano\n\u0645\u0635\u0631\u0649\nNederlands\nNorsk bokm\u00e5l\nPolski\nPortugu\u00eas\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAmerican soccer player\nTaylor Twellman\nTwellman on an\nESPN\nshow in 2019\nPersonal information\nFull name\nTaylor Timothy Twellman\nDate of birth\n(\n1980-02-29\n)\nFebruary 29, 1980\n(age\u00a045)\nPlace of birth\nMinneapolis\n,\nMinnesota\n, U.S.\nHeight\n5\u00a0ft 11\u00a0in (1.80\u00a0m)\nPosition(s)\nForward\nCollege career\nYears\nTeam\nApps\n(\nGls\n)\n1998\u20131999\nMaryland Terrapins\n43\n(28)\nSenior career*\nYears\nTeam\nApps\n(\nGls\n)\n2000\u20132002\n1860 Munich II\n36\n(7)\n2002\u20132010\nNew England Revolution\n174\n(101)\nTotal\n210\n(108)\nInternational career\n1997\nUnited States U17\n3\n(2)\n1999\nUnited States U20\n4\n(4)\n2002\u20132008\nUnited States\n30\n(6)\nMedal record\nMen's\nsoccer\nRepresenting\nUnited States\nCONCACAF Gold Cup\nWinner\n2007 United States\n*Club domestic league appearances and goals\nTaylor Timothy Twellman\n(born February 29, 1980) is an American former\nsoccer\nplayer who played professionally from 1999 to 2010. He now works in the media as a soccer television commentator for\nMLS Season Pass\non\nApple TV\n.\nTwellman is best known for his play with the\nNew England Revolution\nof\nMajor League Soccer\n(MLS) from 2002 to 2009, during which time he scored more goals in MLS than any other player.\n[\n1\n]\nHe was the youngest player to score 100 goals in MLS in 2009 at the age of 29,\n[\n2\n]\nand is New England's all-time leading goal scorer. Twellman was a five-time MLS all-star and in 2005 was the league MVP.\n[\n3\n]\nTwellman also earned 30 caps for the\nUnited States national team\n, scoring 6 international goals.\nTwellman has been active since his retirement in promoting awareness of concussions and working in the media as a color commentator for\nESPN/ABC\nuntil 2023 and for\nApple TV\nsince 2023.\nYouth and colleg",
+        "topics": [
+          "contents",
+          "injuries and retirement",
+          "international career",
+          "soccer",
+          "youth and college",
+          "honors",
+          "post-retirement",
+          "external links",
+          "international",
+          "media career",
+          "personal life",
+          "united",
+          "twellman",
+          "taylor",
+          "team",
+          "taylor twellman",
+          "references",
+          "league",
+          "states",
+          "career statistics",
+          "professional career"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Taylor_Twellman",
+          "https://en.wikipedia.org/wiki/MLS_on_ESPN",
+          "https://en.wikipedia.org/wiki/MLS_Soccer_Saturday",
+          "https://en.wikipedia.org/wiki/Jon_Champion",
+          "https://en.wikipedia.org/wiki/Steve_Twellman"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:47.232660",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.679477",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_33860",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/John_Dykes",
+        "keywords": [
+          "contents",
+          "football with espn star",
+          "espn",
+          "edit",
+          "external links"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.85
+      },
+      "content": {
+        "title": "John Dykes - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nBiography\nToggle Biography subsection\n1.1\nEarly career\n1.2\nInitial stint with ESPN Star\n1.3\nFootball with ESPN Star\n1.4\nPremier League Productions\n1.5\nReturn to Singapore\n2\nPersonal life\n3\nReferences\n4\nExternal links\nToggle the table of contents\nJohn Dykes\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nSports broadcaster based in Singapore\nThis article is about sports broadcaster based in Singapore. For other uses, see\nJohn Dykes (disambiguation)\n.\nThis\nbiography of a living person\nneeds additional\ncitations\nfor\nverification\n.\nPlease help by adding\nreliable sources\n.\nContentious material\nabout living persons that is unsourced or\npoorly sourced\nmust be removed immediately\nfrom the article and its talk page, especially if potentially\nlibelous\n.\nFind sources:\n\"John Dykes\"\n\u2013\nnews\n\u00b7\nnewspapers\n\u00b7\nbooks\n\u00b7\nscholar\n\u00b7\nJSTOR\n(\nAugust 2022\n)\n(\nLearn how and when to remove this message\n)\nDykes commentating in 2024\nJohn Dykes\nis a sports television anchor, commentator and journalist based in Singapore. He is best known for hosting \"The John Dykes Show\" on Disney+ and previously Fox Sports Asia, he was formerly lead anchor for the\nPremier League\n's content service, available to international broadcast partners. He first made his name in Asia after working for more than a decade as host of\nESPN STAR Sports\n' coverage of the Premier League and\nEuropean football\nas well as a variety of other major global sporting competitions and tournaments.\nBiography\n[\nedit\n]\nDykes was born in\nEssex\n,\nEngland\nin 1964\n[\n1\n]\nand went to\nBrentwood School\nbefore moving to Hong Kong with his family. He moved to Singapore in 1997 and lives there with his wife and two daughters.\nEarly career\n[\nedit\n]\nHe began his media career as a college radio DJ whilst studying English Literature at\nWarwick University\n. A move to\nHong Kong\nled to a successful stint at the\nSouth China Morning Post\n, where he was a Sports Writer, Feature Writer and Entertainment Editor for the Sunday Edition. During his time in Hong Kong, he also covered both sports and entertainment beats as a showbiz presenter at\nTVB\n. He hosted TVB's live coverage of the\nAcademy Awards\nfor five consecutive years before switching back t",
+        "topics": [
+          "contents",
+          "football with espn star",
+          "espn",
+          "edit",
+          "external links",
+          "sports",
+          "premier league productions",
+          "star",
+          "football",
+          "personal life",
+          "show",
+          "biography",
+          "singapore",
+          "return to singapore",
+          "john dykes",
+          "early career",
+          "references",
+          "dykes",
+          "john"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Category:1964_births",
+          "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+          "https://en.wikipedia.org/wiki/John_Dykes",
+          "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=John_Dykes&action=show-download-screen",
+          "https://en.wikipedia.org/wiki/Tiger_Woods"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:48.426943",
+          "depth": 2,
+          "relevance_score": 8.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.679747",
+      "quality_score": 0.85
+    },
+    {
+      "id": "news_8297",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/ESPN_Classic_(European_TV_channel)",
+        "keywords": [
+          "contents",
+          "classic",
+          "programming",
+          "channel",
+          "sport"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.75
+      },
+      "content": {
+        "title": "ESPN Classic (European TV channel) - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nProgramming\n2\nBBC-produced programming\n3\nLive action\n4\nSee also\n5\nReferences\n6\nExternal links\nToggle the table of contents\nESPN Classic (European TV channel)\n2 languages\nFran\u00e7ais\nSuomi\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nBritish-based European sports television channel (2002-2013)\nThis article\nneeds additional citations for\nverification\n.\nPlease help\nimprove this article\nby\nadding citations to reliable sources\n. Unsourced material may be challenged and removed.\nFind sources:\n\"ESPN Classic\"\u00a0European TV channel\n\u2013\nnews\n\u00b7\nnewspapers\n\u00b7\nbooks\n\u00b7\nscholar\n\u00b7\nJSTOR\n(\nSeptember 2012\n)\n(\nLearn how and when to remove this message\n)\nTelevision channel\nESPN Classic\nCountry\nUnited Kingdom\nBroadcast area\nEurope\nProgramming\nPicture format\n16:9\n(\n576i\n,\nSDTV\n)\nOwnership\nOwner\nESPN Inc.\n(\nThe Walt Disney Company\n/\nHearst Communications\n)\nSister channels\nESPN America\nESPN (UK)\nHistory\nLaunched\nMarch\u00a02002\n; 23\u00a0years ago\n(\n2002-03\n)\nClosed\n1\u00a0August\u00a02013\n; 11 years ago\n(\n2013-08-01\n)\nReplaced by\nBT Sport\n(UK)\nLinks\nWebsite\nwww.espnclassic.com\nESPN Classic\nwas a British-based European sports television channel which first launched in France in March 2002, followed by Italy in July 2002, and pan-Europe in December 2003.\n[\n1\n]\n[\n2\n]\nOn 13 March 2006 ESPN Classic launched on\nSky\nchannel 442 in the UK and Ireland,\n[\n3\n]\nthe first channel in the UK under the\nESPN\nbranding. On 3 August 2009, ESPN Classic launched on\nVirgin Media\nchannel 533 as a part of the XL pack,\n[\n4\n]\nand in early 2011\nvideo on demand\ncontent started to appear on the Virgin Media platform.\n[\n5\n]\nOn 14 August 2009, ESPN Classic launched on\nUPC Ireland\nchannel 409 as a part of the Max package.\n[\n6\n]\nIt broadcast a range of archive sports coverage, with a large emphasis on\nfootball\n.\nOn 25 February 2013,\nBT Group\nagreed to acquire ESPN's UK and Ireland TV channels business, consisting of ESPN and ESPN America, the value of the deal was not disclosed, but BT is understood to have paid \"low tens of millions\".\n[\n7\n]\nESPN Classic, which was not part of the BT deal, ceased transmission on satellite across Europe, the Middle East and Africa at midnight on 1 August 2013.\nProgramming\n[\nedit\n]\nMuch of the channel's output was football. This ",
+        "topics": [
+          "contents",
+          "classic",
+          "programming",
+          "channel",
+          "sport",
+          "references",
+          "espn",
+          "external links",
+          "television",
+          "channels",
+          "see also",
+          "bbc-produced programming",
+          "sports",
+          "live action"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Stingray_Digital",
+          "https://en.wikipedia.org/wiki/Category:2002_establishments_in_Italy",
+          "https://en.wikipedia.org/wiki/Rugby_World_Cup",
+          "https://en.wikipedia.org/wiki/AMC_Networks_International",
+          "https://en.wikipedia.org/wiki/ESPN_Classic_(European_TV_channel)"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:49.579328",
+          "depth": 2,
+          "relevance_score": 7.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.679982",
+      "quality_score": 0.75
+    },
+    {
+      "id": "news_22219",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Soccer_on_ESPN/ABC",
+        "keywords": [
+          "contents",
+          "major league soccer",
+          "international champions cup",
+          "studio analyst",
+          "2010 world cup"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.9
+      },
+      "content": {
+        "title": "Soccer on ESPN/ABC - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nCurrent programming\nToggle Current programming subsection\n1.1\nUnited States\n1.1.1\nUSL\n1.1.2\nCollege Soccer\n1.2\nEngland\n1.2.1\nFA Cup\n1.3\nGermany\n1.3.1\nBundesliga\n1.3.2\nDFB-Pokal\n1.4\nNetherlands\n1.4.1\nEredivisie\n1.5\nSpain\n1.5.1\nLa Liga\n1.5.2\nRFEF\n1.6\nOther soccer rights acquired by ESPN\n2\nFormer programming\nToggle Former programming subsection\n2.1\nFIFA World Cup\n2.2\nNorth American Soccer League\n2.3\nMajor Indoor Soccer League\n2.4\nNational Professional Soccer League\n2.5\nUEFA Champions League\n2.6\nEnglish Premier League\n2.7\nEnglish Football League\n2.8\nSerie A\n2.9\nScottish Professional Football League\n2.10\nUEFA competitions for national teams\n2.11\nUSMNT/USWNT\n2.12\nMajor League Soccer\n2.13\nLeagues Cup\n2.14\nInternational Champions Cup\n3\nOn-air personalities\nToggle On-air personalities subsection\n3.1\nPlay-by-play announcers\n3.2\nColor commentators\n3.3\nPresenters\n3.4\nStudio analyst\n3.5\nReporters\n4\nPast international coverage and broadcast teams\nToggle Past international coverage and broadcast teams subsection\n4.1\nFIFA World Cup\n4.1.1\n1970 World Cup\n4.1.2\n1982 World Cup\n4.1.3\n1986 World Cup\n4.1.4\n1994 World Cup\n4.1.5\n1998 World Cup\n4.1.6\n2002 World Cup\n4.1.7\n2006 World Cup\n4.1.8\n2010 World Cup\n4.1.9\n2014 World Cup\n4.2\nUEFA European Football Championship\n4.2.1\nEuro 2008\n4.2.2\nEuro 2012\n4.2.3\nEuro 2016\n4.2.4\nEuro 2020\n4.3\nConfederations Cup\n4.3.1\n2009 Confederations Cup\n4.3.2\n2013 Confederations Cup\n4.3.3\nBroadcast teams\n5\nReferences\n6\nExternal links\nToggle the table of contents\nSoccer on ESPN/ABC\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nLive sports television program\nSoccer on ESPN/ABC\nGenre\nSoccer telecasts\nTheme music composer\nLisle Moore\nCountry of origin\nUnited States\nOriginal languages\nEnglish, Spanish\nProduction\nCamera setup\nMulti-camera\nRunning time\n2+ hours (or until game ends)\nProduction company\nESPN\nOriginal release\nNetwork\nABC\nESPN\nESPN2\nESPN3\nESPN+\nESPNEWS\nESPNU\nESPN Deportes\nSoccer on ESPN and ABC\nis a number of programs that currently airs\nsoccer\nmatches in the\nUnited States\n. These matches are from European competitions.\n[\n1\n]\nCurrent programming\n[\nedit\n]\nUnited States\n[\nedit\n]\nUSL\n[\nedit\n]\nESPN airs all matches from the\nUSL\non\nESPN+\nwith select matches on\nESP",
+        "topics": [
+          "contents",
+          "major league soccer",
+          "international champions cup",
+          "studio analyst",
+          "2010 world cup",
+          "liga",
+          "2006 world cup",
+          "bundesliga",
+          "netherlands",
+          "eredivisie",
+          "soccer",
+          "reporters",
+          "leagues cup",
+          "major indoor soccer league",
+          "current programming",
+          "play-by-play announcers",
+          "1994 world cup",
+          "euro 2008",
+          "euro 2020",
+          "national professional soccer league",
+          "english premier league",
+          "fifa world cup",
+          "serie a",
+          "espn",
+          "united states"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Robert_Earnshaw",
+          "https://en.wikipedia.org/wiki/Fox_Soccer_Plus",
+          "https://en.wikipedia.org/wiki/ESPN_Classic_(European_TV_channel)",
+          "https://en.wikipedia.org/wiki/MLS_Soccer_Saturday",
+          "https://en.wikipedia.org/wiki/Danielle_Slaton"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:51.091549",
+          "depth": 2,
+          "relevance_score": 9.0
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.680169",
+      "quality_score": 0.9
+    },
+    {
+      "id": "news_9678",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Boston_Red_Sox",
+        "keywords": [
+          "contents",
+          "1901\u20131919: the golden era",
+          "no-hitters",
+          "2014\u20132017",
+          "see also"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Boston Red Sox - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nNickname\n2\nHistory\nToggle History subsection\n2.1\n1901\u20131919: The golden era\n2.2\nSale of Babe Ruth and aftermath (1920\u20131938)\n2.3\n1939\u20131960: The Ted Williams era\n2.4\n1960s: Yaz and the Impossible Dream\n2.5\n1970s: The Red Hat Era\n2.5.1\n1975\n2.5.2\n1978 pennant race\n2.6\n1986 World Series and Game Six\n2.7\n1988\u20131991: Morgan Magic\n2.8\n1992\u20132001: Mixed results\n2.9\n2002\u2013present: John Henry era\n2.9.1\n2002\u201303\n2.9.2\n\"The Idiots\": 2004 World Series Championship\n2.9.3\n2007: World Series Championship\n2.9.4\n2008\u20132012: Injuries and collapses\n2.9.5\nBoston Strong: 2013 World Series Champions\n2.9.6\n2014\u20132017\n2.9.7\n\"Damage done\": 2018 World Series Championship\n2.9.8\n2019\u2013present: Decline and struggles\n3\nRoster\n4\nBallpark\nToggle Ballpark subsection\n4.1\nRegular season home attendance\n5\nUniforms\n6\nSpring training\nToggle Spring training subsection\n6.1\nJetBlue Park\n6.2\nTruck Day\n7\nRivalries\nToggle Rivalries subsection\n7.1\nNew York Yankees\n7.2\nTampa Bay Rays\n8\nMedia\nToggle Media subsection\n8.1\nRadio and television\n8.2\nMusic\n9\nHonors and achievements\nToggle Honors and achievements subsection\n9.1\nAwards\n9.2\nRetired numbers\n9.3\nBaseball Hall of Famers\n9.3.1\nFord C. Frick Award recipients\n9.3.2\nBBWAA Career Excellence Award recipients\n9.4\nBoston Red Sox Hall of Fame\n9.5\nNotable records and achievements\n9.5.1\nNo-hitters\n9.5.2\nHitting for the cycle\n10\nMinor league affiliations\n11\nSee also\n12\nNotes\n13\nReferences\n14\nExternal links\nToggle the table of contents\nBoston Red Sox\n54 languages\nAfrikaans\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\n\u95a9\u5357\u8a9e / B\u00e2n-l\u00e2m-g\u00ed\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nCatal\u00e0\n\u010ce\u0161tina\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEsperanto\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\nGaeilge\nGalego\n\ud55c\uad6d\uc5b4\n\u0540\u0561\u0575\u0565\u0580\u0565\u0576\n\u0939\u093f\u0928\u094d\u0926\u0940\nHrvatski\nBahasa Indonesia\n\u00cdslenska\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nLatina\nLatvie\u0161u\nMagyar\n\u092e\u0930\u093e\u0920\u0940\n\u0645\u0635\u0631\u0649\nBahasa Melayu\n\u041c\u043e\u043d\u0433\u043e\u043b\nNederlands\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nPapiamentu\nPolski\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nScots\nShqip\nSimple English\nSloven\u0161\u010dina\nSrpskohrvatski / \u0441\u0440\u043f\u0441\u043a\u043e\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0438\nSuomi\nSvenska\n\u0422\u043e\u04b7\u0438\u043a\u04e3\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\n\u5434\u8bed\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nView source\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nView source\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nMajor League Baseball franchise in Boston\n\"Red Sox\" and \"Boston Americans\" redirect here. For the fictional football team, see\nThe Town (\nThe Simpsons\n)\n. For other uses, see\nRed Sox (di",
+        "topics": [
+          "contents",
+          "1901\u20131919: the golden era",
+          "no-hitters",
+          "2014\u20132017",
+          "see also",
+          "radio and television",
+          "1978 pennant race",
+          "season",
+          "notes",
+          "boston red sox",
+          "spring training",
+          "truck day",
+          "awards",
+          "retired numbers",
+          "game",
+          "external links",
+          "2008\u20132012: injuries and collapses",
+          "tampa bay rays",
+          "notable records and achievements",
+          "1988\u20131991: morgan magic",
+          "series",
+          "2002\u201303",
+          "baseball hall of famers",
+          "new york yankees",
+          "regular season home attendance"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Eddie_Collins",
+          "https://en.wikipedia.org/wiki/John_Smoltz",
+          "https://en.wikipedia.org/wiki/Bay_Village,_Boston",
+          "https://en.wikipedia.org/wiki/Billy_Wagner",
+          "https://en.wikipedia.org/wiki/Brian_O%27Halloran_(baseball)"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:52.777739",
+          "depth": 1,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.680410",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_84384",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Eddie_Collins",
+        "keywords": [
+          "contents",
+          "front-office career",
+          "managerial record",
+          "see also",
+          "career"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Eddie Collins - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nEarly life\n2\nCollege career\n3\nProfessional career\nToggle Professional career subsection\n3.1\nPhiladelphia Athletics (1906\u20131914)\n3.2\nChicago White Sox (1915\u20131926)\n3.3\nReturn to the Athletics (1927\u20131930)\n4\nFront-office career\nToggle Front-office career subsection\n4.1\nManagerial record\n5\nLegacy\n6\nSee also\n7\nReferences\n8\nExternal links\nToggle the table of contents\nEddie Collins\n11 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nDeutsch\nEspa\u00f1ol\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\nItaliano\n\u0645\u0635\u0631\u0649\n\u65e5\u672c\u8a9e\nPolski\nSvenska\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAmerican baseball player (1887\u20131951)\nThis article is about the American Baseball Hall of Fame second baseman and manager. For his son, see\nEddie Collins Jr.\nFor other people with this name, see\nEddie Collins (disambiguation)\n.\nBaseball player\nEddie Collins\nCollins with the Philadelphia Athletics in 1911\nSecond baseman\n/\nManager\nBorn:\n(\n1887-05-02\n)\nMay 2, 1887\nMillerton, New York\n, U.S.\nDied:\nMarch 25, 1951\n(1951-03-25)\n(aged\u00a063)\nBoston, Massachusetts\n, U.S.\nBatted:\nLeft\nThrew:\nRight\nMLB debut\nSeptember 17,\u00a01906,\u00a0for the\u00a0Philadelphia Athletics\nLast MLB appearance\nAugust 2,\u00a01930,\u00a0for the\u00a0Philadelphia Athletics\nMLB statistics\nBatting average\n.333\nHits\n3,315\nHome runs\n47\nRuns batted in\n1,300\nStolen bases\n745\nManagerial record\n174\u2013160\nWinning\u00a0%\n.521\nStats\nat\nBaseball Reference\nManagerial record\nat Baseball Reference\nTeams\nAs player\nPhiladelphia Athletics\n(\n1906\n\u2013\n1914\n)\nChicago White Sox\n(\n1915\n\u2013\n1926\n)\nPhiladelphia Athletics\n(\n1927\n\u2013\n1930\n)\nAs manager\nChicago White Sox\n(\n1924\n\u2013\n1926\n)\nCareer highlights and awards\n6\u00d7\nWorld Series champion\n(\n1910\n,\n1911\n,\n1913\n,\n1917\n,\n1929\n,\n1930\n)\nAL MVP\n(1914)\n4\u00d7\nAL stolen base leader\n(1910, 1919, 1923, 1924)\nPhiladelphia Baseball Wall of Fame\nAthletics Hall of Fame\nBoston Red Sox Hall of Fame\nMember of the National\nBaseball Hall of Fame\nInduction\n1939\nVote\n77.7% (fourth ballot)\nEdward Trowbridge Collins Sr.\n(May 2, 1887 \u2013 March 25, 1951), nicknamed \"\nCocky\n\", was an American professional\nbaseball\nplayer,\nmanager\nand executive. He played as a\nsecond baseman\nin\nMajor League Baseball\nfrom\n1906\nto\n1930\nfor the\nPhiladelphia Athletics\nand\nChicago White Sox\n. A graduate of\nColumbia University\n, Collins holds major league career records i",
+        "topics": [
+          "contents",
+          "front-office career",
+          "managerial record",
+          "see also",
+          "career",
+          "eddie",
+          "chicago white sox (1915\u20131926)",
+          "legacy",
+          "external links",
+          "college career",
+          "major",
+          "philadelphia athletics (1906\u20131914)",
+          "collins",
+          "athletics",
+          "early life",
+          "player",
+          "philadelphia",
+          "baseball",
+          "references",
+          "eddie collins",
+          "league",
+          "professional career"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Eddie_Collins",
+          "https://en.wikipedia.org/wiki/Chick_Gandil",
+          "https://en.wikipedia.org/wiki/Mike_Piazza",
+          "https://en.wikipedia.org/wiki/Brian_O%27Halloran_(baseball)",
+          "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Eddie_Collins"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:54.123646",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.680645",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_1958",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/John_Smoltz",
+        "keywords": [
+          "contents",
+          "accomplishments",
+          "philanthropy",
+          "professional career",
+          "see also"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "John Smoltz - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nEarly life\n2\nProfessional career\nToggle Professional career subsection\n2.1\nDraft and minor leagues\n2.2\nAtlanta Braves (1988\u20131999, 2001\u20132008)\n2.2.1\nEarly years (1988\u20131997)\n2.2.2\nInjuries and move to the bullpen (1998\u20132004)\n2.2.3\nReturn to the rotation (2005\u20132008)\n2.2.4\nReturn to relief (2008)\n2.3\nBoston Red Sox (2009)\n2.4\nSt. Louis Cardinals (2009)\n3\nPost-playing career\n4\nPersonal life\nToggle Personal life subsection\n4.1\nPolitics\n4.2\nPhilanthropy\n5\nAccomplishments\n6\nSee also\n7\nReferences\n8\nExternal links\nToggle the table of contents\nJohn Smoltz\n12 languages\nDeutsch\nEspa\u00f1ol\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\nItaliano\n\u0645\u0635\u0631\u0649\n\u65e5\u672c\u8a9e\nPolski\nPortugu\u00eas\nSimple English\nSvenska\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAmerican baseball player and sportscaster (born 1967)\nBaseball player\nJohn Smoltz\nSmoltz in 2016\nPitcher\nBorn:\n(\n1967-05-15\n)\nMay 15, 1967\n(age\u00a058)\nWarren, Michigan\n, U.S.\nBatted:\nRight\nThrew:\nRight\nMLB debut\nJuly 23,\u00a01988,\u00a0for the\u00a0Atlanta Braves\nLast MLB appearance\nSeptember 30,\u00a02009,\u00a0for the\u00a0St. Louis Cardinals\nMLB statistics\nWin\u2013loss record\n213\u2013155\nEarned run average\n3.33\nStrikeouts\n3,084\nSaves\n154\nStats\nat\nBaseball Reference\nTeams\nAtlanta Braves\n(\n1988\n\u2013\n1999\n,\n2001\n\u2013\n2008\n)\nBoston Red Sox\n(\n2009\n)\nSt. Louis Cardinals\n(\n2009\n)\nCareer highlights and awards\n8\u00d7\nAll-Star\n(\n1989\n,\n1992\n,\n1993\n,\n1996\n,\n2002\n,\n2003\n,\n2005\n,\n2007\n)\nWorld Series champion\n(\n1995\n)\nNL Cy Young Award\n(1996)\nNLCS MVP\n(\n1992\n)\nSilver Slugger Award\n(1997)\nNL Rolaids Relief Man Award\n(2002)\nRoberto Clemente Award\n(2005)\n2\u00d7\nNL wins leader\n(1996, 2006)\n2\u00d7\nNL strikeout leader\n(1992, 1996)\nNL saves leader\n(2002)\nAtlanta Braves No. 29\nretired\nBraves Hall of Fame\nMember of the National\nBaseball Hall of Fame\nInduction\n2015\nVote\n82.9% (first ballot)\nJohn Andrew Smoltz\n(born May 15, 1967), nicknamed \"\nSmoltzie\n\"\n[\n1\n]\nand \"\nMarmaduke\n\",\n[\n2\n]\nis an American former\nbaseball\npitcher\nwho played 21 seasons in\nMajor League Baseball\nfrom 1988 to 2009, all but the last year with the\nAtlanta Braves\n. An eight-time\nAll-Star\n, Smoltz was part of a\ncelebrated trio\nof\nstarting pitchers\n, along with\nGreg Maddux\nand\nTom Glavine\n, who propelled Atlanta to perennial pennant contention in the 1990s, highlighted by a championship ",
+        "topics": [
+          "contents",
+          "accomplishments",
+          "philanthropy",
+          "professional career",
+          "see also",
+          "smoltz",
+          "politics",
+          "boston red sox (2009)",
+          "external links",
+          "return to relief (2008)",
+          "series",
+          "personal life",
+          "national",
+          "john smoltz",
+          "early years (1988\u20131997)",
+          "early life",
+          "baseball",
+          "braves",
+          "post-playing career",
+          "references",
+          "league",
+          "atlanta braves (1988\u20131999, 2001\u20132008)",
+          "draft and minor leagues",
+          "john",
+          "st. louis cardinals (2009)"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/John_Smoltz",
+          "https://en.wikipedia.org/wiki/Charles_Barkley",
+          "https://en.wikipedia.org/wiki/Gary_Gentry",
+          "https://en.wikipedia.org/wiki/Billy_Wagner",
+          "https://en.wikipedia.org/wiki/Matt_Yallof"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:55.746738",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.680877",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_39783",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Bay_Village,_Boston",
+        "keywords": [
+          "contents",
+          "bay village, boston",
+          "street",
+          "demographics",
+          "adjacent neighborhoods and districts"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.75
+      },
+      "content": {
+        "title": "Bay Village, Boston - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nDescription\n2\nHistory\nToggle History subsection\n2.1\nRaising the Village\n2.2\nEdgar Allan Poe\n2.3\nCocoanut Grove fire\n3\nDemographics\nToggle Demographics subsection\n3.1\nRace and ancestry\n4\nTransportation\n5\nLocal media\n6\nAdjacent neighborhoods and districts\n7\nReferences\n8\nExternal links\nToggle the table of contents\nBay Village, Boston\n6 languages\n\u062a\u06c6\u0631\u06a9\u062c\u0647\nCebuano\nDeutsch\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nCoordinates\n:\n42\u00b020\u203257\u2033N\n71\u00b004\u203205\u2033W\n\ufeff / \ufeff\n42.3491\u00b0N 71.068\u00b0W\n\ufeff /\n42.3491; -71.068\nFrom Wikipedia, the free encyclopedia\nNeighborhood of Boston in Suffolk, Massachusetts, United States\nBay Village\nNeighborhood of Boston\nBay Village, Boston\nLocation in Boston\nCountry\nUnited States\nState\nMassachusetts\nCounty\nSuffolk\nNeighborhood of\nBoston\nPopulation\n(2010)\n1,312\nTime zone\nUTC-5\n(\nEastern\n)\nZip Code\n02116\nArea code\n617\n/\n857\nWebsite\nwww.bayvillage.net\nBay Village\nis the smallest officially recognized\nneighborhood\nof\nBoston\n,\nMassachusetts\n, United States.  As of 2010\n[update]\n, its population was approximately 1,312 residents living in 837 housing units, most of which are small brick\nrowhouses\n.\n[\n1\n]\nDescription\n[\nedit\n]\nThe\nMassachusetts Turnpike\nis the southern boundary of the neighborhood, which coincides with the right-of-way of the former\nBoston and Worcester Railroad\n, laid down in the 1830s. Marginal Road and Cortes Street are the surface roads that parallel \"the Pike\". Across the Pike to the southwest lies the\nSouth End\nneighborhood; to the southeast of the Pike and Tremont Street is the southern edge of\nChinatown\n. To the west of Berkeley Street and north of Columbus Avenue (west of Arlington Street) is the\nBack Bay\nneighborhood. To the north of Stuart Street is\nPark Square\n, and to the east of\nCharles Street\nis the\nWashington Street Theatre District\n.\n[\n2\n]\n[\n3\n]\nIn 1983, the area bounded by Cortes Street, Tremont Street, Piedmont Street, and Isabella Street was designated as the \"Bay Village Historic District\" by the\nBoston Landmarks Commission\n. The exterior appearance of buildings is protected by a Historic District designation administered by the Bay Village Historic District Commission.\n[\n4\n]\nThe narrow one-way network and irregular grid arrangement of the street",
+        "topics": [
+          "contents",
+          "bay village, boston",
+          "street",
+          "demographics",
+          "adjacent neighborhoods and districts",
+          "cocoanut grove fire",
+          "external links",
+          "july",
+          "boston",
+          "south",
+          "local media",
+          "edgar allan poe",
+          "village",
+          "cocoanut",
+          "description",
+          "retrieved",
+          "history",
+          "neighborhood",
+          "grove",
+          "raising the village",
+          "transportation",
+          "race and ancestry",
+          "references"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/African_immigration_to_the_United_States",
+          "https://en.wikipedia.org/wiki/Boston_Celtics",
+          "https://en.wikipedia.org/wiki/Bay_Village,_Boston",
+          "https://en.wikipedia.org/wiki/Back_Bay_(MBTA)",
+          "https://en.wikipedia.org/wiki/Freedom_Trail"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:57.378739",
+          "depth": 2,
+          "relevance_score": 7.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.681112",
+      "quality_score": 0.75
+    },
+    {
+      "id": "news_98057",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Billy_Wagner",
+        "keywords": [
+          "contents",
+          "1998\u221299",
+          "see also",
+          "wagner",
+          "philadelphia phillies"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Billy Wagner - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nEarly life\n2\nCareer\nToggle Career subsection\n2.1\nAmateur career\n2.2\nHouston Astros\n2.2.1\nMinor leagues and early major league career: 1993\u221297\n2.2.2\n1998\u221299\n2.2.3\n2000\u221203\n2.3\nPhiladelphia Phillies\n2.4\nNew York Mets\n2.5\nBoston Red Sox\n2.6\nAtlanta Braves\n3\nPost-playing career\n4\nAccomplishments and honors\nToggle Accomplishments and honors subsection\n4.1\nCareer perspective\n4.2\nNational Baseball Hall of Fame consideration\n5\nSee also\n6\nReferences\n7\nExternal links\nToggle the table of contents\nBilly Wagner\n6 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\n\u0645\u0635\u0631\u0649\n\u65e5\u672c\u8a9e\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAmerican baseball player (born 1971)\nThis article is about the American Hall of Fame baseball pitcher. For other people named Billy Wagner, see\nWilliam Wagner\n.\nBaseball player\nBilly Wagner\nWagner during Mets' Old-Timers Day in 2022\nPitcher\nBorn:\n(\n1971-07-25\n)\nJuly 25, 1971\n(age\u00a053)\nMarion, Virginia\n, U.S.\nBatted:\nLeft\nThrew:\nLeft\nMLB debut\nSeptember 13,\u00a01995,\u00a0for the\u00a0Houston Astros\nLast MLB appearance\nOctober 3,\u00a02010,\u00a0for the\u00a0Atlanta Braves\nMLB statistics\nWin\u2013loss record\n47\u201340\nEarned run average\n2.31\nStrikeouts\n1,196\nSaves\n422\nStats\nat\nBaseball Reference\nTeams\nHouston Astros\n(\n1995\n\u2013\n2003\n)\nPhiladelphia Phillies\n(\n2004\n\u2013\n2005\n)\nNew York Mets\n(\n2006\n\u2013\n2009\n)\nBoston Red Sox\n(\n2009\n)\nAtlanta Braves\n(\n2010\n)\nCareer highlights and awards\n7\u00d7\nAll-Star\n(\n1999\n,\n2001\n,\n2003\n,\n2005\n,\n2007\n,\n2008\n,\n2010\n)\nNL Rolaids Relief Man Award\n(1999)\nPitched a combined\nno-hitter\non June 11, 2003\nHouston Astros Hall of Fame\nIncoming\u00a0Member of the National\nBaseball Hall of Fame\nInduction\n2025\nVote\n82.5% (tenth ballot)\nWilliam Edward Wagner\n(born July 25, 1971), nicknamed \"\nBilly the Kid\n\", is an American former professional\nbaseball\npitcher\nwho played 16 seasons in\nMajor League Baseball\n(MLB) for the\nHouston Astros\n,\nPhiladelphia Phillies\n,\nNew York Mets\n,\nBoston Red Sox\n, and\nAtlanta Braves\nfrom 1995 to 2010. A seven-time\nAll-Star\nand the 1999\nNational League\n(NL)\nRolaids Relief Man Award\nwinner, Wagner is one of only eight major league\nrelief pitchers\nto reach 400 career\nsaves\n. A left-handed batter and thrower, Wagner stands 5\u00a0feet 10\u00a0inches (1.78\u00a0m) tall and weighs 180 pounds (82\u00a0kg).\nA natural-b",
+        "topics": [
+          "contents",
+          "1998\u221299",
+          "see also",
+          "wagner",
+          "philadelphia phillies",
+          "2000\u221203",
+          "career",
+          "boston red sox",
+          "amateur career",
+          "billy wagner",
+          "accomplishments and honors",
+          "billy",
+          "external links",
+          "atlanta braves",
+          "june",
+          "hall",
+          "astros",
+          "retrieved",
+          "early life",
+          "career perspective",
+          "baseball",
+          "post-playing career",
+          "references",
+          "league",
+          "new york mets"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Eddie_Collins",
+          "https://en.wikipedia.org/wiki/Mike_Piazza",
+          "https://en.wikipedia.org/wiki/John_Smoltz",
+          "https://en.wikipedia.org/wiki/Gary_Gentry",
+          "https://en.wikipedia.org/wiki/Billy_Wagner"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:58.686248",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.681315",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_8876",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Brian_O%27Halloran_(baseball)",
+        "keywords": [
+          "contents",
+          "baseball",
+          "retrieved",
+          "references",
+          "brian o'halloran (baseball)"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.7
+      },
+      "content": {
+        "title": "Brian O'Halloran (baseball) - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nBiography\n2\nPersonal\n3\nReferences\n4\nFurther reading\nToggle the table of contents\nBrian O'Halloran (baseball)\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAmerican professional baseball executive\nBaseball player\nBrian O'Halloran\nBoston Red Sox\nExecutive\nVP\nof baseball operations\nBorn:\n(\n1971-10-28\n)\nOctober 28, 1971\n(age\u00a053)\nWeymouth, Massachusetts\n, U.S.\nTeams\nBoston Red Sox\n(\n2002\n\u2013present)\nBrian O'Halloran\n(born October 28, 1971)\n[\n1\n]\nis an American sports executive with the\nBoston Red Sox\nof\nMajor League Baseball\n(MLB). After serving as\ngeneral manager\nof the team under\nChaim Bloom\nduring the 2020\u20132023 seasons, O'Halloran accepted a position as executive vice president of baseball operations following Bloom's dismissal in September 2023.\nBiography\n[\nedit\n]\nO'Halloran has degrees from\nColby College\nand\nUCLA\n.\n[\n2\n]\nHis first job in baseball was as an intern for the\nSan Diego Padres\n.\n[\n2\n]\nO'Halloran joined the\nBoston Red Sox\nin 2002 as a baseball operations assistant, and became the director of baseball operations in 2006.\n[\n2\n]\nHe was named a vice president and assistant general manager for the team in November 2011.\n[\n3\n]\nHe became a senior vice president in 2015, and was promoted to executive vice president in November 2018.\n[\n2\n]\nOn October 25, 2019, O'Halloran was reportedly named the Red Sox' new\ngeneral manager\n, at the same time that\nChaim Bloom\nwas named Chief Baseball Officer, with O\u2019Halloran reporting to him.\n[\n4\n]\nAn official announcement was made on October 28, an off-day of the\n2019 World Series\n.\n[\n5\n]\nUnder Bloom and O'Halloran, the\n2021 Red Sox\nreached the\nAmerican League Championship Series\n, but the team regressed in the standings, posting an overall record of 267\u2013262 under their leadership, and saw popular and productive players\nMookie Betts\nand\nXander Bogaerts\nleave the team.\n[\n6\n]\nBloom was fired by the team on September 14, 2023;\n[\n6\n]\nat the same time, O'Halloran was removed as general manager.\n[\n7\n]\nThe team subsequently announced that O'Halloran accepted a position as executive vice president of baseball operations.\n[\n8\n]\nPersonal\n[\nedit\n]\nIn addition to English, O'Halloran speaks\nGeorgian\nand\nRussian\n; he previously studied in\nGeorgia",
+        "topics": [
+          "contents",
+          "baseball",
+          "retrieved",
+          "references",
+          "brian o'halloran (baseball)",
+          "halloran",
+          "boston",
+          "further reading",
+          "personal",
+          "executive",
+          "october",
+          "brian",
+          "park",
+          "general",
+          "biography",
+          "bloom"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Eddie_Collins",
+          "https://en.wikipedia.org/wiki/Plant_Field",
+          "https://en.wikipedia.org/wiki/Brian_O%27Halloran_(baseball)",
+          "https://en.wikipedia.org/wiki/Boston_Red_Sox",
+          "https://en.wikipedia.org/w/index.php?title=Brian_O%27Halloran_(baseball)&oldid=1221802897"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:14:59.926995",
+          "depth": 2,
+          "relevance_score": 7.0
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.681502",
+      "quality_score": 0.7
+    },
+    {
+      "id": "news_36658",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Henry_Norris_(businessman)",
+        "keywords": [
+          "henry",
+          "contents",
+          "norris",
+          "arsenal",
+          "chairmanship of arsenal fc"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Henry Norris (businessman) - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nBusiness and political career\n2\nChairmanship of Fulham FC\n3\nChairmanship of Arsenal FC\n4\nRetirement\n5\nReferences\n6\nExternal links\nToggle the table of contents\nHenry Norris (businessman)\n11 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nDeutsch\n\u0641\u0627\u0631\u0633\u06cc\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\n\u0645\u0635\u0631\u0649\nNorsk bokm\u00e5l\nRom\u00e2n\u0103\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nEnglish businessman, politician and football club director (1865\u20131934)\nHenry Norris\nMember of Parliament\nfor\nFulham East\nIn office\n14 December 1918\u00a0\u2013 26 October 1922\nPreceded by\nConstituency established\nSucceeded by\nKenyon Vaughan-Morgan\nPersonal details\nBorn\nHenry George Norris\n(\n1865-07-23\n)\n23 July 1865\nKennington\n, London, England\nDied\n30 July 1934\n(1934-07-30)\n(aged\u00a069)\nBarnes\n,\nSurrey\n, England\nPolitical party\nConservative\nOccupation\nProperty developer, businessman, politician\nKnown for\nChairmanship of\nArsenal\nand\nFulham\nfootball clubs\nSir Henry George Norris\n(23 July 1865 \u2013 30 July 1934)\n[\n1\n]\nwas an English businessman, politician and\nfootball\nclub director, most famous for his chairmanship of both\nFulham\nand\nArsenal\n.\nBusiness and political career\n[\nedit\n]\nBorn in\nKennington\n, to a working-class family but educated privately,\n[\n2\n]\nNorris left school at 14 to join a solicitor's firm, leaving 18 years later to pursue a career in\nproperty development\ntrade, partnering W.G. Allen in the firm Allen & Norris.\n[\n2\n]\nHe made his fortune building houses in\nsouth\nand west London \u2014\nFulham\nin particular.\n[\n3\n]\nHe was commissioned into the 2nd Tower Hamlets Rifle Volunteers in 1896, but resigned the following year. He was later Mayor of the\nMetropolitan Borough of Fulham\nfrom 1909 to 1919,\n[\n4\n]\na member of the\nLondon County Council\nfrom 1916 to 1919,\n[\n2\n]\nand served as\nConservative\nMember of Parliament\n(MP) for\nFulham East\nfrom 1918 to 1922,\n[\n1\n]\nretiring after falling out with his party on the issue of\ntariff reform\n.\n[\n2\n]\nDuring\nWorld War I\nNorris had worked heavily as a\nmilitary recruitment\nofficer\nfor the\nBritish Army\n. He served in the 3rd Middlesex Artillery Volunteers and in the\n1917 Birthday Honours\nhe was\nknighted\nand given the honorary rank of\ncolonel\nfor services to his country. He was also a prominent\nFreemason\n, rising to become Gra",
+        "topics": [
+          "henry",
+          "contents",
+          "norris",
+          "arsenal",
+          "chairmanship of arsenal fc",
+          "references",
+          "chairmanship of fulham fc",
+          "edit",
+          "external links",
+          "league",
+          "henry norris (businessman)",
+          "businessman",
+          "football",
+          "fulham",
+          "business and political career",
+          "retirement"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/London_County_Council",
+          "https://en.wikipedia.org/wiki/Henry_Norris_(businessman)",
+          "https://en.wikipedia.org/wiki/Category:Fulham_F.C._directors_and_chairmen",
+          "https://en.wikipedia.org/w/index.php?title=Henry_Norris_(businessman)&oldid=1293293167",
+          "https://en.wikipedia.org/wiki/Randall_Davidson"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:01.280675",
+          "depth": 1,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.681722",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_87719",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/London_County_Council",
+        "keywords": [
+          "contents",
+          "second world war era",
+          "leaders",
+          "chairmen and vice chairmen",
+          "see also"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "London County Council - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\n2\nPowers and duties\nToggle Powers and duties subsection\n2.1\nHousing reform\n2.2\nStreet renaming\n2.3\nSecond World War era\n3\nHeadquarters\nToggle Headquarters subsection\n3.1\nSpring Gardens\n3.2\nSearch for a new site\n3.3\nCounty Hall, Lambeth\n4\nPolitics\nToggle Politics subsection\n4.1\nElections\n4.2\nControl\n4.3\nLeaders\n4.4\nChairmen and vice chairmen\n4.4.1\nDeputies\n5\nAbolition\n6\nSee also\n7\nReferences\n8\nExternal links\nToggle the table of contents\nLondon County Council\n14 languages\nAz\u0259rbaycanca\n\u09ac\u09be\u0982\u09b2\u09be\n\u010ce\u0161tina\nDeutsch\nFran\u00e7ais\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nNorsk bokm\u00e5l\nPortugu\u00eas\nSimple English\nSuomi\nT\u00fcrk\u00e7e\n\u0627\u0631\u062f\u0648\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nEnglish local government body (1889\u20131965)\nThis article is about the council abolished in 1965. For the council formed in 1965, see\nGreater London Council\n.\nLondon County Council\nCoat of arms\nType\nType\nCounty council\nfor the\nCounty of London\nHistory\nEstablished\n21 March 1889\nDisbanded\n1 April 1965\nPreceded\u00a0by\nMetropolitan Board of Works\nSucceeded\u00a0by\nGreater London Council\nLeadership\nLeader\nList of leaders since 1933\nChairman\nList of chairmen since 1889\nStructure\nSeats\n1889\u20131919:\n118 councillors; 19 aldermen\n1919\u20131949:\n124 councillors; 20 aldermen\n1949\u20131955:\n129 councillors; 21 aldermen\n1955\u20131965:\n126 councillors; 21 aldermen\nConstituencies\nElectoral divisions\nElections\nVoting system\nBloc vote\nLast election\n1961\nMeeting place\nCounty Hall\n,\nLambeth\nThe\nLondon County Council\n(\nLCC\n) was the principal local government body for the\nCounty of London\nthroughout its existence from 1889 to 1965, and the first London-wide general municipal authority to be directly elected. It covered the area today known as\nInner London\nand was replaced by the\nGreater London Council\n. The LCC was the largest, most significant and most ambitious English municipal authority of its day.\n[\n1\n]\nHistory\n[\nedit\n]\nThe First Meeting of the London County Council in the County Hall Spring Gardens, 1889\nby\nHenry Jamyn Brooks\nBy the 19th century, the\nCity of London Corporation\ncovered only a small fraction of the metropolis. From 1855, the\nMetropolitan Board of Works\n(MBW) had certain powers across what is now Inner London, but it was appointed rather than elected. M",
+        "topics": [
+          "contents",
+          "second world war era",
+          "leaders",
+          "chairmen and vice chairmen",
+          "see also",
+          "london",
+          "london county council",
+          "control",
+          "city",
+          "politics",
+          "north",
+          "street renaming",
+          "county",
+          "external links",
+          "edit",
+          "abolition",
+          "municipal",
+          "housing reform",
+          "spring gardens",
+          "county hall, lambeth",
+          "south",
+          "deputies",
+          "government",
+          "history",
+          "headquarters"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/London_County_Council",
+          "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_London",
+          "https://en.wikipedia.org/wiki/Henry_Jamyn_Brooks",
+          "https://en.wikipedia.org/wiki/Chancellor_of_the_Exchequer",
+          "https://en.wikipedia.org/wiki/Cyril_Jackson_(educationist)"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:02.615524",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.681944",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_9876",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Category:Fulham_F.C._directors_and_chairmen",
+        "keywords": [
+          "pages",
+          "hide",
+          "main",
+          "wikipedia",
+          "chairmen"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.45
+      },
+      "content": {
+        "title": "Category:Fulham F.C. directors and chairmen - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nCategory\n:\nFulham F.C. directors and chairmen\n2 languages\nItaliano\n\u0e44\u0e17\u0e22\nEdit links\nCategory\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nHelp\nFrom Wikipedia, the free encyclopedia\nPages in category \"Fulham F.C. directors and chairmen\"\nThe following 6 pages are in this category, out of  6 total.\nThis list may not reflect recent changes\n.\nF\nMohamed Al-Fayed\nH\nJimmy Hill\nK\nShahid Khan\nN\nHenry Norris (businessman)\nT\nTommy Trinder\nW\nTom Wilson (footballer, born 1930)\nRetrieved from \"\nhttps://en.wikipedia.org/w/index.php?title=Category:Fulham_F.C._directors_and_chairmen&oldid=1060549123\n\"\nCategories\n:\nFulham F.C.\nChairmen and investors of football clubs in England\nThis page was last edited on 16 December 2021, at 05:46\n(UTC)\n.\nText is available under the\nCreative Commons Attribution-ShareAlike 4.0 License\n;\nadditional terms may apply. By using this site, you agree to the\nTerms of Use\nand\nPrivacy Policy\n. Wikipedia\u00ae is a registered trademark of the\nWikimedia Foundation, Inc.\n, a non-profit organization.\nPrivacy policy\nAbout Wikipedia\nDisclaimers\nContact Wikipedia\nCode of Conduct\nDevelopers\nStatistics\nCookie statement\nMobile view\nSearch\nSearch\nCategory\n:\nFulham F.C. directors and chairmen\n2 languages\nAdd topic",
+        "topics": [
+          "pages",
+          "hide",
+          "main",
+          "wikipedia",
+          "chairmen",
+          "move",
+          "edit",
+          "sidebar",
+          "search",
+          "category",
+          "fulham",
+          "page"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/w/index.php?title=Category:Fulham_F.C._directors_and_chairmen&action=history",
+          "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCategory%3AFulham_F.C._directors_and_chairmen",
+          "https://en.wikipedia.org/wiki/Portal:Current_events",
+          "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+          "https://en.wikipedia.org/wiki/Help:Introduction"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:04.110000",
+          "depth": 2,
+          "relevance_score": 4.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.682177",
+      "quality_score": 0.45
+    },
+    {
+      "id": "news_25754",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/w/index.php?title=Henry_Norris_(businessman)&oldid=1293293167",
+        "keywords": [
+          "henry",
+          "contents",
+          "norris",
+          "arsenal",
+          "chairmanship of arsenal fc"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.7
+      },
+      "content": {
+        "title": "Henry Norris (businessman) - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nBusiness and political career\n2\nChairmanship of Fulham FC\n3\nChairmanship of Arsenal FC\n4\nRetirement\n5\nReferences\n6\nExternal links\nToggle the table of contents\nHenry Norris (businessman)\n11 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nDeutsch\n\u0641\u0627\u0631\u0633\u06cc\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\n\u0645\u0635\u0631\u0649\nNorsk bokm\u00e5l\nRom\u00e2n\u0103\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nThis is the\ncurrent revision\nof this page, as edited by\nGoonerak\n(\ntalk\n|\ncontribs\n)\nat\n22:07, 31 May 2025\n(\n\u2192\nChairmanship of Arsenal FC\n:\ncorrected details of John McKenna, and changed AGM to Special General Meeting)\n. The present address (URL) is a\npermanent link\nto this version.\nRevision as of 22:07, 31 May 2025 by\nGoonerak\n(\ntalk\n|\ncontribs\n)\n(\n\u2192\nChairmanship of Arsenal FC\n:\ncorrected details of John McKenna, and changed AGM to Special General Meeting)\n(\ndiff\n)\n\u2190 Previous revision\n| Latest revision (diff) | Newer revision \u2192 (diff)\nEnglish businessman, politician and football club director (1865\u20131934)\nHenry Norris\nMember of Parliament\nfor\nFulham East\nIn office\n14 December 1918\u00a0\u2013 26 October 1922\nPreceded by\nConstituency established\nSucceeded by\nKenyon Vaughan-Morgan\nPersonal details\nBorn\nHenry George Norris\n(\n1865-07-23\n)\n23 July 1865\nKennington\n, London, England\nDied\n30 July 1934\n(1934-07-30)\n(aged\u00a069)\nBarnes\n,\nSurrey\n, England\nPolitical party\nConservative\nOccupation\nProperty developer, businessman, politician\nKnown for\nChairmanship of\nArsenal\nand\nFulham\nfootball clubs\nSir Henry George Norris\n(23 July 1865 \u2013 30 July 1934)\n[\n1\n]\nwas an English businessman, politician and\nfootball\nclub director, most famous for his chairmanship of both\nFulham\nand\nArsenal\n.\nBusiness and political career\n[\nedit\n]\nBorn in\nKennington\n, to a working-class family but educated privately,\n[\n2\n]\nNorris left school at 14 to join a solicitor's firm, leaving 18 years later to pursue a career in\nproperty development\ntrade, partnering W.G. Allen in the firm Allen & Norris.\n[\n2\n]\nHe made his fortune building houses in\nsouth\nand west London \u2014\nFulham\nin particular.\n[\n3\n]\nHe was commissioned into the 2nd Tower Hamlets Rifle Volunteers in 1896, but resigned the following year. He was later Mayor of the\nMetropolitan Borough of Fulham\nfrom 1909 to 1919,\n[\n4\n]\na member of the\nLondon",
+        "topics": [
+          "henry",
+          "contents",
+          "norris",
+          "arsenal",
+          "chairmanship of arsenal fc",
+          "references",
+          "chairmanship of fulham fc",
+          "edit",
+          "external links",
+          "henry norris (businessman)",
+          "football",
+          "fulham",
+          "business and political career",
+          "retirement"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/London_County_Council",
+          "https://en.wikipedia.org/wiki/Help:Page_history",
+          "https://en.wikipedia.org/wiki/Henry_Norris_(businessman)",
+          "https://en.wikipedia.org/wiki/Category:Fulham_F.C._directors_and_chairmen",
+          "https://en.wikipedia.org/w/index.php?title=Henry_Norris_(businessman)&oldid=1293293167"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:05.624367",
+          "depth": 2,
+          "relevance_score": 7.0
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.682363",
+      "quality_score": 0.7
+    },
+    {
+      "id": "news_69094",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Randall_Davidson",
+        "keywords": [
+          "contents",
+          "early years",
+          "further reading",
+          "volume",
+          "archbishop"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Randall Davidson - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nEarly years\n2\nCurate and chaplain\n3\nDean\n4\nBishop\nToggle Bishop subsection\n4.1\nRochester\n4.2\nWinchester\n5\nArchbishop of Canterbury\nToggle Archbishop of Canterbury subsection\n5.1\nLambeth Conference, 1908\n5.2\nDomestic affairs, 1909\u20131911\n5.3\nKikuyu controversy 1913\u20131914\n5.4\nFirst World War, 1914\u20131918\n5.5\nEnabling Act, 1919 and Welsh disestablishment, 1922\n5.6\nLambeth Conference, 1920\n5.7\nGeneral Strike, 1926\n5.8\nRevision of the\nBook of Common Prayer\n5.9\nRetirement\n6\nHonours\n7\nReputation\n8\nNotes, references and sources\nToggle Notes, references and sources subsection\n8.1\nNotes\n8.2\nReferences\n8.3\nSources\n8.3.1\nBooks\n8.3.2\nJournals\n9\nFurther reading\n10\nExternal links\nToggle the table of contents\nRandall Davidson\n12 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nDeutsch\nEspa\u00f1ol\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\nBahasa Indonesia\nItaliano\nLatina\n\u65e5\u672c\u8a9e\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nSuomi\nSvenska\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikisource\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nArchbishop of Canterbury from 1903 to 1928\nThe Most Reverend\nand\nRight Honourable\nRandall Davidson\nGCVO\nPC\nArchbishop of Canterbury\nFormal portrait, 1904\nChurch\nChurch of England\nProvince\nCanterbury\nDiocese\nCanterbury\nInstalled\n12 February 1903\nTerm ended\n12 November 1928\nPredecessor\nFrederick Temple\nSuccessor\nCosmo Lang\nPrevious post(s)\nBishop of Winchester\n(1895\u20131903)\nClerk of the Closet\nto the Sovereign (1891\u20131903)\nBishop of Rochester\n(1891\u20131895)\nDean of Windsor\nand domestic chaplain to\nQueen Victoria\n(1883\u20131891)\nOrders\nOrdination\n1874 (deacon)\n1875 (priest)\nConsecration\n25 April 1891\nby\nEdward White Benson\nPersonal details\nBorn\n(\n1848-04-07\n)\n7 April 1848\nEdinburgh\nDied\n25 May 1930\n(1930-05-25)\n(aged\u00a082)\nLondon\nDenomination\nAnglican\nSpouse\nEdith Murdoch Tait\n\u200b\n(\nm.\n1878\n)\n\u200b\nSignature\nMember of the House of Lords\nLord Spiritual\nIn office\n1895\u00a0\u2013 12 November 1928\nMember of the House of Lords\nLord Temporal\nHereditary peer\n14 November 1928\u00a0\u2013 25 May 1930\nChristianity portal\nRandall Thomas Davidson, 1st Baron Davidson of Lambeth\n,\nGCVO\n,\nPC\n(7 April 1848 \u2013 25 May 1930) was an\nAnglican\nbishop who was\nArchbishop of Canterbury\nfrom 1903 to 1928. He was the longest-serving holder of the office since the\nReformation\n, and the first to retire from it.\nBorn in Edinburgh to a Scottish\nPresbyterian\nfamily, Da",
+        "topics": [
+          "contents",
+          "early years",
+          "further reading",
+          "volume",
+          "archbishop",
+          "bishop",
+          "kikuyu controversy 1913\u20131914",
+          "reputation",
+          "archbishop of canterbury",
+          "sources",
+          "notes",
+          "davidson",
+          "external links",
+          "journals",
+          "retirement",
+          "curate and chaplain",
+          "church",
+          "lambeth conference, 1908",
+          "rochester",
+          "winchester",
+          "notes, references and sources",
+          "first world war, 1914\u20131918",
+          "randall davidson",
+          "lambeth conference, 1920",
+          "references"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/St_George%27s,_Hanover_Square",
+          "https://en.wikipedia.org/wiki/House_of_Lords",
+          "https://en.wikipedia.org/wiki/Michael_Turnbull_(bishop)",
+          "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition",
+          "https://en.wikipedia.org/wiki/John_of_Pontoise"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:07.597527",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.682543",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_93939",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Ownership_of_Arsenal_F.C._%26_W.F.C.",
+        "keywords": [
+          "history",
+          "contents",
+          "club",
+          "arsenal",
+          "stadium"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Ownership of Arsenal F.C. & W.F.C. - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nOverview\n2\nFinancial performance\n3\nHistory\n4\nCurrent shareholders\n5\nReferences\nToggle the table of contents\nOwnership of Arsenal F.C. & W.F.C.\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nLegal aspect of the English football teams\nThe\nEmirates Stadium\nin 2013.\nThe\nownership of\nArsenal F.C.\nand\nArsenal W.F.C.\nis considerably different from that of other clubs in\nEnglish football for men\nand\nwomen\n. It is owned by a parent company, Arsenal Holdings plc, which has relatively few shares which are infrequently traded. Historically, the club has been owned by descendants of the Bracewell-Smith and Hill-Wood families.  The club attracted outside interest as two rival tycoons,\nStan Kroenke\nand\nAlisher Usmanov\n, acquired significant share holdings in 2007.\n[\n1\n]\n[\n2\n]\nIn August 2018, Kroenke's offer of \u00a3550 million for Usmanov's share was accepted, and Kroenke bought out the remainder of the shares to become the club's sole shareholder.\n[\n3\n]\nOverview\n[\nedit\n]\nArsenal Holdings plc, operates as a\nnon-quoted\npublic limited company\n, whose ownership is considerably different from that of other football clubs. Only 62,217 shares in Arsenal have been issued,\n[\n4\n]\nand they are not traded on a public exchange such as the\nFTSE\nor\nAIM\n; instead, they are traded relatively infrequently on NEX Exchange (\nAFC\n), a specialist market. The 2011 takeover bid by Stan Kroenke put the club's\nmarket capitalisation\nvalue at \u00a3731m.\n[\n5\n]\nArsenal Holdings plc wholly owns twelve subsidiary companies, covering the group's activities. These include Arsenal Football Club plc (the football club itself), Arsenal (Emirates Stadium) Limited (which develops and owns Arsenal's\nEmirates Stadium\n), Arsenal Stadium Management Company (which manages the stadium on matchdays), and Arsenal Overseas Ltd (which manages retail operations). Other subsidiaries deal with\nproperty development\non the site of Arsenal's former stadium at\nHighbury\nand the associated property holding and financing.\n[\n4\n]\nFinancial performance\n[\nedit\n]\nThe club made an operating\nprofit\n(excluding player transfers) of \u00a372m in the year ending 31 May 2010, from a\nturnover\nof \u00a3379.9m.\n[\n6\n]\nIn April 2009, business magazine\nForbes\nranked Arsenal",
+        "topics": [
+          "history",
+          "contents",
+          "club",
+          "arsenal",
+          "stadium",
+          "references",
+          "holdings",
+          "financial performance",
+          "april",
+          "archived",
+          "current shareholders",
+          "overview",
+          "shares",
+          "present",
+          "retrieved",
+          "kroenke"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Manor_Ground_(Plumstead)",
+          "https://en.wikipedia.org/wiki/Emirates_Cup",
+          "https://en.wikipedia.org/wiki/YouTube_Theater",
+          "https://en.wikipedia.org/wiki/Meadow_Park_(Borehamwood)",
+          "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Ownership+of+Arsenal+F.C.+%26+W.F.C."
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:09.487948",
+          "depth": 1,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.682772",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_71778",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Manor_Ground_(Plumstead)",
+        "keywords": [
+          "history",
+          "contents",
+          "manor ground (plumstead)",
+          "club",
+          "arsenal"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Manor Ground (Plumstead) - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\n2\nReferences\n3\nExternal links\nToggle the table of contents\nManor Ground (Plumstead)\n8 languages\n\u09ac\u09be\u0982\u09b2\u09be\nDeutsch\nFran\u00e7ais\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\n\u1019\u103c\u1014\u103a\u1019\u102c\u1018\u102c\u101e\u102c\nPolski\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nCoordinates\n:\n51\u00b029\u203229\u2033N\n0\u00b005\u203214\u2033E\n\ufeff / \ufeff\n51.49139\u00b0N 0.08722\u00b0E\n\ufeff /\n51.49139; 0.08722\nFrom Wikipedia, the free encyclopedia\nFormer football stadium in London, England\nManor Ground\nFull name\nManor Ground\nLocation\nPlumstead\n,\nLondon\n, England\nOwner\nRoyal/Woolwich Arsenal\nCapacity\n33,000\n[\n1\n]\nConstruction\nOpened\n1888\nClosed\n1913\nDemolished\nc.\n1913\nTenants\nRoyal/Woolwich Arsenal\n(1888\u20131890, 1893\u20131913)\n51\u00b029\u203229\u2033N\n0\u00b005\u203214\u2033E\n\ufeff / \ufeff\n51.49139\u00b0N 0.08722\u00b0E\n\ufeff /\n51.49139; 0.08722\nThe\nManor Ground\nlocated in\nPlumstead\n, south east\nLondon\nwas a\nfootball\nstadium\n.\n[\n2\n]\nThis arena was the home of football club Royal Arsenal, which was later named Woolwich Arsenal, and as such came to be known as\nArsenal F.C.\nHistory\n[\nedit\n]\nUnder their original name of Dial Square, the club's first match in December 1886 was on a field in the\nIsle of Dogs\n, that's close to Glengall Road which is now known as Tiller Road.\n[\n3\n]\nAfter such, during the remainder of the\n1886\u201387\nseason, the club which was newly renamed Royal Arsenal played upon\nPlumstead Common\n. They moved in September 1887 to a field on Plumstead Marshes, which was renamed the Sportsman Ground after the Sportsman\npub\nnearby. They continued to play there for the next six months.\nlocation of Manor Ground, Plumstead (1914)\nIn 1888, after flooding to the Sportsman Ground, the club moved to the adjoining\nManor Field\nwhich was soon renamed Manor Ground. The pitch was notoriously muddy and upon its southern border lay the\nRidgeway\ncontaining the\nSouthern Outfall Sewer\nthat ended at\nCrossness Pumping Station\n.\n[\n4\n]\nThere were no stands as such as the club used\nwagons\nborrowed from nearby\nArmy\nbases to house spectators. The Royal Arsenal's first match there was against\nMillwall Rovers\non 30 March 1888, a game won by a margin of 3 goals to nil.\n[\n5\n]\nIn 1890, Royal Arsenal decided to move to the\nInvicta Ground\nwhich was more suitable as it possessed a stand,\nterracing\nand changing rooms. Whilst there they changed their name to Woolwich Arsenal and became a\nprofessional\ncl",
+        "topics": [
+          "history",
+          "contents",
+          "manor ground (plumstead)",
+          "club",
+          "arsenal",
+          "stadium",
+          "references",
+          "ground",
+          "woolwich",
+          "external links",
+          "london",
+          "manor",
+          "plumstead",
+          "football"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Manor_Ground_(Plumstead)",
+          "https://en.wikipedia.org/wiki/Emirates_Cup",
+          "https://en.wikipedia.org/wiki/Meadow_Park_(Borehamwood)",
+          "https://en.wikipedia.org/wiki/Category:1888_establishments_in_England",
+          "https://en.wikipedia.org/wiki/Henry_Norris_(businessman)"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:10.572212",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.682994",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_62755",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Emirates_Cup",
+        "keywords": [
+          "contents",
+          "emirates",
+          "see also",
+          "women",
+          "external links"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Emirates Cup - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\n2\nTournaments\n3\nPerformance by team\nToggle Performance by team subsection\n3.1\nMen's\n3.2\nWomen's\n4\nSee also\n5\nReferences\n6\nExternal links\nToggle the table of contents\nEmirates Cup\n31 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAz\u0259rbaycanca\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nBosanski\n\u010ce\u0161tina\nDansk\nDeutsch\nEspa\u00f1ol\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\nBahasa Indonesia\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nJawa\nMagyar\nBahasa Melayu\n\u1019\u103c\u1014\u103a\u1019\u102c\u1018\u102c\u101e\u102c\nNederlands\n\u65e5\u672c\u8a9e\nPolski\nPortugu\u00eas\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nSuomi\nSvenska\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\n\u5434\u8bed\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAssociation football competition\nFor other tournaments, see\nEmirates FA Cup\nand\nEmirates NBA Cup\n.\nFootball tournament\nEmirates Cup\nArsenal celebrate with the trophy after winning the\n2015 Emirates Cup\n.\nFounded\n2007\n; 18\u00a0years ago\n(\n2007\n)\nNumber of teams\n2 (men's)\n2 (women's)\nCurrent champions\nArsenal\n(8th men's title)\nBayern Munich\n(1st women's title)\nMost successful club(s)\nArsenal\n(8 men's titles)\nBayern Munich\n(1 women's title)\nTelevision broadcasters\nPre-Season Pass available on Arsenal\u2019s website\nWebsite\nThe complete history of the Emirates Cup\nThe\nEmirates Cup\nis a pre-season\nassociation football\ninvitational competition hosted by English club\nArsenal\nat their home ground,\nEmirates Stadium\n, in\nHolloway, London\n. The two-day competition was inaugurated in 2007 and is named after Arsenal's main sponsor,\nEmirates\n.\n[\n1\n]\nIt has been held every summer except 2012 due to the\nLondon Olympics\n, 2016 because of\npitch\nrenovation work, 2018 because of stadium building work, and 2020 and 2021 due to the\nCOVID-19 pandemic\n.\nThe competition in its first decade followed a point scoring system much like the\nAmsterdam Tournament\n, whereby each team played two matches, with three points awarded for a win, one point for a draw and none for a loss.\n[\n2\n]\nAn additional point is awarded for every goal scored; this was scrapped in\n2011\n,\n[\n3\n]\nbut made a return from the\n2013\nedition.\n[\n4\n]\nFrom\n2009\n, total shots on target throughout the tournament has been used as a tiebreaker if teams are tied on points, goal difference and goals scored.\n[\n5\n]\nSince\n2019\n, the Emirates Cup has been shortened to a one-day tournament with the inclusion of\nArsenal Women\n.\nArsenal won the inaugural tourna",
+        "topics": [
+          "contents",
+          "emirates",
+          "see also",
+          "women",
+          "external links",
+          "performance by team",
+          "july",
+          "original",
+          "september",
+          "arsenal",
+          "emirates cup",
+          "tournaments",
+          "june",
+          "tournament",
+          "men's",
+          "retrieved",
+          "history",
+          "women's",
+          "references",
+          "archived"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Manor_Ground_(Plumstead)",
+          "https://en.wikipedia.org/wiki/Emirates_Cup",
+          "https://en.wikipedia.org/wiki/UEFA_Euro_2016",
+          "https://en.wikipedia.org/wiki/Category:Featured_lists",
+          "https://en.wikipedia.org/wiki/Category:2007_establishments_in_England"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:11.849357",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.683303",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_44968",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/YouTube_Theater",
+        "keywords": [
+          "history",
+          "contents",
+          "design",
+          "music",
+          "pixel"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "YouTube Theater - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\n2\nDesign\n3\nReferences\n4\nExternal links\nToggle the table of contents\nYouTube Theater\n2 languages\n\u65e5\u672c\u8a9e\nPortugu\u00eas\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nCoordinates\n:\n33\u00b057\u20326\u2033N\n118\u00b020\u203212\u2033W\n\ufeff / \ufeff\n33.95167\u00b0N 118.33667\u00b0W\n\ufeff /\n33.95167; -118.33667\nFrom Wikipedia, the free encyclopedia\nMusic and theatre venue in Inglewood, California\nYouTube Theater\nInterior of YouTube Theater in 2022\nYouTube Theater\nLocation within the Los Angeles metropolitan area\nShow map of the Los Angeles metropolitan area\nYouTube Theater\nYouTube Theater (California)\nShow map of California\nYouTube Theater\nYouTube Theater (the United States)\nShow map of the United States\nAddress\n1011 Stadium Dr\nLocation\nInglewood\n,\nCalifornia\n, United States\nCoordinates\n33\u00b057\u20326\u2033N\n118\u00b020\u203212\u2033W\n\ufeff / \ufeff\n33.95167\u00b0N 118.33667\u00b0W\n\ufeff /\n33.95167; -118.33667\nPublic transit\n\u200d\nHawthorne/Lennox\n(via shuttle bus)\nDowntown Inglewood station\nOwner\nKroenke Sports & Entertainment\nOperator\nStadCo LA\nType\nTheatre\nCapacity\n6,000\nConstruction\nOpened\nAugust\u00a09, 2021\n; 3 years ago\n(\n2021-08-09\n)\nArchitect\nHKS, Inc.\nWebsite\nVenue Website\nYouTube Theater\nis a 6,000 seat music and theater venue in\nInglewood, California\n, United States, located under the same structure that houses\nSoFi Stadium\n, the home of the\nNational Football League\n's\nLos Angeles Rams\nand\nLos Angeles Chargers\n. It is part of the\nHollywood Park\nentertainment complex, a master planned neighborhood in development on the site of the former\nHollywood Park Racetrack\n.\nHistory\n[\nedit\n]\nPlans for a 6,000-seat performance venue go back as far as 2015, when\nStan Kroenke\n, owner of the then-named\nSt. Louis Rams\n, announced his plan to build an NFL stadium and entertainment complex on the former Hollywood Park Racetrack.\n[\n1\n]\nConstruction on the stadium and theater broke ground the following year in November 2016.\n[\n2\n]\nOn June 28, 2021, it was announced that\nGoogle\n's video-sharing platform\nYouTube\nhad acquired the naming rights to the theater for 10 years.\n[\n3\n]\n[\n4\n]\nThe venue opened on August 9, 2021, with an official ribbon-cutting ceremony. Mexican rock band\nCaifanes\nheld the first event at the theater on September 4, 2021.\n[\n5\n]\n[\n6\n]\nThe venue hosted its first\nesports\nevent in late March 2022, with the\nRocket League Champ",
+        "topics": [
+          "history",
+          "contents",
+          "design",
+          "music",
+          "pixel",
+          "stadium",
+          "references",
+          "center",
+          "android",
+          "inglewood",
+          "external links",
+          "theater",
+          "youtube theater",
+          "youtube",
+          "search",
+          "california",
+          "google"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Circle_Star_Theater",
+          "https://en.wikipedia.org/wiki/Urban_Engines",
+          "https://en.wikipedia.org/wiki/Perfect_10,_Inc._v._Amazon.com,_Inc.",
+          "https://en.wikipedia.org/wiki/Los_Angeles_Unified_School_District",
+          "https://en.wikipedia.org/wiki/Crashlytics"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:13.364518",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.683493",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_36302",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Meadow_Park_(Borehamwood)",
+        "keywords": [
+          "contents",
+          "meadow",
+          "ground",
+          "wood",
+          "women"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Meadow Park (Borehamwood) - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\n2\nRecord attendance\n3\nReferences\n4\nExternal links\nToggle the table of contents\nMeadow Park (Borehamwood)\n11 languages\nCymraeg\nDansk\nDeutsch\nEspa\u00f1ol\nFran\u00e7ais\nBahasa Indonesia\nItaliano\nNederlands\nPolski\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nCoordinates\n:\n51\u00b039\u203243\u2033N\n0\u00b016\u203220\u2033W\n\ufeff / \ufeff\n51.6619\u00b0N 0.2721\u00b0W\n\ufeff /\n51.6619; -0.2721\nFrom Wikipedia, the free encyclopedia\nFootball ground in Hertfordshire, England\nMeadow Park\nLocation\nBroughinge Road\nBorehamwood\nWD6 5AL\nOwner\nBoreham Wood F.C.\nCapacity\n4,500 (1,700 seated)\n[\n1\n]\nRecord attendance\n4,101 (Boreham Wood v St Albans City -\nFA Cup second round\n, 6 December 2021)\nField size\n110 by 77 yards (100.6\u00a0m \u00d7\u00a070.4\u00a0m)\n[\n2\n]\nOpened\n1963\nTenants\nBoreham Wood\nArsenal Women\nArsenal U21\nMeadow Park\nis a\nfootball\nground in\nBorehamwood, Hertfordshire\n, England. It is the home ground of\nBoreham Wood F.C.\nand\nArsenal youth teams\n.\n[\n3\n]\nIt is the former home ground of\nArsenal W.F.C.\n, who still play some matches there.\n[\n4\n]\nMeadow Park is also the name of the public park which includes the football ground, as well as children's play areas, tennis courts, multi-sports courts, interactive play, a teen shelter, football pitches, open grassland and a wildflower meadow.\n[\n5\n]\n[\n6\n]\nHistory\n[\nedit\n]\nBoreham Wood moved to Meadow Park from Eldon Avenue in 1963.\n[\n7\n]\nA new main stand was built shortly afterwards. That was demolished in 1999 and replaced by a stand with a cantilevered roof.\n[\n7\n]\nA new West Stand was opened in 2014.\n[\n8\n]\nA new North Bank terrace was opened in 2019, sharing the name of one of the stands from Arsenal's traditional former home of Highbury.\n[\n9\n]\nRecord attendance\n[\nedit\n]\nThe record attendance for the ground is 4,101, set in an\nFA Cup\nsecond round match against\nSt Albans City\non 6 December 2021.\n[\n10\n]\n[\n11\n]\nReferences\n[\nedit\n]\n^\nPreview: Rovers prepared for opener\nForest Green Rovers F.C.\n^\n\"Meadow Park\"\n.\nFootball Ground Guide\n. August 2015.\n^\n\"Youth sides to play at Meadow Park\"\n. 30 July 2013.\n^\n\"Emirates Stadium becomes Arsenal Women's main home\"\n.\nEmirates Stadium becomes Arsenal Women's main home\n. 27 July 2024\n. Retrieved\n21 May\n2024\n.\n^\n\"Meadow Park\"\n.\nParksHerts\n. Hertfordshire Association of Cultural Officers Gre",
+        "topics": [
+          "contents",
+          "meadow",
+          "ground",
+          "wood",
+          "women",
+          "park",
+          "city",
+          "meadow park (borehamwood)",
+          "stadium",
+          "edit",
+          "external links",
+          "borehamwood",
+          "football",
+          "united",
+          "record attendance",
+          "arsenal",
+          "boreham",
+          "town",
+          "history",
+          "references"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Academy_Stadium",
+          "https://en.wikipedia.org/wiki/Peterborough_Sports_F.C.",
+          "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Alvalade",
+          "https://en.wikipedia.org/wiki/Manor_Ground_(Plumstead)",
+          "https://en.wikipedia.org/wiki/Emirates_Cup"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:14.476000",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.683718",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_69967",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Ownership+of+Arsenal+F.C.+%26+W.F.C.",
+        "keywords": [
+          "hide",
+          "username",
+          "main",
+          "menu",
+          "account"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.3
+      },
+      "content": {
+        "title": "Create account - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nLanguages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nCreate account\nEnglish\nTools\nTools\nmove to sidebar\nhide\nActions\nGeneral\nUpload file\nPrintable version\nGet shortened URL\nDownload QR code\nIn other projects\nAppearance\nmove to sidebar\nhide\nUsername\n(username policy)\nYour username is public and cannot be made private later.\nPassword\nIt is recommended to use a unique password that you are not using on any other website.\nConfirm password\nEmail address (recommended)\nEmail is required to recover your account if you lose your password or log in from a unfamiliar location or new browser.\nCAPTCHA Security check\nRefresh\nCan't see the image?\nRequest an account\nCreate your account\nWikipedia is made by people like you.\n1,296,791,889\nedits\n7,025,505\narticles\n107,583\nrecent contributors\nRetrieved from \"\nhttps://auth.wikimedia.org/enwiki/wiki/Special:CreateAccount\n\"\nPrivacy policy\nAbout Wikipedia\nDisclaimers\nContact Wikipedia\nCode of Conduct\nDevelopers\nStatistics\nCookie statement\nMobile view\nSearch\nSearch\nCreate account\nAdd topic",
+        "topics": [
+          "hide",
+          "username",
+          "main",
+          "menu",
+          "account",
+          "wikipedia",
+          "move",
+          "password",
+          "sidebar",
+          "create account",
+          "tools",
+          "search",
+          "your",
+          "create"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+          "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+          "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+          "https://en.wikipedia.org/wiki/Portal:Current_events",
+          "https://en.wikipedia.org/wiki/Help:Introduction"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:16.701691",
+          "depth": 2,
+          "relevance_score": 3.0
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.683943",
+      "quality_score": 0.3
+    },
+    {
+      "id": "news_18520",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/UEFA_competitions",
+        "keywords": [
+          "contents",
+          "see also",
+          "champions",
+          "women",
+          "european"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "UEFA competitions - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\n2\nUEFA sanctioned tournaments\nToggle UEFA sanctioned tournaments subsection\n2.1\nActive\n2.1.1\nFor national teams\n2.1.2\nFor clubs\n2.2\nDefunct\n2.2.1\nFor national teams\n2.2.2\nFor clubs\n3\nSee also\n4\nNotes\n5\nReferences\n6\nBibliography\nToggle the table of contents\nUEFA competitions\n9 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\n\u0641\u0627\u0631\u0633\u06cc\nItaliano\nO\u02bbzbekcha / \u045e\u0437\u0431\u0435\u043a\u0447\u0430\nPortugu\u00eas\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nTi\u1ebfng Vi\u1ec7t\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nSet of international tournaments organised by UEFA\nFlag showing the\nChampions League\n, the\nSuper Cup\nand the\nUEFA Cup\nlogos\nat\nMonaco\n(2008).\nUEFA competitions\n(\nFrench\n:\ncomp\u00e9titions de l'UEFA\n), referred improperly by the\nmass media\nas\nEuropean football\n,\n[Note 1]\nare the set of tournaments organised by the\nUnion of European Football Associations\n(UEFA), generally in professional and amateur\nassociation football\nand\nfutsal\n. The term was established in 1971 by the confederation to differentiate the men's football competitions under its administration, the first in history being held at a pan-European stage,\n[\n1\n]\nfrom other international competitions carried out in the continent between 1960s and 1990s, such as the\nInter-Cities Fairs Cup\n,\nInternational Football Cup and Karl Rappan Cup\n,\nCup of the Alps\n,\nBalkans Cup\n[\n2\n]\nand the restructured\nMitropa Cup\n(as well as some which had already been discontinued by late 1950s such as the\nLatin Cup\n). All these tournaments were organised by private bodies and/or at least two national associations and concerning one of more regional areas of Europe,\n[\n1\n]\nnot being recognised by UEFA for historic-statistical purposes.\n[\n3\n]\nHistory\n[\nedit\n]\nAfter being recognised by FIFA in 1961 and defined its functions as governing body, UEFA laid down principles for the authorisation of other international club competitions,\n[\n4\n]\nbecoming the only organization with legal authority over international football in the continent.\n[\n3\n]\nFor that reason, it considers only results in its own competitions, in general terms and by single tournament, as the only valid for calculating and communicating confederation-level official records and statistics as long as setting combined values in inter-club football",
+        "topics": [
+          "contents",
+          "see also",
+          "champions",
+          "women",
+          "european",
+          "notes",
+          "club",
+          "for national teams",
+          "football",
+          "for clubs",
+          "uefa",
+          "uefa competitions",
+          "competitions",
+          "defunct",
+          "under",
+          "uefa sanctioned tournaments",
+          "history",
+          "championship",
+          "references",
+          "bibliography",
+          "league",
+          "established",
+          "active"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Homegrown_Player_Rule_(UEFA)",
+          "https://en.wikipedia.org/wiki/Women%27s_association_football",
+          "https://en.wikipedia.org/wiki/French_Football_Federation",
+          "https://en.wikipedia.org/wiki/UEFA_stadium_categories",
+          "https://en.wikipedia.org/wiki/List_of_UEFA_Intertoto_Cup_winning_managers"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:18.396074",
+          "depth": 1,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.684151",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_47554",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Homegrown_Player_Rule_(UEFA)",
+        "keywords": [
+          "contents",
+          "clubs",
+          "club",
+          "references",
+          "wikipedia"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "Homegrown Player Rule (UEFA) - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nDefinition\n2\nCriticism\n3\nReferences\n4\nFurther reading\nToggle the table of contents\nHomegrown Player Rule (UEFA)\n1 language\n\u05e2\u05d1\u05e8\u05d9\u05ea\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nUEFA competitions rule\nThe\nHomegrown Player Rule\nis a rule for\nUEFA\ncompetitions that was first introduced in 2006\u201307 season and fully enforced beginning in the 2008\u201309 season. On top of a maximum 25 players for List A, clubs had to designate a minimum 8 players that were trained by clubs from the same national league, with 4 of them being from the club's own youth system.\n[\n1\n]\nThe rule in turn capped a maximum of 17 foreign trained players for the club in UEFA competitions.\nThe\nEnglish Premier League\nenforced their own version\nbeginning in 2010.\n[\n2\n]\nThe purpose was to encourage clubs to develop local talents instead on relying on signing players from other clubs, following the aftermath of the\nBosman ruling\n, which gave more power to richer clubs to buy talented players from smaller clubs.\n[\n1\n]\nDefinition\n[\nedit\n]\nUEFA defines locally-trained or 'homegrown' players as those who, regardless of their nationality, have been trained by their club or by another club in the same national association for at least three years between the ages of 15 and 21.\n[\n1\n]\nIt is thus possible for a player to be homegrown at up to two clubs and in two league systems.\nCriticism\n[\nedit\n]\nIn 2020 the Belgium club\nRoyal Antwerp\nchallenged the legibility of the homegrown player rule in the Belgian courts when they could not register Israeli player\nLior Refaelov\n, arguing that Belgium had a natural disadvantage due the country's relatively smaller size, citing EU's competition laws.\n[\n3\n]\nThe case was later brought to the\nEuropean Court of Justice\n. Here the advocate-general\nMaciej Szpunar\ndisagreed with Royal Antwerp's argument, saying that due to the nature of the game, UEFA could have rules that seemed uncompetitive. He also wrote that \"Systems in which homegrown players include not only those trained by the club at issue but also those of other clubs in the same national league, are not compatible with free-movement rules.\u201d\n[\n3\n]\nReferences\n[\nedit\n]\n^\na\nb\nc\n\"Protection of young players\"\n. UEFA. 2 January 2014\n. Retrieved\n22",
+        "topics": [
+          "contents",
+          "clubs",
+          "club",
+          "references",
+          "wikipedia",
+          "uefa",
+          "rule",
+          "league",
+          "further reading",
+          "edit",
+          "homegrown player rule (uefa)",
+          "defunct",
+          "players",
+          "definition",
+          "criticism",
+          "homegrown",
+          "player"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/UEFA_Women%27s_Futsal_Championship",
+          "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+          "https://en.wikipedia.org/wiki/Homegrown_Player_Rule_(UEFA)",
+          "https://en.wikipedia.org/wiki/UEFA_coaching_licences",
+          "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:19.901405",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.684343",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_19367",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Women%27s_association_football",
+        "keywords": [
+          "contents",
+          "oceania",
+          "21st century",
+          "olympics",
+          "further reading"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.75
+      },
+      "content": {
+        "title": "Women's association football - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\nToggle History subsection\n1.1\nThe Munitionettes' Cup\n1.2\nFA ban (1921\u20131970)\n1.3\nTournaments\n1.4\nThe \"revival\" of the women's game\n1.5\nWomen's World Championships, 1970 and 1971\n1.6\nProfessionalism\n1.7\nAsia and Oceania\n1.8\nNorth America\n1.9\n21st century\n2\nInternational competitions\nToggle International competitions subsection\n2.1\nGlobal\n2.1.1\nWomen's World Cup\n2.1.2\nOlympics\n2.2\nNorth America\n2.3\nEurope\n2.4\nSouth America\n2.5\nAfrica\n2.6\nAsia\n2.7\nOceania\n3\nDomestic competitions\nToggle Domestic competitions subsection\n3.1\nEngland\n3.1.1\nWomen's FA Cup\n4\nYouth tournaments\n5\nIntercollegiate\nToggle Intercollegiate subsection\n5.1\nUnited States\n6\nControversies\nToggle Controversies subsection\n6.1\nMisogynistic comments and decision-making around dress codes\n6.2\nWomen's football in the Middle East and North Africa\n6.2.1\nWearing of hijabs\n6.3\nLabour disputes\n6.4\nSexual harassment and abuse\n7\nSee also\n8\nNotes\n9\nReferences\n10\nFurther reading\n11\nExternal links\nToggle the table of contents\nWomen's association football\n42 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAz\u0259rbaycanca\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nBrezhoneg\nCatal\u00e0\n\u010ce\u0161tina\nCymraeg\nDansk\nDeutsch\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEsperanto\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\nGaeilge\nGalego\n\ud55c\uad6d\uc5b4\n\u0540\u0561\u0575\u0565\u0580\u0565\u0576\nBahasa Indonesia\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nNederlands\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nO\u02bbzbekcha / \u045e\u0437\u0431\u0435\u043a\u0447\u0430\n\u067e\u0646\u062c\u0627\u0628\u06cc\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nSimple English\n\u0633\u0646\u068c\u064a\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSuomi\nSvenska\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\n\u0627\u0631\u062f\u0648\nTi\u1ebfng Vi\u1ec7t\nZazaki\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikinews\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAssociation football played by women\nWomen's association football\nAlex Morgan\nand\nStefanie van der Gragt\nbattle for the ball during the\n2019 FIFA Women's World Cup Final\nin\nLyon\n, France\nHighest\ngoverning\u00a0body\nFIFA\nNicknames\nThe Women's Game,\n[\n1\n]\nWoSo\n[\na\n]\nFirst played\n1880s, Great Britain\n[\n3\n]\n[\n4\n]\nCharacteristics\nContact\nYes\nTeam members\n11 per side (including goalkeeper)\nMixed-sex\nNo, separate competitions\nType\nTeam sport\n,\nball game\nEquipment\nFootball\n(or soccer ball),\nfootball boots\n,\nshin guards\n,\nkits\n, and gloves (for goalkeepers)\nVenue\nFootball pitch\n(football field, football ground, soccer field, soccer ground or \"pitch\")\nGlossary\nGlossary of association football\nPresence\nCountry or\u00a0region\nWorldwide\nOlympic\nSince\n1996",
+        "topics": [
+          "contents",
+          "oceania",
+          "21st century",
+          "olympics",
+          "further reading",
+          "africa",
+          "see also",
+          "women",
+          "youth tournaments",
+          "women's association football",
+          "notes",
+          "europe",
+          "united states",
+          "external links",
+          "domestic competitions",
+          "football",
+          "professionalism",
+          "original",
+          "fifa",
+          "asia and oceania",
+          "england",
+          "the munitionettes' cup",
+          "tournaments",
+          "south america",
+          "intercollegiate"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/1970%E2%80%9371_WFA_Cup",
+          "https://en.wikipedia.org/wiki/Anti-football",
+          "https://en.wikipedia.org/wiki/Royal_Dutch_Football_Association",
+          "https://en.wikipedia.org/wiki/List_of_association_football_stadiums_by_country",
+          "https://en.wikipedia.org/wiki/North_American_Nations_Cup"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:22.309671",
+          "depth": 2,
+          "relevance_score": 7.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.684521",
+      "quality_score": 0.75
+    },
+    {
+      "id": "news_41803",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/French_Football_Federation",
+        "keywords": [
+          "contents",
+          "federation",
+          "women",
+          "see also",
+          "coupe"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "French Football Federation - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\nToggle History subsection\n1.1\nBackground\n1.2\nFormation and evolution\n1.3\nModern day\n2\nActivities\n3\nRegional associations\nToggle Regional associations subsection\n3.1\nMainland France\n3.2\nOverseas France\n4\nExecutive committee\n5\nAcademies\nToggle Academies subsection\n5.1\nRegistration\n5.2\nTraining and accommodation\n6\nHonours\nToggle Honours subsection\n6.1\nNational football team\n6.2\nMen\n6.3\nWomen\n6.4\nNational youth teams\n6.4.1\nMen\n7\nSponsors\n8\nSee also\n9\nReferences\n10\nExternal links\nToggle the table of contents\nFrench Football Federation\n46 languages\n\u12a0\u121b\u122d\u129b\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAsturianu\n\u09ac\u09be\u0982\u09b2\u09be\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\nBosanski\nCatal\u00e0\n\u010ce\u0161tina\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEsperanto\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\nGalego\n\ud55c\uad6d\uc5b4\nHrvatski\nIdo\nBahasa Indonesia\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\n\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8\nLatvie\u0161u\nLietuvi\u0173\nMagyar\n\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\nNederlands\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nPolski\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nSimple English\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSuomi\nSvenska\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\n\u4e2d\u6587\n\u2d5c\u2d30\u2d4e\u2d30\u2d63\u2d49\u2d56\u2d5c \u2d5c\u2d30\u2d4f\u2d30\u2d61\u2d30\u2d62\u2d5c\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nGoverning body of association football in France\nFrench Football Federation\nUEFA\nShort name\nFFF, 3F , Triple F\nFounded\n7\u00a0April 1919\n; 106 years ago\n(\n1919-04-07\n)\nHeadquarters\nParis\nFIFA\naffiliation\n1904 (USFSA)\n1907 (CFI)\n1919\nUEFA\naffiliation\n1954\nPresident\nPhilippe Diallo\nWebsite\nfff\n.fr\n(in French)\nThe\nFrench Football Federation\n(\nabbr.\nFFF\nand\n3F\n; or\nTriple F\n;\n[\n1\n]\n[\n2\n]\nFrench\n:\nF\u00e9d\u00e9ration Fran\u00e7aise de Football\n,\npronounced\n[fede\u0281\u0251sj\u0254\u0303\nf\u0281\u0251\u0303s\u025b\u02d0z\nd\u0259\nfutbol]\n) is the governing body of\nfootball\nin\nFrance\n.\n[\n3\n]\nIt was formed in 1919 and is based in the\ncapital\n,\nParis\n. The FFF is a founding member of\nFIFA\nand is responsible for overseeing all aspects of the game of football in France, both professional and amateur. The French Football Federation is a founding member of\nUEFA\nand joined FIFA in 1907 after replacing the\nUSFSA\n, who were founding members.\n[\n4\n]\nHistory\n[\nedit\n]\nBackground\n[\nedit\n]\nMain article:\nUnion des Soci\u00e9t\u00e9s Fran\u00e7aises de Sports Athl\u00e9tiques\nBefore the FFF was established, football,\nrugby union\nand others sports in France were regulated by the\nUnion des Soci\u00e9t\u00e9s Fran\u00e7aises de Sports Athl\u00e9tiques\n(USFSA). Founded in November 1890, the USFSA was init",
+        "topics": [
+          "contents",
+          "federation",
+          "women",
+          "see also",
+          "coupe",
+          "french",
+          "academies",
+          "registration",
+          "regional associations",
+          "overseas france",
+          "edit",
+          "external links",
+          "activities",
+          "sports",
+          "football",
+          "french football federation",
+          "fifa",
+          "mainland france",
+          "france",
+          "national",
+          "training and accommodation",
+          "players",
+          "formation and evolution",
+          "history",
+          "national football team"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/CNFE_Clairefontaine",
+          "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=French+Football+Federation",
+          "https://en.wikipedia.org/w/index.php?title=French_Football_Federation&action=info",
+          "https://en.wikipedia.org/wiki/Union_des_Soci%C3%A9t%C3%A9s_Fran%C3%A7aises_de_Sports_Athl%C3%A9tiques",
+          "https://en.wikipedia.org/wiki/Jean-Pierre_Escalettes"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:24.356633",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.684754",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_86539",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/UEFA_stadium_categories",
+        "keywords": [
+          "contents",
+          "uefa stadium categories",
+          "categories",
+          "must",
+          "least"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "UEFA stadium categories - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nGeneral\n2\nDifferences between categories\n3\nCategory requirements by competition\n4\nSee also\n5\nReferences\n6\nExternal links\nToggle the table of contents\nUEFA stadium categories\n38 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAsturianu\n\u09ac\u09be\u0982\u09b2\u09be\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nCatal\u00e0\n\u010ce\u0161tina\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\nHrvatski\nBahasa Indonesia\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\n\u049a\u0430\u0437\u0430\u049b\u0448\u0430\nLatvie\u0161u\nMagyar\nNederlands\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nO\u02bbzbekcha / \u045e\u0437\u0431\u0435\u043a\u0447\u0430\nPolski\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nSimple English\nSloven\u010dina\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSuomi\nSvenska\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nCategories of requirements for football stadiums set by UEFA\nThe\nSantiago Bernab\u00e9u Stadium\n, the home of\nReal Madrid\n, is a category 4 stadium.\nUEFA stadium categories\nare categories for\nfootball\nstadiums\nlaid out in\nUEFA\n's  Stadium Infrastructure Regulations.\n[\n1\n]\nUsing these regulations, stadiums are rated as category one, two, three, or four (renamed from elite) in ascending ranking order. These categories replaced the previous method of ranking stadiums on one to five star scale in 2006.\nUEFA does not publish lists of stadiums fulfilling the criteria for any of the categories defined in the UEFA Stadium Infrastructure Regulations,\n[\n1\n]\nbut all assigned stadium categories are visible in UEFA's TIME platform, which is not open to the general public.\nGeneral\n[\nedit\n]\nIf a retractable roof is present, its use will be directed by consultation between the UEFA delegate and the main assigned referee.\nAlthough the minimum stadium capacity for category four is 8,000, only one stadium with a capacity less than 60,000 has been selected to host a UEFA Champions League and the UEFA Euro finals and 30,000 for the UEFA Europa League and the UEFA Nations League finals, since these regulations were introduced in 2006.\nAfter the\n2007 Champions League final\n, UEFA President\nMichel Platini\nstated that he wanted European Cup finals to be held at stadiums with an average capacity of 70,000 to solve security issues.\n[\n2\n]\nThe hosts for the finals between 2008 and 2024 (\nLuzhniki Stadium\n,\nStadio Olimpico\n,\nSantiago Bernab\u00e9u\n,\nWembley Stadium\n,\nAllianz Arena\n,\nOlympiastadion\n,\nSan Siro\n,\nMillennium Stadium\n,\nOlimpiyskiy Stadium\n,\nStade d",
+        "topics": [
+          "contents",
+          "uefa stadium categories",
+          "categories",
+          "must",
+          "least",
+          "stadium",
+          "references",
+          "uefa",
+          "league",
+          "external links",
+          "minimum",
+          "see also",
+          "women",
+          "category requirements by competition",
+          "general",
+          "category",
+          "differences between categories"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Homegrown_Player_Rule_(UEFA)",
+          "https://en.wikipedia.org/wiki/UEFA_stadium_categories",
+          "https://en.wikipedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUEFA_stadium_categories",
+          "https://en.wikipedia.org/wiki/UEFA_competitions",
+          "https://en.wikipedia.org/wiki/News_conference"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:25.859473",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.684988",
+      "quality_score": 0.55
+    },
+    {
+      "id": "news_50997",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/List_of_UEFA_Intertoto_Cup_winning_managers",
+        "keywords": [
+          "contents",
+          "france",
+          "references",
+          "archived",
+          "by year"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.55
+      },
+      "content": {
+        "title": "List of UEFA Intertoto Cup winning managers - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nBy year\n2\nBy nationality\n3\nSee also\n4\nReferences\n5\nExternal links\nToggle the table of contents\nList of UEFA Intertoto Cup winning managers\n6 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAz\u0259rbaycanca\n\u0641\u0627\u0631\u0633\u06cc\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nT\u00fcrk\u00e7e\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nHuub Stevens\n, winning manager in 2007\nThe\nUEFA Intertoto Cup\nwas a European\nassociation football\ncompetition, held during the summer for the leading European clubs that have failed to qualify for either the\nUEFA Champions League\nor the\nUEFA Cup\n. It provided \"an alternative qualifying route into the UEFA Cup\".\n[\n1\n]\nThe tournament did not come under official\nUEFA\nsanction until\n1995\n, and was abolished in 2009.\n[\n2\n]\nThe first tournament provided two winners, both of whom therefore qualified for the UEFA Cup in the\n1995\u201396\nseason, with Frenchman\nJacky Dugu\u00e9p\u00e9roux\nand Yugoslavian\nSlavoljub Muslin\nas the winning managers. From the\nfollowing season\nto the\n2005\ncontest, three teams were awarded Intertoto Cups, with French managers being the most successful.\n[\n3\n]\nIn\n2006\n, the format was modified to allow eleven clubs to qualify for the second qualifying round of the UEFA Cup, the Intertoto Cup being awarded to the team that progressed the furthest in the competition.\n[\n4\n]\nEnglishman\nGlenn Roeder\nlifted the cup that season as he guided\nNewcastle United\nto the last 16 of the\n2006\u201307 UEFA Cup\n. German\nJupp Heynckes\nis the only man to have won the cup twice and did so in consecutive years (\n2003\nand\n2004\n) with German club\nSchalke 04\n.\nBy year\n[\nedit\n]\nClaudio Ranieri\n, winning manager in 1998\nAlain Perrin\n, winning manager in 2001\nFelix Magath\n, winning manager in 2002\nFinal\nNationality\nWinning manager\nCountry\nClub\nRef\n1995\nFrance\nJacky Dugu\u00e9p\u00e9roux\nFrance\nStrasbourg\n[\n5\n]\n[\n6\n]\n1995\nFR Yugoslavia\nSlavoljub Muslin\nFrance\nBordeaux\n[\n7\n]\n1996\nGermany\nWinfried Sch\u00e4fer\nGermany\nKarlsruher SC\n[\n8\n]\n1996\nFrance\nFrancis Smerecki\nFrance\nGuingamp\n[\n9\n]\n1996\nDenmark\nPreben Elkj\u00e6r\nDenmark\nSilkeborg\n[\n10\n]\n1997\nFrance\nFr\u00e9d\u00e9ric Antonetti\nFrance\nBastia\n[\n11\n]\n1997\nFrance\nBernard Lacombe\nFrance\nLyon\n[\n12\n]\n1997\nFrance\nGuy Roux\nFrance\nAuxerre\n[\n13\n]\n1998\nGermany\nWolfgang Sidka\nGermany\nWerder Bremen\n[\n14\n]\n1998\nItaly\nClaudio Ranieri\nSpain\nValencia\n[\n15\n]\n1998\nItal",
+        "topics": [
+          "contents",
+          "france",
+          "references",
+          "archived",
+          "by year",
+          "uefa",
+          "by nationality",
+          "external links",
+          "intertoto",
+          "see also",
+          "germany",
+          "italy",
+          "edit",
+          "winning",
+          "original",
+          "retrieved",
+          "managers"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Wolfgang_Sidka",
+          "https://en.wikipedia.org/wiki/Category:Featured_lists",
+          "https://en.wikipedia.org/wiki/Harry_Redknapp",
+          "https://en.wikipedia.org/wiki/Ralf_Rangnick",
+          "https://en.wikipedia.org/wiki/ESPNsoccernet"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:15:27.678378",
+          "depth": 2,
+          "relevance_score": 5.5
+        }
+      },
+      "timestamp": "2025-07-20T13:15:27.685219",
+      "quality_score": 0.55
+    }
+  ],
+  "summary": {
+    "total_nodes": 30,
+    "average_relevance": 6.033333333333333,
+    "max_relevance": 9.5,
+    "unique_topics": 374,
+    "total_topics": 597,
+    "depth_distribution": {
+      "0": 1,
+      "1": 5,
+      "2": 24
+    },
+    "high_relevance_pages": 8
+  }
+}

@@ -1,0 +1,871 @@
+{
+  "timestamp": "2025-07-20T12:38:48.096988",
+  "root_url": "https://bbc.co.uk/news",
+  "keywords": [
+    "news",
+    "breaking",
+    "latest",
+    "update",
+    "report"
+  ],
+  "total_pages_scraped": 14,
+  "knowledge_nodes": [
+    {
+      "url": "https://bbc.co.uk/news",
+      "title": "Home - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 24,
+      "depth": 0
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/c30741j351go",
+      "title": "The rise of green tech is feeding another environmental crisis - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 12,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cgrxnlpln24o",
+      "title": "Should this lab-grown burger really be served in restaurants? - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 12,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/disability",
+      "title": "Disability - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/topics/c1vw6q14rzqt",
+      "title": "Ukraine War | Latest News & Updates| BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 17,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/bbcverify",
+      "title": "BBC Verify | Experts in disinformation, fact-checking and OSINT | BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 19,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cvgn0dmdkepo",
+      "title": "World's first 150mph car Blue Bird to return to Pendine Sands - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/c9395ywzg73o",
+      "title": "The rising use of nicotine pouches snus - and risk to gums and teeth - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cqx27w1dwe9o",
+      "title": "'Gangsta Debbs' - the granny who used her family to run a drug gang - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/c20n9yzxyyvo",
+      "title": "Performer launches Gaza flag protest on Royal Opera House stage - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 16,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/regions",
+      "title": "BBC News Regions",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/c9w14yjw8x0o",
+      "title": "New criminal offence to target violence-obsessed suspects before they attack - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/c4g8m8r6grzo",
+      "title": "Water company sewage pollution to halve by 2030, minister pledges - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+      "title": "St Helens fire: Man arrested on suspicion of double murder - BBC News",
+      "relevance_score": 10.0,
+      "topics_count": 18,
+      "depth": 1
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_91399",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news",
+        "keywords": [
+          "sport",
+          "the video playlist",
+          "most read",
+          "bbc news app",
+          "news"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Home - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nEngland\nN. Ireland\nScotland\nAlba\nWales\nCymru\nLocal News\nMy News\nSign In Banner\nDiscover your BBC\nSign in or create an account to watch, listen and join in\nSign in\nor\nRegister\nClose sign in banner\nBBC News\nSewage discharges to halve by 2030 in 'water revolution', minister pledges\nEnvironment Secretary Steve Reed says the government is preparing a \"water revolution\" and that the water sector is broken.\nAttribution\nScience & Environment\nPosted\n1 hour ago\n1h\nAt least 14 dead in South Korea floods and landslides\nAttribution\nAsia\nPosted\n3 hours ago\n3h\nA baby loss certificate would be 'powerful validation of grief'\nAttribution\nNorthern Ireland\nPosted\n6 hours ago\n6h\nNew criminal offence to target violence-obsessed suspects before they attack\nAttribution\nPolitics\nPosted\n11 hours ago\n11h\nParked in lay-bys - the drivers determined to avoid airport drop-off fees\nAttribution\nScotland\nPosted\n12 hours ago\n12h\nHow the rise of green tech is feeding another environmental crisis\nAttribution\nBBC InDepth\nPosted\n12 hours ago\n12h\nPerformer unfurls Palestinian flag on Royal Opera House stage\nAttribution\nUK\nPosted\n38 minutes ago\n38min\nMr and Mrs XCX: Brat star weds drummer of The 1975\nAttribution\nCulture\nPosted\n6 hours ago\n6h\nChange my nation\nclose panel\nChange my nation\nChange your nation to get more top stories from where you are, as well as the UK and international headlines.\nUnited Kingdom\nEngland\nScotland\nWales\nNorthern Ireland\nConfirm\nYou are now seeing top stories for\nNorthern Ireland\nSewage discharges to halve by 2030 in 'water revolution', minister pledges\nEnvironment Secretary Steve Reed says the government is preparing a \"water revolution\" and that the water sector is broken.\nAttribution\nScience & Environment\nPosted\n1 hour ago\n1h\nAt least 14 dead in South Korea floods and landslides\nAttribution\nAsia\nPosted\n3 hours ago\n3h\nNew criminal offence to target violence-obsessed suspects before they attack\nAttribution\nPolitics\nPosted\n11 hours ago\n11h\nParked in lay-bys - the drivers determined to avoid airport drop-off fees\nAttribution\nScotland\nPosted\n12 hours ago\n12h\nHow the rise of green tech is feeding another environmental crisis\nAttribution\nBBC InDepth\nPosted\n12 hours ago\n12h\nPerformer unfurls Palestinian flag on Royal Opera House stage\nAttribution\nUK\nPosted\n38 minutes ago\n38min\nMr and Mrs XCX: Brat star weds drummer of The 1975\nAttribution\nCulture\nPosted\n6 hours ago\n6h\nChange my nation\nclose panel\nChange my nation\nChange your nation to get more top stories from where you are, as well as the UK and international headlines.\nUnited Kingd",
+        "topics": [
+          "sport",
+          "the video playlist",
+          "most read",
+          "bbc news app",
+          "news",
+          "bbc news",
+          "change",
+          "more top stories",
+          "weekend picks",
+          "attribution",
+          "breaking news",
+          "video",
+          "business",
+          "summer essential newsletter",
+          "your",
+          "elsewhere on the bbc",
+          "discover your bbc",
+          "hours",
+          "nation",
+          "watch live on iplayer",
+          "posted",
+          "most watched",
+          "water",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/regions",
+          "https://bbc.co.uk/news/articles/c30741j351go",
+          "https://bbc.co.uk/news/articles/cvgn0dmdkepo",
+          "https://bbc.co.uk/sounds/play/m002dbtv",
+          "https://bbc.co.uk/news/articles/c20n9yzxyyvo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:38:49.375449",
+          "depth": 0,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.561727",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_43447",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/c30741j351go",
+        "keywords": [
+          "soaring demand for lithium",
+          "related topics",
+          "get in touch",
+          "water",
+          "lithium"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "The rise of green tech is feeding another environmental crisis - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nInDepth\nHow the rise of green tech is feeding another environmental crisis\nPublished\n20 July 2025, 00:05 BST\nIone Wells\nForeign correspondent\n@ionewells\nReporting from\nChile\nRaquel Celina Rodriguez watches her step as she walks across the Vega de Tilopozo in Chile's Atacama salt flats.\nIt's a wetland, known for its groundwater springs, but the plain is now dry and cracked with holes she explains were once pools.\n\"Before, the Vega was all green,\" she says. \"You couldn't see the animals through the grass. Now everything is dry.\" She gestures to some grazing llamas.\nFor generations, her family raised sheep here. As the climate changed, and rain stopped falling, less grass made that much harder.\nBut it worsened when \"they\" started taking the water, she explains.\nImage source,\nBen Derico/BBC\nImage caption,\nRaquel's family raised sheep in Chile's Atacama salt flats for generations but now everything is dry, she says\n\"They\" are lithium companies. Beneath the salt flats of the Atacama Desert lie the world's largest reserves of lithium, a soft, silvery-white metal that is an essential component of the batteries that power electric cars, laptops and solar energy storage.\nAs the world transitions to more renewable energy sources, the demand for it has soared.\nIn 2021, about 95,000 tonnes of lithium was consumed globally - by 2024 it had more than doubled to 205,000 tonnes, according to the International Energy Agency (IEA).\nBy 2040 it's predicted to rise to more than 900,000 tonnes.\nMost of the increase will be driven by demand for electric car batteries, the IEA says.\nLocals say environmental costs to them have risen too.\nSo, this soaring demand has raised the question: is the world's race to decarbonise unintentionally stoking another environmental problem?\nFlora, flamingos and shrinking lagoons\nChile is the second-largest producer of lithium globally after Australia. In 2023, the government launched a National Lithium Strategy to ramp up production through partly nationalising the industry and encouraging private investment.\nIts finance minister previously said the increase in production could be by up to 70% by 2030, although the mining ministry says no target has been set.\nThis year, a major milestone to that is set to be reached.\nImage source,\nBen Derico/BBC\nImage caption,\nThe process extracts vast amounts of water in this already drought-prone region\nA planned joint enterprise between SQM and Chile's state mining company Codelco has just secured regulatory approval for a quota to extract at least 2.5 million metric tonn",
+        "topics": [
+          "soaring demand for lithium",
+          "related topics",
+          "get in touch",
+          "water",
+          "lithium",
+          "says",
+          "mining",
+          "image",
+          "more from indepth",
+          "mitigating the damage",
+          "bbc news services",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/news/articles/cgrxnlpln24o",
+          "https://bbc.co.uk/sounds/play/m002fxn4?at_mid=5CK0sZMPQE&at_campaign=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b00snr0w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/topics/c1vw6q14rzqt"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:38:50.472675",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.562020",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_40172",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cgrxnlpln24o",
+        "keywords": [
+          "\"hope not hard evidence\"?",
+          "related topics",
+          "get in touch",
+          "grown",
+          "bbc news services"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Should this lab-grown burger really be served in restaurants? - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nInDepth\nThis burger was made from cow cells in a lab. Should it really be served in restaurants?\nPublished\n25 June 2025\nPallab Ghosh\nScience correspondent\n@BBCPallab\nInside an anonymous building in Oxford, Riley Jackson is frying a steak. The perfectly red fillet cut sizzles in the pan, its juices releasing a meaty aroma. But this is no ordinary steak. It was grown in the lab next door.\nWhat's strangest of all is just how real it looks. The texture, when cut, is indistinguishable from the real thing.\n\"That's our goal,\" says Ms Jackson of Ivy Farm Technologies, the food tech start-up that created it. \"We want it to be as close to a normal steak as possible.\"\nLab-grown meat is already sold in many parts of the world and in a couple of years, pending being granted regulatory approval, it could also be sold in the UK too - in burgers, pies and sausages.\nUnlike so-called vegetarian meat, which is already available in UK supermarkets -  from fake bacon rashers made from pea protein to steaks made of soy, and dyed bright red to resemble the real thing - lab-grown meat is biologically real meat, grown from cow cells.\nImage source,\nIvy Farm Technologies\nImage caption,\nThe lab-grown steak from Ivy Farm Technologies has a texture indistinguishable from regular steak\nTo some, this could be a smart technological fix for a growing environmental problem: the rise in planet-heating gases caused, in part, by the rapid and growing demand for meat.\nBut others argue that the environmental benefits of lab-grown meat, officially known as cultivated meat, have been oversold. Some critics say that more effort should instead be expended on reducing meat consumption, instead of looking to a technology fix.\nThen there are questions around the ultra-processed nature of this meat, which some also worry will be produced by a handful of multinational companies.\nSo now, with dog food made from meat that was grown in factory vats having\nalready gone on sale in the UK\nearlier this year and with the possibility of lab-grown food for humans becoming available sooner than expected - the debate has never been more prescient.\nNor has the question: to grow or not to grow?\nCurbing greenhouse gas emissions\nGlobal demand for meat is growing. According the UN's Food and Agriculture Organisation, meat production has increased fivefold since the 1960s and reached around 364 million tonnes in 2023.\nProducing 1kg of beef can generate planet-heating greenhouse gases, equivalent to roughly 40kg of carbon dioxide, though estimates can vary depending on the type of p",
+        "topics": [
+          "\"hope not hard evidence\"?",
+          "related topics",
+          "get in touch",
+          "grown",
+          "bbc news services",
+          "food",
+          "cultivated",
+          "more from indepth",
+          "lab-grown beef",
+          "meat",
+          "curbing greenhouse gas emissions",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/articles/czxw6331grxo",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/news/articles/cp8jwj90ejno",
+          "https://bbc.co.uk/sounds/play/m002fxn4?at_mid=5CK0sZMPQE&at_campaign=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b00snr0w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:38:51.699911",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.562261",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_84960",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/disability",
+        "keywords": [
+          "features",
+          "news",
+          "health",
+          "life",
+          "send"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Disability - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nDisability\nDisability\nFollow\nDisability\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Disability\nUpdates from your News topics will appear in\nMy News\nand in a collection on the\nNews homepage\n.\nAccess All: Disability News and Mental Health. 'An angry perpetual heckler in my head' - Robin Ince on having ADHD. Audio, 34 minutes\nAccess All: Disability News and Mental Health\n'An angry perpetual heckler in my head' - Robin Ince on having ADHD\nThe Infinite Monkey Cage comedian on his 'normally weird' life\nAttribution\nBBC Sounds\nAvailable for over a year\n34 mins\nMan jailed for nine years after leaving woman brain damaged\nAttribution\nGlasgow & West Scotland\nPosted\n1 day ago\n1d\nChildcare hub holiday 'lifeline' for SEND parents\nAttribution\nHampshire & Isle of Wight\nPosted\n2 days ago\n2d\nRapper Giggs releases song with son after opening up about autism\nAttribution\nNewsbeat\nPosted\n2 days ago\n2d\nBoy faces months in wheelchair after alleged hit-and-run\nAttribution\nWales\nPosted\n2 days ago\n2d\nParalympian Taggart announces retirement from boccia\nAttribution\nDisability Sport\nPosted\n3 days ago\n3d\nGrey-Thompson humiliated by blame for flight delay\nAttribution\nWales\nPosted\n3 days ago\n3d\nFeatures\n'I was blown away' by Wimbledon proposal\nAttribution\nHampshire & Isle of Wight\nPosted\n3 days ago\n3d\nHow to tackle anxiety: Breathing techniques\nAttribution\nBBC Bitesize\nPosted\n28 April 2021\n28 Apr 2021\nRugby player's stoma bag gives him 'second chance'\nAttribution\nNorth Yorkshire\nPosted\n9 July\n9 Jul\nBoy asked to travel more than 20 miles for SEN school place\nAttribution\nNorthern Ireland\nPosted\n9 July\n9 Jul\nChristine McGuiness on designing play parks for neurodiverse kids. Video, 00:01:22\nChristine McGuiness on designing play parks for neurodiverse kids\nPosted\n10 July\n10 Jul\n1:22\nAccess All\nControversial benefits change passes Commons. Audio, 21 minutes\nControversial benefits change passes Commons\nAttribution\nBBC Sounds\nAvailable for over a year\n21 mins\nThe 'not the welfare bill' episode. Audio, 41 minutes\nThe 'not the welfare bill' episode\nAttribution\nBBC Sounds\nAvailable for over a year\n41 mins\nAccess All: Disability News and Mental Health. Emergency episode: 'Bittersweet' welfare reform bill waved through. Audio, 19 minutes\nAccess All: Disability News and Mental Health\nEmergency episode: 'Bittersweet' welfare reform bill waved through\nAttribution\nBBC Sounds\nAvailable for over a year\n19 mins\nEmergency episode: The welfare reform climb-down. Audio, 22 minutes\nEmergency episode: The welfare reform climb-down\nA",
+        "topics": [
+          "features",
+          "news",
+          "health",
+          "life",
+          "send",
+          "attribution",
+          "access all",
+          "video",
+          "latest updates",
+          "published",
+          "july",
+          "disability",
+          "posted",
+          "sounds",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/articles/cql0p6e69r0o",
+          "https://bbc.co.uk/news/articles/cly82dddj78o",
+          "https://bbc.co.uk/sounds/play/m002dbtv",
+          "https://bbc.co.uk/news/articles/crrqp25gz98o",
+          "https://bbc.co.uk/news/articles/ckg5e17mj4po"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:38:53.002457",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.562478",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_42450",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/topics/c1vw6q14rzqt",
+        "keywords": [
+          "ukraine",
+          "world",
+          "analysis",
+          "july",
+          "news"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Ukraine War | Latest News & Updates| BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nWar in Ukraine\nWar in Ukraine\nFollow\nWar in Ukraine\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      War in Ukraine\nUpdates from your News topics will appear in\nMy News\nand in a collection on the\nNews homepage\n.\nBuildings burn as another wave of Russian attacks hits Ukraine\nAt least three people are killed in the barrage, which the Ukrainian president says targeted 10 regions.\nAttribution\nEurope\nPosted\n20 hours ago\n20h\nKill Russian soldiers, win points: Is Ukraine's new drone scheme gamifying war?\nAttribution\nEurope\nPosted\n2 days ago\n2d\nTwo dead and many injured in Russian strike on Ukrainian shopping centre\nAttribution\nEurope\nPosted\n3 days ago\n3d\nUkrainians unimpressed by Trump's 50-day ultimatum to Putin\nAttribution\nEurope\nPosted\n4 days ago\n4d\nTrump says Ukraine should not target Moscow\nAttribution\nEurope\nPosted\n4 days ago\n4d\nI'm 'disappointed but not done' with Putin, Trump tells BBC\nAttribution\nWorld\nPosted\n5 days ago\n5d\nComments\n3499\nNorth Korea reaffirms support for Russia's war in Ukraine\nAttribution\nWorld\nPosted\n7 days ago\n13 Jul\nAnalysis\nRosenberg: Russia more relieved than rattled by US tariff threat\nAttribution\nWorld\nPosted\n5 days ago\n5d\nTrump weapons pledge marks major step forward for Ukraine\nAttribution\nWorld\nPosted\n5 days ago\n5d\nRussians tell the BBC how they think the Ukraine war will end. Video, 00:01:22\nRussians tell the BBC how they think the Ukraine war will end\nAttribution\nEurope\nPosted\n11 July\n11 Jul\n1:22\nSteve Rosenberg: Moscow shrugs off Trump's irritation with Putin\nAttribution\nWorld\nPosted\n9 July\n9 Jul\nUkraine fears increased Russian aggression after US halt of weapons supply\nAttribution\nWorld\nPosted\n2 July\n2 Jul\nComments\n1646\nOn the ground\nRussia's summer push in Ukraine targets three fronts but faces stern resistance\nAttribution\nEurope\nPosted\n9 July\n9 Jul\n'It's Groundhog Day': Ukraine's sky defenders stuck in relentless battle\nAttribution\nTechnology\nPosted\n4 July\n4 Jul\nThe doctor fighting for women's health on Ukraine's front line\nAttribution\nEurope\nPosted\n8 July\n8 Jul\n'Mariupol is diseased': Residents deny Russian claims occupied city returning to normal\nAttribution\nEurope\nPosted\n29 June\n29 Jun\nAfter a night of terror in Kyiv, the search for dead goes on\nAttribution\nEurope\nPosted\n18 June\n18 Jun\nWhat does the Iran-Israel conflict mean for Ukraine?\nRussia strikes Kyiv as a crisis erupts in the Middle East\nAttribution\nBBC News\nLatest Updates\n00:05\nParades, flags and songs: The campaign to force Ukrainian children to love Russia\n,\npublished at\n00:05\nParade",
+        "topics": [
+          "ukraine",
+          "world",
+          "analysis",
+          "july",
+          "news",
+          "russia",
+          "on the ground",
+          "attribution",
+          "verified videos",
+          "posted",
+          "war in ukraine",
+          "europe",
+          "published",
+          "latest updates",
+          "russian",
+          "trump",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/world/europe",
+          "https://bbc.co.uk/news/articles/c1e02q12z32o",
+          "https://bbc.co.uk/news/articles/c62d17ld032o",
+          "https://bbc.co.uk/news"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:38:54.436140",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.562716",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_59415",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/bbcverify",
+        "keywords": [
+          "verify",
+          "june",
+          "ros atkins on...",
+          "investigations",
+          "uk politics"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "BBC Verify | Experts in disinformation, fact-checking and OSINT | BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nBBC Verify\nBBC Verify\nFollow\nBBC Verify\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      BBC Verify\nUpdates from your News topics will appear in\nMy News\nand in a collection on the\nNews homepage\n.\nIsrael levelling thousands of Gaza civilian buildings in controlled demolitions\nSatellite images show massive amounts of destruction in areas Israel's military claims to have under \"operational control\".\nNorth Korea's Benidorm-style resort welcomes first Russian tourists\nAttribution\nWorld\nPosted\n12 July\n12 Jul\nWhy do Channel migrants want to come to the UK?\nAttribution\nBBC Verify\nPosted\n9 July\n9 Jul\nDid US government cuts contribute to the Texas tragedy?\nAttribution\nUS & Canada\nPosted\n7 July\n7 Jul\nFact-checking three key claims about Trump's mega-bill\nPosted\n3 July\n3 Jul\nWhat will Trump's tax and spending bill do to the US national debt? Video, 00:02:22\nWhat will Trump's tax and spending bill do to the US national debt?\nPosted\n3 July\n3 Jul\n2:22\nScroll to previous item\nScroll to next item\n1:13\nIs Coca-Cola healthier in the UK or US? 00:01:13, play video\nIs Coca-Cola healthier in the UK or US?\n0:57\nRussia's wave of attacks on Ukraine. 00:00:57, play video\nRussia's wave of attacks on Ukraine\n1:57\nHow dangerous is it to get aid in Gaza? 00:01:57, play video\nHow dangerous is it to get aid in Gaza?\n1:10\nWhy do asylum seekers want to come to the UK? 00:01:10, play video\nWhy do asylum seekers want to come to the UK?\n1:33\nDid Vance meme get tourist banned from US? 00:01:33, play video\nDid Vance meme get tourist banned from US?\n0:55\nDid government cuts contribute to Texas floods? 00:00:55, play video\nDid government cuts contribute to Texas floods?\n1:39\nChallenging Telegram user selling guns. 00:01:39, play video\nChallenging Telegram user selling guns\nInvestigations\nRussian naval ship 'disguised' itself while passing through English Channel\nAttribution\nEurope\nPosted\n24 June\n24 Jun\nIran\u2019s secretive nuclear site that only a US bomb could hit\nIsraeli army admits to Gaza strike after BBC Verify investigation\nAttribution\nMiddle East\nPosted\n6 June\n6 Jun\nHow the Glazer family cost Manchester United \u00a31.2bn\nAttribution\nMan Utd\nPosted\n6 June\n6 Jun\nInvestigating Israel's strike on Gaza's European Hospital. Video, 00:13:45\nInvestigating Israel's strike on Gaza's European Hospital\nAttribution\nBBC Verify\nPosted\n22 May\n22 May\n13:45\nBBC Verify Live\nFriday 18 July: Behind the scenes of Gaza investigation\nAttribution\nMiddle East\nPosted\n1 day ago\n1d\nThursday 17 July: Investigating Iraq fire and assessing Syria situati",
+        "topics": [
+          "verify",
+          "june",
+          "ros atkins on...",
+          "investigations",
+          "uk politics",
+          "gaza",
+          "july",
+          "attribution",
+          "video",
+          "bbc verify",
+          "bbc verify live",
+          "posted",
+          "claims",
+          "us politics",
+          "published",
+          "latest updates",
+          "trump",
+          "disinformation",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/world/europe",
+          "https://bbc.co.uk/news/articles/c93g3jk39dko",
+          "https://bbc.co.uk/news/articles/cedg8dz7996o#comments",
+          "https://bbc.co.uk/news/articles/c89p8d574d4o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:38:55.798947",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.562897",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_282",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cvgn0dmdkepo",
+        "keywords": [
+          "wales",
+          "best of the bbc",
+          "related topics",
+          "bird",
+          "speed"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "World's first 150mph car Blue Bird to return to Pendine Sands - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nWales\nWales Politics\nWales Business\nNorth West\nNorth East\nMid\nSouth West\nSouth East\nCymru\nWorld's first 150mph car returns to beach where it broke record\nImage source,\nNational Motor Museum, Beaulieu\nImage caption,\nBlue Bird returned to Pendine Sands 10 years ago for the 90th anniversary of the land-speed record\nNeil Prior\nBBC News\nPublished\n19 July 2025\nUpdated 5 hours ago\nIn 1925, on a beach in south-west Wales, the automotive world was changed forever.\nA car dealer named Malcolm Campbell and his 350-horsepower Sunbeam car named Blue Bird, hoped to use the seven miles of Pendine Sands in Carmarthenshire to break the 150mph (241km/h) barrier in a car for the first time.\nHe had already set - and lost - the world land-speed record several times before, but in front of the world's media, he looked to smash through a target which nobody was sure was possible.\nBut it was. Over two runs on 21 July 1925, he recorded an average speed of 150.766mph, catapulting him to international stardom.\nNow, 100 years later, Blue Bird will be back at Pendine to mark the historic achievement.\nImage source,\nNational Motor Museum, Beaulieu\nImage caption,\nMalcolm Campbell sitting in Blue Bird ahead of his world land-speed attempt on 21 July 1925\nIt will be wheeled on to the beach for a ceremonial start-up in front of Sir Malcolm's grandson, Don Wales.\nMr Wales is just one part of Sir Malcolm's record breaking lineage.\nDonald Campbell, Sir Malcolm's son, was the only man to hold both the land and water-speed records at the same time, before he was killed at Coniston Water in the Lake District in 1967 in another record attempt.\nHis daughter Gina broke the women's world water speed record.\nWhile Mr Wales, Donald Campbell's nephew, has previously held UK and world records for the fastest electric car, steam-powered car and quickest lawnmower on Earth.\nSpeed record attempt photo sold\nPublished\n28 December 2015\nPendine racer's building honour\nPublished\n21 July 2010\nBlue Bird back to sands of triumph\nPublished\n21 July 2015\nMr Wales said: \"There's just something in our genes, I think it was Grandad's buccaneering Scottish ancestors.\n\"We're all family people, but when the red mist of racing descends, nothing matters more than burying our right foot and seeing how fast our vehicles, talent and bravery can take us.\"\nMr Wales said he thought his grandfather was unprepared for the fame the feat would bring him.\n\"He went from an aside on the back pages to the main headline in every paper, he had congratulations from the King, and suddenly everyone wanted",
+        "topics": [
+          "wales",
+          "best of the bbc",
+          "related topics",
+          "bird",
+          "speed",
+          "most read",
+          "world",
+          "image",
+          "record",
+          "land",
+          "more to explore",
+          "bbc news services",
+          "blue",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/news/wales/mid_wales",
+          "https://bbc.co.uk/news/articles/c9395ywzg73o",
+          "https://bbc.co.uk/news/wales/south_east_wales"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:38:57.048088",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.563125",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_88239",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/c9395ywzg73o",
+        "keywords": [
+          "pouches",
+          "what are nicotine pouches?",
+          "related topics",
+          "best of the bbc",
+          "there"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "The rising use of nicotine pouches snus - and risk to gums and teeth - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nHealth\nHigh on snus in school: The hidden nicotine pouches shredding teens' gums\nImage source,\nGetty Images\nRuth Clegg\nHealth and wellbeing reporter\nPublished\n20 July 2025, 00:06 BST\nFinn picks up a small, white, teabag-like pouch from a round, brightly coloured tin and places it between his upper lip and gum.\nHe and his mates use nicotine pouches - or snus - until they vomit, he tells me.\nThe strength of the nicotine - at 150mg a pouch - is enough, he says, to \"immobilise\" them, especially when they use two or three in one go.\n\"It's the burn at first,\" the 17-year-old explains. \"You feel this burning sensation against your gums, and then you get the hit.\"\nThe hit, he says, is far stronger than any cigarette, and often he and his friends will lie down before they put the pouch in place, hidden under their lips.\nFinn tells me how easy they are to use; they are so inconspicuous he even uses them at school.\n\"I've sat in class before and had one in my mouth that was so strong I was all over the place,\" he says. \"I was sweating, salivating and struggling to concentrate.\"\nIn the end, he says, his teacher noticed he looked \"bright green\" and he made his excuses and bolted out of his maths lesson.\nFinn, who only wants us to use his first name, is not boasting. In fact, he says, he regrets ever having started using pouches. He now sees himself as an addict and wants to warn others.\n\"I just got bored of vaping, and now I'm stuck on these.\"\nImage source,\nGetty Images\nA growing number of young people are using nicotine pouches - some swapping from vaping or smoking, others trying nicotine for the first time.\nFigures seen by BBC News suggest there has been nearly a four-fold rise in use by 16 to 24-year-olds in the UK - from less than than 1% in 2022, to 3.6% in 2024.\nThe pouches are widely sold online, in supermarkets and in corner shops. Priced at around \u00a35 for a pack of 20, they come in exotic flavours with varying nicotine strengths - from 1.5mg to claims of 150mg for a more \"extreme\" experience.\nAnyone can buy them. There is no minimum age as with cigarettes, vapes and alcohol. Nor is there any restriction on the strength of the nicotine in the pouches.\n\"I've heard of children as young as 11 or 12 nipping to shops and buying them,\" warns Kate Pike, Trading Standards' lead officer for tobacco and vaping.\nShe says her organisation is receiving an increasing number of reports from parents and teachers that nicotine pouches are being sold to children.\n\"It is incredibly frustrating that there is nothing we can currently do to pr",
+        "topics": [
+          "pouches",
+          "what are nicotine pouches?",
+          "related topics",
+          "best of the bbc",
+          "there",
+          "nicotine",
+          "most read",
+          "more weekend picks",
+          "says",
+          "more to explore",
+          "bbc news services",
+          "snus",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/news/articles/c9395ywzg73o",
+          "https://bbc.co.uk/sounds/play/m002fxn4?at_mid=5CK0sZMPQE&at_campaign=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b00snr0w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/articles/c23mrl5x53ro"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:38:58.276462",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.563313",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_95452",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cqx27w1dwe9o",
+        "keywords": [
+          "were",
+          "family",
+          "best of the bbc",
+          "related topics",
+          "mason"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "'Gangsta Debbs' - the granny who used her family to run a drug gang - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nEngland\nLocal News\n'Gangsta Debbs' - the granny who used her family to run an \u00a380m drug empire\nImage source,\nMet Police\nThomas Mackintosh\nBBC News\nReporting from\nWoolwich Crown Court\nPublished\n19 July 2025\nIn the early hours of an April morning in 2023 undercover officers watched as a woman loaded boxes into a hire car at a retail park near the port of Harwich in Essex.\nThey'd received a tip-off about the car which had travelled from Islington that night.\nThe car was driven on towards Ipswich, where the woman handed over a heavy laundry bag to an unknown man. She did not look like someone you'd expect to be carrying out a drug deal - her defence barrister said she \"was undoubtedly singled out as someone who would not catch the eye\".\nThat woman was Deborah Mason, known to family as Gangsta Debbs or Queen Bee: a grandmother and the matriarch of a crime family that operated across south east England.\nMason had recruited her four children, her sister and others close to the family to help supply cocaine around the country - funding a lavish lifestyle which included Gucci designer goods bought for her cat and a \u00a3192 Bugatti kettle.\nOn Friday, the 65-year-old was sentenced to 20 years in prison for conspiracy to supply Class A drugs at Woolwich Crown Court.\nThe rest of the gang received sentences of between 10 and 15 years for the same charge.\nImage source,\nMetropolitan Police\nImage caption,\nDeborah Mason referred to herself as Gangsta Debbs. Her daughter, Demi Bright, had her mother's number saved in her phone as 'Queen Bee'\nThe Metropolitan Police watched Mason for seven months after that morning in Harwich, as she and her family-run gang completed cocaine and class A drug pick-ups at ports - mainly Harwich - but also Folkestone and Dover.\nThe pattern was often the same. Tightly wrapped packages of cocaine would be collected, divided between supermarket bags for life and then delivered to the next person in the chain.\nPolice watched the gang complete drop-offs in south London, Cardiff, Bristol, Sheffield, Rotherham, Manchester, Bradford, Southend, Leicester and Walsall.\nOne man arrested by police in Leicester shortly after a handover was found with 10kg (22lbs) of cocaine. Other trips would be to collect their \"wages\" as they described it.\nImage source,\nMet Police\nImage caption,\nThe gang were caught supplying nearly a tonne of cocaine over seven months\nIn total the drugs the gang handled were worth \u00a325m-\u00a330m at wholesale, with a street value of up to \u00a380m, the prosecution said during Friday's sentencing hearing.\nThe cou",
+        "topics": [
+          "were",
+          "family",
+          "best of the bbc",
+          "related topics",
+          "mason",
+          "000 in benefits.",
+          "most read",
+          "bbc news services",
+          "lavish lifestyle",
+          "news",
+          "more to explore",
+          "'no ordinary family'",
+          "bright",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/regions",
+          "https://bbc.co.uk/news/england",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/news/articles/c9395ywzg73o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:38:59.397344",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.563523",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_57236",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/c20n9yzxyyvo",
+        "keywords": [
+          "best of the bbc",
+          "related topics",
+          "get in touch",
+          "royal",
+          "most read"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Performer launches Gaza flag protest on Royal Opera House stage - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nUK\nEngland\nN. Ireland\nScotland\nAlba\nWales\nCymru\nIsle of Man\nGuernsey\nJersey\nLocal News\nPerformer unfurls Palestinian flag on Royal Opera House stage\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nCast member unfurls Palestinian flag at Royal Opera House\nEwan Somerville\nBBC News\nPublished\n38 minutes ago\nA cast member at the Royal Opera House has unfurled a Palestinian flag on stage during the curtain call of Saturday's performance.\nVideo shows a brief scuffle as an official at the London venue tries unsuccessfully to stop the protest, with the performer refusing to let go of the large flag.\nIt came on the closing night of Il trovatore, a four-act opera by Giuseppe Verdi.\nThe Royal Opera House said the protest was \"completely inappropriate for a curtain call\".\nA spokesperson said: \"The display of the flag was spontaneous and unauthorised action by the artist.\n\"It was not approved by the Royal Ballet and Opera and is not in line with our commitment to political impartiality.\"\nOne cast member standing at the top of the stage is seen in videos of the incident silently displaying a large Palestinian flag, at one point shaking it gently.\nWhile the audience continues to applaud the performance, a man from the stage wings is seen attempting to wrestle the flag away from the cast member but they resist and hold on to it for the remainder of the curtain call.\nOther officials stood in the wings can then be seen shouting messages to the cast member.\nImage source,\nMagdalini Liousa\nImage caption,\nThe performer held the flag during the curtain call of Il trovatore\nOne member of the audience posted on X: \"Extraordinary scenes at the Royal Opera House tonight.\n\"During the curtain call for Il trovatore one of the background artists came on stage waving a Palestine flag.\n\"Just stood there, no bowing or shouting. Someone off stage kept trying to take it off him. Incredible.\"\nThe identity of the cast member is unclear, but Il trovatore has now finished its 11-night run at the Royal Opera House, Covent Garden.\nThe protest comes as the war between Israel and Gaza continues, with a ceasefire yet to be struck.\nGet in touch\nWere you at the performance?\nContact form\nContact form\nRelated topics\nOpera\nLondon\nTop stories\nSewage discharges to halve by 2030, minister pledges\nPublished\n1 hour ago\nAt least 14 dead in South Korea floods and landslides\nPublished\n3 hours ago\nNew criminal offence to target violence-obsessed suspects earlier\nPublished\n11 hours ago\nMore to explore\nHow the rise ",
+        "topics": [
+          "best of the bbc",
+          "related topics",
+          "get in touch",
+          "royal",
+          "most read",
+          "house",
+          "member",
+          "stage",
+          "iplayer",
+          "cast",
+          "news",
+          "opera",
+          "more to explore",
+          "flag",
+          "bbc news services",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/regions",
+          "https://bbc.co.uk/news/england",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/news/articles/c9395ywzg73o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:00.616118",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.563712",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_324",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/regions",
+        "keywords": [
+          "north",
+          "home",
+          "sport",
+          "scotland",
+          "menu"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "BBC News Regions",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nBBC News Home\nEngland\nN. Ireland\nScotland\nAlba\nWales\nCymru\nLocal News\nMy News\nUK Nations and Regions\nEngland\nNorth West England\nCumbria\nLancashire\nLiverpool\nManchester\nNorth East England\nTees\nTyne\nWear\nYorkshire & Lincolnshire\nBradford\nHull & East Yorkshire\nLincolnshire\nNorth Yorkshire\nSouth Yorkshire\nWest Yorkshire\nWest Midlands\nBirmingham & Black Country\nCoventry & Warwickshire\nHereford & Worcester\nShropshire\nStoke & Staffordshire\nWolverhampton\nEast Midlands\nDerbyshire\nLeicestershire\nNorthamptonshire\nNottinghamshire\nWest & South West\nBristol\nCornwall\nDevon\nGloucestershire\nSomerset\nWiltshire\nEast\nBeds, Herts & Bucks\nCambridgeshire\nEssex\nNorfolk\nPeterborough\nSuffolk\nSouth\nBerkshire\nDorset\nHampshire & Isle of Wight\nOxfordshire\nLondon & South East\nKent\nLondon\nSurrey\nSussex\nNorthern Ireland\nNorthern Ireland\nScotland\nEdinburgh, Fife & East\nGlasgow & West\nHighlands & Islands\nNE, Orkney & Shetland\nSouth\nTayside & Central\nWales\nNorth West\nNorth East\nMid\nSouth West\nSouth East\nIsle of Man\nIsle of Man/Ellan Vannin\nChannel Islands\nGuernsey\nJersey\nBest of the BBC\nMartin Scarsden faces a new mystery\nAttribution\niPlayer\nSinister events in an old Spanish town\nAttribution\nSounds\nGhosts US returns for series 4\nAttribution\niPlayer\nWhat does it take to build the perfect athlete?\nAttribution\nSounds\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nTerms of Use\nAbout the BBC\nPrivacy Policy\nCookies\nAccessibility Help\nParental Guidance\nContact the BBC\nMake an editorial complaint\nBBC emails for you\nCopyright \u00a9 2025 BBC. The BBC is not responsible for the content of external sites.\nRead about our approach to external linking.",
+        "topics": [
+          "north",
+          "home",
+          "sport",
+          "scotland",
+          "menu",
+          "news",
+          "east",
+          "wales",
+          "west",
+          "england",
+          "attribution",
+          "west & south west",
+          "yorkshire",
+          "london & south east",
+          "north west england",
+          "isle of man",
+          "south",
+          "channel islands",
+          "northern ireland",
+          "east midlands",
+          "west midlands",
+          "north east england",
+          "iplayer",
+          "uk nations and regions",
+          "sounds"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/regions",
+          "https://bbc.co.uk/news/england",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/sounds/play/m002fxn4?at_mid=5CK0sZMPQE&at_campaign=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b00snr0w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:01.814981",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.563921",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_45953",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/c9w14yjw8x0o",
+        "keywords": [
+          "best of the bbc",
+          "related topics",
+          "home",
+          "says the home secretary.",
+          "terrorism"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "New criminal offence to target violence-obsessed suspects before they attack - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nPolitics\nParliaments\nBrexit\nNew criminal offence to target violence-obsessed suspects earlier\nImage source,\nGetty Images\nDominic Casciani\nHome and Legal Correspondent\n@BBCDomC\nPublished\n20 July 2025, 01:07 BST\nA powerful new criminal offence to target suspects who are found to be preparing mass killings will ensure their plotting is taken as seriously as terrorism, the home secretary says.\nYvette Cooper said the criminal justice system had to be given new tools to respond to violence-fixated individuals who are not motivated by a particular ideology, in the wake of the Southport attack last year.\nTerror suspects who take steps towards an attack can be jailed for life, even if their plans are not fully formed.\nCooper told the BBC that the government will \"close the gap\" between such offenders and lone, violence-obsessed individuals by giving police the power to apprehend them long before they can act.\nAxel Rudakubana is serving a life sentence for murdering three girls when he attacked a Taylor Swift-themed dance class in Southport almost a year ago.\nEight others girls were seriously injured, along with two adults who tried to stop the killer.\nHad police found he had been researching a target prior to the attack, they could not have arrested and charged him with a serious offence because he had no ideological motive linked to the definition of terrorism.\nSpeaking to BBC Radio 4's\nState of Terror\nseries, which charts the response to violent extremism over the 20 years since the 7/7 bombings, Cooper said the police will get the power to prevent such individuals who do not have a clear ideology, in the same way they can with terror suspects.\nImage source,\nReuters\nImage caption,\nYvette Cooper said the government would \"tighten\" the law so planning a mass attack be \"taken as seriously as terrorism\"\n\"There is a gap in the law around the planning of mass attacks that can be just as serious [as terrorism] in their implications for communities, their impact, the devastation that they can cause and the seriousness of the crime,\" she said.\n\"We will tighten legislation so that that is taken as seriously as terrorism.\"\nCooper said the plan - which was briefly announced in March but not fleshed out until now - was for the new law to be similar to the exceptionally serious crime of preparing for acts of terrorism.\nThis legislation, brought in after the 2005 London bombings, is a vital counter-extremism tool that has jailed dozens of suspects.\nIt allows the police to arrest a terror suspect for the steps they take to prepare for an ",
+        "topics": [
+          "best of the bbc",
+          "related topics",
+          "home",
+          "says the home secretary.",
+          "terrorism",
+          "most read",
+          "cooper",
+          "school",
+          "news",
+          "more to explore",
+          "bbc news services",
+          "sounds",
+          "suspects",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/politics/parliaments",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/news/articles/c9395ywzg73o",
+          "https://bbc.co.uk/sounds/play/m002fxn4?at_mid=5CK0sZMPQE&at_campaign=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b00snr0w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:03.077831",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.564139",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_75978",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/c4g8m8r6grzo",
+        "keywords": [
+          "best of the bbc",
+          "related topics",
+          "environment",
+          "would",
+          "most read"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Water company sewage pollution to halve by 2030, minister pledges - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nScience & Environment\nSewage discharges to halve by 2030, minister pledges\nImage source,\nGetty Images\nImage caption,\nSewage discharge into rivers and coastlines has become a growing issue\nAlex Boyd\nBBC News\nLucy Hooker\nBBC News\nPublished\n19 July 2025\nUpdated 1 hour ago\nThe government is preparing a \"water revolution\" that will halve the number of times sewage is discharged into waterways in England and Wales by 2030, the environment secretary has said.\nSteve Reed told the BBC's Sunday with Laura Kuenssberg that the water sector was \"broken\" and the regulator, Ofwat, was \"clearly failing\".\nThe \"reset\" would include tougher treatment of water company bosses if their companies were not meeting the required standards, including possible prison sentences.\nHowever, he did not confirm if Ofwat would be scrapped, a policy recommendation that could be included in a landmark review of the industry, due to be published on Monday.\nReed said he had been given the review's report but had not yet had time to read it thoroughly.\nBut he ruled out taking water back into public ownership, which would \"take years\" and be too expensive, he added.\n\"Nationalisation would cost upwards of \u00a3100bn that we'd have to take away from the National Health Service and schools to give to the owners of the companies that are polluting,\" said Reed.\nHis vow on sewage discharge marks the first time ministers have set a clear target on the number of pollution spills, following public outcry over the state of the UK's waterways.\nReed said families had \"watched their local rivers, coastlines and lakes suffer from record levels of pollution\" - but the Conservatives claimed Labour had \"done nothing to stop water bill rises\" despite \"big promises\" to reform the system.\n\"I've been up and down this country and spoken to wild swimmers, parents, everybody furious about the state of our water,\" Reed said.\n\"So clearly, regulation must change.\"\nHe told the programme he would be held accountable if there had not been improvements in water quality by the next election.\n\"Politicians come and say we're going to do things. Of course our job should be on the line if we don't,\" he said.\nImage source,\nPA Media\nThe pledge forms part of wider government plans to improve the water sector, ahead of the Water Commission review of the industry being published on Monday.\nJames Wallace, chief executive of charity River Action UK, said the target seemed \"admirable\" but that ultimately it was a \"political pledge\" and not legally binding.\nThe plans announced on Sunday will also include",
+        "topics": [
+          "best of the bbc",
+          "related topics",
+          "environment",
+          "would",
+          "most read",
+          "published",
+          "news",
+          "companies",
+          "more to explore",
+          "bbc news services",
+          "water",
+          "sewage",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/news/articles/c9395ywzg73o",
+          "https://bbc.co.uk/sounds/play/m002fxn4?at_mid=5CK0sZMPQE&at_campaign=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b00snr0w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Infinite_Monkey_Cage_Series_33_How_to_Build_the_Perfect_Athlete&at_bbc_team=BBC",
+          "https://bbc.co.uk/news/topics/c1vw6q14rzqt"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:04.311917",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.564392",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_21261",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/news/articles/cy4yz9k3de2o",
+        "keywords": [
+          "home",
+          "most read",
+          "news",
+          "image",
+          "top stories"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "St Helens fire: Man arrested on suspicion of double murder - BBC News",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC News\nMenu\nHome\nInDepth\nIsrael-Gaza war\nWar in Ukraine\nClimate\nUK\nWorld\nBusiness\nPolitics\nCulture\nMore\nTech\nScience\nHealth\nFamily & Education\nIn Pictures\nNewsbeat\nBBC Verify\nDisability\nEngland\nLocal News\nLiverpool\nMan held on suspicion of double murder after fire\nImage source,\nPolice handout\nImage caption,\nMr Greener and Ms Jackson died of their injuries shortly after the fire\nLynette Horsburgh\nBBC News, Merseyside\nPublished\n20 July 2025, 11:45 BST\nUpdated 14 minutes ago\nA man has been arrested on suspicion of double murder after the deaths of an elderly couple in a fire at their home.\nGrandparents Peter Eric Greener, 77, who is known as Eric, and his partner Sheila Jackson, 83, died following the blaze at their home on South John Street, St Helens, on Tuesday, Merseyside Police said.\nThe force said an accelerant was used to start the fire.\nA 31-year-old from St Helens was arrested earlier and has been taken into custody for questioning, it added.\nImage source,\nPolice handout\nImage caption,\nSheila Jackson died on Thursday\nMr Greener died on Wednesday evening, while Ms Jackson died from her injuries on Thursday morning.\nDet Supt Rachel Wilson said: \"Although an arrest has been made, I would like to take this opportunity to remind people to pass on information directly to police or anonymously via Crimestoppers.\u200b\n\"Extensive inquiries continue, and to that end we are still appealing for anyone with information to come forward, particularly if you live in the area of South John Street and recall seeing or hearing anything suspicious at around the time of the incident.\"\nImage source,\nPolice handout\nImage caption,\nPeter Eric Greener was known as Eric\nShe said: \"Please do not assume what you know has already been reported to us, as we can quickly make that assessment.\"\nShe also urged people not to comment or post on social media anything which could jeopardise the investigation.\nGet in touch\nTell us which stories we should cover on Merseyside\nContact form\nContact form\nListen to the best of\nBBC Radio Merseyside on Sounds\nand follow BBC Merseyside on\nFacebook\n,\nexternal\n,\nX\n,\nexternal\n, and\nInstagram\n,\nexternal\n. You can also send story ideas via Whatsapp to 0808 100 2230.\nRelated topics\nSt Helens\nRelated internet links\nMerseyside Police\nFrom other local news sites\nLiverpool Empire Theatre announces summer saver campaign\nExternal\nRuncorn and Widnes World\nLiverpool school term dates 2025/26: Full list of half term dates & school holidays for the next academic year\nExternal\nLiverpoolWorld\nUnderworld gun runner linked to bombs and drugs dies in prison\nExternal\nLiverpool Echo\n'Our vibrant high street should be celebrated, not told it's dying'\nExternal\nLiverpool Echo\n31-year-old St Helens man arrested on suspic",
+        "topics": [
+          "home",
+          "most read",
+          "news",
+          "image",
+          "top stories",
+          "related topics",
+          "get in touch",
+          "after",
+          "related internet links",
+          "helens",
+          "merseyside",
+          "police",
+          "school",
+          "external",
+          "more to explore",
+          "bbc news services",
+          "sounds",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/news/disability",
+          "https://bbc.co.uk/news/regions",
+          "https://bbc.co.uk/news/england",
+          "https://bbc.co.uk/news",
+          "https://bbc.co.uk/news/articles/c9395ywzg73o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:05.561575",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:05.564674",
+      "quality_score": 1.0
+    }
+  ],
+  "summary": {
+    "total_nodes": 14,
+    "average_relevance": 10.0,
+    "max_relevance": 10.0,
+    "unique_topics": 135,
+    "total_topics": 226,
+    "depth_distribution": {
+      "0": 1,
+      "1": 5,
+      "2": 8
+    },
+    "high_relevance_pages": 14
+  }
+}

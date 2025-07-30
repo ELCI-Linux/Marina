@@ -1,0 +1,695 @@
+{
+  "timestamp": "2025-07-25T12:00:02.112764",
+  "entry_points": [
+    "https://wiki.archlinux.org/title/Flatpak",
+    "https://wiki.archlinux.org/title/Bubblewrap",
+    "https://wiki.archlinux.org/title/Sandboxing",
+    "https://wiki.archlinux.org/title/Application_sandboxing",
+    "https://wiki.archlinux.org/title/Package_management"
+  ],
+  "total_pages_scraped": 29,
+  "knowledge_nodes": [],
+  "corpus_entries": [
+    {
+      "id": "archwiki_flatpak_24090",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Flatpak",
+        "keywords": [
+          "com.spotify.client",
+          "bubblewrap",
+          "flatpak qt applications do not use gnome adwaita dark theme",
+          "org.mydomain.basesdk",
+          "flatpak model"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8562866334670135
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:03.935448",
+        "depth": 0,
+        "relevance_score": 8.562866334670135
+      },
+      "quality_score": 0.8562866334670135
+    },
+    {
+      "id": "archwiki_flatpak_71649",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Security#Sandboxing_applications",
+        "keywords": [
+          "bubblewrap",
+          "open ports",
+          "file access permissions",
+          "access control lists",
+          "contents"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11219594439250187
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:05.738290",
+        "depth": 1,
+        "relevance_score": 1.1219594439250187
+      },
+      "quality_score": 0.11219594439250187
+    },
+    {
+      "id": "archwiki_flatpak_44390",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Systemd/Sandboxing",
+        "keywords": [
+          "configurable directives",
+          "capabilities",
+          "contents",
+          "chroot jail",
+          "without special configuration"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.1891944606982641
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:07.371036",
+        "depth": 2,
+        "relevance_score": 1.8919446069826409
+      },
+      "quality_score": 0.1891944606982641
+    },
+    {
+      "id": "archwiki_flatpak_65315",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Special:WhatLinksHere/Systemd/Sandboxing",
+        "keywords": [
+          "pages that link to \"systemd/sandboxing\"",
+          "links",
+          "page",
+          "here",
+          "target"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.7031888798037611
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:09.132688",
+        "depth": 3,
+        "relevance_score": 7.0318887980376115
+      },
+      "quality_score": 0.7031888798037611
+    },
+    {
+      "id": "archwiki_flatpak_77070",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Systemd/Sandboxing&oldid=831510",
+        "keywords": [
+          "configurable directives",
+          "capabilities",
+          "contents",
+          "chroot jail",
+          "without special configuration"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.1891944606982641
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:10.954023",
+        "depth": 3,
+        "relevance_score": 1.8919446069826409
+      },
+      "quality_score": 0.1891944606982641
+    },
+    {
+      "id": "archwiki_flatpak_11343",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Systemd/Sandboxing&action=history",
+        "keywords": [
+          "systemd/sandboxing: revision history",
+          "2 april 2025",
+          "3 june 2024",
+          "1 december 2024",
+          "30 april 2021"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.11387649683024181
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:12.956271",
+        "depth": 3,
+        "relevance_score": 1.1387649683024181
+      },
+      "quality_score": 0.11387649683024181
+    },
+    {
+      "id": "archwiki_flatpak_37865",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=history",
+        "keywords": [
+          "14 april 2025",
+          "flatpak but",
+          "4 november 2024",
+          "9 june 2023",
+          "3 july 2024"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.20466347622441705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:20.065528",
+        "depth": 1,
+        "relevance_score": 2.0466347622441705
+      },
+      "quality_score": 0.20466347622441705
+    },
+    {
+      "id": "archwiki_flatpak_85539",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=778112",
+        "keywords": [
+          "bubblewrap",
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "delete a repository",
+          "flatpak uses"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8838488685904091
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:22.062838",
+        "depth": 2,
+        "relevance_score": 8.83848868590409
+      },
+      "quality_score": 0.8838488685904091
+    },
+    {
+      "id": "archwiki_flatpak_81177",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&direction=prev&oldid=778112",
+        "keywords": [
+          "bubblewrap",
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "delete a repository",
+          "flatpak uses"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8837571354436952
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:24.060703",
+        "depth": 3,
+        "relevance_score": 8.837571354436951
+      },
+      "quality_score": 0.8837571354436952
+    },
+    {
+      "id": "archwiki_flatpak_51399",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=cur&oldid=778112",
+        "keywords": [
+          "com.spotify.client",
+          "flatpak qt applications do not use gnome adwaita dark theme",
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "delete a repository"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8585759244689223
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:26.315021",
+        "depth": 3,
+        "relevance_score": 8.585759244689223
+      },
+      "quality_score": 0.8585759244689223
+    },
+    {
+      "id": "archwiki_flatpak_1510",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=history&offset=&limit=250",
+        "keywords": [
+          "28 december 2019",
+          "27 may 2023",
+          "23 january 2017",
+          "flatpak warning",
+          "9 may 2020"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.2613378684807256
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:29.892264",
+        "depth": 2,
+        "relevance_score": 2.613378684807256
+      },
+      "quality_score": 0.2613378684807256
+    },
+    {
+      "id": "archwiki_flatpak_34242",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=726397",
+        "keywords": [
+          "bubblewrap",
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "delete a repository",
+          "flatpak uses"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.9652015884768124
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:31.855056",
+        "depth": 3,
+        "relevance_score": 9.652015884768124
+      },
+      "quality_score": 0.9652015884768124
+    },
+    {
+      "id": "archwiki_flatpak_19396",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=837595&oldid=510863",
+        "keywords": [
+          "com.spotify.client",
+          "flatpak qt applications do not use gnome adwaita dark theme",
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "delete a repository"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8157739367658134
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:34.372935",
+        "depth": 3,
+        "relevance_score": 8.157739367658134
+      },
+      "quality_score": 0.8157739367658134
+    },
+    {
+      "id": "archwiki_flatpak_90502",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=611768",
+        "keywords": [
+          "bubblewrap",
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "delete a repository",
+          "flatpak uses"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.9772012578616354
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:36.191589",
+        "depth": 3,
+        "relevance_score": 9.772012578616353
+      },
+      "quality_score": 0.9772012578616354
+    },
+    {
+      "id": "archwiki_flatpak_41610",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&oldid=510868",
+        "keywords": [
+          "org.mydomain.basesdk",
+          "flatpak search",
+          "delete a repository",
+          "run applications",
+          "flatpak\npackage"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.9792673107890499
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:37.995452",
+        "depth": 3,
+        "relevance_score": 9.792673107890499
+      },
+      "quality_score": 0.9792673107890499
+    },
+    {
+      "id": "archwiki_flatpak_92041",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=837595&oldid=778112",
+        "keywords": [
+          "com.spotify.client",
+          "flatpak qt applications do not use gnome adwaita dark theme",
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "delete a repository"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8585759244689223
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:40.256932",
+        "depth": 2,
+        "relevance_score": 8.585759244689223
+      },
+      "quality_score": 0.8585759244689223
+    },
+    {
+      "id": "archwiki_flatpak_19914",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=info",
+        "keywords": [
+          "sort",
+          "basic information",
+          "page",
+          "flatpak\npage",
+          "default"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.3005635566687539
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:43.747949",
+        "depth": 3,
+        "relevance_score": 3.005635566687539
+      },
+      "quality_score": 0.3005635566687539
+    },
+    {
+      "id": "archwiki_flatpak_84908",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Special:RecentChangesLinked/Flatpak",
+        "keywords": [
+          "related changes",
+          "page",
+          "enter",
+          "19 july 2025",
+          "pages"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.1217948717948718
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:45.581045",
+        "depth": 2,
+        "relevance_score": 1.217948717948718
+      },
+      "quality_score": 0.1217948717948718
+    },
+    {
+      "id": "archwiki_flatpak_85421",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit",
+        "keywords": [
+          "com.spotify.client",
+          "page",
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "flatpak uses"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.7969122911694511
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:47.359234",
+        "depth": 3,
+        "relevance_score": 7.969122911694511
+      },
+      "quality_score": 0.7969122911694511
+    },
+    {
+      "id": "archwiki_flatpak_40941",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=837595&oldid=800711",
+        "keywords": [
+          "com.spotify.client",
+          "flatpak qt applications do not use gnome adwaita dark theme",
+          "org.mydomain.basesdk",
+          "delete a repository",
+          "flatpak permission"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.8624657875093306
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:52.892889",
+        "depth": 2,
+        "relevance_score": 8.624657875093305
+      },
+      "quality_score": 0.8624657875093306
+    },
+    {
+      "id": "archwiki_flatpak_81284",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&diff=prev&oldid=800711",
+        "keywords": [
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "delete a repository",
+          "flatpak uses",
+          "revision as of 13:38, 18 february 2024"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.825359374317298
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:55.223768",
+        "depth": 3,
+        "relevance_score": 8.25359374317298
+      },
+      "quality_score": 0.825359374317298
+    },
+    {
+      "id": "archwiki_flatpak_78719",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Flatpak&action=edit&oldid=800711",
+        "keywords": [
+          "page",
+          "org.mydomain.basesdk",
+          "flatpak model",
+          "flatpak uses",
+          "flatpak permission"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.793946260925866
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:57.142839",
+        "depth": 3,
+        "relevance_score": 7.939462609258659
+      },
+      "quality_score": 0.793946260925866
+    },
+    {
+      "id": "archwiki_flatpak_87196",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Bubblewrap",
+        "keywords": [
+          "bubblewrap",
+          "using portals",
+          "sandbox",
+          "filesystem isolation",
+          "nested namespaces"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.4697715171530633
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:00:59.145887",
+        "depth": 0,
+        "relevance_score": 4.697715171530633
+      },
+      "quality_score": 0.4697715171530633
+    },
+    {
+      "id": "archwiki_flatpak_61174",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/Category:Sandboxing",
+        "keywords": [
+          "bubblewrap",
+          "docker",
+          "linux containers",
+          "chroot",
+          "applications"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:01:00.920821",
+        "depth": 1,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_73024",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&action=history",
+        "keywords": [
+          "21 october 2018",
+          "10 june 2021",
+          "24 october 2018",
+          "14 june 2025",
+          "source"
+        ],
+        "priority": "medium",
+        "content_type": "documentation",
+        "estimated_quality": 0.2287419194430631
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:01:03.195068",
+        "depth": 2,
+        "relevance_score": 2.287419194430631
+      },
+      "quality_score": 0.2287419194430631
+    },
+    {
+      "id": "archwiki_flatpak_21443",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&diff=prev&oldid=550750",
+        "keywords": [
+          "bubblewrap",
+          "docker",
+          "linux containers",
+          "category:sandboxing: difference between revisions",
+          "chroot"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.9473684210526315
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:01:05.315347",
+        "depth": 3,
+        "relevance_score": 9.473684210526315
+      },
+      "quality_score": 0.9473684210526315
+    },
+    {
+      "id": "archwiki_flatpak_60136",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&oldid=678878",
+        "keywords": [
+          "bubblewrap",
+          "docker",
+          "linux containers",
+          "chroot",
+          "applications"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6399999999999999
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:01:07.341085",
+        "depth": 3,
+        "relevance_score": 6.3999999999999995
+      },
+      "quality_score": 0.6399999999999999
+    },
+    {
+      "id": "archwiki_flatpak_24045",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/index.php?title=Category:Sandboxing&diff=836566&oldid=570439",
+        "keywords": [
+          "bubblewrap",
+          "docker",
+          "linux containers",
+          "category:sandboxing: difference between revisions",
+          "chroot"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 1.0
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:01:11.042858",
+        "depth": 3,
+        "relevance_score": 10.0
+      },
+      "quality_score": 1.0
+    },
+    {
+      "id": "archwiki_flatpak_32344",
+      "source": {
+        "source_type": "archwiki_scrape",
+        "url": "https://wiki.archlinux.org/title/XDG_Desktop_Portal",
+        "keywords": [
+          "contents",
+          "troubleshooting",
+          "gtk (possibly others) file chooser not working",
+          "org.freedesktop.impl",
+          "screen"
+        ],
+        "priority": "high",
+        "content_type": "documentation",
+        "estimated_quality": 0.6164461033819705
+      },
+      "metadata": {
+        "scraped_at": "2025-07-25T12:01:16.533720",
+        "depth": 1,
+        "relevance_score": 6.164461033819705
+      },
+      "quality_score": 0.6164461033819705
+    }
+  ],
+  "summary": {
+    "total_nodes": 29,
+    "average_relevance": 6.239831127888534,
+    "max_relevance": 10.0,
+    "unique_topics": 229,
+    "total_topics": 544,
+    "depth_distribution": {
+      "0": 2,
+      "1": 4,
+      "2": 7,
+      "3": 16
+    },
+    "high_relevance_pages": 19
+  }
+}

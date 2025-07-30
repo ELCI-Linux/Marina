@@ -1,0 +1,496 @@
+{
+  "timestamp": "2025-07-21T19:05:03.260956",
+  "root_url": "https://www.legislation.gov.uk/primary+secondary?title=employment",
+  "keywords": [
+    "employment law"
+  ],
+  "enhanced_keywords": [
+    [
+      "equality act",
+      1.0
+    ],
+    [
+      "maternity leave",
+      1.0
+    ],
+    [
+      "flexible working",
+      1.0
+    ],
+    [
+      "employer obligations",
+      1.0
+    ],
+    [
+      "adoption leave",
+      1.0
+    ],
+    [
+      "zerohours contracts",
+      1.0
+    ],
+    [
+      "employment tribunals",
+      1.0
+    ],
+    [
+      "employment act",
+      1.0
+    ],
+    [
+      "workplace law",
+      1.0
+    ],
+    [
+      "employment law",
+      2.0
+    ]
+  ],
+  "total_pages_scraped": 7,
+  "knowledge_nodes": [
+    {
+      "url": "https://www.legislation.gov.uk/primary+secondary?title=employment",
+      "title": "Legislation.gov.uk",
+      "relevance_score": 7.8,
+      "topics_count": 18,
+      "depth": 0
+    },
+    {
+      "url": "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&sort=type",
+      "title": "Legislation.gov.uk",
+      "relevance_score": 7.8,
+      "topics_count": 19,
+      "depth": 1
+    },
+    {
+      "url": "https://www.legislation.gov.uk/nisi/1990/246/contents",
+      "title": "The Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990",
+      "relevance_score": 4.3,
+      "topics_count": 22,
+      "depth": 2
+    },
+    {
+      "url": "https://www.legislation.gov.uk/contributors",
+      "title": "Content derived from Westlaw",
+      "relevance_score": 7.5,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&sort=title",
+      "title": "Legislation.gov.uk",
+      "relevance_score": 7.8,
+      "topics_count": 17,
+      "depth": 2
+    },
+    {
+      "url": "https://www.legislation.gov.uk/search",
+      "title": "Legislation.gov.uk",
+      "relevance_score": 7.8,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://www.legislation.gov.uk/search/?lang=cy&title=employment&type=primary+secondary",
+      "title": "Legislation.gov.uk",
+      "relevance_score": 8.6,
+      "topics_count": 16,
+      "depth": 2
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_58414",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/primary+secondary?title=employment",
+        "keywords": [
+          "northern",
+          "legislation by type",
+          "acts",
+          "results",
+          "narrow results by:"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.78
+      },
+      "content": {
+        "title": "Legislation.gov.uk",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nSearch Results\nYour title search for employment in the English language of Primary and Secondary Legislation has returned more than 200  results.\nSearch Welsh language text for 'employment'\nThis is results page\n1\nResults page\n2\nResults page\n3\nResults page\n4\nResults page\n5\nResults page\n6\nResults page\n7\nResults page\n8\nResults page\n9\nResults page\n10\nNext\nresults page\nNarrow results by:\nLegislation by Type\nBrowse by\nAny type\nUK Statutory Instruments (767)\nNorthern Ireland Statutory Rules (272)\nNorthern Ireland Statutory Rules and Orders (136)\nUK Public General Acts (118)\nNorthern Ireland Orders in Council (17)\nActs of the Northern Ireland Assembly (5)\nScottish Statutory Instruments (5)\nActs of the Northern Ireland Parliament (2)\nUK Statutory Rules and Orders (2)\nWales Statutory Instruments (2)\nLegislation by Year\n2025 (6)\n2024 (16)\n2023 (9)\n2022 (15)\n2021 (20)\n2020 (22)\n2019 (12)\n2018 (14)\n2017 (14)\n2016 (24)\n2015 (22)\n2014 (22)\n2013 (21)\n2012 (15)\n2011 (21)\n2010 (24)\n2009 (11)\n2008 (28)\n2007 (18)\n2006 (23)\n2005 (29)\n2004 (38)\n2003 (33)\n200",
+        "topics": [
+          "northern",
+          "legislation by type",
+          "acts",
+          "results",
+          "narrow results by:",
+          "page",
+          "general",
+          "assembly",
+          "search results",
+          "statutory",
+          "ireland",
+          "employment",
+          "parliament",
+          "legislation.gov.uk",
+          "public",
+          "legislation",
+          "legislation by year",
+          "search legislation"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&sort=type",
+          "https://www.legislation.gov.uk/contributors",
+          "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&sort=title",
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/search/?lang=cy&title=employment&type=primary+secondary"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:05:05.172808",
+          "depth": 0,
+          "relevance_score": 7.8
+        }
+      },
+      "timestamp": "2025-07-21T19:05:15.801211",
+      "quality_score": 0.78
+    },
+    {
+      "id": "news_39010",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&sort=type",
+        "keywords": [
+          "northern",
+          "results",
+          "acts",
+          "ireland",
+          "legislation.gov.uk"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.78
+      },
+      "content": {
+        "title": "Legislation.gov.uk",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nSearch Results\nYour title search for employment in the English language of Primary and Secondary Legislation has returned more than 200  results.\nSearch Welsh language text for 'employment'\nThis is results page\n1\nResults page\n2\nResults page\n3\nResults page\n4\nResults page\n5\nResults page\n6\nResults page\n7\nResults page\n8\nResults page\n9\nResults page\n10\nNext\nresults page\nNarrow results by:\nLegislation by Type\nBrowse by\nAny type\nUK Statutory Instruments (767)\nNorthern Ireland Statutory Rules (272)\nNorthern Ireland Statutory Rules and Orders (136)\nUK Public General Acts (118)\nNorthern Ireland Orders in Council (17)\nActs of the Northern Ireland Assembly (5)\nScottish Statutory Instruments (5)\nActs of the Northern Ireland Parliament (2)\nUK Statutory Rules and Orders (2)\nWales Statutory Instruments (2)\nLegislation by Year\n2025 (6)\n2024 (16)\n2023 (9)\n2022 (15)\n2021 (20)\n2020 (22)\n2019 (12)\n2018 (14)\n2017 (14)\n2016 (24)\n2015 (22)\n2014 (22)\n2013 (21)\n2012 (15)\n2011 (21)\n2010 (24)\n2009 (11)\n2008 (28)\n2007 (18)\n2006 (23)\n2005 (29)\n2004 (38)\n2003 (33)\n200",
+        "topics": [
+          "northern",
+          "results",
+          "acts",
+          "ireland",
+          "legislation.gov.uk",
+          "legislation",
+          "council",
+          "legislation by type",
+          "assembly",
+          "parliament",
+          "order",
+          "orders",
+          "search legislation",
+          "page",
+          "employment",
+          "narrow results by:",
+          "search results",
+          "statutory",
+          "legislation by year"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/nisi/1990/246/contents",
+          "https://www.legislation.gov.uk/contributors",
+          "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&sort=title",
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/search/?lang=cy&title=employment&type=primary+secondary"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:05:07.096278",
+          "depth": 1,
+          "relevance_score": 7.8
+        }
+      },
+      "timestamp": "2025-07-21T19:05:15.803436",
+      "quality_score": 0.78
+    },
+    {
+      "id": "news_9409",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/nisi/1990/246/contents",
+        "keywords": [
+          "northern",
+          "printthe whole\n\t\t\t\t\t\torder",
+          "acts",
+          "ireland",
+          "legislation.gov.uk"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.43
+      },
+      "content": {
+        "title": "The Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nThe Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990\nYou are here:\nNorthern Ireland Orders in Council\n1990\u00a0No. 246 (N.I. 2)\nTable of contents\nTable of Contents\nContent\nMore Resources\nPlain View\nPrint Options\nWhat Version\nLatest available (Revised)\nOriginal (As made)\nOpening Options\nOpen whole Order\nOpen Order without Schedules\nOpen Schedules only\nMore Resources\nOriginal: King's Printer Version\nView more\nChanges to legislation:\nThere are currently no known outstanding effects for The Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990.\nChanges to Legislation\nRevised legislation carried on this site may not be fully up to date. At the current time any known changes or effects made by subsequent legislation have been applied to the text of the legislation you are viewing by the editorial team. Please see \u2018Frequently Asked Questions\u2019 for details regarding the timescales for which new effects are identified and recorded on this site.\nIntroductory Text\nIntroductory\n1.\nTitle and commencement\n2.\nInterpretation",
+        "topics": [
+          "northern",
+          "printthe whole\n\t\t\t\t\t\torder",
+          "acts",
+          "ireland",
+          "legislation.gov.uk",
+          "options/help",
+          "legislation",
+          "changes to legislation:",
+          "timeline of changes",
+          "what version",
+          "regulations",
+          "discrimination",
+          "more resources",
+          "changes to legislation",
+          "schedule",
+          "opening options",
+          "search legislation",
+          "version",
+          "you are here:",
+          "print options",
+          "statutory",
+          "printtable of contents"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/nisi/1990/246/schedule/7/part/1",
+          "https://www.legislation.gov.uk/contributors",
+          "https://www.legislation.gov.uk/nisi/1990/246/schedule/1/part/2/paragraph/wrapper4n1",
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/nisi/1990/246/schedule/1/part/3/paragraph/wrapper10n1"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:05:08.926541",
+          "depth": 2,
+          "relevance_score": 4.3
+        }
+      },
+      "timestamp": "2025-07-21T19:05:15.803656",
+      "quality_score": 0.43
+    },
+    {
+      "id": "news_38402",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/contributors",
+        "keywords": [
+          "re-using data from legislation.gov.uk",
+          "acts",
+          "section navigation",
+          "online",
+          "content derived from westlaw"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.75
+      },
+      "content": {
+        "title": "Content derived from Westlaw",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nSection Navigation\nContent derived from EUR-Lex\nRe-using data derived from EUR-Lex\nContent derived from Westlaw\nRe-using data derived from Westlaw\nContent derived from British History Online\nRe-using data derived from British History Online\nBack to top\nRe-using data from legislation.gov.uk\nContent derived from EUR-Lex\nSome legislation on legislation.gov.uk originates from EUR-Lex, and is published under the duty and powers to publish relevant EU instruments and agreements which are assigned to The King\u2019s Printer (and Chief Executive of The National Archives) in the\nEuropean Union (Withdrawal) Act 2018 (c. 16) Schedule 5 Part 1\n.\nWhere we have described legislation as \u2018originating from the EU\u2019, the item has been derived from EUR-Lex and published on legislation.gov.uk. Browse all legislation originating from the EU to see the documents included in the dataset, which includes Regulations, Decisions, Directives and selected Treaties and Agreements. EU legislation is published subject to the\nEUR-Lex copyright notice\n.\nAdditional to the legi",
+        "topics": [
+          "re-using data from legislation.gov.uk",
+          "acts",
+          "section navigation",
+          "online",
+          "content derived from westlaw",
+          "statutory",
+          "british",
+          "derived",
+          "legislation.gov.uk",
+          "content derived from eur-lex",
+          "legislation",
+          "westlaw",
+          "eur-lex copyright notice",
+          "search legislation"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/accessibility",
+          "https://www.legislation.gov.uk/contributors",
+          "https://www.legislation.gov.uk/new-design",
+          "https://www.legislation.gov.uk/explore",
+          "https://www.legislation.gov.uk/research-tools"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:05:10.489726",
+          "depth": 2,
+          "relevance_score": 7.5
+        }
+      },
+      "timestamp": "2025-07-21T19:05:15.803845",
+      "quality_score": 0.75
+    },
+    {
+      "id": "news_18728",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&sort=title",
+        "keywords": [
+          "surgeons",
+          "page",
+          "legislation by type",
+          "acts",
+          "results"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.78
+      },
+      "content": {
+        "title": "Legislation.gov.uk",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nSearch Results\nYour title search for employment in the English language of Primary and Secondary Legislation has returned more than 200  results.\nSearch Welsh language text for 'employment'\nThis is results page\n1\nResults page\n2\nResults page\n3\nResults page\n4\nResults page\n5\nResults page\n6\nResults page\n7\nResults page\n8\nResults page\n9\nResults page\n10\nNext\nresults page\nNarrow results by:\nLegislation by Type\nBrowse by\nAny type\nUK Statutory Instruments (767)\nNorthern Ireland Statutory Rules (272)\nNorthern Ireland Statutory Rules and Orders (136)\nUK Public General Acts (118)\nNorthern Ireland Orders in Council (17)\nActs of the Northern Ireland Assembly (5)\nScottish Statutory Instruments (5)\nActs of the Northern Ireland Parliament (2)\nUK Statutory Rules and Orders (2)\nWales Statutory Instruments (2)\nLegislation by Year\n2025 (6)\n2024 (16)\n2023 (9)\n2022 (15)\n2021 (20)\n2020 (22)\n2019 (12)\n2018 (14)\n2017 (14)\n2016 (24)\n2015 (22)\n2014 (22)\n2013 (21)\n2012 (15)\n2011 (21)\n2010 (24)\n2009 (11)\n2008 (28)\n2007 (18)\n2006 (23)\n2005 (29)\n2004 (38)\n2003 (33)\n200",
+        "topics": [
+          "surgeons",
+          "page",
+          "legislation by type",
+          "acts",
+          "results",
+          "narrow results by:",
+          "general",
+          "officers",
+          "militia",
+          "search results",
+          "statutory",
+          "ireland",
+          "employment",
+          "legislation.gov.uk",
+          "public",
+          "legislation by year",
+          "search legislation"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/ukpga/Vict/32-33/66/contents/enacted",
+          "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&sort=type",
+          "https://www.legislation.gov.uk/search?type=primary+secondary&title=employment&sort=title&page=7",
+          "https://www.legislation.gov.uk/contributors",
+          "https://www.legislation.gov.uk/ukpga/Vict/29-30/60/contents/enacted"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:05:12.380331",
+          "depth": 2,
+          "relevance_score": 7.8
+        }
+      },
+      "timestamp": "2025-07-21T19:05:15.804068",
+      "quality_score": 0.78
+    },
+    {
+      "id": "news_7147",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/search",
+        "keywords": [
+          "northern",
+          "acts",
+          "title",
+          "originating",
+          "number"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.78
+      },
+      "content": {
+        "title": "Legislation.gov.uk",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nAdvanced Search - General search\nFind legislation\nGeneral\nGeographical Extent\nPoint in Time\nDraft Legislation\nImpact Assessments\nSearch Form\nTitle:\n(or keywords in the title)\nKeywords in content:\n(using double quotes around a phrase will give faster results)\nLanguage of legislation text\nSearch English language text\n(searches all English text, including in Welsh legislation)\nSearch Welsh language text\n(only searches Welsh language text in Welsh legislation)\nYear:\nSpecific Year\nSpecific Year\nRange\nFrom\nTo\nNumber:\nMain\nWelsh\nScottish\nN.I.\nCommencement\nLegal\nSeries Number\nType:\nAll Legislation\nAll Primary\nAll Secondary\nAll Legislation originating from the EU\nSelect types\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliam",
+        "topics": [
+          "northern",
+          "acts",
+          "title",
+          "originating",
+          "number",
+          "find legislation",
+          "statutory",
+          "search form",
+          "search",
+          "ireland",
+          "parliament",
+          "legislation.gov.uk",
+          "legislation",
+          "language of legislation text",
+          "search legislation"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/accessibility",
+          "https://www.legislation.gov.uk/contributors",
+          "https://www.legislation.gov.uk/new-design",
+          "https://www.legislation.gov.uk/explore",
+          "https://www.legislation.gov.uk/research-tools"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:05:14.018233",
+          "depth": 2,
+          "relevance_score": 7.8
+        }
+      },
+      "timestamp": "2025-07-21T19:05:15.804316",
+      "quality_score": 0.78
+    },
+    {
+      "id": "news_83403",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://www.legislation.gov.uk/search/?lang=cy&title=employment&type=primary+secondary",
+        "keywords": [
+          "northern",
+          "legislation by type",
+          "acts",
+          "narrow results by:",
+          "originating"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.86
+      },
+      "content": {
+        "title": "Legislation.gov.uk",
+        "body": "Skip to main content\nSkip to navigation\nlegislation.gov.uk\nhttp://www.nationalarchives.gov.uk\nCymraeg\nHome\nExplore our collections\nResearch tools\nHelp and guidance\nWhat's new\nAbout us\nSearch Legislation\nSearch Legislation\nTitle:\n(or keywords in the title)\nYear:\nNumber:\nType:\nAll UK Legislation (excluding originating from the EU)\n--------------------------------------------\nAll Legislation (including originating from the EU)\n--------------------------------------------\nAll Primary Legislation\nUK Public General Acts\nUK Local Acts\nUK Private and Personal Acts\nActs of the Scottish Parliament\nActs of Senedd Cymru\nActs of the National Assembly for Wales\nMeasures of the National Assembly for Wales\nChurch Measures\nActs of the Northern Ireland Assembly\nActs of the Old Scottish Parliament\nActs of the English Parliament\nActs of the Old Irish Parliament\nActs of the Parliament of Great Britain\nLocal Acts of the Parliament of Great Britain\nPrivate and Personal Acts of the Parliament of Great Britain\nNorthern Ireland Orders in Council\nMeasures of the Northern Ireland Assembly\nActs of the Northern Ireland Parliament\n--------------------------------------------\nAll Secondary Legislation\nUK Statutory Instruments\nWales Statutory Instruments\nScottish Statutory Instruments\nNorthern Ireland Statutory Rules\nChurch Instruments\nUK Ministerial Directions\nUK Ministerial Orders\nUK Statutory Rules and Orders\nNorthern Ireland Statutory Rules and Orders\n--------------------------------------------\nAll Legislation originating from the EU\nRegulations originating from the EU\nDecisions originating from the EU\nDirectives originating from the EU\nEuropean Union Treaties\n--------------------------------------------\nAll Draft Legislation\nUK Draft Statutory Instruments\nScottish Draft Statutory Instruments\nNorthern Ireland Draft Statutory Rules\n--------------------------------------------\nAll Impact Assessments\nUK Impact Assessments\nSearch\nAdvanced Search\nSearch Results\nYour title search for employment in the Welsh language of Primary and Secondary Legislation has returned 2 results.\nSearch English language text for 'employment'\nThis is results page\n1\nNarrow results by:\nLegislation by Type\nBrowse by\nAny type\nWales Statutory Instruments (2)\nLegislation by Year\n2015 (1)\n2000 (1)\nSort ascending by\nTitle\nSort descending by\nYears and Numbers\nSort ascending by\nLegislation type\nThe Small Business, Enterprise and Employment Act 2015 (Commencement No. 1) (Wales) Regulations 2015\n2015\u00a0No. 1710 (C.\u00a0103) (W.\u00a0225)\nWales Statutory Instruments\nRheoliadau Deddf Busnesau Bach, Menter a Chyflogaeth 2015 (Cychwyn) (Cymru) 2015\nThe Education (Restriction of Employment) (Wales) Regulations 2000\n2000\u00a0No. 2906 (W.\u00a0186)\nWales Statutory Instruments\nRheoliadau Addysg (Cyfyngu Cyflogaeth) (Cymru) 2000\nThis is results page\n1\nBack to top\nThe data on this page is available in the\nalternative data formats\nlisted:\nAtom\nalternative version\nCSV\nalternative version\nNew site design\nHelp\nAbout us\nSite map\nAccessibility\nCont",
+        "topics": [
+          "northern",
+          "legislation by type",
+          "acts",
+          "narrow results by:",
+          "originating",
+          "instruments",
+          "search results",
+          "statutory",
+          "wales",
+          "search",
+          "ireland",
+          "parliament",
+          "legislation.gov.uk",
+          "legislation",
+          "legislation by year",
+          "search legislation"
+        ],
+        "related_links": [
+          "https://www.legislation.gov.uk/contributors",
+          "https://www.legislation.gov.uk/wsi/2015/1710/contents/made/welsh",
+          "https://www.legislation.gov.uk/title/employment?lang=cy",
+          "https://www.legislation.gov.uk/search",
+          "https://www.legislation.gov.uk/wsi/2000/2906/contents/made"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-21T19:05:15.801002",
+          "depth": 2,
+          "relevance_score": 8.6
+        }
+      },
+      "timestamp": "2025-07-21T19:05:15.804575",
+      "quality_score": 0.86
+    }
+  ],
+  "summary": {
+    "total_nodes": 7,
+    "average_relevance": 7.371428571428571,
+    "max_relevance": 8.6,
+    "unique_topics": 57,
+    "total_topics": 121,
+    "depth_distribution": {
+      "0": 1,
+      "1": 1,
+      "2": 5
+    },
+    "high_relevance_pages": 6
+  }
+}

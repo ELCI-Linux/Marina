@@ -1,0 +1,1138 @@
+{
+  "timestamp": "2025-07-20T12:39:05.567258",
+  "root_url": "https://bbc.co.uk/sport",
+  "keywords": [
+    "sport",
+    "football",
+    "cricket",
+    "tennis",
+    "match",
+    "game"
+  ],
+  "total_pages_scraped": 19,
+  "knowledge_nodes": [
+    {
+      "url": "https://bbc.co.uk/sport",
+      "title": "BBC Sport - Scores, Fixtures, News - Live Sport",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 0
+    },
+    {
+      "url": "https://bbc.co.uk/sport/cricket/articles/c1jw1gn11pdo",
+      "title": "England v India: Balls to be examined by Dukes after 'soft' issues - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 11,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/cricket/articles/c79qg5z54lgo",
+      "title": "The Ashes: Simon Jones relives 2005 and how England beat Australia - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/cricket/articles/cx2001mmex3o",
+      "title": "County cricket: Why Kookaburra ball is proving hard work for bowlers - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/american-football",
+      "title": "NFL scores, schedule & news - American Football \u2013 BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/cricket/franchise-cricket",
+      "title": "Franchise Cricket - MLC news, reports & reaction",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+      "title": "Gaelic Games - latest GAA news, results and fixtures - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 16,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c70xgdwgde1o",
+      "title": "Snoop Dogg: Why Swansea City and what next as he joins Luka Modric in south Wales?  - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 13,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c93g9v27517o",
+      "title": "Luka Modric: Ballon d\u2019Or to boardroom \u2013 why has Real Madrid legend invested in Swansea City? - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c8rpnj45llzo",
+      "title": "Snoop Dogg: Rapper becomes Swansea City investor and co-owner - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 12,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/teams/swansea-city/scores-fixtures",
+      "title": "Swansea City - Scores & Fixtures - Football - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/tennis/articles/cvgnmd8v82mo",
+      "title": "Wimbledon 2025: No line judges this year, but will they be missed? - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 9,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/tennis/articles/clygxnkddg9o",
+      "title": "French Open 2025: Why does Roland Garros not use electronic line calling? - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/tennis/54051920",
+      "title": "Novak Djokovic disqualified after hitting ball at line judge in US Open - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 9,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/tennis/wimbledon/scores-and-schedule",
+      "title": "Wimbledon - Scores & Schedule - Tennis - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 7,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/videos/cy7nzymgl2do",
+      "title": "Red card for hair-pulling - Women's Euros 2025: Germany vs France - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/videos/cg7549j7dgvo",
+      "title": "Women's Euro 2025: Best goals of the group stage - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 17,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/live/c4gd8jd0zdlt",
+      "title": "France 1-1 Germany: Ann-Katrin Berger the hero as Germans reach semi-finals - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/mixed-martial-arts",
+      "title": "MMA News - UFC, Bellator, PFL Fight results & schedule - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 16,
+      "depth": 2
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_61433",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport",
+        "keywords": [
+          "find us here",
+          "play",
+          "bite-sized videos",
+          "hours",
+          "football"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "BBC Sport - Scores, Fixtures, News - Live Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nSign In Banner\nDiscover your BBC\nSign in or create an account to watch, listen and join in\nSign in\nor\nRegister\nClose sign in banner\nBBC Sport\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nBBC Sport looks at where Oleksandr Usyk ranks among the all-time heavyweight greats and who in the current generation could beat him.\nAttribution\nBoxing\nPosted\n4 hours ago\n4h\nComments\n413\nLive\n.\nListen to The Open final day - Can anyone deny Scheffler a fourth major title?\nAttribution\nGolf\nLive\n.\nTour de France stage 15 - Pogacar rivals look to cut gap before rest day\nAttribution\nCycling\n'Desperation driving Australia - but it only gets you so far'\nAttribution\nBritish & Irish Lions\nPosted\n46 minutes ago\n46min\nComments\n44\nEngland overcome lightning delay to beat US\nAttribution\nEngland\nPosted\n10 hours ago\n10h\nComments\n167\nGolden Boot winner to substitute - England's Mead on role 'shift'\nAttribution\nUEFA Women's Euro\nPosted\n3 hours ago\n3h\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch. Video, 00:02:57\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\nAttribution\nBoxing\nPosted\n2 hours ago\n2h\n2:57\nPacquiao, 46, draws with Barrios in comeback fight\nAttribution\nBoxing\nPosted\n4 hours ago\n4h\nComments\n103\nHumphries suffers shock defeat in Blackpool\nAttribution\nDarts\nPosted\n14 hours ago\n14h\nComments\n33\nHeavyweight permutations - what next after Usyk win?\nAttribution\nBoxing\nPosted\n12 hours ago\n12h\nComments\n38\nHolloway retains BMF title as Poirier retires\nAttribution\nMMA\nPosted\n4 hours ago\n4h\nComments\n10\nThe Open - leaderboard\nMust-watch videos\nBerger's stunning save prevents extra-time own goal. Video, 00:00:28\nBerger's stunning save prevents extra-time own goal\nAttribution\nWomen's Football\nPosted\n13 hours ago\n13h\n0:28\n'Ivan' - Usyk nicknames punch that stopped Dubois. Video, 00:03:47\n'Ivan' - Usyk nicknames punch that stopped Dubois\nAttribution\nBoxing\nPosted\n10 hours ago\n10h\n3:47\n'Listen to that roar' - McIlroy wows the crowd with a round of 66. Video, 00:03:26\n'Listen to that roar' - McIlroy wows the crowd with a round of 66\nAttribution\nGolf\nPosted\n16 hours ago\n16h\n3:26\nBerger stars as Germany reach semi-final on penalties. Video, 00:06:41\nBerger ",
+        "topics": [
+          "find us here",
+          "play",
+          "bite-sized videos",
+          "hours",
+          "football",
+          "comments",
+          "iplayer",
+          "women's summer of sport",
+          "sport",
+          "more top stories",
+          "england",
+          "find out more",
+          "bbc sport",
+          "bbc sport emails",
+          "best of the bbc",
+          "more video",
+          "usyk",
+          "the open - leaderboard",
+          "results",
+          "video",
+          "elsewhere on the bbc",
+          "must-watch videos",
+          "discover your bbc",
+          "posted",
+          "also in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts/articles/cvg6yke6nxro",
+          "https://bbc.co.uk/sport/football/videos/cy7nzymgl2do",
+          "https://bbc.co.uk/sport/boxing/articles/cm2lmd1rj8no",
+          "https://bbc.co.uk/sport/boxing/articles/cp8m4m69dv2o#comments",
+          "https://bbc.co.uk/sport/rugby-union/scottish"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:06.875236",
+          "depth": 0,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.671090",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_32690",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/cricket/articles/c1jw1gn11pdo",
+        "keywords": [
+          "ball",
+          "best of the bbc",
+          "related topics",
+          "cricket",
+          "sport"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "England v India: Balls to be examined by Dukes after 'soft' issues - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nCricket\nScores & Fixtures\nTables\nVideo\nEngland Men\nEngland Women\nCounties\nThe Hundred\nFranchise Cricket\nAll Teams\nDukes to examine 'soft' cricket balls - what is going on?\nImage source,\nGetty Images\nImage caption,\nBoth India and England have regularly complained about the ball during their Test series\nMatthew Henry\nBBC Sport Journalist\nStephan Shemilt\nChief Cricket Reporter\nPublished\n18 July 2025\n578 Comments\nBalls used in the series between England and India will be examined by the manufacturer after the first three Tests were blighted by problems.\nThe Dukes balls have been regularly changed because they have gone out of shape, causing frustrating delays in play.\nThe England and Wales Cricket Board (ECB) will collect as many used balls as possible and return them to Dukes by the end of the week.\n\"We will take it away, inspect and then start talking to the tanner, talking about all of the raw materials - everything,\" Dilip Jajodia, owner of British Cricket Balls Ltd, who make the Dukes, told BBC Sport.\n\"Everything we do will be reviewed and then if we think some changes need to be made or tightened up, we will.\"\nWhat to do about Test cricket's slow play problem?\nPublished\n4 days ago\nWhat has been the problem?\nThe ball used for Test matches is decided by the host board. Whereas this is the Dukes in England, Tests in India are played with an SG ball, while the Kookaburra is used in Australia.\nThe Dukes, in production since 1760, has long been regarded as a high-quality product but there have been issues in Test and county cricket in recent years.\nIt has been going soft prematurely - long before it should be changed after 80 overs of an innings - and when a ball goes soft taking wickets becomes harder. Bowlers say there is not the same zip off the pitch and fewer edges carry to fielders.\nThe ECB's Professional Game Committee and Cricket Advisory Group analyses data collected in relation to balls across the season. This would include the number of balls changed, along with reports from umpires and captains.\nConversations around the quality of balls have been monitored in recent years and there is an awareness of increased instances of balls becoming softer more quickly but",
+        "topics": [
+          "ball",
+          "best of the bbc",
+          "related topics",
+          "cricket",
+          "sport",
+          "england",
+          "more on this story",
+          "elsewhere in sport",
+          "balls",
+          "what can be done?",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/iplayer/episode/m002fygs?at_mid=WuKbBqzDrk&at_campaign=Panorama_Undercover_Estate_Agent&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006t14n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Panorama_Undercover_Estate_Agent&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/american-football"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:08.148645",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.671459",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_85574",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/cricket/articles/c79qg5z54lgo",
+        "keywords": [
+          "best of the bbc",
+          "related topics",
+          "ashes",
+          "sport",
+          "cricket"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "The Ashes: Simon Jones relives 2005 and how England beat Australia - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nCricket\nScores & Fixtures\nTables\nVideo\nEngland Men\nEngland Women\nCounties\nThe Hundred\nFranchise Cricket\nAll Teams\n'We felt like Premier League footballers' - Jones relives 2005 Ashes\nImage source,\nGetty Images\nImage caption,\nSimon Jones took 18 wickets, at an average of 21, in the 2005 Ashes\nTom Reynolds\nBBC Sport journalist\nPublished\n5 hours ago\n\"We felt like Premier League footballers. There was a massive crowd and they had turned away 10,000 people. It was obscene the amount of people who wanted to come and watch.\n\"It was like, 'wow this is something to behold'. I don't think it'll ever happen again.\"\nIt may be 20 years since arguably the most iconic Test series in Ashes history, but former England bowler Simon Jones can still see every moment in his mind's eye.\nJones' 20-20 vision is hardly surprising given the bigger picture: 2005 was England's first Ashes series win since 1987. It not only ended an 18-year, eight-series losing run but it was an endless cricketing summer that flipped the Ashes narrative.\nEngland teams since that summer have stored that storied series in their psyche somewhere. They enter with a belief that victory is an option again.\nJones' story mirrors that big-picture narrative.\nThe 2005 series \u2013\nrelived in a BBC Sport documentary on iPlayer\n\u2013 was the zenith of a career cruelly cut short by injury.\nJones took 18 wickets, including a career-best 6-53 at Trent Bridge, despite, appropriately perhaps, only playing three and a half Tests because of an ankle injury.\nDespite that setback, the former Glamorgan fast bowler remembers the summer as a once-in-a-lifetime blur of front and back-page news and Downing Street garden parties.\nIt all began at a febrile Lord's that was more stag party than traditional tea party.\nThe home of cricket is known for its serenity. Popping champagne corks rather than popping off.\nBut as Jones remembers, 2005 felt different, even before a ball was bowled.\n\"When we went through that Long Room, and we walked down the stairs and through the pavilion, it erupted,\" he says.\n\"I remember Kev [Kevin Pietersen] turning around and saying to me: 'What is going on here?'\n\"It almost shocked us really. Normally it is all the members an",
+        "topics": [
+          "best of the bbc",
+          "related topics",
+          "ashes",
+          "sport",
+          "cricket",
+          "england",
+          "elsewhere in sport",
+          "jones",
+          "video",
+          "iplayer",
+          "test",
+          "more on this story",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/iplayer/episode/m002g7hl/how-to-win-the-ashes-2005",
+          "https://bbc.co.uk/iplayer/episode/m002fygs?at_mid=WuKbBqzDrk&at_campaign=Panorama_Undercover_Estate_Agent&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006t14n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Panorama_Undercover_Estate_Agent&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:09.389074",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.671708",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_68782",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/cricket/articles/cx2001mmex3o",
+        "keywords": [
+          "sport",
+          "'same ball, different continent'",
+          "england",
+          "dukes v kookaburra",
+          "'develop different skills'"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "County cricket: Why Kookaburra ball is proving hard work for bowlers - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nCricket\nScores & Fixtures\nTables\nVideo\nEngland Men\nEngland Women\nCounties\nThe Hundred\nFranchise Cricket\nAll Teams\nKookaburra conundrum - can county cricket have too many runs?\nImage source,\nGetty Images\nImage caption,\nDom Sibley's 305 was the highest of 59 centuries scored against the Kookaburra in the past two weeks\nAdam Lanigan\nBBC Sport England\nPublished\n2 July 2025\n321 Comments\nUpdated 3 July 2025\nOver the past two weeks at county grounds around the country, players have been raising their bats with astonishing regularity.\nNo fewer than 59 centuries have been scored across the latest two rounds of County Championship matches.\nA batter's paradise and a bowler's nightmare, with seamers left scratching their heads at how to use the unfamiliar Kookaburra ball.\nHuge scores have been clocked up, none bigger than Surrey's mammoth 820-9 declared against Durham,\nthe highest for 18 years\nand fourth highest in the history of Championship cricket.\nBut why have the runs been flowing?\nDukes v Kookaburra\nFor these two rounds of matches and the two rounds at the end of this month, all Championship games will be played with the Kookaburra ball, whereas normally matches in England use a Dukes.\nBut what is the difference between the two?\nA Dukes ball is hand stitched with six rows of threads. This makes the seam more pronounced than the Kookaburra and it maintains its shape for longer, favouring bowlers searching for seam and swing movement.\nThe Kookaburra is machine stitched and does not have the same handicraft in its manufacturing. It does swing initially, but loses its shape more quickly and becomes softer.\nHowever, it is better suited to cricket played on dry, hard pitches, as are usually found in Australia, to cope with the abrasive surfaces.\nIn Test cricket, the Dukes ball is used in England, Ireland and West Indies, whereas the Kookaburra is predominantly used everywhere else.\nImage source,\nGetty Images\nImage caption,\nSussex batter James Coles was one of six players to score centuries in both Kookaburra games\nWhy the Kookaburra experiment?\nThe Kookaburra is being used as a result of a high-performance review into English cricket led by Sir Andrew Strauss in 2022.\nIt came on t",
+        "topics": [
+          "sport",
+          "'same ball, different continent'",
+          "england",
+          "dukes v kookaburra",
+          "'develop different skills'",
+          "top stories",
+          "ball",
+          "related topics",
+          "cricket",
+          "kookaburra",
+          "elsewhere in sport",
+          "why the kookaburra experiment?",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cricket/articles/clylnp2k215o",
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/cricket/teams/worcestershire",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/cricket/teams/nottinghamshire"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:10.685393",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.672722",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_70934",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/american-football",
+        "keywords": [
+          "football",
+          "february",
+          "sport",
+          "super",
+          "american football"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "NFL scores, schedule & news - American Football \u2013 BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nAmerican Football\nSuper Bowl\nScores & Fixtures\nTables\nAmerican Football\nFollow\nAmerican Football\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      American Football\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nEagles Super Bowl winner Braman dies aged 38\nSuper Bowl winner Bryan Braman dies at the age of 38 having been diagnosed with an aggressive form of cancer in February.\nAttribution\nAmerican Football\nPosted\n2 days ago\n2d\nOjabo 'ready' for crunch NFL season with Baltimore\nAttribution\nAmerican Football\nPosted\n19 June\n19 Jun\nWhy has Rodgers signed for the Steelers?\nAttribution\nAmerican Football\nPosted\n12 June\n12 Jun\nComments\n91\nJets owner Johnson in talks to buy stake in Crystal Palace\nAttribution\nCrystal Palace\nPosted\n12 June\n12 Jun\nRodgers reveals secret wedding on first day with Steelers\nAttribution\nAmerican Football\nPosted\n11 June\n11 Jun\nRodgers agrees Steelers deal to extend NFL career\nAttribution\nAmerican Football\nPosted\n6 June\n6 Jun\nMahomes to leave Olympic flag football to 'the younger guys'\nAttribution\nAmerican Football\nPosted\n31 May\n31 May\nNFL flag vote sees Olympic 'Dream Team' move closer\nAttribution\nOlympic Games\nPosted\n21 May\n21 May\nComments\n19\nNFL 2025 key dates & fixtures - Christmas Day, play-offs & Super Bowl 60\nAttribution\nAmerican Football\nPosted\n15 May\n15 May\nVikings head coach excited for historic UK-Ireland double-header. Video, 00:02:07\nVikings head coach excited for historic UK-Ireland double-header\nPosted\n14 May\n14 May\n2:07\nVikings will bring 'best on the planet' to Dublin\nAttribution\nAmerican Football\nPosted\n13 May\n13 May\nWatch: NFL wants to create 'mini-Super Bowl' in Dublin. Video, 00:02:20\nWatch: NFL wants to create 'mini-Super Bowl' in Dublin\nAttribution\nAmerican Football\nPosted\n13 May\n13 May\n2:20\n2027 NFL Draft to take place in Washington DC\nAttribution\nAmerican Football\nPosted\n5 May\n5 May\nWho are the big winners & losers from the NFL Draft?\nAttribution\nAmerican Football\nPosted\n28 April\n28 Apr\nComments\n167\nNFL fine Falcons and coach \u00a3262,000 for prank call\nAttribution\nAmerican Football\nPosted\n30 April\n30 Apr\nHurts among Eagles players to skip White H",
+        "topics": [
+          "football",
+          "february",
+          "sport",
+          "super",
+          "american football",
+          "must-read nfl",
+          "attribution",
+          "bowl",
+          "april",
+          "find us here",
+          "eagles",
+          "american",
+          "posted",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/american-football/videos/cgkj4y23ekxo",
+          "https://bbc.co.uk/sport/american-football/articles/ckgyvyygd12o#comments",
+          "https://bbc.co.uk/sport/football/articles/cqj7n8dkjg4o",
+          "https://bbc.co.uk/sport/american-football/videos/c9d537pg4n2o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:12.066671",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.672979",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_67111",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/cricket/franchise-cricket",
+        "keywords": [
+          "super",
+          "franchise cricket",
+          "july",
+          "over",
+          "final"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Franchise Cricket - MLC news, reports & reaction",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nFranchise Cricket\nScores & Fixtures\nTables\nThe Hundred\nWomen's Cricket\nFranchise Cricket\nFollow\nFranchise Cricket\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Franchise Cricket\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nLatest updates\nGuyana Amazon Warriors win Global Super League\npublished at 14:10 19 July\n14:10 19 July\nImage source,\nGetty Images\nGuyana Amazon Warriors won the  second edition of the T20 Global Super League with a 32-run victory over Rangpur Riders in the tournament's final played in Providence, Guyana.\nA 121-stand for the second wicket between Johnson Charles and Rahmanullah Gurbaz provided the backbone of the Warriors' total of 196-4.\nCharles made 67 off 48 balls while Gurbaz hammered four sixes in his 38-ball 66 for the Caribbean Premier League outfit.\nKhaled Ahmed, Tabraiz Shamsi and Iftikhar Ahmed all claimed a wicket apiece for  Riders of the Bangladesh Premier League.\nFormer England all-rounder Moeen Ali (1-13) removed Kyle Mayers to leave the Riders in deep trouble at 29-3 in the sixth over of their response.\nIftikhar's 46 off 29 balls helped steady the ship for the Riders as he and Saif Hassan, who whacked 41 off 29 balls, kept them in the hunt.\nHowever, when both players departed the run rate climbed as Dwaine Pretorius (3-37) and Imran Tahir (2-39) helped the Warriors dismiss the Riders for 164.\nTahir was named player of the series after taking 14 wickets in the tournament, organised by Cricket West Indies and featuring franchise teams from Caribbean, Australia, Bangladesh, New Zealand and the United Arab Emirates.\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\n11:13 15 July\nThe Hundred 2025: Full squad lists\n,\npublished at\n11:13 15 July\nThe Hundred 2025: Full squad lists\nAttribution\nCricket\n10:34 15 July\nAnderson to play in The Hundred for Originals\n,\npublished at\n10:34 15 July\nAnderson to play in The Hundred for Originals\nAttribution\nCricket\nMI New York defeat Washington for second MLC title\npublished at 19:44 14 July\n19:44 14 July\nImage source,\nMajor League Cricket\nMI New York claimed their second Major League Cricket title as they defeat",
+        "topics": [
+          "super",
+          "franchise cricket",
+          "july",
+          "over",
+          "final",
+          "share",
+          "big bash",
+          "balls",
+          "league",
+          "cricket",
+          "women's premier league",
+          "latest updates",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/iplayer/episode/m002fygs?at_mid=WuKbBqzDrk&at_campaign=Panorama_Undercover_Estate_Agent&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006t14n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Panorama_Undercover_Estate_Agent&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/american-football"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:13.359066",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.673228",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_73170",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/northern-ireland/gaelic-games",
+        "keywords": [
+          "july",
+          "meath",
+          "fixtures",
+          "panel",
+          "kerry"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Gaelic Games - latest GAA news, results and fixtures - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nNorthern Ireland\nIrish Football\nIrish Rugby\nGaelic Games\nMotorbikes\nIreland Cricket\nGaelic Games\nFollow\nGaelic Games\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Gaelic Games\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nLatest updates\nDublin to face Meath in Ladies All-Ireland final\npublished at 10:50\n10:50\nImage source,\nInpho\nImage caption,\nDublin will now meet Meath in the All-Ireland final, a repeat of the 2021 decider that the Royal County won\nMeath knocked out holders Kerry to book their place in the Ladies All-Ireland SFC final against Dublin, who required extra time to see off Galway in their semi-final.\nGoals in either half from Kerrie Cole and Sarah Wall helped the Royals to a 2-12 to 1-9 victory against the reigning champions as they reached the final for the first time in three years.\nA late flurry of goals and points in the second half of extra time helped the Dubs to claim a 3-14 to 2-14 win which sets up an all-Leinster decider.\nThe two sides will now face off in a repeat of the 2021 final on Sunday, 3 August at Croke Park.\nMeath led 1-5 to 0-6 in Tullamore at half-time with Cole's smashed effort putting them in the ascendancy.\nKerry fought back to level early in the second half with a goal from Danielle O'Leary, but Meath wrestled back control and a second goal, this time from defender Wall proved crucial as they saw out the win.\nDublin and Galway were level at 1-6 to 0-9 half-time with Hannah Tyrell scoring a penalty for the Dubs.\nIt was nip-and-tuck in the second half right up until the closing stages, with Tyrell scoring a late free to force extra time.\nThe game sprang into life in the second half of extra time, as Carla Rowe and Kate Sullivan added further goals for the Dubs.\nAndrea Trill and Olivia Divilly replied with goals for Galway, but it was not enough as Dublin tagged on a few more late points to progress.\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\n09:15\nBBC pundits preview All-Ireland hurling final\n,\npublished at\n09:15\nBBC pundits preview All-Ireland hurling final\nAttribution\nGaelic Games\n08:56\nMaking Patrick Horgan's hurley with Aidan Wal",
+        "topics": [
+          "july",
+          "meath",
+          "fixtures",
+          "panel",
+          "kerry",
+          "final",
+          "share",
+          "results",
+          "find us here",
+          "donegal",
+          "video and audio.",
+          "gaelic games",
+          "ireland",
+          "published",
+          "latest updates",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/iplayer/episode/m002fygs?at_mid=WuKbBqzDrk&at_campaign=Panorama_Undercover_Estate_Agent&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006t14n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Panorama_Undercover_Estate_Agent&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/football/irish"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:14.688421",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.673442",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_60723",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c70xgdwgde1o",
+        "keywords": [
+          "football",
+          "best of the bbc",
+          "related topics",
+          "rivals to wrexham?",
+          "sport"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Snoop Dogg: Why Swansea City and what next as he joins Luka Modric in south Wales?  - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nSwansea City\nScores & Fixtures\nTable\nSnoop Dogg - why Swansea and what next?\nImage source,\nGetty Images/Swansea City AFC\nImage caption,\nSnoop Dogg is one of the famous rap artists in the world\nGareth Vincent\nBBC Sport Wales\nPublished\n18 July 2025\n240 Comments\nThree months after Luka Modric's surprise arrival has come the even more eye-catching news that Snoop Dogg is joining the Croatia legend as an investor and co-owner at Swansea City.\nWhich celebrity will be coming to our club next, Swansea fans might now be forgiven for wondering.\nIn the current climate, where clubs must find new ways to generate income and stars seem to be attracted to football, they probably should not rule anyone out.\nEven if there are no more new faces, Swansea now have their share of glitz in the boardroom, where there was a major change last November following a takeover led by American businessmen Brett Cravatt and Jason Cohen.\nWe wait to see\nhow much involvement Modric\n\u2013 who is known to have spoken to Swansea transfer targets in recent months \u2013 and Snoop Dogg \u2013 who, as far as we know, has not \u2013 will have in the running of the Welsh club.\nOne conversation that has taken place already was between Modric and Snoop Dogg, with the duo discussing the latter's potential involvement at Swansea before the deal was finalised.\nSnoop Dogg, meanwhile, is understood to be planning a trip to the Swansea.com Stadium to watch a game.\nSwansea believe the big names mean a better chance to achieve big things, which in their case means a return to the Premier League.\nShould they make it, maybe Snoop Dogg will lead a singsong \u2013 Swansea's answer to the Anfield Rap, perhaps - on the open-top bus parade.\nHe would surely savour a promotion party given his love of sport.\nHere BBC Sport looks at Snoop Dogg's sporting background and wonders what influence he might have on a Championship club from south west Wales.\nImage source,\nGetty Images\nImage caption,\nLuka Modric, who joined AC Milan earlier this week after 13 years at Real Madrid, has spoken to Snoop Dogg about plans for Swansea\nSport and Snoop\nSnoop Dogg made sporting headlines at last year's Olympic Games in Paris.\nThe 53-year-old hails from Los Angeles, which w",
+        "topics": [
+          "football",
+          "best of the bbc",
+          "related topics",
+          "rivals to wrexham?",
+          "sport",
+          "dogg",
+          "elsewhere in sport",
+          "what will it mean?",
+          "snoop",
+          "sport and snoop",
+          "swansea",
+          "club",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/sport/football/articles/c93g9v27517o",
+          "https://bbc.co.uk/iplayer/episode/m002fygs?at_mid=WuKbBqzDrk&at_campaign=Panorama_Undercover_Estate_Agent&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006t14n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Panorama_Undercover_Estate_Agent&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:15.933782",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.673671",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_6893",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c93g9v27517o",
+        "keywords": [
+          "a supporter's view",
+          "why swansea?",
+          "best of the bbc",
+          "related topics",
+          "modric"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Luka Modric: Ballon d\u2019Or to boardroom \u2013 why has Real Madrid legend invested in Swansea City? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nChampionship\nScores & Fixtures\nTable\nTop Scorers\nBallon d'Or to boardroom \u2013 why Swansea for Modric?\nImage source,\nGetty Images\nImage caption,\nLuka Modric won the 2018 Ballon d'Or, becoming the first player other than Lionel Messi or Cristiano Ronaldo to claim the award in more than a decade\nChris Wathan\nBBC Sport Wales\nPublished\n15 April 2025\n292 Comments\nLuka Modric has made a career of seeing passes no-one else could.\nSo perhaps it is fitting that he has now made a career move no-one saw coming.\nThe Ballon d'Or winner has not left the Bernabeu, but he has moved into the boardroom at Swansea City.\nThe 39-year-old\nhas invested in the Welsh club\n, receiving a minority stake as a result.\nBut quite why the Real Madrid magician has transformed into co-owner at a Welsh Championship club is a question that many have been struggling to answer since the surprising news broke.\nHow did this happen?\nSwansea are thought to have been working on this deal for some time. So much so, there was some surprise at the club that the story did not leak before it did on Monday, with confirmation of the news that bewildered the football world coming by the evening.\nThe club's US-based ownership group \u2013 who took over at the Swansea.Com Stadium in November \u2013 had been seeking an investor who could make an impact through their profile.\nDriven by majority owners Brett Cravatt and Jason Cohen, they specifically sought someone with football gravitas and global reach. Six-times Champions League winner Modric ticks all the boxes.\nWhen it was discovered the Croatia captain had an interest in club ownership, Swansea reached out with a proposal that eventually led to this week's eye-catching announcement.\nWhat information do we collect from this quiz?\nWhy Swansea?\nModric's only words on the matter so far are those issued in Swansea's statement.\nHe speaks of the club's \"strong identity, an incredible fanbase and the ambition to compete at the highest level\".\nThere was little clue, though, as to why he has got involved at Swansea.\nThere is some talk of a link between Modric and Swansea's ownership group, with numerous new faces on the board following the takeover of the club last November.\nThere are also s",
+        "topics": [
+          "a supporter's view",
+          "why swansea?",
+          "best of the bbc",
+          "related topics",
+          "modric",
+          "sport",
+          "football",
+          "news",
+          "elsewhere in sport",
+          "how did this happen?",
+          "iplayer",
+          "swansea",
+          "club",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/sport/football/championship/scores-fixtures",
+          "https://bbc.co.uk/sport/football/articles/cdxnlwgpn61o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:17.215658",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.673911",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_71262",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c8rpnj45llzo",
+        "keywords": [
+          "football",
+          "related topics",
+          "sport",
+          "city",
+          "dogg"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Snoop Dogg: Rapper becomes Swansea City investor and co-owner - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nSwansea City\nScores & Fixtures\nTable\nSnoop Dogg becomes Swansea co-owner and investor\nImage source,\nSwansea City AFC\nImage caption,\nSnoop Dogg has more than 88 million followers on Instagram\nPublished\n17 July 2025\n133 Comments\nRapper Snoop Dogg has become a co-owner and investor at Swansea City after taking a minority stake in the Championship club.\nSnoop Dogg was the surprise model as Swansea launched their home kit for the 2025-26 season last weekend.\nThe Swans have now announced that the 53-year-old American star has followed Real Madrid and Croatia legend Luka Modric by joining the club's ownership group.\n\"My love of football is well known, but it feels special to me that I make my move into club ownership with Swansea City,\" Snoop Dogg said on the club's website.\n\"The story of the club and the area really struck a chord with me. This is a proud, working class city and club. An underdog that bites back, just like me.\n\"I'm proud to be part of Swansea City.\"\nSwansea\nannounced in April\nthat Modric, who this week joined AC Milan as a player, had acquired a stake in the club following a takeover led by American businessmen Brett Cravatt and Jason Cohen last November.\nNow Snoop Dogg, real name Calvin Broadus, who has well in excess of 100 million social media followers, has come on board with a pledge \"to do all I can to help the club\".\nSnoop Dogg's involvement is believed to have come about as a result of a mutual connection between him and Cravatt and Cohen.\nSwansea's owners have made it clear that they want to raise the club's profile in an attempt to generate greater revenue, which will then allow them to invest more money in the team under profit and sustainability rules.\nSnoop Dogg - why Swansea and what next?\nPublished\n1 day ago\nLatest Swansea City news, analysis and fan views\nRival interest in Yates - but no deal close yet\nPublished\n2 days ago\n\"To borrow a phrase from Snoop's back catalogue, this announcement is the next episode for Swansea City as we seek to create new opportunities to boost the club's reach and profile,\" the club's owners said in a statement.\n\"Snoop's colossal global fanbase and audience will certainly help us do that, and he has made clear to ",
+        "topics": [
+          "football",
+          "related topics",
+          "sport",
+          "city",
+          "dogg",
+          "elsewhere in sport",
+          "top stories",
+          "snoop",
+          "iplayer",
+          "swansea",
+          "club",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/football/articles/c3d1lyxd71eo",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/sport/football/articles/cgrx70dyzjqo"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:18.542981",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.674153",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_47872",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/teams/swansea-city/scores-fixtures",
+        "keywords": [
+          "sports",
+          "skip",
+          "content",
+          "sport",
+          "swansea city scores"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Swansea City - Scores & Fixtures - Football - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nSwansea City\nScores & Fixtures\nTable\nSwansea City Scores & Fixtures\nSearch\nSkip to content\nSkip to today\nJul\n2024\nAug\n2024\nSep\n2024\nOct\n2024\nNov\n2024\nDec\n2024\nJan\n2025\nFeb\n2025\nMar\n2025\nApr\n2025\nMay\n2025\nJun\n2025\nJul\n2025\nAug\n2025\nSep\n2025\nOct\n2025\nNov\n2025\nDec\n2025\nJan\n2026\nFeb\n2026\nMar\n2026\nApr\n2026\nMay\n2026\nJun\n2026\nJul\n2026\nScroll left\nScroll right\nWe have no events to show on this date\nAll times are UK and subject to change. BBC is not responsible for any changes.\nBack to top\nBest of the BBC\nWill Alison and Daniel be in tune again?\nAttribution\niPlayer\nDo estate agents treat customers fairly?\nAttribution\niPlayer\nThe golden age of tennis\nAttribution\niPlayer\nThe Bafta-award winning chaotic comedy\nAttribution\niPlayer\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nTerms of Use\nAbout the BBC\nPrivacy Policy\nCookies\nAccessibility Help\nParental Guidance\nContact the BBC\nMake an editorial complaint\nBBC emails for you\nCopyright \u00a9 2025 BBC. The BBC is not responsible for the content of external sites.\nRead about our approach to external linking.",
+        "topics": [
+          "sports",
+          "skip",
+          "content",
+          "sport",
+          "swansea city scores",
+          "including live football scores",
+          "home",
+          "help",
+          "weather",
+          "attribution",
+          "iplayer",
+          "menu",
+          "rugby",
+          "news",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/iplayer/episode/m002fygs?at_mid=WuKbBqzDrk&at_campaign=Panorama_Undercover_Estate_Agent&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006t14n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Panorama_Undercover_Estate_Agent&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/american-football"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:19.724535",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.674392",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_55632",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/tennis/articles/cvgnmd8v82mo",
+        "keywords": [
+          "wimbledon",
+          "related topics",
+          "best of the bbc",
+          "sport",
+          "there"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Wimbledon 2025: No line judges this year, but will they be missed? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nTennis\nScores & Schedule\nCalendar\nVideo\nSport Insight\nWhy 'best-dressed officials' are missing from Wimbledon\nPublished\n25 June 2025\nUpdated 30 June 2025\nImage source,\nGetty Images\nJess Anderson\nBBC Sport journalist\nSonia Oxley\nBBC Sport Producer\nThomas Sweeney's first incentive to become a line judge was the offer of a free sandwich.\nFor Pauline Eyre, who called the lines at Wimbledon for 16 years, some natty blazers and the chance to buy tickets for the tournament were the main recompense for work she had to take annual leave to do.\nNowadays the best officials might earn up to \u00a3200 a day plus expenses.\nBut line judging has never been about the money for those who spend hours leaning forward, hands resting on knees, staring intently at a line of chalk to determine in a split second on which side of it the yellow ball has bounced.\nBeing so close to Jana Novotna on Centre Court that she could see her foot shaking on the first point of a Wimbledon final or being \"psyched out\" by John McEnroe  were priceless experiences for Eyre.\nAnd then there were the outfits.\n\"There's nothing quite like walking out on to the iconic grass courts at SW19, wearing the uniform of what many consider the best-dressed officials in all of sport,\" Malgorzata Grzyb, chair of the Association of British Tennis Officials (ABTO), told BBC Sport.\nBut times have changed. At Wimbledon there will be no line judges for the first time in its 148-year history, with electronic line calling being introduced.\nPlayers and umpires have already got used to the new set-up as it has been at other tournaments for a while, but on the green grass at Wimbledon, where advertising logos are muted and the players are dressed in white, the emptier courts may feel that bit more noticeable.\n\"It's all the tradition of Wimbledon - the people and the funny uniforms - and that's a bit of personality that's gone,\" said Eyre. \"I think it's all of those little things that made Wimbledon Wimbledon.\"\nTraditionalists will miss them, but technology fans will point to progress.\nBBC Sport has been finding out what umpires, players and line judges make of the move.\nWill there be line judges at Wimbledon 2025?\nPublished\n26 June\nWhy does F",
+        "topics": [
+          "wimbledon",
+          "related topics",
+          "best of the bbc",
+          "sport",
+          "there",
+          "tennis",
+          "line",
+          "more on this story",
+          "challenges are 'out'"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/sport/insight",
+          "https://bbc.co.uk/sport/tennis/articles/clygxnkddg9o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:20.990674",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.674641",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_75119",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/tennis/articles/clygxnkddg9o",
+        "keywords": [
+          "sport",
+          "video",
+          "top stories",
+          "your",
+          "ball"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "French Open 2025: Why does Roland Garros not use electronic line calling? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nTennis\nScores & Schedule\nCalendar\nVideo\nWhy does French Open not have electronic line calling?\nTasnim Chowdhury\nBBC Sport journalist\nPublished\n26 May 2025\n14 Comments\nThe French Open does not use electronic line calling and continues to rely on line judges and umpires - as well as using ball marks left on clay to determine whether shots are in or not.\nRoland Garros is the only Grand Slam tournament that still uses line judges and players are not allowed to use electronic replays to challenge human decision.\nThere are two factors for the French Open's reluctance to change: maintaining traditions synonymous with the 134-year-old tournament and an unwillingness to lose human control.\n\"I think we are right to keep our referees and line judges at Roland Garros,\" said Gilles Moretton, president of the French Tennis Federation (FFT).\n\"The federation wants to keep our referees for as long as we can. I hope we'll be able to maintain it in our tournaments in the future.\"\nGet in touch\nSend us your questions\nContact form\nContact form\nRoland Garros possibly 'better' with line judges\nElectronic line calling uses cameras, computers and sensors to track a ball and is used by tennis umpires to judge whether a ball is in or out.\nIt has been claimed the red dust layer on the clay courts of Roland Garros compromises the accuracy and reliability of the technology because it is a 'live' surface which moves during the match.\nBut Paul Hawkins, the inventor of electronic line calling system Hawk-Eye, says the technology is accurate on the surface and it is the mark left by the ball on the clay that is not accurate.\n\"It's like a cliff edge [the plastic white line], so [the ball] can hit that part of the line and then carry on travelling forwards and not actually hit the clay until four or five millimetres beyond the line, which would then be where you would begin to see a mark on the court,\" Hawkins told BBC Sport.\n\"The mark on the court looks like it is out whereas actually it has clipped the line.\"\nHowever, Hawkins believes Roland Garros is possibly \"better\" without electronic line calling and says that if players looking at the mark - which has been done for more than a century - is accepted",
+        "topics": [
+          "sport",
+          "video",
+          "top stories",
+          "your",
+          "ball",
+          "related topics",
+          "get in touch",
+          "line",
+          "more questions answered...",
+          "tennis",
+          "judges",
+          "elsewhere in sport",
+          "iplayer",
+          "electronic",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/ask-me-anything",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/tennis/articles/cd64gx5g94do",
+          "https://bbc.co.uk/sport/all-sports"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:22.335871",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.674817",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_80079",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/tennis/54051920",
+        "keywords": [
+          "ball",
+          "best of the bbc",
+          "sport",
+          "djokovic",
+          "related internet links"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Novak Djokovic disqualified after hitting ball at line judge in US Open - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nTennis\nScores & Schedule\nCalendar\nVideo\nNovak Djokovic disqualified after hitting ball at line judge in US Open\nPublished\n7 September 2020\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\nImage source,\nEPA\nImage caption,\nA remorseful Djokovic instantly apologised to the line judge and checked on her condition while she received treatment\nBy Jonathan Jurejko\nBBC Sport\n2020 US Open\nVenue:\nFlushing Meadows, New York\nDates:\n31 Aug-13 Sept\nCoverage:\nSelected live radio and text commentaries on BBC Radio 5 Live Sports Extra, BBC Sounds, the BBC Sport website and app.\nTop seed Novak Djokovic was disqualified from the US Open for accidentally hitting a ball at a line judge in his fourth-round match.\nDjokovic, 33, showed his frustration after losing serve to trail 6-5 against Spain's Pablo Carreno Busta.\nThe Serbian world number one took a ball out of his pocket and hit it behind him, striking the female line judge in her throat.\nAfter a lengthy discussion, he was defaulted by tournament officials.\n'Djokovic will win again - hopefully with a little more humility'\n'Sad and empty' Djokovic 'extremely sorry' for hurting line judge\nRight decision to disqualify Djokovic, says Henman\nA United States Tennis Association statement said: \"In accordance with the Grand Slam rulebook, following his actions of intentionally hitting a ball dangerously or recklessly within the court or hitting a ball with negligent disregard of the consequences, the tournament referee defaulted Novak Djokovic from the 2020 US Open.\n\"Because he was defaulted, Djokovic will lose all ranking points earned at the US Open and will be fined the prize money won at the tournament in addition to any or all fines levied with respect to the offending incident.\"\nSorry, we can't display this part of the article any more.\nDjokovic was the heavy favourite to win the men's singles title at the US Open, which is being played behind closed doors and is the first Grand Slam to take place since the beginning of the coronavirus pandemic.\nGoing into the encounter with 20th seed Carreno Busta, Djokovic had not lost a singles match in 2020.\nHe was aiming for an 18th Grand Slam triumph to move closer to rivals Rafael Nadal and Rog",
+        "topics": [
+          "ball",
+          "best of the bbc",
+          "sport",
+          "djokovic",
+          "related internet links",
+          "elsewhere in sport",
+          "open",
+          "iplayer",
+          "top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/tennis/live-scores",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/iplayer/episode/m002fygs?at_mid=WuKbBqzDrk&at_campaign=Panorama_Undercover_Estate_Agent&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006t14n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Panorama_Undercover_Estate_Agent&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:23.665519",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.675062",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_53601",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/tennis/wimbledon/scores-and-schedule",
+        "keywords": [
+          "sport",
+          "tennis",
+          "tennis scores and schedule",
+          "iplayer",
+          "open"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Wimbledon - Scores & Schedule - Tennis - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nTennis\nScores & Schedule\nCalendar\nVideo\nTennis Scores and Schedule\nJuly 2025\nToday\nChoose date, selected date is Sunday 20 July 2025\nSkip to content\nSkip to today\nSun\n22\nMon\n23\nTue\n24\nWed\n25\nThu\n26\nFri\n27\nSat\n28\nSun\n29\nMon\n30\nTue\n1\nWed\n2\nThu\n3\nFri\n4\nSat\n5\nSun\n6\nMon\n7\nTue\n8\nWed\n9\nThu\n10\nFri\n11\nSat\n12\nSun\n13\nMon\n14\nTue\n15\nWed\n16\nThu\n17\nFri\n18\nSat\n19\nToday\n20\nMon\n21\nTue\n22\nWed\n23\nThu\n24\nFri\n25\nSat\n26\nSun\n27\nMon\n28\nTue\n29\nWed\n30\nThu\n31\nFri\n1\nSat\n2\nSun\n3\nMon\n4\nTue\n5\nWed\n6\nThu\n7\nFri\n8\nSat\n9\nSun\n10\nMon\n11\nTue\n12\nWed\n13\nThu\n14\nFri\n15\nSat\n16\nSun\n17\nScroll left\nScroll right\nFilter by\nTournament:\nAll Tournaments\nHopman Cup\nATP Swedish Open\nATP Swiss Open Gstaad\nATP Croatia Open\nWTA Hamburg European Open\nATP Abierto Mexicano de Tenis Mifel\nWTA Ia\u0219i Open\nWimbledon\nEvent Type:\nAll Events\nFilter by tournament:\nCurrently selected: Wimbledon\nAll Tournaments\nHopman Cup\nATP Swedish Open\nATP Swiss Open Gstaad\nATP Croatia Open\nWTA Hamburg European Open\nATP Abierto Mexicano de Tenis Mifel\nWTA Ia\u0219i Open\nWimbledon\nFilter by event type:\nCurrently selected: All Event Types\nAll Event Types\nNo Results\nAll times are UK and subject to change. BBC is not responsible for any changes.\nBest of the BBC\nWill Alison and Daniel be in tune again?\nAttribution\niPlayer\nDo estate agents treat customers fairly?\nAttribution\niPlayer\nThe golden age of tennis\nAttribution\niPlayer\nThe Bafta-award winning chaotic comedy\nAttribution\niPlayer\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nTerms of Use\nAbout the BBC\nPrivacy Policy\nCookies\nAccessibility Help\nParental Guidance\nContact the BBC\nMake an editorial complaint\nBBC emails for you\nCopyright \u00a9 2025 BBC. The BBC is not responsible for the content of external sites.\nRead about our approach to external linking.",
+        "topics": [
+          "sport",
+          "tennis",
+          "tennis scores and schedule",
+          "iplayer",
+          "open",
+          "july 2025",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/tennis/atp-swedish-open/scores-and-schedule",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/iplayer/episode/m002fygs?at_mid=WuKbBqzDrk&at_campaign=Panorama_Undercover_Estate_Agent&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006t14n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Panorama_Undercover_Estate_Agent&at_bbc_team=BBC"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:24.891675",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.675310",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_49034",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/videos/cy7nzymgl2do",
+        "keywords": [
+          "football",
+          "related topics",
+          "sport",
+          "women",
+          "golf"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Red card for hair-pulling - Women's Euros 2025: Germany vs France - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nWomen's Football\nScores & Fixtures\nEuro 2025\nTable\nTop Scorers\nWomen's Super League\n'What a stupid thing to do' - Germany go a goal and a player down\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\n'What a stupid thing to do' - Germany go a goal and a player down\nClose\n31\n6\nGermany's Kathrin Hendrich is sent off for pulling the hair of Griedge Mbock after a VAR review. Grace Geyoro scores the resulting penalty to put France 1-0 up in the Women's Euro 2025 quarter-final.\nMATCH REPORT:\nGermany beat France on penalties\nAvailable to UK users only.\nSubsection\nWomen's Football\nPublished\n13 hours ago\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\nRelated topics\nFootball\nFollow\nFootball\nclose panel\nYou are now following\n      Football\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nWomen's Football\nFollow\nWomen's Football\nclose panel\nYou are now following\n      Women's Football\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nRead description\nExplore more\n'What a stupid thing to do' - Germany go a goal and a player down. Video, 00:01:04\n'What a stupid thing to do' - Germany go a goal and a player down\nSubsection\nWomen's Football\nPublished\n13 hours ago\n1:04\nUp Next. Berger stars as Germany reach semi-final on penalties. Video, 00:06:41\nBerger stars as Germany reach semi-final on penalties\nSubsection\nWomen's Football\nPublished\n13 hours ago\nUp Next\n6:41\nBerger's stunning save prevents extra-time own goal. Video, 00:00:28\nBerger's stunning save prevents extra-time own goal\nSubsection\nWomen's Football\nPublished\n13 hours ago\n0:28\nWhy Hegerberg wasn't offside in penalty incident. Video, 00:01:40\nWhy Hegerberg wasn't offside in penalty incident\nSubsection\nWomen's Football\nPublished\n3 days ago\n1:40\nWomen's Euro 2025 - Best goals of the group stage. Video, 00:03:29\nWomen's Euro 2025 - Best goals of the group stage\nSubsection\nEngland Women\nPublished\n4 days ago\n3:29\nEditor's recommendations\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch. Video, 00:02:57\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\n",
+        "topics": [
+          "football",
+          "related topics",
+          "sport",
+          "women",
+          "golf",
+          "boxing",
+          "subsection",
+          "video",
+          "published",
+          "germany",
+          "editor's recommendations",
+          "hours",
+          "iplayer",
+          "explore more",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/golf/videos/cy0wzd008g6o",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/football/videos/cg7549j7dgvo",
+          "https://bbc.co.uk/sport/all-sports"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:26.160987",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.675584",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_55751",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/videos/cg7549j7dgvo",
+        "keywords": [
+          "sport",
+          "lauren james",
+          "boxing",
+          "explore more",
+          "women"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Women's Euro 2025: Best goals of the group stage - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nEngland\nMen's Scores & Fixtures\nWomen's Scores & Fixtures\nMen's Table\nWomen's Table\nWomen's Euro 2025 - Best goals of the group stage\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nWomen's Euro 2025 - Best goals of the group stage\nClose\n38\n10\nJule Brand, Lauren James, Claudia Pina and Delphine Cascarino are all among the scorers of some of the best goals of the group stage at Uefa Women's Euro 2025.\nFollow Euro 2025 on BBC Sport.\nAvailable to UK users only.\nSubsection\nEngland Women\nPublished\n4 days ago\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\nRelated topics\nEngland Women's Football Team\nFollow\nEngland Women's Football Team\nclose panel\nYou are now following\n      England Women's Football Team\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nFootball\nFollow\nFootball\nclose panel\nYou are now following\n      Football\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nWomen's Football\nFollow\nWomen's Football\nclose panel\nYou are now following\n      Women's Football\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nRead description\nExplore more\nWomen's Euro 2025 - Best goals of the group stage. Video, 00:03:29\nWomen's Euro 2025 - Best goals of the group stage\nSubsection\nEngland Women\nPublished\n4 days ago\n3:29\nUp Next. Berger's stunning save prevents extra-time own goal. Video, 00:00:28\nBerger's stunning save prevents extra-time own goal\nSubsection\nWomen's Football\nPublished\n13 hours ago\nUp Next\n0:28\nWilliamson 'so proud' after dramatic quarter-final win. Video, 00:02:03\nWilliamson 'so proud' after dramatic quarter-final win\nSubsection\nWomen's Football\nPublished\n2 days ago\n2:03\n'What a stupid thing to do' - Germany go a goal and a player down. Video, 00:01:04\n'What a stupid thing to do' - Germany go a goal and a player down\nSubsection\nWomen's Football\nPublished\n13 hours ago\n1:04\nBerger stars as Germany reach semi-final on penalties. Video, 00:06:41\nBerger stars as Germany reach semi-final on penalties\nSubsection\nWomen's Football\nPublished\n13 hours ago\n6:41\nEditor's recommend",
+        "topics": [
+          "sport",
+          "lauren james",
+          "boxing",
+          "explore more",
+          "women",
+          "england",
+          "euro",
+          "video",
+          "editor's recommendations",
+          "related topics",
+          "hours",
+          "football",
+          "subsection",
+          "published",
+          "iplayer",
+          "jule brand",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/golf/videos/cy0wzd008g6o",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/football/videos/cg7549j7dgvo",
+          "https://bbc.co.uk/sport/all-sports"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:27.515103",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.675891",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_80772",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/live/c4gd8jd0zdlt",
+        "keywords": [
+          "forward passes",
+          "total yellow cards",
+          "total tackles",
+          "xa from set play",
+          "uefa women's championship"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "France 1-1 Germany: Ann-Katrin Berger the hero as Germans reach semi-finals - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nUEFA Women's Euro\nGroups & Schedule\nScores & Fixtures\nTop Scorers\nGermany defy odds with shootout win against France\nMatch Summary\nSat 19 Jul 2025\n\u2027\nUEFA Women's Euro\n-\nQuarter-finals\nFrance 1 , Germany 1 After extra time , Germany win 6 - 5 on penalties\nFrance\nFrance\nFrance\n1\n1\nGermany\nGermany\nGermany\nAfter extra time\nAET\nGermany win 6 - 5 on penalties\nGermany\nwin 6-5 on pens\nFull Time France 1 , Germany 1\nFT 1-1\n,\nHalf Time France 1 , Germany 1\nHT 1-1\nKey Events\nFrance\nG. Geyoro\n(\n15' pen\n)\nPenalty 15 minutes\nGermany\nK. Hendrich\n(\n13'\n)\nRed Card 13 minutes\nS. N\u00fcsken\n(\n25'\n)\nGoal 25 minutes\nAssists\nGermany,\nK. B\u00fchl (25')\nVenue:\nSt. Jakob-Park\nAttendance:\n34,128\nFrance v Germany\nBBC Radio 5 Live\nClose\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nLive Reporting\nReport\n(active)\nScores\nLine-ups\nMatch Stats\nWatch & listen\nHead-to-head\nSummary\nGermany beat France on penalties to set up Euro 2025 semi-final with Spain\nChristian Wuck's side recovered from 13th-minute red card to take France to shootout\nKathrin Hendrich\nsent off for pulling hair of Griedge Mbock\nGrace Geyoro\nspot-kick gives France lead,\nSjoeke Nusken\nheads Germans level from corner\nGeyoro has second-half goal ruled out by VAR,\nPauline Peyraud-Magnin\nsaves Nusken penalty\nGet Involved: #bbcfootball, WhatsApp on 03301231826 or text 81111 (UK only, standard message rates apply)\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nGermany beat France on penalties\nLive Reporting\nNeil Johnston\nShow\nMost recent\nMost popular\nWATCH: Germany win gripping quarter-final\npublished at 23:50 British Summer Time 19 July\n23:50 BST 19 July\nFT: France 1-1 Germany (Germany win 6-5 on pens)\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nGermany beat France on penalties\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nGermany's Berger with 'the save of the tournament'\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nGermany's Hendrich sent off fo",
+        "topics": [
+          "forward passes",
+          "total yellow cards",
+          "total tackles",
+          "xa from set play",
+          "uefa women's championship",
+          "successful final third passes",
+          "penalty saves",
+          "goals scored",
+          "xa from open play",
+          "attempts out of box",
+          "head to head",
+          "blocked shots",
+          "won tackles",
+          "season so far",
+          "key events",
+          "france",
+          "saturday 19th july",
+          "shots off target",
+          "rating",
+          "which players stood out?",
+          "fouls",
+          "xg from open play",
+          "corners",
+          "uefa women's nations league",
+          "duels won"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/sport/horse-racing",
+          "https://bbc.co.uk/sport/all-sports",
+          "https://bbc.co.uk/iplayer/episode/m002fygs?at_mid=WuKbBqzDrk&at_campaign=Panorama_Undercover_Estate_Agent&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006t14n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Panorama_Undercover_Estate_Agent&at_bbc_team=BBC",
+          "https://bbc.co.uk/sport/american-football"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:29.279843",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.676184",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_48097",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/mixed-martial-arts",
+        "keywords": [
+          "mixed",
+          "sport",
+          "martial",
+          "arts",
+          "july"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "MMA News - UFC, Bellator, PFL Fight results & schedule - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nMixed Martial Arts\nResults & Schedule\nMixed Martial Arts\nFollow\nMixed Martial Arts\nFollow\nFollowing\nFollowing\nUnfollow\nUnfollow\nclose panel\nYou are now following\n      Mixed Martial Arts\nUpdates from your Sport topics will appear in\nMy Sport\nand in a collection on the\nSport homepage\n.\nHolloway retains BMF title as Poirier retires\nMax Holloway retains the symbolic BMF title as Dustin Poirier's esteemed career ends in defeat at UFC 318 in New Orleans.\nAttribution\nMMA\nPosted\n4 hours ago\n4h\nComments\n10\nDitcheva outclasses Inaba despite hand injury\nAttribution\nMMA\nPosted\n14 hours ago\n14h\n'It's been difficult' - the champion who ran out of challengers\nAttribution\nMMA\nPosted\n1 day ago\n1d\n'The last dance' - Holloway & Poirier's epic trilogy in stats\nAttribution\nMMA\nPosted\n2 days ago\n2d\nPFL champion Khizriev allegedly shot by two gunmen\nAttribution\nMMA\nPosted\n2 days ago\n2d\nThe Nigerian corporal making MMA history for Africa\nAttribution\nAfrica Sport\nPosted\n2 days ago\n2d\nAskren 'died four times' before double lung transplant\nAttribution\nMMA\nPosted\n9 July\n9 Jul\nScotland's Craig to fight Bukauskas at UFC Paris\nAttribution\nMMA\nPosted\n7 July\n7 Jul\nWhite House to host UFC event, says Trump\nAttribution\nMMA\nPosted\n4 July\n4 Jul\nFormer UFC star McCann announces boxing switch\nPosted\n3 July\n3 Jul\nMcGregor appeal evidence withdrawal to be referred to prosecutors\nAttribution\nEurope\nPosted\n2 July\n2 Jul\nTopuria moves top of men's pound-for-pound rankings\nAttribution\nMMA\nPosted\n1 July\n1 Jul\nComments\n14\nBorn to Brawl\nPaddy Pimblett and Tom Aspinall feature\nWatch every episode\nWatch and listen\n'It could have been the end, but is just the start' Video, 00:02:22\n'It could have been the end, but is just the start'\nAttribution\nMMA\nPosted\n28 May\n28 May\n2:22\n'What now you gang of mushrooms?' Video, 00:01:41\n'What now you gang of mushrooms?'\nAttribution\nMMA\nPosted\n13 April\n13 Apr\n1:41\nGB's Ditcheva knocks out Santos to win historic world title. Video, 00:01:07\nGB's Ditcheva knocks out Santos to win historic world title\nAttribution\nMMA\nPosted\n30 November 2024\n30 Nov 2024\n1:07\n'That will steal your soul' - Ditcheva's top-five finishes. Video, 00:01:51\n'That will steal your soul' - Ditcheva's top-five finis",
+        "topics": [
+          "mixed",
+          "sport",
+          "martial",
+          "arts",
+          "july",
+          "watch and listen",
+          "features and analysis",
+          "attribution",
+          "video",
+          "iplayer",
+          "mixed martial arts",
+          "find us here",
+          "born to brawl",
+          "more to explore",
+          "posted",
+          "best of the bbc"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/mixed-martial-arts",
+          "https://bbc.co.uk/news/world/europe",
+          "https://bbc.co.uk/sport/mixed-martial-arts/articles/c1jww2xpddlo#comments",
+          "https://bbc.co.uk/sport/mixed-martial-arts/articles/cvg6yke6nxro",
+          "https://bbc.co.uk/sport/horse-racing"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:39:30.670829",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:39:30.676530",
+      "quality_score": 1.0
+    }
+  ],
+  "summary": {
+    "total_nodes": 19,
+    "average_relevance": 10.0,
+    "max_relevance": 10.0,
+    "unique_topics": 149,
+    "total_topics": 272,
+    "depth_distribution": {
+      "0": 1,
+      "1": 4,
+      "2": 14
+    },
+    "high_relevance_pages": 19
+  }
+}

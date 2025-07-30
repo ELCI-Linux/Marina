@@ -1,0 +1,1525 @@
+{
+  "timestamp": "2025-07-20T12:59:52.647066",
+  "root_url": "https://en.wikipedia.org/wiki/Arsenal_F.C.",
+  "keywords": [
+    "Arsenal transfers Arteta"
+  ],
+  "total_pages_scraped": 23,
+  "knowledge_nodes": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Arsenal_F.C.",
+      "title": "Arsenal F.C. - Wikipedia",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Arsenal_F.C._(1966%E2%80%93present)",
+      "title": "History of Arsenal F.C. (1966\u2013present) - Wikipedia",
+      "relevance_score": 7.6000000000000005,
+      "topics_count": 15,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Reading_F.C.",
+      "title": "History of Reading F.C. - Wikipedia",
+      "relevance_score": 8.8,
+      "topics_count": 18,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Scunthorpe_United_F.C.",
+      "title": "History of Scunthorpe United F.C. - Wikipedia",
+      "relevance_score": 9.200000000000001,
+      "topics_count": 16,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=History_of_Arsenal_F.C._%281966%E2%80%93present%29&action=show-download-screen",
+      "title": "Download as PDF - Wikipedia",
+      "relevance_score": 4.5,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Category:History_of_football_clubs_in_England",
+      "title": "Category:History of football clubs in England - Wikipedia",
+      "relevance_score": 4.4,
+      "topics_count": 14,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martin_Keown",
+      "title": "Martin Keown - Wikipedia",
+      "relevance_score": 6.0,
+      "topics_count": 23,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/FA_Community_Shield",
+      "title": "FA Community Shield - Wikipedia",
+      "relevance_score": 4.4,
+      "topics_count": 24,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/EFL_Championship",
+      "title": "EFL Championship - Wikipedia",
+      "relevance_score": 6.0,
+      "topics_count": 22,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Category:Leicester_City_F.C._players",
+      "title": "Category:Leicester City F.C. players - Wikipedia",
+      "relevance_score": 4.4,
+      "topics_count": 16,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Steve_Bould",
+      "title": "Steve Bould - Wikipedia",
+      "relevance_score": 9.200000000000001,
+      "topics_count": 24,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Premier_League%E2%80%93Football_League_gulf",
+      "title": "Premier League\u2013Football League gulf - Wikipedia",
+      "relevance_score": 10.0,
+      "topics_count": 23,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Professional_Development_League#Under-21_level",
+      "title": "Professional Development League - Wikipedia",
+      "relevance_score": 4.4,
+      "topics_count": 22,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2006%E2%80%9307_in_English_football",
+      "title": "2006\u201307 in English football - Wikipedia",
+      "relevance_score": 7.2,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+      "title": "Sheffield Wednesday F.C. - Wikipedia",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Away_colours",
+      "title": "Away colours - Wikipedia",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Millmoor_Juniors_F.C._Ladies",
+      "title": "Millmoor Juniors F.C. Ladies - Wikipedia",
+      "relevance_score": 4.4,
+      "topics_count": 19,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Special:BookSources/1-874287-17-1",
+      "title": "Book sources - Wikipedia",
+      "relevance_score": 4.800000000000001,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Arsenal_F.C._season",
+      "title": "2019\u201320 Arsenal F.C. season - Wikipedia",
+      "relevance_score": 7.2,
+      "topics_count": 25,
+      "depth": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+      "title": "Robert Lewandowski - Wikipedia",
+      "relevance_score": 10.0,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Nottingham_Forest_F.C._season",
+      "title": "2019\u201320 Nottingham Forest F.C. season - Wikipedia",
+      "relevance_score": 8.8,
+      "topics_count": 25,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_sports_rbr_table_with_an_undescribed_result",
+      "title": "Category:Pages using sports rbr table with an undescribed result - Wikipedia",
+      "relevance_score": 6.0,
+      "topics_count": 12,
+      "depth": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Crewe_Alexandra_F.C._season",
+      "title": "2019\u201320 Crewe Alexandra F.C. season - Wikipedia",
+      "relevance_score": 7.2,
+      "topics_count": 25,
+      "depth": 2
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_12183",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Arsenal_F.C.",
+        "keywords": [
+          "colours",
+          "citations",
+          "notes",
+          "further reading",
+          "ownership and finances"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Arsenal F.C. - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\nToggle History subsection\n1.1\n1886\u20131912: Dial Square to Royal Arsenal\n1.2\n1912\u20131925: Bank of England club\n1.3\n1925\u20131934: Herbert Chapman's legendary Gunners\n1.4\n1934\u20131947: Shaw, Allison and the Second World War\n1.5\n1947\u20131962: Tom Whittaker's meteoric Gunners\n1.6\n1962\u20131984: Billy Wright, Bertie Mee and Terry Neill's cohorts\n1.7\n1984\u20131996: George Graham's Arsenal\n1.8\n1996\u20132018: Arsene Wenger Years\n1.9\n2018\u20132020: Post-Wenger revolution\n1.10\n2020\u2013present: Mikel Arteta era\n2\nCrest\n3\nColours\nToggle Colours subsection\n3.1\nKit suppliers and shirt sponsors\n4\nStadiums\n5\nSupporters and rivalries\nToggle Supporters and rivalries subsection\n5.1\nChants\n5.2\nRivalries\n6\nMascot\n7\nOwnership and finances\n8\nIn popular culture\n9\nIn the community\n10\nPlayers\nToggle Players subsection\n10.1\nFirst-team squad\n10.1.1\nOut on loan\n10.2\nAcademy\n11\nManagement and staff\nToggle Management and staff subsection\n11.1\nCurrent staff\n11.2\nArsenal board\n12\nStatistics and records\n13\nHonours\nToggle Honours subsection\n13.1\nOther\n14\nNotes\n15\nReferences\nToggle References subsection\n15.1\nCitations\n15.2\nSources\n16\nFurther reading\n17\nExternal links\nToggle External links subsection\n17.1\nIndependent websites\nToggle the table of contents\nArsenal F.C.\n117 languages\nAc\u00e8h\nAfrikaans\nAlemannisch\n\u12a0\u121b\u122d\u129b\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAragon\u00e9s\nAsturianu\nAz\u0259rbaycanca\n\u062a\u06c6\u0631\u06a9\u062c\u0647\nBasa Bali\n\u09ac\u09be\u0982\u09b2\u09be\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\n\u092d\u094b\u091c\u092a\u0941\u0930\u0940\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nBosanski\nCatal\u00e0\nCebuano\n\u010ce\u0161tina\nCymraeg\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEsperanto\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nFiji Hindi\nF\u00f8royskt\nFran\u00e7ais\nGaeilge\nGalego\n\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0\n\u0917\u094b\u0902\u092f\u091a\u0940 \u0915\u094b\u0902\u0915\u0923\u0940 / G\u00f5ychi Konknni\n\ud55c\uad6d\uc5b4\nHausa\n\u0540\u0561\u0575\u0565\u0580\u0565\u0576\n\u0939\u093f\u0928\u094d\u0926\u0940\nHrvatski\nIdo\nBahasa Indonesia\n\u00cdslenska\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nJawa\n\u0c95\u0ca8\u0ccd\u0ca8\u0ca1\n\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8\n\u049a\u0430\u0437\u0430\u049b\u0448\u0430\nKiswahili\nKurd\u00ee\n\u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430\n\u0ea5\u0eb2\u0ea7\nLatina\nLatvie\u0161u\nL\u00ebtzebuergesch\nLietuvi\u0173\nMagyar\n\u092e\u0948\u0925\u093f\u0932\u0940\n\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\nMalagasy\n\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02\nMalti\n\u092e\u0930\u093e\u0920\u0940\n\u0645\u0635\u0631\u0649\n\u0645\u0627\u0632\u0650\u0631\u0648\u0646\u06cc\nBahasa Melayu\nMinangkabau\n\u041c\u043e\u043d\u0433\u043e\u043b\n\u1019\u103c\u1014\u103a\u1019\u102c\u1018\u102c\u101e\u102c\nNaij\u00e1\nNederlands\n\u0928\u0947\u092a\u093e\u0932\u0940\n\u65e5\u672c\u8a9e\nNapulitano\nNorsk bokm\u00e5l\nNorsk nynorsk\nO\u02bbzbekcha / \u045e\u0437\u0431\u0435\u043a\u0447\u0430\n\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40\nPiemont\u00e8is\nPolski\nPortugu\u00eas\nQaraqalpaqsha\nRom\u00e2n\u0103\nRuna Simi\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n\u0421\u0430\u0445\u0430 \u0442\u044b\u043b\u0430\nScots\nShqip\nSimple English\nSloven\u010dina\nSloven\u0161\u010dina\n\u015al\u016fnski\nSoomaaliga\n\u06a9\u0648\u0631\u062f\u06cc\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSrpskohrvatski / \u0441\u0440\u043f\u0441\u043a\u043e\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0438\nSunda\nSuomi\nSvenska\n\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\n\u0422\u0430\u0442\u0430\u0440\u0447\u0430 / tatar\u00e7a\n\u0e44\u0e17\u0e22\n\u0422\u043e\u04b7\u0438\u043a\u04e3\nT\u00fcrk\u00e7e\nT\u00fcrkmen\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\n\u0627\u0631\u062f\u0648\nV\u00e8neto\nTi\u1ebfng Vi\u1ec7t\nWolof\n\u5434\u8bed\nYor\u00f9b\u00e1\n\u7cb5\u8a9e\nZazaki\n\u4e2d\u6587\nYerwa Kanuri\nEdit links\nArticle\nTalk\nEnglish\nRead\nView source\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nView source\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/",
+        "topics": [
+          "colours",
+          "citations",
+          "notes",
+          "further reading",
+          "ownership and finances",
+          "rivalries",
+          "stadiums",
+          "management and staff",
+          "supporters and rivalries",
+          "honours",
+          "mascot",
+          "out on loan",
+          "academy",
+          "players",
+          "independent websites",
+          "in popular culture",
+          "club",
+          "1984\u20131996: george graham's arsenal",
+          "archived",
+          "external links",
+          "retrieved",
+          "contents",
+          "first-team squad",
+          "history",
+          "sources"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Martin_Keown",
+          "https://en.wikipedia.org/wiki/Premier_League%E2%80%93Football_League_gulf",
+          "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_Arsenal_F.C._season",
+          "https://en.wikipedia.org/wiki/History_of_Arsenal_F.C._(1966%E2%80%93present)"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:59:54.336565",
+          "depth": 0,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.872792",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_54139",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/History_of_Arsenal_F.C._(1966%E2%80%93present)",
+        "keywords": [
+          "wenger's arrival (1996\u20132003)",
+          "united",
+          "notes",
+          "their",
+          "further reading"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.76
+      },
+      "content": {
+        "title": "History of Arsenal F.C. (1966\u2013present) - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nThe first Double (1966\u201376)\n2\nTerry Neill and stagnation (1976\u201386)\n3\nGeorge Graham and interregnum (1986\u201396)\n4\nWenger's arrival (1996\u20132003)\n5\n\"The Invincibles\" and Champions League final (2003\u201306)\n6\nMove to the Emirates (2006\u201318)\n7\nPost-Wenger years (since 2018)\n8\nSee also\n9\nNotes\n10\nBibliography\n11\nFurther reading\nToggle the table of contents\nHistory of Arsenal F.C. (1966\u2013present)\n5 languages\n\u010ce\u0161tina\nItaliano\n\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\nMalti\nNorsk bokm\u00e5l\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nFor an account of the club's history before 1966, see\nHistory of Arsenal F.C. (1886\u20131966)\n.\nThe\nhistory of\nArsenal Football Club\nfrom 1966 to the present day\ncovers the third, fourth, and fifth periods of success in Arsenal's history, including three Doubles, a Cup Double, and success in European football, and an unbeaten league season.\nFollowing\nBertie Mee\n's appointment in 1966, Arsenal won the\nInter-Cities Fairs Cup\n, their first European trophy, in\n1969\u201370\n, and their first League and FA Cup\ndouble\nin\n1970\u201371\n. The Double-winning side, however, was soon broken up and the following decade was characterised by a series of near misses: Arsenal lost three FA Cup finals (\n1971\u201372\n,\n1977\u201378\n, and\n1979\u201380\n) and the 1979\u201380\nCup Winners' Cup\nfinal on\npenalties\n. The club's only success during this time was an FA Cup win in\n1978\u201379\nagainst\nManchester United\n.\nAfter stagnation in the 1980s, the return of former player\nGeorge Graham\nas manager in 1986 brought a third period of glory. Arsenal won the League Cup in\n1986\u201387\n, the\nFootball League Centenary Trophy\nin 1988, two League title wins in\n1988\u201389\nand\n1990\u201391\n, the FA Cup and League Cup double in\n1992\u201393\nand a second European trophy, the\nCup Winners' Cup\n, in\n1993\u201394\n. However, Graham's reputation was tarnished when it was revealed that he had taken kickbacks for signing certain players and he was sacked in 1995.\nArsenal's fifth period of success came with the appointment of\nArs\u00e8ne Wenger\nin 1996. Under him, Arsenal won a second league and cup double in\n1997\u201398\nand then a third in\n2001\u201302\n. In addition, the club were victorious in the\n2002\u201303\nand\n2004\u201305\nFA Cups, and won the Premier League in\n2003\u201304\nwithout losing a single match. In\n2005\u201306\nArsenal beca",
+        "topics": [
+          "wenger's arrival (1996\u20132003)",
+          "united",
+          "notes",
+          "their",
+          "further reading",
+          "final",
+          "season",
+          "club",
+          "contents",
+          "see also",
+          "the first double (1966\u201376)",
+          "league",
+          "arsenal",
+          "bibliography",
+          "post-wenger years (since 2018)"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Martin_Keown",
+          "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+          "https://en.wikipedia.org/wiki/History_of_Reading_F.C.",
+          "https://en.wikipedia.org/wiki/History_of_Arsenal_F.C._(1966%E2%80%93present)",
+          "https://en.wikipedia.org/wiki/History_of_Scunthorpe_United_F.C."
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:59:55.646742",
+          "depth": 1,
+          "relevance_score": 7.6000000000000005
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.873173",
+      "quality_score": 0.76
+    },
+    {
+      "id": "news_68504",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/History_of_Reading_F.C.",
+        "keywords": [
+          "early years (1871\u20131941)",
+          "new era (1990\u20131998)",
+          "march",
+          "league one struggles (2023\u2013)",
+          "after"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.8800000000000001
+      },
+      "content": {
+        "title": "History of Reading F.C. - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nEarly years (1871\u20131941)\n2\nPost-war years (1945\u20131990)\n3\nNew era (1990\u20131998)\n4\nOnwards and upwards (1998\u20132008)\n5\nRecent seasons (2008\u2013present)\nToggle Recent seasons (2008\u2013present) subsection\n5.1\nReturn to the Championship (2013\u20132023)\n5.2\nLeague One struggles (2023\u2013)\n6\nReferences\nToggle the table of contents\nHistory of Reading F.C.\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nReading's progress through the\nEnglish football league system\nfrom 1920 to present\nThe history of\nReading Football Club\ncovers almost 150 years of both success and failure of the\nfootball\nclub from\nReading\n, England. The club was established in 1871, making it one of the oldest professional teams in England. Reading joined the\nFootball League\nin 1920. The Royals competed at the top flight of English football for the first time in the\n2006\u201307 season\n.\nEarly years (1871\u20131941)\n[\nedit\n]\nReading Football Club was formed on 25 December 1871 by founder Joseph Edward Sydenham.\n[\n1\n]\nThey were originally nicknamed\nThe Biscuitmen\nafter one of the main trades in the town,\nHuntley & Palmers\nbiscuits, but changed to the\nRoyals\nin the 1970s, when the company closed their factory.\n[\n2\n]\nThis history is reflected in the name of the club's unofficial fanzine,\nHob Nob Anyone?\n, named after a popular British biscuit.\nThe switch to professionalism in 1895 resulted in the need for a bigger ground and, to this end, the club moved again, to the purpose-built\nElm Park\non 5 September 1896.\n[\n3\n]\n...without doubt, Reading FC are the finest foreign team seen in Italy.\nCorriere della Sera\nSupporters at a Reading match at\nElm Park\nin 1913\nIn 1913, Reading toured Italy and beat\nGenoa\n4\u20132 and\nAC Milan\n5\u20130, narrowly lost 2\u20131 to\nCasale\n, before beating Italian champions\nPro Vercelli\n6\u20130 and the full\nItaly national team\n2\u20130, prompting the leading sports newspaper\nCorriere della Sera\nto write \"without doubt, Reading FC are the finest foreign team seen in Italy.\"  Reading were invited back for another tour the following year, but there is no evidence it took place. It is possible it was cancelled due to the imminence of\nWorld War I\n, which claimed the lives of many Reading F.C. players, including\nAlan Foster\n, who put a hat-trick p",
+        "topics": [
+          "early years (1871\u20131941)",
+          "new era (1990\u20131998)",
+          "march",
+          "league one struggles (2023\u2013)",
+          "after",
+          "season",
+          "club",
+          "sport",
+          "retrieved",
+          "contents",
+          "history of reading f.c.",
+          "recent seasons (2008\u2013present)",
+          "onwards and upwards (1998\u20132008)",
+          "references",
+          "post-war years (1945\u20131990)",
+          "football",
+          "league",
+          "reading"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Madejski_Stadium",
+          "https://en.wikipedia.org/wiki/EFL_Championship",
+          "https://en.wikipedia.org/wiki/Michael_Gilkes_(footballer)",
+          "https://en.wikipedia.org/wiki/History_of_Newcastle_United_F.C.",
+          "https://en.wikipedia.org/wiki/BBC_Berkshire"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:59:57.420860",
+          "depth": 2,
+          "relevance_score": 8.8
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.873470",
+      "quality_score": 0.8800000000000001
+    },
+    {
+      "id": "news_98814",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/History_of_Scunthorpe_United_F.C.",
+        "keywords": [
+          "united",
+          "into the championship: 2006\u20132011",
+          "scunthorpe",
+          "early years: 1899\u20131958",
+          "iron"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.9200000000000002
+      },
+      "content": {
+        "title": "History of Scunthorpe United F.C. - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\nToggle History subsection\n1.1\nEarly years: 1899\u20131958\n1.2\nThe Second Division years: 1958\u20131964\n1.3\nDecline and stagnation: 1964\u20131987\n1.4\nNew home, new horizons: 1987\u20131997\n1.5\nThe Brian Laws era: 1997\u20132006\n1.6\nInto the Championship: 2006\u20132011\n1.7\nThe final Football League years: 2011\u20132022\n1.8\nNon-League: 2022\u2013present\n2\nReferences\nToggle the table of contents\nHistory of Scunthorpe United F.C.\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nHistory of an English football club\nChart of table positions of Scunthorpe in the Football League.\nScunthorpe United Football Club\nis a professional\nassociation football\nclub based in the town of\nScunthorpe\n, North Lincolnshire, England. The team compete in the\nNational League North\n, the sixth level of the\nEnglish football league system\n.\nThe club was formed in 1899 and turned professional after joining the\nMidland League\nin 1912. Crowned Midland League champions in the 1926\u201327 and 1938\u201339 campaigns, they were elected into the\nFootball League\nin 1950. They went on to secure promotion as champions of the\nThird Division North\nin 1957\u201358 and spent six seasons in the\nSecond Division\n, before they were relegated in 1964 and then down to the\nFourth Division\nin 1968. United spent 34 of the next 37 seasons in the basement tier, punctuated by one-season stays in the third tier after they secured promotions in 1971\u201372, 1982\u201383 and 1998\u201399.\nBrian Laws\nsaw the club promoted out of\nLeague Two\nat the end of the 2004\u201305 season and his successor,\nNigel Adkins\n, led the club to the\nLeague One\ntitle in 2006\u201307. Scunthorpe spent just one season in the\nChampionship\n, but victory in the\n2009 League One play-off final\nsaw the club promoted back into the Championship. They remained in the second tier until two relegations in as many years saw them back into the fourth tier by 2013. Scunthorpe were promoted to League One at the end of the 2013\u201314 campaign, before being relegated back to League Two in 2019. In 2022, the club was relegated to the National League, ending a 72-year spell in the Football League, and a year later were relegated again, to the National League North.\nHistory\n[\nedit\n]\nEarly years: 1899\u20131958\n[\nedit\n]\nScunthorpe United was forme",
+        "topics": [
+          "united",
+          "into the championship: 2006\u20132011",
+          "scunthorpe",
+          "early years: 1899\u20131958",
+          "iron",
+          "sport",
+          "season",
+          "club",
+          "decline and stagnation: 1964\u20131987",
+          "retrieved",
+          "contents",
+          "history",
+          "references",
+          "non-league: 2022\u2013present",
+          "football",
+          "league"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Football_League_One",
+          "https://en.wikipedia.org/wiki/2021%E2%80%9322_Scunthorpe_United_F.C._season",
+          "https://en.wikipedia.org/wiki/EFL_Championship",
+          "https://en.wikipedia.org/w/index.php?title=History_of_Scunthorpe_United_F.C.&action=edit&section=10",
+          "https://en.wikipedia.org/wiki/History_of_Newcastle_United_F.C."
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:59:58.607924",
+          "depth": 2,
+          "relevance_score": 9.200000000000001
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.873834",
+      "quality_score": 0.9200000000000002
+    },
+    {
+      "id": "news_81697",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=History_of_Arsenal_F.C._%281966%E2%80%93present%29&action=show-download-screen",
+        "keywords": [
+          "search",
+          "contact",
+          "tools",
+          "download",
+          "hide"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.45
+      },
+      "content": {
+        "title": "Download as PDF - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nLanguages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nDownload as PDF\nEnglish\nTools\nTools\nmove to sidebar\nhide\nActions\nGeneral\nUpload file\nPrintable version\nGet shortened URL\nDownload QR code\nIn other projects\nAppearance\nmove to sidebar\nhide\nHistory of Arsenal F.C. (1966\u2013present)\nDownload as PDF\nHistory_of_Arsenal_F.C._(1966\u2013present).pdf\nDownload\nRetrieved from \"\nhttps://en.wikipedia.org/wiki/Special:DownloadAsPdf\n\"\nPrivacy policy\nAbout Wikipedia\nDisclaimers\nContact Wikipedia\nCode of Conduct\nDevelopers\nStatistics\nCookie statement\nMobile view\nSearch\nSearch\nDownload as PDF\nAdd topic",
+        "topics": [
+          "search",
+          "contact",
+          "tools",
+          "download",
+          "hide",
+          "download as pdf",
+          "main",
+          "upload",
+          "file",
+          "move",
+          "learn",
+          "about",
+          "menu",
+          "wikipedia",
+          "sidebar"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Special:SpecialPages",
+          "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+          "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DSpecial%3ADownloadAsPdf%26action%3Dshow-download-screen%26page%3DHistory_of_Arsenal_F.C._%25281966%25E2%2580%2593present%2529",
+          "https://en.wikipedia.org/wiki/Special:RecentChanges",
+          "https://en.wikipedia.org/wiki/Special:MyContributions"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:59:59.909065",
+          "depth": 2,
+          "relevance_score": 4.5
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.874184",
+      "quality_score": 0.45
+    },
+    {
+      "id": "news_4553",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Category:History_of_football_clubs_in_England",
+        "keywords": [
+          "subcategories",
+          "united",
+          "wikipedia",
+          "present",
+          "football"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.44000000000000006
+      },
+      "content": {
+        "title": "Category:History of football clubs in England - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nCategory\n:\nHistory of football clubs in England\n3 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\n\u0641\u0627\u0631\u0633\u06cc\nTi\u1ebfng Vi\u1ec7t\nEdit links\nCategory\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nHelp\nFrom Wikipedia, the free encyclopedia\nAssociation football portal\nEnglish football portal\nEngland portal\nHistory portal\nSubcategories\nThis category has only the following subcategory.\nC\nHistory of Chelsea F.C.\n(1 C, 7 P)\nPages in category \"History of football clubs in England\"\nThe following 87 pages are in this category, out of  87 total.\nThis list may not reflect recent changes\n.\nA\nHistory of Arsenal F.C. (1886\u20131966)\nHistory of Arsenal F.C. (1966\u2013present)\nHistory of Aston Villa F.C. (1874\u20131961)\nHistory of Aston Villa F.C. (1961\u2013present)\nB\nHistory of Barnsley F.C.\nHistory of Bath City F.C.\nHistory of Birmingham City F.C. (1875\u20131965)\nHistory of Birmingham City F.C. (1965\u2013present)\nHistory of Blackburn Rovers F.C.\nHistory of Blackpool F.C. (1887\u20131962)\nHistory of Blackpool F.C. (1962\u2013present)\nHistory of Bolton Wanderers F.C.\nHistory of Bradford City A.F.C.\nHistory of Brentford F.C.\nHistory of Brighton & Hove Albion F.C.\nHistory of Bristol Rovers F.C.\nHistory of Burnley F.C.\nC\nHistory of Cambridge United F.C.\nHistory of Carlisle United F.C.\nHistory of Chester City F.C.\nHistory of Colchester United F.C.\nHistory of Coventry City F.C.\nHistory of Crystal Palace F.C.\nD\nHistory of Derby County F.C. (1884\u20131967)\nHistory of Derby County F.C. (1967\u2013present)\nE\nHistory of Everton F.C.\nHistory of Exeter City F.C.\nF\nHistory of Fulham F.C.\nG\nHistory of Gillingham F.C.\nH\nHistory of Hartlepool United F.C.\nHistory of Hereford United F.C.\nHistory of Huddersfield Town A.F.C.\nHistory of Hull City A.F.C.\nI\nHistory of Ipswich Town F.C.\nL\nHistory of Leeds United F.C.\nHistory of Leicester City F.C.\nHistory of Lincoln City F.C.\nHistory of Liverpool F.C. (1892\u20131959)\nHistory of Liverpool F.C. (1959\u20131985)\nHistory of Liverpool F.C. (1985\u2013present)\nHistory of Luton Town F.C. (1885\u20131970)\nHistory of Luton Town F.C. (1970\u2013present)\nM\nHistory of Manchester City F.C.\nHistory of Manchester City F.C. (1880\u20131928)\nHistory of Manchester City F.C. (1928\u20131965)\nHistory of Manchester City F.C. (1965\u20132001)\nHistory of Manchester City F.C. (2001\u2013present)\nHistory of Manchester United F.C. (1878\u20131945)\nHistory of Manchester United F.C. (1945\u20131969)\nHistory of Manchester United F.C. (1969\u2013198",
+        "topics": [
+          "subcategories",
+          "united",
+          "wikipedia",
+          "present",
+          "football",
+          "clubs",
+          "history",
+          "portal",
+          "city",
+          "town",
+          "category",
+          "england",
+          "manchester",
+          "edit"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Portal:History",
+          "https://en.wikipedia.org/w/index.php?title=Category:History_of_football_clubs_in_England&oldid=1295022289",
+          "https://en.wikipedia.org/wiki/History_of_Newcastle_United_F.C.",
+          "https://en.wikipedia.org/wiki/History_of_Bristol_Rovers_F.C.",
+          "https://en.wikipedia.org/wiki/History_of_Huddersfield_Town_A.F.C."
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:01.285680",
+          "depth": 2,
+          "relevance_score": 4.4
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.874500",
+      "quality_score": 0.44000000000000006
+    },
+    {
+      "id": "news_74368",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Martin_Keown",
+        "keywords": [
+          "premier",
+          "career statistics",
+          "honours",
+          "international",
+          "martin keown"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.6
+      },
+      "content": {
+        "title": "Martin Keown - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nClub career\nToggle Club career subsection\n1.1\nArsenal\n1.2\nAston Villa\n1.3\nEverton\n1.4\nReturn to Arsenal\n1.5\nLater career\n2\nInternational career\n3\nManagement and career outside football\n4\nCareer statistics\nToggle Career statistics subsection\n4.1\nClub\n4.2\nInternational\n5\nHonours\n6\nPersonal life\n7\nReferences\n8\nExternal links\nToggle the table of contents\nMartin Keown\n31 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\n\u062a\u06c6\u0631\u06a9\u062c\u0647\n\u010ce\u0161tina\nDansk\nDeutsch\nEspa\u00f1ol\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\nBahasa Indonesia\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nLatvie\u0161u\nMagyar\nMalagasy\n\u0645\u0635\u0631\u0649\nNederlands\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nNorsk nynorsk\nPolski\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nSimple English\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSuomi\nSvenska\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikiquote\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nFormer English footballer, coach, and scout\nMartin Keown\nKeown in 2015\nPersonal information\nFull name\nMartin Raymond Keown\n[\n1\n]\nDate of birth\n(\n1966-07-24\n)\n24 July 1966\n(age\u00a058)\n[\n1\n]\nPlace of birth\nOxford\n, England\nHeight\n6\u00a0ft 1\u00a0in (1.85\u00a0m)\n[\n2\n]\nPosition(s)\nCentre Back\nYouth career\n1980\u20131984\nArsenal\nSenior career*\nYears\nTeam\nApps\n(\nGls\n)\n1984\u20131986\nArsenal\n22\n(0)\n1985\n\u2192\nBrighton & Hove Albion\n(loan)\n23\n(1)\n1986\u20131989\nAston Villa\n112\n(3)\n1989\u20131993\nEverton\n96\n(0)\n1993\u20132004\nArsenal\n310\n(4)\n2004\u20132005\nLeicester City\n17\n(0)\n2005\nReading\n5\n(0)\n2012\nWembley\n0\n(0)\nTotal\n585\n(8)\nInternational career\n1983\nEngland U17\n3\n(0)\n1983\nEngland Youth\n1\n(0)\n1987\u20131988\nEngland U21\n8\n(0)\n1991\nEngland B\n1\n(0)\n1992\u20132002\nEngland\n43\n(2)\n*Club domestic league appearances and goals\nMartin Raymond Keown\n(\n/\n\u02c8\nk\ni\u02d0\no\u028a\nn\n/\nKyohn\n; born 24 July 1966) is an English\nfootball\npundit and former professional footballer. A\ndefender\n, he played from 1984 to 2005, notably in the\nPremier League\nfor\nArsenal\n, where he made over 400 appearances for the club and won ten honours.\nKeown also played for\nBrighton & Hove Albion\n,\nAston Villa\n,\nEverton\n,\nLeicester City\nand\nReading\n. He made his England debut in 1992 against\nFrance\nand went on to win 43 caps for the national side over the next ten years, gradually forming a respected defensive partnership with Arsenal teammate\nTony Adams\nat both club and international level. Keown represented England at four major international football finals: the\n1998\nand\n2002\nWorl",
+        "topics": [
+          "premier",
+          "career statistics",
+          "honours",
+          "international",
+          "martin keown",
+          "personal life",
+          "return to arsenal",
+          "everton",
+          "international career",
+          "season",
+          "club career",
+          "aston villa",
+          "external links",
+          "retrieved",
+          "contents",
+          "keown",
+          "references",
+          "england",
+          "later career",
+          "league",
+          "arsenal",
+          "martin",
+          "edit"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Martin_Keown",
+          "https://en.wikipedia.org/wiki/FA_Community_Shield",
+          "https://en.wikipedia.org/wiki/EFL_Championship",
+          "https://en.wikipedia.org/wiki/Category:Leicester_City_F.C._players",
+          "https://en.wikipedia.org/wiki/Steve_Bould"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:02.467910",
+          "depth": 1,
+          "relevance_score": 6.0
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.874826",
+      "quality_score": 0.6
+    },
+    {
+      "id": "news_64416",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/FA_Community_Shield",
+        "keywords": [
+          "united",
+          "notes",
+          "permanent venues",
+          "manchester",
+          "records"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.44000000000000006
+      },
+      "content": {
+        "title": "FA Community Shield - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\n2\nRules\n3\nStatus\n4\nRecords\n5\nVenues\nToggle Venues subsection\n5.1\nPermanent venues\n5.2\nNeutral and guest host venues\n5.2.1\nNotes\n6\nWinners\nToggle Winners subsection\n6.1\nBy year\n6.2\nBy number of wins (clubs)\n6.3\nBy number of wins (other)\n7\nWinners and runners-up by competition\n8\nReferences\n9\nExternal links\nToggle the table of contents\nFA Community Shield\n59 languages\nAfrikaans\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAsturianu\nAz\u0259rbaycanca\nBasa Bali\n\u09ac\u09be\u0982\u09b2\u09be\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nBosanski\nBrezhoneg\nCatal\u00e0\n\u010ce\u0161tina\nCymraeg\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\nGalego\n\ud55c\uad6d\uc5b4\n\u0540\u0561\u0575\u0565\u0580\u0565\u0576\nHrvatski\nBahasa Indonesia\n\u00cdslenska\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nJawa\n\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8\n\u049a\u0430\u0437\u0430\u049b\u0448\u0430\nLatvie\u0161u\nLietuvi\u0173\nMagyar\n\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02\nMalti\nBahasa Melayu\nNederlands\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nPolski\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nShqip\nSimple English\nSloven\u010dina\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSuomi\nSvenska\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\n\u5434\u8bed\n\u7cb5\u8a9e\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAssociation Football championship game\nThis article is about the men's match. For the women's match, see\nWomen's FA Community Shield\n.\nFootball tournament\nFA Community Shield\nOrganising body\nThe Football Association\nFounded\n1908\n; 117\u00a0years ago\n(\n1908\n)\nRegion\nEngland\nNumber of teams\n2\nRelated competitions\nSheriff of London Charity Shield\n(predecessor)\nFA Cup\n(qualifier)\nPremier League\n(qualifier)\nCurrent champions\nManchester City\n(7th title)\nMost successful club(s)\nManchester United\n(21 titles)\nTelevision broadcasters\nTNT Sports (United Kingdom)\nSky Sports\nBBC Sport\nWebsite\nthefa.com/communityshield\n2025 FA Community Shield\nThe\nFootball Association Community Shield\n(formerly the\nCharity Shield\n) is\nEnglish football\n's annual match contested at\nWembley Stadium\nbetween the champions of the previous\nPremier League\nseason and the holders of the\nFA Cup\n. If the Premier League champions also won the FA Cup, then the league runners-up provide the opposition. The fixture is recognised as a competitive\nsuper cup\nby\nthe Football Association\n[\n1\n]\n[\n2\n]\n[\n3\n]\nand\nUEFA\n.\n[\n4\n]\n[\n5\n]\n[\n6\n]\nOrganised by the FA, proceeds from the game are distributed to community initiatives and charities around the country. Revenue from the gate receipts and match programme s",
+        "topics": [
+          "united",
+          "notes",
+          "permanent venues",
+          "manchester",
+          "records",
+          "winners",
+          "archived",
+          "external links",
+          "shield",
+          "retrieved",
+          "contents",
+          "community",
+          "history",
+          "fa community shield",
+          "venues",
+          "by year",
+          "references",
+          "original",
+          "august",
+          "football",
+          "league",
+          "charity",
+          "status",
+          "rules"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/FA_Community_Shield",
+          "https://en.wikipedia.org/wiki/Wembley_Stadium_(1923)",
+          "https://en.wikipedia.org/wiki/EFL_Championship",
+          "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+          "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=FA_Community_Shield&action=show-download-screen"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:03.672801",
+          "depth": 2,
+          "relevance_score": 4.4
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.875164",
+      "quality_score": 0.44000000000000006
+    },
+    {
+      "id": "news_58503",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/EFL_Championship",
+        "keywords": [
+          "united",
+          "league structure",
+          "historic performance",
+          "championship",
+          "efl championship"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.6
+      },
+      "content": {
+        "title": "EFL Championship - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\n2\nLeague structure\n3\nCurrent members\n4\nResults\nToggle Results subsection\n4.1\nLeague champions, runners-up and play-off finalists\n4.2\nRelegated teams (from Championship to League One)\n4.3\nRelegated teams (from Premier League to Championship)\n4.4\nPromoted teams (from League One to Championship)\n5\nTop scorers\n6\nAttendances\n7\nHistoric performance\n8\nSee also\n9\nReferences\n10\nExternal links\nToggle the table of contents\nEFL Championship\n63 languages\nAfrikaans\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAsturianu\nAz\u0259rbaycanca\n\u062a\u06c6\u0631\u06a9\u062c\u0647\n\u09ac\u09be\u0982\u09b2\u09be\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nBosanski\nCatal\u00e0\n\u010ce\u0161tina\nCymraeg\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\nGaeilge\nGalego\n\ud55c\uad6d\uc5b4\n\u0540\u0561\u0575\u0565\u0580\u0565\u0576\nHrvatski\nBahasa Indonesia\n\u00cdslenska\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nJawa\n\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8\n\u049a\u0430\u0437\u0430\u049b\u0448\u0430\nLatvie\u0161u\nL\u00ebtzebuergesch\nLietuvi\u0173\nMagyar\n\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\nBahasa Melayu\nNederlands\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nNorsk nynorsk\nPolski\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nScots\nShqip\nSimple English\nSloven\u010dina\n\u06a9\u0648\u0631\u062f\u06cc\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSuomi\nSvenska\n\u1010\u1086\u1038\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\n\u5434\u8bed\n\u7cb5\u8a9e\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nEnglish football league\n\"English Championship\" redirects here. For the golf tournament, see\nEnglish Championship (golf)\n. For the defunct South African golf tournament which used its former sponsored name \"Coca-Cola Championship\", see\nCoca-Cola Charity Championship\n. For the Indonesian second division using similar name, see\nChampionship (Indonesia)\n.\nFootball league\nEFL Championship\nFounded\n1892\n; 133\u00a0years ago\n(\n1892\n)\n(as Football League Second Division)\n1992\n; 33\u00a0years ago\n(\n1992\n)\nas (Football League First Division)\n2004\n; 21\u00a0years ago\n(\n2004\n)\n(as Football League Championship)\n2016\n; 9\u00a0years ago\n(\n2016\n)\n(as EFL Championship)\nCountry\nEngland\nOther club(s) from\nWales\nNumber of clubs\n24\nLevel on pyramid\n2\nPromotion\nto\nPremier League\nRelegation\nto\nEFL League One\nDomestic cup(s)\nFA Cup\nLeague cup(s)\nEFL Cup\nInternational cup(s)\nUEFA Europa League\n(via\nFA Cup\n)\nUEFA Conference League\n(via\nEFL Cup\n)\nCurrent champions\nLeeds United\n2nd title and 5th\nsecond-tier\ntitle\n(\n2024\u201325\n)\nMost championships\nLeicester City\n(8 titles)\nBroadcaster(s)\nList of broadcasters\nWebsite\nOfficial website\nCurrent:\n2025\u201326 EFL Championship\nThe\nEnglish Footba",
+        "topics": [
+          "united",
+          "league structure",
+          "historic performance",
+          "championship",
+          "efl championship",
+          "season",
+          "archived",
+          "external links",
+          "retrieved",
+          "play",
+          "contents",
+          "history",
+          "current members",
+          "city",
+          "see also",
+          "references",
+          "original",
+          "football",
+          "league",
+          "top scorers",
+          "results",
+          "attendances"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/FA_Community_Shield",
+          "https://en.wikipedia.org/wiki/Premier_League%E2%80%93Football_League_gulf",
+          "https://en.wikipedia.org/wiki/English_Football_League_play-offs",
+          "https://en.wikipedia.org/wiki/Category:National_championships_in_England",
+          "https://en.wikipedia.org/wiki/EFL_Championship"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:05.074636",
+          "depth": 2,
+          "relevance_score": 6.0
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.875517",
+      "quality_score": 0.6
+    },
+    {
+      "id": "news_60044",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Category:Leicester_City_F.C._players",
+        "keywords": [
+          "subcategories",
+          "john",
+          "leicester",
+          "contents",
+          "page"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.44000000000000006
+      },
+      "content": {
+        "title": "Category:Leicester City F.C. players - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nCategory\n:\nLeicester City F.C. players\n57 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAz\u0259rbaycanca\n\u062a\u06c6\u0631\u06a9\u062c\u0647\n\u09ac\u09be\u0982\u09b2\u09be\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nBosanski\n\u010ce\u0161tina\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\nGaelg\nGalego\n\ud55c\uad6d\uc5b4\n\u0540\u0561\u0575\u0565\u0580\u0565\u0576\nHrvatski\nBahasa Indonesia\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\n\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8\n\u049a\u0430\u0437\u0430\u049b\u0448\u0430\nLatvie\u0161u\nMagyar\n\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\nMalti\n\u0645\u0635\u0631\u0649\nBahasa Melayu\n\u041c\u043e\u043d\u0433\u043e\u043b\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nNorsk nynorsk\nO\u02bbzbekcha / \u045e\u0437\u0431\u0435\u043a\u0447\u0430\nPolski\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nScots\nShqip\nSimple English\nSloven\u010dina\nSloven\u0161\u010dina\n\u06a9\u0648\u0631\u062f\u06cc\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSrpskohrvatski / \u0441\u0440\u043f\u0441\u043a\u043e\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0438\nSvenska\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\n\u7cb5\u8a9e\n\u4e2d\u6587\nEdit links\nCategory\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nHelp\nFrom Wikipedia, the free encyclopedia\nWikimedia Commons has media related to\nPlayers of Leicester City FC\n.\nThis is a category for\nLeicester City F.C.\nplayers past and present.\nContents\nTop\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nSubcategories\nThis category has only the following subcategory.\nW\nLeicester City F.C. wartime guest players\n(20 P)\nPages in category \"Leicester City F.C. players\"\nThe following 200 pages are in this category, out of approximately 1,120 total.\nThis list may not reflect recent changes\n.\n(previous page) (\nnext page\n)\nList of Leicester City F.C. players\nA\nPatrick van Aanholt\nAzeem Abdulai\nYuki Abe\nCharlie Adam (footballer, born 1919)\nNicky Adams\nHugh Adcock\nSteve Agnew\nAndy Aitken (footballer, born 1877)\nAstrit Ajdarevi\u0107\nYunus Akg\u00fcn\nAde Akinbiyi\nMarc Albrighton\nBrian Alderson (footballer)\nHarry Allen (footballer, born 1879)\nJohn Allen (footballer, born 1955)\nRobert Alleyne\nDick Allman\nThomas Allsopp\nBen Alnwick\nWill Alves\nDaniel Amartey\nJohnny Anderson (footballer)\nIan Andrews\nBrendel Anstey\nColin Appleton\nGeorge Armstrong (footballer)\nPegguy Arphexad\nHarry Ashby (footballer)\nJon Ashton\nJames Atherton (footballer, born 1872)\nSeptimus Atterbury\nJordan Ayew\nB\nErnie Bacon\nHarry Bailey (footballer)\nHorace Bailey\nJoe Baillie\nJohn Baird (footballer, born 1870)\nZoumana Bakayogo\nJimmy Baldwin\nAlf Ball (footballer, born 1873)\nMichael Ball (footballer)\nSol Bamba\nJack Bamber\nGordon Banks\nIan Banks (footballer)\nBilly Bannister\nJason Banton\nIan Baraclough\nBert Barlow\nJack Barmby\nHarvey Barnes\nAlf Barratt\nBilly Barrett\nConnor Barrett (footballer)\nMarcel Barrington\nLeonard Barry\nJames Baxter (footballer, bor",
+        "topics": [
+          "subcategories",
+          "john",
+          "leicester",
+          "contents",
+          "page",
+          "jack",
+          "brown",
+          "campbell",
+          "city",
+          "players",
+          "pages",
+          "category:leicester city f.c. players",
+          "born",
+          "category",
+          "footballer",
+          "wikipedia"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Sid_Bishop_(footballer,_born_1900)",
+          "https://en.wikipedia.org/wiki/DJ_Campbell",
+          "https://en.wikipedia.org/wiki/Steve_Corica",
+          "https://en.wikipedia.org/wiki/Jordan_Ayew",
+          "https://en.wikipedia.org/wiki/Harold_Brittan"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:06.156903",
+          "depth": 2,
+          "relevance_score": 4.4
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.875856",
+      "quality_score": 0.44000000000000006
+    },
+    {
+      "id": "news_64565",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Steve_Bould",
+        "keywords": [
+          "premier",
+          "managerial",
+          "sunderland",
+          "team",
+          "career statistics"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.9200000000000002
+      },
+      "content": {
+        "title": "Steve Bould - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nClub career\nToggle Club career subsection\n1.1\nStoke City\n1.2\nArsenal\n1.3\nSunderland\n2\nInternational career\n3\nCoaching career\n4\nCareer statistics\nToggle Career statistics subsection\n4.1\nClub\n4.2\nInternational\n4.3\nManagerial\n5\nHonours\n6\nReferences\n7\nExternal links\nToggle the table of contents\nSteve Bould\n22 languages\n\u062a\u06c6\u0631\u06a9\u062c\u0647\n\u09ac\u09be\u0982\u09b2\u09be\n\u010ce\u0161tina\nDansk\nDeutsch\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\n\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\n\u0645\u0635\u0631\u0649\nNederlands\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nPolski\nPortugu\u00eas\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nSvenska\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nEnglish football coach (born 1962)\nSteve Bould\nBould as Arsenal's assistant manager in 2014\nPersonal information\nFull name\nStephen Andrew Bould\n[\n1\n]\nDate of birth\n(\n1962-11-16\n)\n16 November 1962\n(age\u00a062)\n[\n1\n]\nPlace of birth\nStoke-on-Trent\n, England\n[\n1\n]\nHeight\n6\u00a0ft 4\u00a0in (1.93\u00a0m)\n[\n2\n]\nPosition(s)\nCentre back\nTeam information\nCurrent team\nQueens Park Rangers\n(first team coach)\nYouth career\n1978\u20131980\nStoke City\nSenior career*\nYears\nTeam\nApps\n(\nGls\n)\n1980\u20131988\nStoke City\n183\n(6)\n1982\n\u2192\nTorquay United\n(loan)\n9\n(0)\n1988\u20131999\nArsenal\n287\n(5)\n1999\u20132000\nSunderland\n21\n(0)\nTotal\n500\n(11)\nInternational career\n1994\nEngland B\n1\n(1)\n1994\nEngland\n2\n(0)\nManagerial career\n2012\u20132019\nArsenal\n(assistant)\n2022\u20132025\nLommel\n*Club domestic league appearances and goals\nStephen Andrew Bould\n(born 16 November 1962) is an English football coach and former professional\nfootballer\nwho is currently first team coach of\nEFL Championship\nclub\nQueens Park Rangers\n.\nAs a player, he was a\ndefender\nfrom 1980 until 2000. Bould began his football career with his hometown club\nStoke City\nwhere he gained a reputation as an impressive young defender. After spending seven seasons with the Potters, and becoming one of English football's most coveted\ncentre backs\n, he moved to\nArsenal\nin 1988. At\nHighbury\n, he formed a formidable back line with\nTony Adams\n,\nNigel Winterburn\nand his former Stoke teammate\nLee Dixon\n. He left the Gunners in 1999 and ended his playing career with\nSunderland\n.\n[\n1\n]\nSince his playing career ended, Bould has worked at the successful\nArsenal Academy\nas Head Youth Team Coach at\nArsenal\n. He was promoted to assistant manager at the start of the 2012\u201313 season",
+        "topics": [
+          "premier",
+          "managerial",
+          "sunderland",
+          "team",
+          "career statistics",
+          "honours",
+          "coaching career",
+          "international",
+          "bould",
+          "steve",
+          "stoke",
+          "club",
+          "international career",
+          "club career",
+          "external links",
+          "stoke city",
+          "contents",
+          "first",
+          "references",
+          "career",
+          "steve bould",
+          "league",
+          "arsenal",
+          "edit"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Martin_Keown",
+          "https://en.wikipedia.org/wiki/Football_League_Division_One",
+          "https://en.wikipedia.org/wiki/EFL_Championship",
+          "https://en.wikipedia.org/wiki/Category:CS1_Dutch-language_sources_(nl)",
+          "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C."
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:07.314492",
+          "depth": 2,
+          "relevance_score": 9.200000000000001
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.876185",
+      "quality_score": 0.9200000000000002
+    },
+    {
+      "id": "news_52452",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Premier_League%E2%80%93Football_League_gulf",
+        "keywords": [
+          "united",
+          "premier",
+          "1990s",
+          "second season syndrome",
+          "their"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Premier League\u2013Football League gulf - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nFinance\n2\nCurse of Christmas\n3\nUnexpected performances\nToggle Unexpected performances subsection\n3.1\n1990s\n3.2\n2000s\n3.3\n2010s\n3.4\n2020s\n3.5\nSecond season syndrome\n4\nProject Big Picture\n5\nSee also\n6\nReferences\nToggle the table of contents\nPremier League\u2013Football League gulf\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nRift between the top two tiers of English football\nThis article\npossibly contains\noriginal research\n.\nPlease\nimprove it\nby\nverifying\nthe claims made and adding\ninline citations\n. Statements consisting only of original research should be removed.\n(\nAugust 2017\n)\n(\nLearn how and when to remove this message\n)\nIn\nEnglish football\n, a gulf has arisen between the finances of clubs from the\nPremier League\nand\nEnglish Football League\nsince the First Division clubs broke away to form the Premier League in 1992. Some have argued that this disparity is wider than in other European leagues where the top flight is combined with at least one division below in a league, such as\nGermany\n's\nBundesliga\n,\nItaly\n's\nSerie A\nand\nSpain\n's\nLa Liga\n. However, England has five tiers of single national divisions, compared to only two in Spain and Italy and three in Germany.\nFinance\n[\nedit\n]\nSince the Premier League began at the start of the\n1992\u201393 season\n, its member teams have received larger amounts of money in TV rights than their Football League colleagues. Prior to the formation of the Premier League, television revenues from top flight matches were shared between the 92 Football League clubs across four unified national professional divisions. The breakaway of 22 clubs to form the Premier League resulted in top flight revenues being shared exclusively between Premier League clubs.\n[\n1\n]\nThe Premier League agreed to maintain the\npromotion and relegation\nof three clubs with the Football League, but the Football League was now in a far weaker position \u2013 without its best clubs and without the clout to negotiate high revenue TV deals. This problem was exacerbated in 2002 when\nITV Digital\n, the holder of the TV rights for the Football League, went into administration. Many League clubs had invested in ground improvements and the player transfer market with anticipated televisi",
+        "topics": [
+          "united",
+          "premier",
+          "1990s",
+          "second season syndrome",
+          "their",
+          "curse of christmas",
+          "finance",
+          "project big picture",
+          "after",
+          "relegated",
+          "points",
+          "were",
+          "season",
+          "unexpected performances",
+          "2000s",
+          "contents",
+          "premier league\u2013football league gulf",
+          "2010s",
+          "city",
+          "see also",
+          "references",
+          "2020s",
+          "league"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/FA_Community_Shield",
+          "https://en.wikipedia.org/wiki/Premier_League%E2%80%93Football_League_gulf",
+          "https://en.wikipedia.org/wiki/Professional_Development_League#Under-21_level",
+          "https://en.wikipedia.org/wiki/EFL_Championship",
+          "https://en.wikipedia.org/wiki/2006%E2%80%9307_in_English_football"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:09.231024",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.876523",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_25094",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Professional_Development_League#Under-21_level",
+        "keywords": [
+          "under",
+          "premier",
+          "professional",
+          "development",
+          "under-18 level"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.44000000000000006
+      },
+      "content": {
+        "title": "Professional Development League - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nUnder-21 level\nToggle Under-21 level subsection\n1.1\nPremier League 2\n1.1.1\nChampions (Division 1)\n1.1.2\nChampions (Division 2)\n1.2\nProfessional Development League\n1.2.1\nChampions\n2\nUnder-18 level\nToggle Under-18 level subsection\n2.1\nDivision 1\n2.1.1\nChampions\n2.1.2\n2022\u201323 teams\n2.2\nDivision 2\n2.2.1\nChampions\n3\nReferences\nToggle the table of contents\nProfessional Development League\n7 languages\n\u010ce\u0161tina\nEspa\u00f1ol\nFran\u00e7ais\nGalego\n\u65e5\u672c\u8a9e\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nTi\u1ebfng Vi\u1ec7t\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nFor the American league, see\nPremier Development League\n.\nFor the new American minor league baseball system, see\nProfessional Development Leagues\n.\nThe\nProfessional Development League\nis a system of\nEnglish\nyouth\nfootball\nleagues that are managed, organised and controlled by the\nPremier League\nor by the\nFootball League\n. It was introduced by the\nFootball Association\nvia the\nElite Player Performance Plan\nin 2012.\n[\n1\n]\nThe system was introduced in early 2012 and was active for the first time during the 2012\u201313 season. It is a successor to the\nPremier Reserve League\n,\nPremier Academy League\nand\nFootball Combination\n. The\nFootball League Youth Alliance\nmakes up League 2 of the under-18 system. The system covers the under-18 and under-21 groups.\nPreviously, clubs participating in the Premier Reserve League (the highest level of reserve football in England) were removed from the competition if their first team in the Premier League were relegated and replaced with a promoted team. Under the Professional Development League system, Premier League reserves teams' league status is not directly linked to the first team's Premier League status. Instead, there are three different Professional Development Leagues at each age-group level and clubs in the top four tiers of the\nEnglish football league system\nare placed in the system based on the assessment of their academy for the Elite Player Performance Plan.\nUnder-21 level\n[\nedit\n]\nPremier League 2\n[\nedit\n]\nFootball league\nPremier League 2\nDomestic cup(s)\nPremier League Cup\nNational League Cup\nEFL Trophy\nInternational cup(s)\nPremier League International Cup\nCurrent champions\nManchester City\n(4th title)\nMost championships\nManchester Cit",
+        "topics": [
+          "under",
+          "premier",
+          "professional",
+          "development",
+          "under-18 level",
+          "manchester",
+          "champions (division 2)",
+          "youth",
+          "professional development league",
+          "premier league 2",
+          "division 2",
+          "contents",
+          "2022\u201323 teams",
+          "city",
+          "champions (division 1)",
+          "division 1",
+          "references",
+          "under-21 level",
+          "football",
+          "league",
+          "champions",
+          "edit"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+          "https://en.wikipedia.org/wiki/Swansea_City_A.F.C._Reserves",
+          "https://en.wikipedia.org/wiki/Category:Youth_football_leagues_in_England",
+          "https://en.wikipedia.org/wiki/Blackburn_Rovers_F.C._Under-23s_and_Academy",
+          "https://en.wikipedia.org/wiki/England_national_under-21_football_team"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:10.354264",
+          "depth": 2,
+          "relevance_score": 4.4
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.876855",
+      "quality_score": 0.44000000000000006
+    },
+    {
+      "id": "news_48393",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/2006%E2%80%9307_in_English_football",
+        "keywords": [
+          "united",
+          "diary of the season",
+          "notable debutants",
+          "managerial changes",
+          "league football"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.72
+      },
+      "content": {
+        "title": "2006\u201307 in English football - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nOverview\n2\nDiary of the season\nToggle Diary of the season subsection\n2.1\nClubs removed\n3\nManagerial changes\n4\nNational team\n5\nHonours\nToggle Honours subsection\n5.1\nLeague football\n5.2\nNon-league football\n6\nEuropean qualification\n7\nLeague tables\nToggle League tables subsection\n7.1\nFA Premier League\n7.2\nFootball League Championship\n7.3\nFootball League One\n7.4\nFootball League Two\n8\nMonthly awards\n9\nTransfer deals\n10\nNotable debutants\n11\nRetirements\n12\nDeaths\n13\nSee also\n14\nReferences\nToggle the table of contents\n2006\u201307 in English football\n5 languages\nEspa\u00f1ol\nLietuvi\u0173\n\u0645\u0635\u0631\u0649\nNederlands\nT\u00fcrk\u00e7e\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\n127th season of competitive association football in England\nThis article\nneeds additional citations for\nverification\n.\nPlease help\nimprove this article\nby\nadding citations to reliable sources\n. Unsourced material may be challenged and removed.\nFind sources:\n\"2006\u201307 in English football\"\n\u2013\nnews\n\u00b7\nnewspapers\n\u00b7\nbooks\n\u00b7\nscholar\n\u00b7\nJSTOR\n(\nSeptember 2013\n)\n(\nLearn how and when to remove this message\n)\nFootball in England\nSeason\n2006\u201307\nMen's football\nFA Premier League\nManchester United\nChampionship\nSunderland\nLeague One\nScunthorpe United\nLeague Two\nWalsall\nConference National\nDagenham & Redbridge\nFA Cup\nChelsea\nLeague Cup\nChelsea\nCommunity Shield\nLiverpool\n\u2190\n2005\u201306\n2007\u201308\n\u2192\nThe new\nWembley Stadium\nwas completed in time for the 2006\u201307 season's\nFA Cup\nFinal\n.\nThe\n2006\u201307 season\nwas the 127th season of competitive\nassociation football in England\n.\nOverview\n[\nedit\n]\nManchester United regain the league title for the first time in four years, overcoming a stiff challenge from defending champions Chelsea to be crowned Premier League victors for the 9th time in 16 seasons\nThe number of divisions at Level 8 of the\nEnglish football league system\nincreased from four to five.  Level 9 decreased from fifteen divisions to fourteen.\nWembley Stadium\nwas completed to host the\nFA Cup\nFinal,\n[\n1\n]\nhowever it was not ready for the\nnational team\n's first three\n2008 UEFA European Football Championship\nhome qualifiers.  The three matches were played at\nOld Trafford\nin Manchester.\nArsenal\nmoved into their new home, the 60,000-capacity\nEmirates Stadium\n.\n[\n2\n]\nEmirates\nbecame t",
+        "topics": [
+          "united",
+          "diary of the season",
+          "notable debutants",
+          "managerial changes",
+          "league football",
+          "football league two",
+          "honours",
+          "retirements",
+          "football league championship",
+          "overview",
+          "sport",
+          "deaths",
+          "national team",
+          "retrieved",
+          "football league one",
+          "contents",
+          "monthly awards",
+          "april",
+          "city",
+          "see also",
+          "2006\u201307 in english football",
+          "references",
+          "league tables",
+          "fa premier league",
+          "european qualification"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Football_League_One",
+          "https://en.wikipedia.org/w/index.php?title=2006%E2%80%9307_in_English_football&action=edit&section=",
+          "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+          "https://en.wikipedia.org/wiki/John_Gorman_(footballer)",
+          "https://en.wikipedia.org/wiki/Terry_Butcher"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:11.999401",
+          "depth": 2,
+          "relevance_score": 7.2
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.877182",
+      "quality_score": 0.72
+    },
+    {
+      "id": "news_46608",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+        "keywords": [
+          "united",
+          "notable managers",
+          "notes",
+          "further reading",
+          "wednesday"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Sheffield Wednesday F.C. - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\nToggle History subsection\n1.1\nEarly years (1867\u20131889)\n1.2\nProfessional football, English Champions and FA Cup winners (1889\u20131939)\n1.3\nThe yo-yo years (1945\u20131959)\n1.4\nBack in the top flight and title contenders (1959\u20131970)\n1.5\nDarkest days and the fight back to the top (1970\u20131984)\n1.6\nLife at the top of the Premier League and European Football (1984\u20132000)\n1.7\nModern highs and lows (2000\u20132014)\n1.8\nThe Chansiri era (2014\u2013present)\n2\nNickname, kits, crest and traditions\nToggle Nickname, kits, crest and traditions subsection\n2.1\nNickname\n2.2\nKits\n2.3\nCrest\n2.4\nMascots\n3\nStadium\nToggle Stadium subsection\n3.1\nPast stadiums\n3.2\nHillsborough Stadium\n4\nSupporters\n5\nRivalry\n6\nEuropean record\n7\nFormer players and managers\nToggle Former players and managers subsection\n7.1\nFormer players\n7.2\nNotable managers\n8\nPlayers\nToggle Players subsection\n8.1\nFirst team squad\n8.2\nAcademy\n9\nFirst team staff\n10\nChairman and directors\n11\nRecords and statistics\n12\nHonours\n13\nNotes\n14\nReferences\n15\nFurther reading\n16\nExternal links\nToggle the table of contents\nSheffield Wednesday F.C.\n51 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\n\u062a\u06c6\u0631\u06a9\u062c\u0647\n\u09ac\u09be\u0982\u09b2\u09be\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nBosanski\nCatal\u00e0\n\u010ce\u0161tina\nCymraeg\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nFran\u00e7ais\n\ud55c\uad6d\uc5b4\nHrvatski\nBahasa Indonesia\n\u00cdslenska\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nLatvie\u0161u\nL\u00ebtzebuergesch\nLietuvi\u0173\nMagyar\n\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\n\u0645\u0635\u0631\u0649\nNederlands\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nNorsk nynorsk\n\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40\nPolski\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nScots\nSimple English\nSloven\u010dina\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSuomi\nSvenska\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\n\u7cb5\u8a9e\nZazaki\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nView source\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nView source\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAssociation football club in England\nThis article is about the men's team. For the women's team, see\nSheffield Wednesday L.F.C.\nFootball club\nSheffield Wednesday\nFull name\nSheffield Wednesday Football Club\nNickname(s)\nThe Owls\nShort name\nSWFC\nFounded\n4\u00a0September 1867\n; 157 years ago\n(\n1867-09-04\n)\nas The Wednesday\nGround\nHillsborough Stadium\nCapacity\n39,732\nOwner\nDejphon Chansiri\nChairman\nDejphon Chansiri\nManager\nDanny R\u00f6hl\nLeague\nEFL Championship\n2024\u201325\nEFL Championship\n, 12th of 24\nWebsite\nswfc\n.co\n.uk\nHome colours\nAway colours\nThird colours\nCurrent season\nSheffield Wednesday Football Club\ni",
+        "topics": [
+          "united",
+          "notable managers",
+          "notes",
+          "further reading",
+          "wednesday",
+          "rivalry",
+          "honours",
+          "records and statistics",
+          "academy",
+          "nickname",
+          "hillsborough stadium",
+          "players",
+          "mascots",
+          "european record",
+          "club",
+          "season",
+          "stadium",
+          "external links",
+          "sheffield wednesday f.c.",
+          "retrieved",
+          "contents",
+          "early years (1867\u20131889)",
+          "history",
+          "supporters",
+          "first"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Premier_League%E2%80%93Football_League_gulf",
+          "https://en.wikipedia.org/wiki/Away_colours",
+          "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+          "https://en.wikipedia.org/wiki/Millmoor_Juniors_F.C._Ladies",
+          "https://en.wikipedia.org/wiki/Special:BookSources/1-874287-17-1"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:13.374468",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.877486",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_80332",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Away_colours",
+        "keywords": [
+          "national hockey league",
+          "colours",
+          "other leagues",
+          "white",
+          "away"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Away colours - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nAmerican football\nToggle American football subsection\n1.1\nNational Football League\n1.1.1\nWhite at home, colour away\n1.2\nOther leagues\n2\nAssociation football\nToggle Association football subsection\n2.1\nHistory in European football\n2.2\nFIFA World Cup\n3\nAustralian rules football\n4\nBaseball\nToggle Baseball subsection\n4.1\nMajor League Baseball\n5\nBasketball\n6\nCricket\n7\nIce hockey\nToggle Ice hockey subsection\n7.1\nNational Hockey League\n8\nNetball\n9\nRugby union\n10\nInternational rules\n11\nReferences\n12\nExternal links\nToggle the table of contents\nAway colours\n11 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAz\u0259rbaycanca\n\u062a\u06c6\u0631\u06a9\u062c\u0647\nDansk\nEspa\u00f1ol\n\u0641\u0627\u0631\u0633\u06cc\n\ud55c\uad6d\uc5b4\nSimple English\n\u06a9\u0648\u0631\u062f\u06cc\nT\u00fcrk\u00e7e\nTi\u1ebfng Vi\u1ec7t\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nChoice of coloured clothing used in team sports\nJames Rodr\u00edguez\nwearing\nColombia\n's yellow home (left) and red away (right) colours in 2014\nAway colours\nor\nroad colours\n(also commonly known as\naway kits\nin\nBritish English\n, or\naway uniforms\nor\nroad uniforms\nin\nAmerican English\n) are a choice of coloured clothing used in\nteam sports\n. They are required to be worn by one\nteam\nduring a game between teams that would otherwise wear the same colours as each other, or similar colours. This change prevents confusion for\nofficials\n,\nplayers\n, and spectators. In most sports, it is the\nvisiting or road team\nthat must change.\nIn many sports leagues and competitions, a team wears its away kit only when its primary kit would clash with the colours of the\nhome team\n, while other sports leagues and competitions may mandate that away teams must always wear an alternative kit regardless of a potential colour clash. The latter is common in North American sports, where \"colour vs. colour\" games (e.g., blue uniforms vs. red uniforms) are a rarity,\n[\n1\n]\nhaving been discouraged in the era of\nblack-and-white\ntelevision.\n[\n2\n]\nAlmost all road uniforms are white in\ngridiron football\n(including in the\nCanadian Football League\n, the\nNational Football League\nand\nNCAA football\n) and the\nNational Hockey League\n, while in\nbaseball\n, visitors typically wear grey. In the\nNational Basketball Association\nand\nNCAA basketball\n, home uniforms are white or yellow, and visiting teams wear the darker colour.\nHome teams in some le",
+        "topics": [
+          "national hockey league",
+          "colours",
+          "other leagues",
+          "white",
+          "away",
+          "teams",
+          "their",
+          "fifa world cup",
+          "team",
+          "home",
+          "national football league",
+          "australian rules football",
+          "away colours",
+          "cricket",
+          "international rules",
+          "history in european football",
+          "rugby union",
+          "archived",
+          "external links",
+          "baseball",
+          "netball",
+          "retrieved",
+          "contents",
+          "american football",
+          "major league baseball"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAway_colours",
+          "https://en.wikipedia.org/wiki/SB_Nation",
+          "https://en.wikipedia.org/wiki/Australian_rules_football_culture",
+          "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Away_colours&id=1300177263&wpFormIdentifier=titleform",
+          "https://en.wikipedia.org/wiki/1998%E2%80%9399_Manchester_United_F.C._season"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:14.594227",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.877743",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_73634",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Millmoor_Juniors_F.C._Ladies",
+        "keywords": [
+          "season by season record",
+          "ladies",
+          "south",
+          "north",
+          "millmoor juniors f.c. ladies"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.44000000000000006
+      },
+      "content": {
+        "title": "Millmoor Juniors F.C. Ladies - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nHistory\nToggle History subsection\n1.1\nSeason by season record\n2\nReferences\n3\nExternal links\nToggle the table of contents\nMillmoor Juniors F.C. Ladies\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nFootball club\nMillmoor Juniors Ladies\nFull name\nMillmoor Juniors Ladies Football Club\nGround\nGrange Park,\nKimberworth\nLeague\nNorth East Regional Women's Football League\nDivision One South\n2024-25\nSheffield & Hallamshire Women's Football League\nDivision One, 2nd of 9\nMillmoor Juniors Ladies Football Club\nis an\nEnglish\nwomen's football\nclub based in\nKimberworth\n,\nRotherham\n,\nSouth Yorkshire\n. The club currently play in the North East Regional Women's Football League Southern Division.\nHistory\n[\nedit\n]\nSeason by season record\n[\nedit\n]\nSeason\nDivision\nPosition\nWomen's FA Cup\n2020\u201321\nNorth East Regional League\nDivision One South\n[\n1\n]\n[\n2\n]\nReferences\n[\nedit\n]\n^\n\"North East Regional Womens Football League\"\n.\n^\n\"Results Archive - the Vitality Women's FA Cup - Competitions | the Football Association\"\n.\nExternal links\n[\nedit\n]\nOfficial site\nv\nt\ne\nWomen's football in England\nThe Football Association\nWSL Football\nNational teams\nSenior team\nU23 team\nU21 team\nU20 team\nU19 team\nU17 team\nLeague\ncompetitions\nLevels 1\u20134\nWomen's Super League\nWomen's Super League 2\nFA Women's National League\nNorth\nSouth\nLevels 5\u20136\nEastern\nEast Midlands\nLondon & South East\nNorth East\nNorth West\nSouthern\nSouth West\nWest Midlands\nLevels 7\u201310\nBedfordshire & Hertfordshire\nBirmingham\nCambridgeshire\nCheshire\nCornwall\nCumbria\nDerbyshire\nDevon\nDorset\nDurham\nEast Riding\nEssex\nGloucestershire\nGreater London\nGreater Manchester\nHampshire\nLancashire\nLeicestershire\nLincolnshire\nLiverpool\nMidwest Counties\nNorfolk\nNorth Riding\nNorthamptonshire\nNorthumberland\nNottinghamshire\nSheffield & Hallamshire\nSomerset\nSouth East Counties\nStaffs\nSuffolk\nSurrey\nSussex\nThames Valley Counties\nWest Riding\nWiltshire\nCup competitions\nWomen's FA Cup\nWomen's League Cup\nFA Women's National League Cup\nFA Women's National League Plate\nWomen's FA Community Shield\nFA People's Cup\nAwards\nThe FA Women's Football Awards\nPFA Team of the Year\nPFA Women's Players' Player of the Year\nPFA Women's Young Player of the Year\nFWA Women's Footballer of the Year\nBB",
+        "topics": [
+          "season by season record",
+          "ladies",
+          "south",
+          "north",
+          "millmoor juniors f.c. ladies",
+          "main",
+          "team",
+          "hallamshire",
+          "east",
+          "external links",
+          "contents",
+          "history",
+          "references",
+          "football",
+          "league",
+          "sheffield",
+          "women",
+          "wikipedia",
+          "edit"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Dodworth_Miners_Welfare_F.C.",
+          "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2010s)",
+          "https://en.wikipedia.org/wiki/Handsworth_F.C._Ladies",
+          "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+          "https://en.wikipedia.org/wiki/Wombwell_Main_F.C."
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:15.918542",
+          "depth": 2,
+          "relevance_score": 4.4
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.878026",
+      "quality_score": 0.44000000000000006
+    },
+    {
+      "id": "news_75235",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Special:BookSources/1-874287-17-1",
+        "keywords": [
+          "thailand",
+          "individual booksellers",
+          "trinidad and tobago",
+          "mexico",
+          "library"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.4800000000000001
+      },
+      "content": {
+        "title": "Book sources - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nLanguages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nOnline text\n2\nOnline databases\n3\nSubscription eBook databases\n4\nLibraries\nToggle Libraries subsection\n4.1\nWorldwide\n4.2\nAfrica\n4.2.1\nNigeria\n4.2.2\nSouth Africa\n4.2.3\nZimbabwe\n4.3\nAmericas\n4.3.1\nCanada\n4.3.1.1\nPublic libraries\n4.3.1.2\nUniversities and colleges\n4.3.2\nUnited States\n4.3.2.1\nPublic libraries by state\n4.3.2.2\nUniversities and colleges\n4.3.3\nLatin America and the Caribbean\n4.3.3.1\nArgentina\n4.3.3.2\nBarbados\n4.3.3.3\nBrazil\n4.3.3.4\nColombia\n4.3.3.5\nEcuador\n4.3.3.6\nGuatemala\n4.3.3.7\nJamaica\n4.3.3.8\nMexico\n4.3.3.9\nTrinidad and Tobago\n4.4\nAsia\n4.4.1\nBangladesh\n4.4.2\nChina, People's Republic\n4.4.3\nHong Kong, S.A.R. of China\n4.4.4\nIndia\n4.4.5\nIndonesia\n4.4.6\nIran\n4.4.7\nIsrael\n4.4.8\nJapan\n4.4.9\nKorea\n4.4.10\nMalaysia\n4.4.11\nPhilippines\n4.4.11.1\nUniversities and colleges\n4.4.11.2\nOther libraries\n4.4.12\nSingapore\n4.4.13\nTaiwan, Republic of China\n4.4.14\nThailand\n4.5\nAustralasia\nand Oceania\n4.5.1\nAustralia\n4.5.1.1\nPublic libraries\n4.5.1.2\nAcademic libraries\n4.5.2\nNew Zealand\n4.5.2.1\nPublic libraries\n4.5.2.2\nAcademic libraries\n4.6\nEurope\n4.6.1\nAustria\n4.6.2\nBelgium\n4.6.3\nBosnia and Herzegovina\n4.6.4\nCroatia\n4.6.5\nCzech Republic\n4.6.6\nDenmark\n4.6.7\nEstonia\n4.6.8\nFinland\n4.6.9\nFrance\n4.6.10\nGermany\n4.6.11\nGreece\n4.6.12\nHungary\n4.6.13\nIceland\n4.6.14\nIreland\n4.6.15\nItaly\n4.6.16\nLuxembourg\n4.6.17\nMontenegro\n4.6.18\nNetherlands\n4.6.19\nNorway\n4.6.20\nPoland\n4.6.21\nPortugal\n4.6.22\nRomania\n4.6.23\nRussia\n4.6.24\nSerbia\n4.6.25\nSlovenia\n4.6.26\nSpain\n4.6.27\nSweden\n4.6.28\nSwitzerland\n4.6.29\nTurkey\n4.6.30\nUnited Kingdom\n4.6.30.1\nPublic libraries\n4.6.30.2\nUniversities\n5\nBookselling and swapping\nToggle Bookselling and swapping subsection\n5.1\nPrice comparison sites\n5.2\nSearch many booksellers\n5.3\nIndividual booksellers\n5.4\nBook-swapping websites\n6\nNon-English book sources\n7\nFind other editions\n8\nFind on Wikipedia\n9\nSee also\nToggle the table of contents\nBook sources\nEnglish\nTools\nTools\nmove to sidebar\nhide\nActions\nGeneral\nUpload file\nPrintable version\nGet shortened URL\nDownload QR code\nIn other projects\nAppearance\nmove to sidebar\nhide\nThis page allows users to search multiple sources for a book given a 10- or 13-digit\nInternational Standard Book Number\n. Spaces and dashes in the ISBN do not matter.\nSearch for book sources\nISBN:\nSearch\nWikimedia page containing links to catalogs of libraries, booksellers, and other book sources\nFor assistance, see\nHelp:ISBN\n.\nThis page links to catalogs of libraries, booksellers, and other book sources where you will be able to search for the book by its\nInternational Standard Book Number\n(ISBN).\nIf you arrived",
+        "topics": [
+          "thailand",
+          "individual booksellers",
+          "trinidad and tobago",
+          "mexico",
+          "library",
+          "other libraries",
+          "germany",
+          "russia",
+          "catalog",
+          "iceland",
+          "malaysia",
+          "academic libraries",
+          "korea",
+          "greece",
+          "brazil",
+          "barbados",
+          "bosnia and herzegovina",
+          "see also",
+          "belgium",
+          "france",
+          "public",
+          "libraries",
+          "university",
+          "poland",
+          "americas"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/University_of_East_Anglia",
+          "https://en.wikipedia.org/wiki/Aberdeen,_South_Dakota",
+          "https://en.wikipedia.org/wiki/University_of_Los_Andes",
+          "https://en.wikipedia.org/wiki/Keele_University",
+          "https://en.wikipedia.org/wiki/University_of_Western_Ontario"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:18.432690",
+          "depth": 2,
+          "relevance_score": 4.800000000000001
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.878276",
+      "quality_score": 0.4800000000000001
+    },
+    {
+      "id": "news_85943",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Arsenal_F.C._season",
+        "keywords": [
+          "united",
+          "squad statistics",
+          "premier",
+          "notes",
+          "2019\u201320 arsenal f.c. season"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.72
+      },
+      "content": {
+        "title": "2019\u201320 Arsenal F.C. season - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nReview\n2\nFirst-team coaching staff\nToggle First-team coaching staff subsection\n2.1\nUnai Emery (1 July 2019 \u2013 29 November 2019)\n2.2\nFreddie Ljungberg (29 November 2019 \u2013 20 December 2020)\n2.3\nMikel Arteta (20 December 2019 \u2013 1 August 2020)\n3\nPlayers\n4\nTransfers\nToggle Transfers subsection\n4.1\nTransfers in\n4.2\nLoans in\n4.3\nTransfers out\n4.3.1\nNotes\n4.4\nLoans out\n5\nClub\nToggle Club subsection\n5.1\nKits\n6\nSquad statistics\nToggle Squad statistics subsection\n6.1\nAppearances and goals\n6.2\nGoalscorers\n6.3\nAssists\n6.4\nDisciplinary record\n6.5\nClean sheets\n7\nPre-season and friendlies\nToggle Pre-season and friendlies subsection\n7.1\nFriendlies\n7.2\nInternational Champions Cup\n7.3\nEmirates Cup\n7.4\nJoan Gamper Trophy\n7.5\nMid-season friendlies\n8\nCompetitions\nToggle Competitions subsection\n8.1\nOverview\n8.2\nPremier League\n8.2.1\nLeague table\n8.2.2\nResults by Matchday\n8.2.3\nMatches\n8.3\nFA Cup\n8.4\nEFL Cup\n8.5\nUEFA Europa League\n8.5.1\nGroup stage\n8.5.2\nKnockout phase\n8.5.2.1\nRound of 32\n9\nAwards\nToggle Awards subsection\n9.1\nArsenal Player of the Month award\n9.2\nArsenal Goal of the Month award\n9.3\nArsenal Player of the Season award\n9.4\nArsenal Goal of the Season award\n10\nReferences\nToggle the table of contents\n2019\u201320 Arsenal F.C. season\n9 languages\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nFran\u00e7ais\nItaliano\nNederlands\nNorsk bokm\u00e5l\nPortugu\u00eas\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nSvenska\n\u0e44\u0e17\u0e22\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\n134th season in existence of Arsenal F.C.\nArsenal F.C. 2019\u201320 football season\nArsenal F.C.\n2019\u201320\nseason\nArsenal vs Chelsea in December 2019\nOwner\nKroenke Sports & Entertainment\nChairman\nChips Keswick\n(until 28 May)\n[\n1\n]\nHead coach\nUnai Emery\n(until 29 November)\n[\n2\n]\nFreddie Ljungberg\n(interim, until 20 December)\nMikel Arteta\n(from 20 December)\n[\n3\n]\nStadium\nEmirates Stadium\nPremier League\n8th\nFA Cup\nWinners\nEFL Cup\nFourth round\nUEFA Europa League\nRound of 32\nTop goalscorer\nLeague:\nPierre-Emerick Aubameyang\n(22)\nAll:\nPierre-Emerick Aubameyang (29)\nHome colours\nAway colours\nThird colours\n\u2190\n2018\u201319\n2020\u201321\n\u2192\nThe\n2019\u201320 season\nwas\nArsenal\n's 28th season in the Premier League, their 94th consecutive season in the top flight of\nEnglish football\nand 103rd season in the top flight overall.\n[\n4\n]\n[\n5\n]\nThe club participated in the\nPremie",
+        "topics": [
+          "united",
+          "squad statistics",
+          "premier",
+          "notes",
+          "2019\u201320 arsenal f.c. season",
+          "pre-season and friendlies",
+          "round of 32",
+          "disciplinary record",
+          "uefa europa league",
+          "attendance",
+          "assists",
+          "fa cup",
+          "efl cup",
+          "transfers",
+          "joan gamper trophy",
+          "july",
+          "report",
+          "referee",
+          "awards",
+          "group stage",
+          "players",
+          "transfers in",
+          "overview",
+          "knockout phase",
+          "results by matchday"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+          "https://en.wikipedia.org/wiki/Away_colours",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_Nottingham_Forest_F.C._season",
+          "https://en.wikipedia.org/wiki/Category:Pages_using_sports_rbr_table_with_an_undescribed_result",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_Crewe_Alexandra_F.C._season"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:20.362666",
+          "depth": 1,
+          "relevance_score": 7.2
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.878523",
+      "quality_score": 0.72
+    },
+    {
+      "id": "news_37447",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+        "keywords": [
+          "robert",
+          "transfer",
+          "career statistics",
+          "honours",
+          "early career"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Robert Lewandowski - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nClub career\nToggle Club career subsection\n1.1\nEarly career\n1.2\nLech Pozna\u0144\n1.3\nBorussia Dortmund\n1.3.1\n2010\u20132012: League and cup double\n1.3.2\n2012\u20132014: Champions League runner-up and league top goalscorer\n1.4\nBayern Munich\n1.4.1\n2014\u20132015: Third Bundesliga title\n1.4.2\n2015\u20132017: Domestic success, Torj\u00e4gerkanone, and 100 Bayern goals\n1.4.3\n2017\u20132019: Consecutive Golden Boots and all-time foreign Bundesliga goalscorer\n1.4.4\n2019\u20132020: Treble, Best FIFA Men's Player, and UEFA Men's Player of the Year\n1.4.5\n2020\u20132021: Ballon d'Or Striker of the Year and European Golden Shoe\n1.4.6\n2021\u20132022: Final season with Bayern and second European Golden Shoe\n1.5\nBarcelona\n1.5.1\nTransfer\n1.5.2\n2022\u201323: La Liga title and Pichichi Trophy\n1.5.3\n2023\u201324: La Liga runner-up\n1.5.4\n2024\u201325: Domestic double and 100 Barcelona goals\n2\nInternational career\nToggle International career subsection\n2.1\n2007\u20132013: Youth level and early international career\n2.2\n2013\u20132017: Assuming captaincy\n2.3\n2017\u20132025: All-time Poland top scorer, retirement\n3\nStyle of play\n4\nOutside football\nToggle Outside football subsection\n4.1\nPersonal life\n4.2\nPhilanthropy and business\n4.3\nSponsorship and media appearances\n5\nCareer statistics\nToggle Career statistics subsection\n5.1\nClub\n5.2\nInternational\n6\nHonours\n7\nSee also\n8\nReferences\n9\nExternal links\nToggle the table of contents\nRobert Lewandowski\n95 languages\nAfrikaans\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nAsturianu\nAz\u0259rbaycanca\n\u062a\u06c6\u0631\u06a9\u062c\u0647\nBasa Bali\n\u09ac\u09be\u0982\u09b2\u09be\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f\n\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\n\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438\nBoarisch\nBosanski\nCatal\u00e0\nCebuano\n\u010ce\u0161tina\nCymraeg\nDagbanli\nDansk\nDeutsch\nEesti\n\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\nEspa\u00f1ol\nEsperanto\nEuskara\n\u0641\u0627\u0631\u0633\u06cc\nF\u00f8royskt\nFran\u00e7ais\nGaeilge\nGalego\n\ud55c\uad6d\uc5b4\nHausa\n\u0540\u0561\u0575\u0565\u0580\u0565\u0576\n\u0939\u093f\u0928\u094d\u0926\u0940\nHrvatski\nBahasa Indonesia\nInterlingue\n\u0418\u0440\u043e\u043d\n\u00cdslenska\nItaliano\n\u05e2\u05d1\u05e8\u05d9\u05ea\nJawa\n\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8\nKasz\u00ebbsczi\n\u049a\u0430\u0437\u0430\u049b\u0448\u0430\nKiswahili\n\u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430\n\u0ea5\u0eb2\u0ea7\nLatina\nLatvie\u0161u\nL\u00ebtzebuergesch\nLietuvi\u0173\nMagyar\n\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\nMalagasy\n\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02\nMalti\n\u092e\u0930\u093e\u0920\u0940\n\u10db\u10d0\u10e0\u10d2\u10d0\u10da\u10e3\u10e0\u10d8\n\u0645\u0635\u0631\u0649\n\u0645\u0627\u0632\u0650\u0631\u0648\u0646\u06cc\nBahasa Melayu\n\u041c\u043e\u043d\u0433\u043e\u043b\nNederlands\n\u0928\u0947\u092a\u093e\u0932\u0940\n\u65e5\u672c\u8a9e\nNorsk bokm\u00e5l\nNorsk nynorsk\nO\u02bbzbekcha / \u045e\u0437\u0431\u0435\u043a\u0447\u0430\n\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40\nPolski\nPortugu\u00eas\nRom\u00e2n\u0103\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nScots\nShqip\nSimple English\nSloven\u010dina\nSloven\u0161\u010dina\n\u015al\u016fnski\n\u06a9\u0648\u0631\u062f\u06cc\n\u0421\u0440\u043f\u0441\u043a\u0438 / srpski\nSrpskohrvatski / \u0441\u0440\u043f\u0441\u043a\u043e\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0438\nSuomi\nSvenska\n\u0e44\u0e17\u0e22\nT\u00fcrk\u00e7e\nT\u00fcrkmen\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nTi\u1ebfng Vi\u1ec7t\nVolap\u00fck\nWinaray\n\u5434\u8bed\n\u7cb5\u8a9e\nZazaki\n\u4e2d\u6587\nEdit links\nArticle\nTalk\nEnglish\nRead\nView source\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nView source\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commo",
+        "topics": [
+          "robert",
+          "transfer",
+          "career statistics",
+          "honours",
+          "early career",
+          "2013\u20132017: assuming captaincy",
+          "bayern munich",
+          "outside football",
+          "philanthropy and business",
+          "international",
+          "personal life",
+          "barcelona",
+          "bundesliga",
+          "borussia dortmund",
+          "club career",
+          "international career",
+          "archived",
+          "2023\u201324: la liga runner-up",
+          "external links",
+          "lewandowski",
+          "retrieved",
+          "munich",
+          "contents",
+          "robert lewandowski",
+          "see also"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/2020%E2%80%9321_Bundesliga#Monthly_awards",
+          "https://en.wikipedia.org/wiki/Piotr_Sierzputowski",
+          "https://en.wikipedia.org/wiki/Robert_Lewandowski",
+          "https://en.wikipedia.org/wiki/Karl-Heinz_Schnellinger",
+          "https://en.wikipedia.org/wiki/Sebastian_Coe"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:22.563236",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.878764",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_34253",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Nottingham_Forest_F.C._season",
+        "keywords": [
+          "pre-season",
+          "attendance",
+          "championship",
+          "team",
+          "efl cup"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.8800000000000001
+      },
+      "content": {
+        "title": "2019\u201320 Nottingham Forest F.C. season - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nFirst team squad\nToggle First team squad subsection\n1.1\nNew contracts\n2\nPre-season\n3\nCompetitions\nToggle Competitions subsection\n3.1\nChampionship\n3.1.1\nLeague table\n3.1.2\nResults summary\n3.1.3\nResults by matchday\n3.1.4\nMatches\n3.2\nFA Cup\n3.3\nEFL Cup\n4\nGoals and appearances\n5\nTransfers\nToggle Transfers subsection\n5.1\nTransfers in\n5.2\nLoans in\n5.3\nTransfers out\n5.4\nLoans out\n6\nAwards\nToggle Awards subsection\n6.1\nClub\n6.2\nLeague\n6.2.1\nSky Bet Championship Manager of the Month\n6.2.2\nSky Bet Championship Player of the Month\n6.2.3\nPFA Bristol Street Motors Fan's Championship Player of the Month\n6.3\nCups\n7\nReferences\nToggle the table of contents\n2019\u201320 Nottingham Forest F.C. season\n1 language\nItaliano\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nNottingham Forest 2019\u201320 football season\nNottingham Forest\n2019\u201320 season\nOwner\nEvangelos Marinakis\nSokratis Kominakis\nChairman\nNicholas Randall QC\nHead Coach\nSabri Lamouchi\nStadium\nCity Ground\n(\nCapacity\n: 30,445)\nChampionship\n7th\nFA Cup\nThird round\n(vs.\nChelsea\n, 5 January 2020)\nEFL Cup\nThird round\n(vs.\nArsenal\n, 24 September 2019)\nTop goalscorer\nLeague:\nLewis Grabban\n(20)\nAll: Lewis Grabban (20)\nHighest home attendance\n29,455\n(vs.\nLeeds United\n,\nEFL Championship\n, 8 February 2020)\nLowest home attendance\n7,432\n(vs.\nFleetwood Town\n,\nEFL Cup\n, 13 August 2019)\nAverage home league attendance\n27,724\nHome colours\nAway colours\n\u2190\n2018\u201319\n2020\u201321\n\u2192\nThe\n2019\u201320 season\nwas\nNottingham Forest\n's 154th year in existence and 12th consecutive season in the\nEFL Championship\n. In addition to the Championship, the club participated in the\nFA Cup\nand the\nEFL Cup\n. The season covered the period between 1 July 2019 and 22 July 2020.\nFirst team squad\n[\nedit\n]\nAs of 31 January 2020\n[\n1\n]\n[\n2\n]\nSquad no.\nName\nNationality\nDate of birth (age)\nJoined from\nJoined first team\nContract ends\nGoalkeepers\n12\nJordan Smith\nENG\n(\n1994-12-08\n)\n8 December 1994\n(age\u00a030)\nPromoted from\nunder-23s\n2016\n2020\n30\nBrice Samba\nCGO\n(\n1994-04-25\n)\n25 April 1994\n(age\u00a031)\nCaen\n(\nFRA\n)\n2019\n2023\n49\nArijanet Muric\nKOS\n(\n1998-11-07\n)\n7 November 1998\n(age\u00a026)\nManchester City\n2019\n2020\nDefenders\n2\nYuri Ribeiro\nPOR\n(\n1997-01-24\n)\n24 January 1997\n(age\u00a028)\nBenfica\n(\nPOR\n)\n2019\n\u2013\n3\nTobias Figueiredo\nP",
+        "topics": [
+          "pre-season",
+          "attendance",
+          "championship",
+          "team",
+          "efl cup",
+          "fa cup",
+          "goals and appearances",
+          "report",
+          "transfers",
+          "july",
+          "referee",
+          "awards",
+          "forest",
+          "transfers in",
+          "results by matchday",
+          "loans in",
+          "club",
+          "league table",
+          "nottingham",
+          "matches",
+          "stadium",
+          "contents",
+          "city",
+          "references",
+          "new contracts"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Away_colours",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_Nottingham_Forest_F.C._season",
+          "https://en.wikipedia.org/wiki/Arijanet_Muric",
+          "https://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_Crewe_Alexandra_F.C._season"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:25.393460",
+          "depth": 2,
+          "relevance_score": 8.8
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.878991",
+      "quality_score": 0.8800000000000001
+    },
+    {
+      "id": "news_77008",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/Category:Pages_using_sports_rbr_table_with_an_undescribed_result",
+        "keywords": [
+          "sports",
+          "molde",
+          "page",
+          "contents",
+          "arsenal"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.6
+      },
+      "content": {
+        "title": "Category:Pages using sports rbr table with an undescribed result - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nCategory\n:\nPages using sports rbr table with an undescribed result\n5 languages\n\u65e5\u672c\u8a9e\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nSimple English\nT\u00fcrk\u00e7e\n\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\nEdit links\nCategory\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nHelp\nFrom Wikipedia, the free encyclopedia\nThis is a\ntracking category\n.\nIt is used to build and maintain a list or lists of pages\u2014primarily for the sake of the lists themselves and their use in article and category maintenance. It is not part of the\nencyclopedia's categorization scheme\n.\nMore information:\nThis category is\nhidden\non its\nmember pages\n\u2014unless the corresponding\nuser preference\n(Appearance \u2192 Show hidden categories) is set.\nThese categories are used to track, build and organize lists of pages needing \"attention\nen masse\n\" (for example, pages using deprecated syntax), or that may need to be edited at someone's earliest convenience.\nThese categories also serve to aggregate members of several lists or subcategories into a larger, more efficient list (\ndiscriminated by classifications\n).\nTypically, tracking categories are automatically populated by templates invoked in pages or by the MediaWiki software (see\nSpecial:TrackingCategories\nfor an overview of the latter).\nAdministrators: Please do not delete this category as empty!\nThis category may be empty occasionally or even most of the time.\nPages using sports rbr table with an undescribed result\nPages using sports rbr table with an unusual source\nPages using sports rbr table with conflicting parameters\nPages using sports rbr table with dubious updated parameter\nPages using sports rbr table with legendorder\nPages using sports rbr table with per team and round coloring\nPages using sports rbr table with rnd parameters\nPages using sports rbr table with unequal row lengths\nPages using sports rbr table with unsupported parameters\nContents\nTop\n0\u20139\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nPages in category \"Pages using sports rbr table with an undescribed result\"\nThe following 200 pages are in this category, out of approximately 1,060 total.\nThis list may not reflect recent changes\n.\n(previous page) (\nnext page\n)\nA\n1955\u201356 Colchester United F.C. season\n1991\u201392 Arsenal L.F.C. season\n1991\u201392 Southampton F.C. season\n1992\u201393 Arsenal L.F.C. season\n1994\u201395 Arsenal L.F.C. season\n1995\u201396 Arsenal L.F.C. season\n1995\u201396 S.L. Benfica season\n1996\u201397 Ar",
+        "topics": [
+          "sports",
+          "molde",
+          "page",
+          "contents",
+          "arsenal",
+          "using",
+          "user",
+          "pages",
+          "category",
+          "santos",
+          "season",
+          "table"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/Category:Pages_using_sports_rbr_table_with_unequal_row_lengths",
+          "https://en.wikipedia.org/wiki/2010%E2%80%9311_FC_Steaua_Bucure%C8%99ti_season",
+          "https://en.wikipedia.org/wiki/2013%E2%80%9314_Zamalek_SC_season",
+          "https://en.wikipedia.org/wiki/2003%E2%80%9304_Adelaide_United_FC_season",
+          "https://en.wikipedia.org/wiki/2019_BK_H%C3%A4cken_season"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:27.180646",
+          "depth": 2,
+          "relevance_score": 6.0
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.879252",
+      "quality_score": 0.6
+    },
+    {
+      "id": "news_73361",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Crewe_Alexandra_F.C._season",
+        "keywords": [
+          "united",
+          "league two",
+          "pre-season",
+          "attendance",
+          "crewe"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.72
+      },
+      "content": {
+        "title": "2019\u201320 Crewe Alexandra F.C. season - Wikipedia",
+        "body": "Jump to content\nMain menu\nMain menu\nmove to sidebar\nhide\nNavigation\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nContribute\nHelp\nLearn to edit\nCommunity portal\nRecent changes\nUpload file\nSpecial pages\nSearch\nSearch\nAppearance\nDonate\nCreate account\nLog in\nPersonal tools\nDonate\nCreate account\nLog in\nPages for logged out editors\nlearn more\nContributions\nTalk\nContents\nmove to sidebar\nhide\n(Top)\n1\nPre-season\n2\nCompetitions\nToggle Competitions subsection\n2.1\nLeague Two\n2.1.1\nLeague table\n2.1.2\nResults summary\n2.1.3\nResults by matchday\n2.1.4\nMatches\n2.2\nFA Cup\n2.3\nEFL Cup\n2.4\nEFL Trophy\n3\nTransfers\nToggle Transfers subsection\n3.1\nTransfers in\n3.2\nLoans in\n3.3\nLoans out\n3.4\nTransfers out\n4\nPlayer statistics\nToggle Player statistics subsection\n4.1\nAppearances and goals\n5\nReferences\nToggle the table of contents\n2019\u201320 Crewe Alexandra F.C. season\nAdd languages\nAdd links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nDownload QR code\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nCrewe Alexandra 2019\u201320 football season\nCrewe Alexandra\n2019\u201320 season\nChairman\nJohn Bowler\nManager\nDavid Artell\nStadium\nGresty Road\nLeague Two\n2nd\nFA Cup\nThird round\nEFL Cup\nSecond round\nEFL Trophy\nGroup stage\nTop goalscorer\nLeague:\nChris Porter\n(12)\nAll: Chris Porter (14)\n\u2190\n2018\u201319\n2020\u201321\n\u2192\nThe\n2019\u201320 season\nwas\nCrewe Alexandra\n's 143rd season in their history, their 96th in the\nEnglish Football League\nand fourth consecutive in\nLeague Two\n.\n[\n1\n]\nAlong with competing in League Two, the club also participated in the\nFA Cup\n,\nEFL Cup\nand\nEFL Trophy\n.\nThe season covered the period from 1 July 2019 to 30 June 2020.\nCrewe vied for promotion to the\nEFL League One\nfor much of the 2019\u201320 season, and were top of the table (ahead of\nSwindon Town\non goal difference) when the football season was suspended on 13 March 2020 during the\nCOVID-19 pandemic\n. On 9 June, Crewe's promotion to League One was confirmed, but Swindon were crowned League Two champions on the basis of average points per game.\n[\n2\n]\nPre-season\n[\nedit\n]\nThe Railwaymen\nhave announced pre-season friendlies against\nNantwich Town\n,\n[\n3\n]\nAltrincham\n,\n[\n4\n]\nWitton Albion\n,\n[\n3\n]\nCurzon Ashton\n[\n3\n]\nBurnley\n[\n4\n]\nand\nWrexham\n.\n[\n5\n]\nNantwich Town\nv\nCrewe Alexandra\n6\u00a0July\u00a02019\n(\n2019-07-06\n)\nFriendly\nNantwich Town\n2\u20131\nCrewe Alexandra\nNantwich\n15:00\nBST\nCooke\n9'\nLawrie\n84'\nReport\nPowell\n58'\nStadium:\nWeaver Stadium\nAltrincham\nv\nCrewe Alexandra\n13\u00a0July\u00a02019\n(\n2019-07-13\n)\nFriendly\nAltrincham\n0\u20136\nCrewe Alexandra\nAltrincham\n15:00\nBST\nReport\nNicholls\n23'\n,\n44'\nKirk\n25'\u00a0(\npen.\n)\nFinney\n62'\n,\n67'\n,\n82'\nStadium:\nMoss Lane\nCurzon Ashton\nv\nCrewe Alexandra\n16\u00a0July\u00a02019\n(\n2019-07-16\n)\nFriendly\nCurzon Ashton\n1\u20135\nCrewe Alexandra\nAshton-un",
+        "topics": [
+          "united",
+          "league two",
+          "pre-season",
+          "attendance",
+          "crewe",
+          "efl cup",
+          "fa cup",
+          "report",
+          "transfers",
+          "referee",
+          "transfers in",
+          "player statistics",
+          "results by matchday",
+          "loans in",
+          "town",
+          "league table",
+          "matches",
+          "stadium",
+          "retrieved",
+          "contents",
+          "appearances and goals",
+          "references",
+          "results summary",
+          "transfers out",
+          "alexandra"
+        ],
+        "related_links": [
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_Nottingham_Forest_F.C._season",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_South_West_Peninsula_League",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_Crewe_Alexandra_F.C._season",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_AFC_Wimbledon_season",
+          "https://en.wikipedia.org/wiki/2019%E2%80%9320_Northern_Football_League"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T13:00:29.872604",
+          "depth": 2,
+          "relevance_score": 7.2
+        }
+      },
+      "timestamp": "2025-07-20T13:00:29.879486",
+      "quality_score": 0.72
+    }
+  ],
+  "summary": {
+    "total_nodes": 23,
+    "average_relevance": 7.1521739130434785,
+    "max_relevance": 10.0,
+    "unique_topics": 298,
+    "total_topics": 488,
+    "depth_distribution": {
+      "0": 1,
+      "1": 5,
+      "2": 17
+    },
+    "high_relevance_pages": 13
+  }
+}

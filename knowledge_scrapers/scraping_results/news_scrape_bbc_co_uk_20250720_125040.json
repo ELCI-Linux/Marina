@@ -1,0 +1,947 @@
+{
+  "timestamp": "2025-07-20T12:50:20.505483",
+  "root_url": "https://bbc.co.uk/sport",
+  "keywords": [
+    "Arsenal",
+    "transfers",
+    "Arteta"
+  ],
+  "total_pages_scraped": 16,
+  "knowledge_nodes": [
+    {
+      "url": "https://bbc.co.uk/sport",
+      "title": "BBC Sport - Scores, Fixtures, News - Live Sport",
+      "relevance_score": 6.88,
+      "topics_count": 25,
+      "depth": 0
+    },
+    {
+      "url": "https://bbc.co.uk/sport/rugby-league/articles/cq536dy69ypo",
+      "title": "Super League: Wigan Warriors 12-32 Hull FC - Airlie Birds stun reigning champions - BBC Sport",
+      "relevance_score": 4.0,
+      "topics_count": 11,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+      "title": "England vs India: How to solve Test cricket's slow over-rate problem - BBC Sport",
+      "relevance_score": 9.200000000000001,
+      "topics_count": 11,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/rugby-league/articles/cn41n709mlgo",
+      "title": "Super League: Catalans Dragons 6-34 Hull KR - Robins return to winning ways - BBC Sport",
+      "relevance_score": 4.0,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/rugby-union/articles/c74zkywgg91o",
+      "title": "British and Irish Lions 2025: 'Desperation driving Australia - but it only gets you so far' - BBC Sport",
+      "relevance_score": 8.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+      "title": "Usyk vs Dubois 2: Oleksandr Usyk & 'Ivan' - the untouchable duo who can't be beaten? - BBC Sport",
+      "relevance_score": 4.0,
+      "topics_count": 10,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cp86p606gvko",
+      "title": "Manchester United transfers: What next for Rashford, Garnacho and Antony? - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 8,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/cz9kzy0gnlzo",
+      "title": "Arsenal include 15-year-olds Max Dowman & Marli Salmon in Asia tour squad - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/62099717",
+      "title": "Arsenal: Get news, analysis, fan views, quizzes and team selectors for the Gunners - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 15,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/cricket/articles/c1jw1gn11pdo",
+      "title": "England v India: Balls to be examined by Dukes after 'soft' issues - BBC Sport",
+      "relevance_score": 7.2,
+      "topics_count": 11,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/cricket/articles/cx2001mmex3o",
+      "title": "County cricket: Why Kookaburra ball is proving hard work for bowlers - BBC Sport",
+      "relevance_score": 8.0,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/articles/cl5q9dk9jl3o",
+      "title": "Notifications, social media and more with BBC Sport - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 16,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/articles/cn33yxd1rz0o",
+      "title": "BBC Sport: Contact, Help & FAQs - BBC Sport",
+      "relevance_score": 7.0,
+      "topics_count": 12,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c89ejp0nx8do",
+      "title": "Celtic 4-0 Newcastle: Alexander Isak left out as Magpies suffer heavy loss - BBC Sport",
+      "relevance_score": 10.0,
+      "topics_count": 14,
+      "depth": 1
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c9vr40rkxzdo",
+      "title": "Sean Longstaff: Leeds United sign midfielder from Newcastle for \u00a312m - BBC Sport",
+      "relevance_score": 9.68,
+      "topics_count": 13,
+      "depth": 2
+    },
+    {
+      "url": "https://bbc.co.uk/sport/football/articles/c98jv5m3vj7o",
+      "title": "Yoane Wissa: Newcastle accelerate interest in Brentford striker - BBC Sport",
+      "relevance_score": 8.8,
+      "topics_count": 14,
+      "depth": 2
+    }
+  ],
+  "corpus_entries": [
+    {
+      "id": "news_18472",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport",
+        "keywords": [
+          "england",
+          "comments",
+          "usyk",
+          "must-watch videos",
+          "attribution"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.688
+      },
+      "content": {
+        "title": "BBC Sport - Scores, Fixtures, News - Live Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nSign In Banner\nDiscover your BBC\nSign in or create an account to watch, listen and join in\nSign in\nor\nRegister\nClose sign in banner\nBBC Sport\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nBBC Sport looks at where Oleksandr Usyk ranks among the all-time heavyweight greats and who in the current generation could beat him.\nAttribution\nBoxing\nPosted\n4 hours ago\n4h\nComments\n428\nLive\n.\nListen to The Open final day - Can anyone deny Scheffler a fourth major title?\nAttribution\nGolf\nLive\n.\nTour de France stage 15 - Pogacar rivals look to cut gap before rest day\nAttribution\nCycling\n'Desperation driving Australia - but it only gets you so far'\nAttribution\nBritish & Irish Lions\nPosted\n57 minutes ago\n57min\nComments\n69\nEngland overcome lightning delay to beat US\nAttribution\nEngland\nPosted\n10 hours ago\n10h\nComments\n178\nGolden Boot winner to substitute - England's Mead on role 'shift'\nAttribution\nUEFA Women's Euro\nPosted\n3 hours ago\n3h\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch. Video, 00:02:57\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\nAttribution\nBoxing\nPosted\n2 hours ago\n2h\n2:57\nPacquiao, 46, draws with Barrios in comeback fight\nAttribution\nBoxing\nPosted\n5 hours ago\n5h\nComments\n104\nHumphries suffers shock defeat in Blackpool\nAttribution\nDarts\nPosted\n14 hours ago\n14h\nComments\n38\nHeavyweight permutations - what next after Usyk win?\nAttribution\nBoxing\nPosted\n12 hours ago\n12h\nComments\n39\nHolloway retains BMF title as Poirier retires\nAttribution\nMMA\nPosted\n4 hours ago\n4h\nComments\n11\nThe Open - leaderboard\nMust-watch videos\nBerger's stunning save prevents extra-time own goal. Video, 00:00:28\nBerger's stunning save prevents extra-time own goal\nAttribution\nWomen's Football\nPosted\n13 hours ago\n13h\n0:28\n'Ivan' - Usyk nicknames punch that stopped Dubois. Video, 00:03:47\n'Ivan' - Usyk nicknames punch that stopped Dubois\nAttribution\nBoxing\nPosted\n11 hours ago\n11h\n3:47\n'Listen to that roar' - McIlroy wows the crowd with a round of 66. Video, 00:03:26\n'Listen to that roar' - McIlroy wows the crowd with a round of 66\nAttribution\nGolf\nPosted\n16 hours ago\n16h\n3:26\nBerger stars as Germany reach semi-final on penalties. Video, 00:06:41\nBerger ",
+        "topics": [
+          "england",
+          "comments",
+          "usyk",
+          "must-watch videos",
+          "attribution",
+          "also in sport",
+          "find out more",
+          "best of the bbc",
+          "video",
+          "bbc sport",
+          "the open - leaderboard",
+          "find us here",
+          "posted",
+          "discover your bbc",
+          "women's summer of sport",
+          "football",
+          "bbc sport emails",
+          "elsewhere on the bbc",
+          "sport",
+          "bite-sized videos",
+          "more to explore",
+          "iplayer",
+          "more video",
+          "play",
+          "more top stories"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/rugby-league/articles/cq536dy69ypo",
+          "https://bbc.co.uk/sport/football/articles/cz9kzy0gnlzo",
+          "https://bbc.co.uk/sport/cricket/articles/c1jw1gn11pdo",
+          "https://bbc.co.uk/sport/articles/cn33yxd1rz0o",
+          "https://bbc.co.uk/sport/disability-sport"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:21.796013",
+          "depth": 0,
+          "relevance_score": 6.88
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.326258",
+      "quality_score": 0.688
+    },
+    {
+      "id": "news_5477",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/rugby-league/articles/cq536dy69ypo",
+        "keywords": [
+          "league",
+          "wade",
+          "sport",
+          "best of the bbc",
+          "home"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.4
+      },
+      "content": {
+        "title": "Super League: Wigan Warriors 12-32 Hull FC - Airlie Birds stun reigning champions - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nRugby League\nScores & Fixtures\nTables\nAll Teams\nHull FC stun Wigan to boost play-off hopes\nImage source,\nSW Pix\nImage caption,\nHull FC were 20-0 up at half-time against Wigan\nGideon Brooks\nBBC Sport England\nPublished\n19 July 2025\n340 Comments\nBetfred Super League\nWigan (0) 12\nTries:\nWade, Havard\nGoals:\nSmith 2\nHull FC (20) 32\nTries:\nCartwright 2, Sezer, Rapana, Ashworth\nGoals:\nCharles 6\nHull FC shook up the Super League play-off picture with a superb win over reigning champions Wigan Warriors at the Brick Community Stadium.\nThe Black and Whites left Matt Peet's side stunned with a utterly dominant first-half display which saw them lead with 20 unanswered points.\nAnd they returned after the break to show it had been no fluke adding two more tries to complete an impressive success that lifted them to sixth in the table.\nWhile second-placed Wigan were below their usual high standards, Hull FC produced their best performance of the season, plotting a tactical masterclass to target the home side's vulnerability under the high ball.\nWinger Christian Wade produced a superb solo effort to open Wigan's account in the second half, but on three occasions either side of the break his handling mistakes in trying to catch high kicks led to Hull tries.\nDefeat for the Warriors was their fifth reverse of the season and handed Hull KR the chance to go four points clear at the top should they beat Catalans later on Saturday.\nWigan almost made the ideal start when Zach Eckersley looked sure to touch down in the corner after four minutes, but his failure to ground the ball perhaps suggested this might not be a routine 80 minutes.\nWhen the centre was helped off after suffering a potentially serious lower leg injury shortly after, the cards started to fall ominously for the home side.\nSure enough Hull FC took the lead and the manner of their opening try was to provide a template for how they dismantled their hosts throughout the afternoon.\nWade may be devastating going forward as he later proved, but Aidan Sezer had quickly worked out he was vulnerable under the high ball and his chip on the fifth tackle was fumbled by Wade and finished off by Jed Cartwright.\nJack Charles had added the extra",
+        "topics": [
+          "league",
+          "wade",
+          "sport",
+          "best of the bbc",
+          "home",
+          "wigan",
+          "related topics",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "hull"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/rugby-league/scores-fixtures",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/programmes/b0070hx6",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:23.025525",
+          "depth": 1,
+          "relevance_score": 4.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.326708",
+      "quality_score": 0.4
+    },
+    {
+      "id": "news_59584",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+        "keywords": [
+          "england",
+          "what are the rules?",
+          "best of the bbc",
+          "more on this story",
+          "what has changed?"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.9200000000000002
+      },
+      "content": {
+        "title": "England vs India: How to solve Test cricket's slow over-rate problem - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nCricket\nScores & Fixtures\nTables\nVideo\nEngland Men\nEngland Women\nCounties\nThe Hundred\nFranchise Cricket\nAll Teams\nWhat to do about Test cricket's slow play problem?\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nTest matches before final day being played at 'snail's pace' - analysis\nMatthew Henry\nBBC Sport journalist at Lord's\nPublished\n12 July 2025\nUpdated 16 July 2025\nIt has become an unwanted story of England's series against India.\nSlow over-rates. A topic frequently discussed but that never goes away.\nOnly 72.3 overs were bowled on day two of the third Test at Lord's.\nThat means, including the necessary time taken for a change of innings, 15 overs were lost from the match not because of rain or bad light but because of the slowness of play.\nA further 19 overs were lost over days three and four.\nThere was\nIndian frustration\nat the end of day three as England opener Zak Crawley used delaying tactics, meaning one over took seven minutes.\nEngland have subsequently been\ndocked two points\nin the World Test Championship (WTC) and fined 10% of their match fee for a slow over-rate.\nThey were deemed to be below the required rate despite mitigating circumstances, including India captain Shubman Gill having an eight-minute massage on the outfield and Ravindra Jadeja taking a toilet break while batting on day five.\nThe stoppages are a poor look for the sport, but what are the rules, do over-rates matter and what can be done?\nWhat are the rules?\nIn a five-day Test, 90 overs are scheduled for each day.\nTo prevent teams tactically wasting time to ensure a draw, all of the overs must be bowled on the fifth day, barring interruptions for the weather.\nOn the previous days, the overs must be fitted into the six hours of play, with an extra half hour made available at the end of the day.\nWhile time can be made up for overs lost to the weather, there is no such provision when the reason is simply slow play. If overs are not bowled in that time they are lost from the match.\nThere are some penalties already in place in the International Cricket Council's playing conditions but they have limited impact.\nAn umpire can, after an",
+        "topics": [
+          "england",
+          "what are the rules?",
+          "best of the bbc",
+          "more on this story",
+          "what has changed?",
+          "related topics",
+          "top stories",
+          "elsewhere in sport",
+          "cricket",
+          "play",
+          "overs"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/cricket/franchise-cricket",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/programmes/b0070hx6",
+          "https://bbc.co.uk/sport/cricket/teams/england-women"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:24.182765",
+          "depth": 2,
+          "relevance_score": 9.200000000000001
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.328429",
+      "quality_score": 0.9200000000000002
+    },
+    {
+      "id": "news_75910",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/rugby-league/articles/cn41n709mlgo",
+        "keywords": [
+          "league",
+          "video",
+          "rugby",
+          "sport",
+          "best of the bbc"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.4
+      },
+      "content": {
+        "title": "Super League: Catalans Dragons 6-34 Hull KR - Robins return to winning ways - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nRugby League\nScores & Fixtures\nTables\nAll Teams\nLeaders Hull KR bounce back with win at Catalans\nImage source,\nSWpix\nImage caption,\nMikey Lewis scored two tries and made another as Hull KR got back to winning ways\nStuart Brennan\nBBC Sport England\nPublished\n19 July 2025\n78 Comments\nBetfred Super League\nCatalans (0) 6\nTry:\nNavarrete\nGoal:\nAispuro-Bichet\nHull KR (12) 34\nTries:\nBroadbent 2, Lewis 2, Burgess 2\nGoals:\nMourgue 5\nHull Kingston Rovers star man Mikey Lewis inspired a comfortable win at Catalans Dragons to end the Super League leaders' two-match losing streak.\nThe reigning Man of Steel scored two tries and made one of Jack Broadbent's two to ensure the Robins opened up a four-point lead at the top of the table, following a\nshock home defeat for second-placed Wigan Warriors\nearlier on Saturday.\nLewis suffered a head injury in the defeat against Leeds Rhinos and then missed the reverse at Leigh Leopards, but he returned to give shape and strategy to Willie Peters' side.\nJoe Burgess added another two tries and Catalans, who found it hard to break through a solid Rovers rearguard, could only reply with a consolation from Romain Navarrete.\nThose back-to-back defeats were not all about the absence of Lewis, as the Robins were also sloppy defensively, conceding more points in those two games than they had in the previous seven.\nThat had clearly also been worked on, although the Dragons - who have won one of their last 10 games in all competitions - were poor in attack and contributed to their own downfall with some bad errors.\nTyrone May bounced out of a weak tackle to slip the ball to Broadbent for the opening try, and Peta Hiku fumbled a simple catch from Lewis' precise lobbed kick as the Robins laid siege to the home team's line.\nLewis showed him how to do it as he raced on to Sam Luckley's offload to score, and two video reviews denied him a first half hat-trick. The first spotted Broadbent had knocked on before freeing Lewis and the second noticed the stand-off had dropped the ball as he touched down.\nThe league leaders made sure in the second half.\nBurgess raced clear from a pass by Broadbent, who grabbed his second from another slick Lewis pass.\nCatalans found so",
+        "topics": [
+          "league",
+          "video",
+          "rugby",
+          "sport",
+          "best of the bbc",
+          "lewis",
+          "home",
+          "catalans",
+          "related topics",
+          "tries",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "broadbent",
+          "hull"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/rugby-league/articles/cq536dy69ypo",
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/rugby-league/scores-fixtures",
+          "https://bbc.co.uk/sport/rugby-league/teams/hull-kr",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:25.401999",
+          "depth": 2,
+          "relevance_score": 4.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.328628",
+      "quality_score": 0.4
+    },
+    {
+      "id": "news_57318",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/rugby-union/articles/c74zkywgg91o",
+        "keywords": [
+          "video",
+          "sport",
+          "best of the bbc",
+          "desperation",
+          "more on this story"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.8
+      },
+      "content": {
+        "title": "British and Irish Lions 2025: 'Desperation driving Australia - but it only gets you so far' - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nRugby Union\nScores & Fixtures\nLions\nTables\nVideo\nAll Teams\nEnglish\nScottish\nWelsh\nIrish\n'Desperation driving Australia - but it only gets you so far'\nImage source,\nGetty Images\nImage caption,\nAustralia are 1-0 down going into Saturday's second Test\nTom English\nBBC Sport in Australia\nPublished\n57 minutes ago\n69 Comments\nThere was no mistaking the word of the night at the Suncorp Stadium after the British and Irish Lions' first Test win over Australia - desperation.\nAs in, Wallaby desperation. As in, they'll be so desperate to keep the series alive in Melbourne on Saturday they'll metamorphose into a team of belligerence and belief - a band of brothers who will blow the Lions away.\n\"We expect them to be desperate,\" said Lions centre Sione Tuipulotu after the\n27-19 victory.\n\"When an Australia team becomes desperate, it's difficult to handle,\" said head coach Andy Farrell.\n\"The desperation is all on the line for them at the weekend,\" said prop Tadhg Furlong.\nFlanker Tadhg Beirne also spoke about Australian desperation. So did Wallabies head coach Joe Schmidt, repeatedly, and so did his replacement scrum-half Tate McDermott and others.\nAnd they will be desperate, no question, but how far does desperation get you?\nSchmidt said his team had desperation written all over their performance in Brisbane, and he meant it as a compliment. He admired their hunger and their refusal to wilt.\nFarrell said the Wallabies would be a different team\nin Melbourne. Maybe. Or maybe we're reading too much into the desperation thing. Maybe they're just an Australia team early in their development and out of their depth in games such as this.\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nMore to come from Lions after opening win - Farrell\nFor drama and intrigue, we want the series to go to the wire, so we construct an argument around that.\nThe fightback exposed weaknesses in the Lions make-up. Things might have been closer had big calls gone with the Wallabies - a possible yellow card for Tom Curry for taking Tom Lynagh in the air, a possible yellow for Furlong going high on Len Ikitau, a possible yellow for a Ben Earl no-arms tackle ",
+        "topics": [
+          "video",
+          "sport",
+          "best of the bbc",
+          "desperation",
+          "more on this story",
+          "writes tom english.",
+          "related topics",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "their",
+          "wallabies",
+          "lions"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/rugby-union/articles/cy5w75rlk2ko",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/sport/rugby-union/articles/c1mzvk5nzjdo",
+          "https://bbc.co.uk/programmes/b0070hx6"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:26.540085",
+          "depth": 2,
+          "relevance_score": 8.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.328854",
+      "quality_score": 0.8
+    },
+    {
+      "id": "news_56811",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/boxing/articles/c89ej3lkp51o",
+        "keywords": [
+          "heavyweight",
+          "video",
+          "sport",
+          "best of the bbc",
+          "who can stop usyk?"
+        ],
+        "priority": "medium",
+        "content_type": "news_article",
+        "estimated_quality": 0.4
+      },
+      "content": {
+        "title": "Usyk vs Dubois 2: Oleksandr Usyk & 'Ivan' - the untouchable duo who can't be beaten? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nBoxing\nResults & Schedule\nCalendar\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\nBobbie Jackson\nBBC Sport at Wembley Stadium\nPublished\n4 hours ago\n428 Comments\nOleksandr Usyk introduced Daniel Dubois and the world to his friend 'Ivan' at Wembley on Saturday.\nThe Ukrainian southpaw landed a flush left hook to seal a\nfifth-round knockout\nwin and become undisputed heavyweight champion for a second time.\nUsyk arrived for his post-fight news conference an hour after extending his undefeated record to 24, and after a swift night's work was happy to entertain the packed room.\n\"My left hook is called Ivan,\" Usyk said.\n\"Ivan is a Ukrainian name. Ivan is a big guy who lives in a village and works for his family. It's a hard punch, Ivan.\n\"The first time 2018 [I named it] was in the USA as a cruiserweight.\"\nDubois had already climbed off the canvas moments earlier following a right hook to the temple, but it was the sequence that followed with Usyk's favoured left that proved decisive.\nIt was another vintage performance from a master of the craft.\nA 90,000-strong crowd had been forced to contend with heavy rain at Wembley Stadium earlier in the night, but it was worth persevering to watch the spectacle unfold.\nUsyk excelled in all areas - escaping Dubois' attacks with slick footwork, returning with crisp shots on the counter and displaying pure heavyweight power.\nThe triumph has propelled Usyk into a very elite category - he joins Muhammad Ali as the only men to reign undisputed in the heavyweight division on two occasions.\nUsyk destroys Dubois to reclaim undisputed crown\nPublished\n14 hours ago\nRelive Usyk's demolition of Dubois at Wembley\nHeavyweight permutations - what next after Usyk win?\nPublished\n12 hours ago\nUsyk is the best of his generation\nIf it wasn't already clear then it certainly is now. Usyk is the standout heavyweight of his generation.\nUsyk has not just cleaned out his biggest rivals - Tyson Fury, Anthony Joshua and Dubois - but he has gone all the way round the block and defeate",
+        "topics": [
+          "heavyweight",
+          "video",
+          "sport",
+          "best of the bbc",
+          "who can stop usyk?",
+          "usyk",
+          "dubois",
+          "related topics",
+          "top stories",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/boxing/articles/cm2lmd1rj8no",
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/boxing/articles/clwwl4pq092o",
+          "https://bbc.co.uk/sport/boxing/58678537",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:27.639893",
+          "depth": 2,
+          "relevance_score": 4.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.329094",
+      "quality_score": 0.4
+    },
+    {
+      "id": "news_94867",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cp86p606gvko",
+        "keywords": [
+          "best of the bbc",
+          "united",
+          "more on this story",
+          "squad",
+          "amorim"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Manchester United transfers: What next for Rashford, Garnacho and Antony? - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nManchester United\nScores & Fixtures\nTable\nThe Man Utd Five: Ousted but not out\nImage source,\nGetty Images\nImage caption,\nManchester United head coach Ruben Amorim finished last season with optimistic words\nSimon Stone\nChief football news reporter\nPublished\n15 July 2025\n1568 Comments\nRuben Amorim was unequivocal.\nDid he know what he wanted his squad to look like when Manchester United returned for the start of pre-season training in July?\n\"Yes,\" he said. \"I have a clear idea what we want.\n\"As you know, we are a bit limited and we can't do it all in one summer but there is a clear picture for what we want.\"\nThese words were just over six weeks ago, as the United head coach bade farewell to journalists following the club's end-of-season tour to Asia.\nWith the club back in training, and the first pre-season game against Leeds in Stockholm on Saturday, it is fair to assume that desired clarity has not yet materialised.\nThe unwanted five, crucial to free up funds for incoming transfers, are still at the club, though Marcus Rashford, Antony, Jadon Sancho, Alejandro Garnacho and Tyrrell Malacia are training separately from the rest of the squad.\nJust one major addition has been made - Matheus Cunha, a \u00a362.5m arrival from Wolverhampton Wanderers.\nSo, what is going on behind the scenes, and what is the prospect of Amorim re-shaping the squad to his desires? Might United have to consider selling some of their other players to raise funds?\nThe 'bomb squad' have been truly ousted\nImage source,\nGetty Images\nImage caption,\nAntony, Garnacho, Rashford, Malacia and Sancho are estimated to be earning wages to a combined total of around \u00a31m a week\nOn 4 July, United made it known that the five unwanted players had asked to leave and would not train with the remainder of Amorim's squad. Rashford's number 10 shirt was given to Cunha.\nSince their exile, the only significant development involving the quintet was news that they cannot access United's Carrington training ground - which they can enter for rehabilitation and medical purposes - until Amorim and his squad have left for the day.\nThe members of the so-called 'bomb squad', a reference to their being bombed out, can train together at Ca",
+        "topics": [
+          "best of the bbc",
+          "united",
+          "more on this story",
+          "squad",
+          "amorim",
+          "related topics",
+          "top stories",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/programmes/b0070hx6",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+          "https://bbc.co.uk/sport/disability-sport"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:28.882032",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.329331",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_7948",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/cz9kzy0gnlzo",
+        "keywords": [
+          "video",
+          "arsenal",
+          "sport",
+          "best of the bbc",
+          "sports"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Arsenal include 15-year-olds Max Dowman & Marli Salmon in Asia tour squad - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nArsenal\nScores & Fixtures\nTable\nArsenal name two 15-year-olds in Asia tour squad\nImage source,\nGetty Images\nImage caption,\nDowman is rated as one of Arsenal's brightest talents\nAlex Howell\nBBC Sport football news reporter\nPublished\n19 July 2025\nArsenal have included 15-year-olds Max Dowman and Marli Salmon in their squad for their tour of Singapore and Hong Kong.\nAttacking midfielder Dowman and centre-back Salmon will join new recruits Martin Zubimendi, Kepa Arrizabalaga and Christian Norgaard as part of the 30-man  travelling party.\nHowever,\n\u00a348.5m signing\nNoni Madueke will not be involved as he rests after his exploits with Chelsea in the Club World Cup.\nThe 23-year-old will join up with the squad when they return from Asia.\nThe Gunners will play two games in Singapore - AC Milan on 23 July and Newcastle on 27 July - before flying to Hong Kong for a north London derby against Tottenham Hotspur on 31 July.\nDowman, who does not turn 16 until December, has been training with the senior squad for some time and travelled with the team to their winter training camp in January.\nDue to Premier League rules, Dowman could not make his debut last season as he was named in the Arsenal Under-15 squad.\nHe has been given the number 56 for the tour with manager Mikel Arteta calling him a \"huge talent\" and hinting that he could be part of his plans this season.\nDowman scored 19 goals and had five assists during 23 games in all competitions for Arsenal's youth teams last season.\nHe also became the youngest scorer in European Under-17 Championship history when he netted in England's win over the Czech Republic in May.\nRelated topics\nArsenal\nFootball\nMore on this story\nLatest Arsenal news, analysis and fan views\nGet Arsenal news sent straight to your phone\nPublished\n26 July 2022\nTop stories\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nPublished\n4 hours ago\nLive\n.\nListen to The Open final day - Can anyone deny Scheffler a fourth major title?\n5727 viewing\n5.7k viewing\nLive\n.\nTour de France stage 15 - Pogacar rivals look to cut gap before rest day\n1711 viewing\n1.7k viewing\nloading elsewhere stories\nElsewhere in Sport\n'The genius of modern boxing' - Usyk knocks out Dubois in r",
+        "topics": [
+          "video",
+          "arsenal",
+          "sport",
+          "best of the bbc",
+          "sports",
+          "more on this story",
+          "squad",
+          "related topics",
+          "news",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "dowman",
+          "football",
+          "cricket"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/62099717",
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/programmes/b0070hx6",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:29.974334",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.329585",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_10466",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/62099717",
+        "keywords": [
+          "video",
+          "sport",
+          "best of the bbc",
+          "your",
+          "menu"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Arsenal: Get news, analysis, fan views, quizzes and team selectors for the Gunners - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nArsenal\nScores & Fixtures\nTable\nArsenal: Get news, analysis, fan views, quizzes and team selectors for the Gunners\nPublished\n26 July 2022\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nBBC Sport app: Download to follow all the latest on your Premier League team\nDownload the BBC Sport app:\nApple\n,\nexternal\n-\nAndroid\n,\nexternal\n-\nAmazon\n,\nexternal\nThe BBC Sport app's coverage of Arsenal is bigger and better than ever before.\nYou can now:\nFollow an improved club page to be up to speed with all the very latest news, insight and analysis, fan views and interactive content.\nGet Gunners news sent direct to your device.\nSimply go to the\nArsenal page\nthen, if you are using the BBC Sport app,\nFollow\nto add them to MySport and select the\nbell icon\nto sign up for club notifications, including news, goals and results.\nPlease note: if you're reading on your phone or tablet web browser and have the app on your device, hit\nthis link\n,\nexternal\nand you'll go directly to the notifications sign-up page; if you're already in the app, you'll find the sign-up page in your menu bar.\nImage source,\nBBC Sport\nMake sure you never miss a moment -\ngo straight to all the best content\nImage source,\nBBC Sport\nAround the BBC\nBBC Sport Premier League\nRelated internet links\nArsenal official site\nThe BBC is not responsible for the content of external sites.\nTop stories\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nPublished\n4 hours ago\nLive\n.\nListen to The Open final day - Can anyone deny Scheffler a fourth major title?\n5727 viewing\n5.7k viewing\nLive\n.\nTour de France stage 15 - Pogacar rivals look to cut gap before rest day\n1711 viewing\n1.7k viewing\nloading elsewhere stories\nElsewhere in Sport\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch. Video\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\nMcIlroy confused as he unearths a buried ball. Video\nMcIlroy confused as he unearths a buried ball\nBerger's stunning save prevents extra-time own goal. Video\nBerger's stunning save prevents extra-time own goal\n'Desperation driving Australia - but it on",
+        "topics": [
+          "video",
+          "sport",
+          "best of the bbc",
+          "your",
+          "menu",
+          "around the bbc",
+          "analysis",
+          "news",
+          "top stories",
+          "elsewhere in sport",
+          "iplayer",
+          "related internet links",
+          "cricket",
+          "external",
+          "content"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/programmes/b0070hx6",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+          "https://bbc.co.uk/sport/disability-sport"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:31.207876",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.329844",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_96440",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/cricket/articles/c1jw1gn11pdo",
+        "keywords": [
+          "balls",
+          "england",
+          "sport",
+          "best of the bbc",
+          "what can be done?"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.72
+      },
+      "content": {
+        "title": "England v India: Balls to be examined by Dukes after 'soft' issues - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nCricket\nScores & Fixtures\nTables\nVideo\nEngland Men\nEngland Women\nCounties\nThe Hundred\nFranchise Cricket\nAll Teams\nDukes to examine 'soft' cricket balls - what is going on?\nImage source,\nGetty Images\nImage caption,\nBoth India and England have regularly complained about the ball during their Test series\nMatthew Henry\nBBC Sport Journalist\nStephan Shemilt\nChief Cricket Reporter\nPublished\n18 July 2025\n578 Comments\nBalls used in the series between England and India will be examined by the manufacturer after the first three Tests were blighted by problems.\nThe Dukes balls have been regularly changed because they have gone out of shape, causing frustrating delays in play.\nThe England and Wales Cricket Board (ECB) will collect as many used balls as possible and return them to Dukes by the end of the week.\n\"We will take it away, inspect and then start talking to the tanner, talking about all of the raw materials - everything,\" Dilip Jajodia, owner of British Cricket Balls Ltd, who make the Dukes, told BBC Sport.\n\"Everything we do will be reviewed and then if we think some changes need to be made or tightened up, we will.\"\nWhat to do about Test cricket's slow play problem?\nPublished\n4 days ago\nWhat has been the problem?\nThe ball used for Test matches is decided by the host board. Whereas this is the Dukes in England, Tests in India are played with an SG ball, while the Kookaburra is used in Australia.\nThe Dukes, in production since 1760, has long been regarded as a high-quality product but there have been issues in Test and county cricket in recent years.\nIt has been going soft prematurely - long before it should be changed after 80 overs of an innings - and when a ball goes soft taking wickets becomes harder. Bowlers say there is not the same zip off the pitch and fewer edges carry to fielders.\nThe ECB's Professional Game Committee and Cricket Advisory Group analyses data collected in relation to balls across the season. This would include the number of balls changed, along with reports from umpires and captains.\nConversations around the quality of balls have been monitored in recent years and there is an awareness of increased instances of balls becoming softer more quickly but",
+        "topics": [
+          "balls",
+          "england",
+          "sport",
+          "best of the bbc",
+          "what can be done?",
+          "more on this story",
+          "ball",
+          "related topics",
+          "top stories",
+          "elsewhere in sport",
+          "cricket"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/cricket/franchise-cricket",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/sport/cricket/articles/cx2001mmex3o",
+          "https://bbc.co.uk/programmes/b0070hx6"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:32.589941",
+          "depth": 1,
+          "relevance_score": 7.2
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.330029",
+      "quality_score": 0.72
+    },
+    {
+      "id": "news_12671",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/cricket/articles/cx2001mmex3o",
+        "keywords": [
+          "england",
+          "sport",
+          "'develop different skills'",
+          "top stories",
+          "why the kookaburra experiment?"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.8
+      },
+      "content": {
+        "title": "County cricket: Why Kookaburra ball is proving hard work for bowlers - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nCricket\nScores & Fixtures\nTables\nVideo\nEngland Men\nEngland Women\nCounties\nThe Hundred\nFranchise Cricket\nAll Teams\nKookaburra conundrum - can county cricket have too many runs?\nImage source,\nGetty Images\nImage caption,\nDom Sibley's 305 was the highest of 59 centuries scored against the Kookaburra in the past two weeks\nAdam Lanigan\nBBC Sport England\nPublished\n2 July 2025\n321 Comments\nUpdated 3 July 2025\nOver the past two weeks at county grounds around the country, players have been raising their bats with astonishing regularity.\nNo fewer than 59 centuries have been scored across the latest two rounds of County Championship matches.\nA batter's paradise and a bowler's nightmare, with seamers left scratching their heads at how to use the unfamiliar Kookaburra ball.\nHuge scores have been clocked up, none bigger than Surrey's mammoth 820-9 declared against Durham,\nthe highest for 18 years\nand fourth highest in the history of Championship cricket.\nBut why have the runs been flowing?\nDukes v Kookaburra\nFor these two rounds of matches and the two rounds at the end of this month, all Championship games will be played with the Kookaburra ball, whereas normally matches in England use a Dukes.\nBut what is the difference between the two?\nA Dukes ball is hand stitched with six rows of threads. This makes the seam more pronounced than the Kookaburra and it maintains its shape for longer, favouring bowlers searching for seam and swing movement.\nThe Kookaburra is machine stitched and does not have the same handicraft in its manufacturing. It does swing initially, but loses its shape more quickly and becomes softer.\nHowever, it is better suited to cricket played on dry, hard pitches, as are usually found in Australia, to cope with the abrasive surfaces.\nIn Test cricket, the Dukes ball is used in England, Ireland and West Indies, whereas the Kookaburra is predominantly used everywhere else.\nImage source,\nGetty Images\nImage caption,\nSussex batter James Coles was one of six players to score centuries in both Kookaburra games\nWhy the Kookaburra experiment?\nThe Kookaburra is being used as a result of a high-performance review into English cricket led by Sir Andrew Strauss in 2022.\nIt came on t",
+        "topics": [
+          "england",
+          "sport",
+          "'develop different skills'",
+          "top stories",
+          "why the kookaburra experiment?",
+          "'same ball, different continent'",
+          "related topics",
+          "dukes v kookaburra",
+          "best of the bbc",
+          "ball",
+          "elsewhere in sport",
+          "cricket",
+          "kookaburra"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cricket/teams/gloucestershire",
+          "https://bbc.co.uk/sport/cricket/articles/c307mygm0r3o",
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/cricket/teams/nottinghamshire",
+          "https://bbc.co.uk/sport/cricket/franchise-cricket"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:33.880981",
+          "depth": 2,
+          "relevance_score": 8.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.330262",
+      "quality_score": 0.8
+    },
+    {
+      "id": "news_76499",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/articles/cl5q9dk9jl3o",
+        "keywords": [
+          "sport",
+          "personalise with mysport",
+          "top stories",
+          "external",
+          "social media"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Notifications, social media and more with BBC Sport - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nNotifications, social media and more with BBC Sport\nTo play this video you need to enable JavaScript in your browser.\nThis video can not be played\nMedia caption,\nBBC Sport app: Download to follow all the latest on your Premier League team\nPublished\n26 March 2024\nUpdated 31 January 2025\nWant all the biggest sports news, analysis and scores sent direct to your phone or tablet? Then download the BBC Sport app.\nThe app also comes with all our website content along with a radio player, Chromecast integration, a widget and personalised menu options. It's free and easy to download - simply head to the relevant link below:\nDownload the BBC Sport app:\nApple\n,\nexternal\n-\nAndroid\n,\nexternal\n-\nAmazon\n,\nexternal\nSign up for notifications\nThe BBC Sport app offers two types of notification.\nWith news notifications you can have the biggest sport stories and the best content right at your fingertips. Stay in the know by picking from our offering of top sport headlines, football news - including the biggest updates, features and analysis on your Premier League, Championship and Scottish Premiership club - and news from nine other major sports, as well as the best from each nation of the United Kingdom. You can also sign up to get alerts to our latest Insight in-depth features.\nYou can also follow your team from wherever you are with our massive range of event notifications. We offer notifications across five sports - football, cricket, Formula 1, rugby union and rugby league - covering every major moment. Line-ups, kick-offs, and half-time scores, goals, wickets, tries and conversions, results and times on the wave of the chequered flag. We serve more than 400 teams, with more to come.\nEverything you need to know about your football team - in one place\nThe BBC Sport app's coverage of each Premier League, Championship and Scottish Premiership club is bigger and better than ever before. You can now:\nFollow an improved club page with all the best content from around the BBC, including insight and analysis from journalists and pundits;\nGet the latest news from your favourite team sent direct to your device.\nSimply choose from the list below then, if you are using the BBC Sport app, Follow t",
+        "topics": [
+          "sport",
+          "personalise with mysport",
+          "top stories",
+          "external",
+          "social media",
+          "news",
+          "iplayer",
+          "best of the bbc",
+          "troubleshooting",
+          "sign up for notifications",
+          "personalisation and much more",
+          "video",
+          "newsletter",
+          "your",
+          "city",
+          "elsewhere in sport"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/teams/middlesbrough",
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/football/teams/leeds-united",
+          "https://bbc.co.uk/sport/football/teams/oxford-united",
+          "https://bbc.co.uk/sport/football/teams/ipswich-town"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:35.103486",
+          "depth": 2,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.330486",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_20955",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/articles/cn33yxd1rz0o",
+        "keywords": [
+          "live",
+          "video",
+          "sport",
+          "best of the bbc",
+          "sports"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.7
+      },
+      "content": {
+        "title": "BBC Sport: Contact, Help & FAQs - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nBBC Sport: Contact, Help & FAQs\nPublished\n23 May 2024\nIf you have a question about BBC Sport, please visit the relevant page from the options below first.\nSPORTS COVERAGE\nTo see which live events BBC 5 Live and 5 Live Sports Extra are commentating on in the week ahead, please\nvisit the BBC Radio 5 Live schedule page\nCATCH-UP\nTo view all our TV and Red Button sports programming available on iPlayer, please\nvisit the BBC iPlayer Sport page.\nTo listen to all our radio sports programming and podcasts, please\nVisit the BBC Sounds Sport page.\nMOBILE APP\nFor information on the mobile app, including where you can download it from and details of recent updates please\nvisit the mobile app information page.\nCOMPLAINTS & FEEDBACK\nIf you wish to make a formal complaint, please go to our\ncomplaints website.\nAny feedback you have on our TV, radio and online offering should also be sent via the complaints website so that it is properly recorded in the BBC's audience log. Our\nBBC editorial guidelines\nare also available online.\nQUESTION NOT COVERED HERE?\nSee if your question has been answered by the main\nBBC Contact site.\nTop stories\nUsyk and 'Ivan' - the untouchable duo who can't be beaten?\nPublished\n4 hours ago\nLive\n.\nListen to The Open final day - Can anyone deny Scheffler a fourth major title?\n5710 viewing\n5.7k viewing\nLive\n.\nTour de France stage 15 - Pogacar rivals look to cut gap before rest day\n1556 viewing\n1.6k viewing\nloading elsewhere stories\nElsewhere in Sport\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch. Video\n'The genius of modern boxing' - Usyk knocks out Dubois in rematch\nMcIlroy confused as he unearths a buried ball. Video\nMcIlroy confused as he unearths a buried ball\nBerger's stunning save prevents extra-time own goal. Video\nBerger's stunning save prevents extra-time own goal\n'Desperation driving Australia - but it only gets you so far'\n'We felt like Premier League footballers' - Jones relives 2005 Ashes\nExploring Britain's most extraordinary cricket grounds. Video\nExploring Britain's most extraordinary cricket grounds\nThe race for a striker is hotting up - who is still available?\n'That is horrific' - India rue 'awful' run out. Video\n'That is horrif",
+        "topics": [
+          "live",
+          "video",
+          "sport",
+          "best of the bbc",
+          "sports",
+          "please",
+          "visit",
+          "page",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "cricket"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/programmes/b0070hx6",
+          "https://bbc.co.uk/sport/cricket/articles/c4ge4p7k8d9o",
+          "https://bbc.co.uk/sport/disability-sport"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:36.300822",
+          "depth": 1,
+          "relevance_score": 7.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.330707",
+      "quality_score": 0.7
+    },
+    {
+      "id": "news_67242",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c89ejp0nx8do",
+        "keywords": [
+          "video",
+          "sport",
+          "best of the bbc",
+          "more on this story",
+          "newcastle"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 1.0
+      },
+      "content": {
+        "title": "Celtic 4-0 Newcastle: Alexander Isak left out as Magpies suffer heavy loss - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nFootball\nScores & Fixtures\nTables\nGossip\nEuro 2025\nTransfers\nTop Scorers\nWomen\nChampions League\nFA Cup\nAll Teams\nLeagues & Cups\nQuizzes\nHowe confident 'happy' Isak will stay at Newcastle\nImage source,\nGetty Images\nImage caption,\nAlexander Isak has scored 54 Premier League goals since joining Newcastle in August 2022\nAdam Millington\nBBC Sport journalist\nPublished\n19 July 2025\n811 Comments\nNewcastle manager Eddie Howe remains \"confident\" Alexander Isak will still be at the club at the start of the season after the striker was left out of Saturday's 4-0 pre-season friendly defeat by Celtic.\nThe 25-year-old's future has been unclear after being the centre of transfer interest this summer.\n\"I think it's difficult for me to give 100% clarity on any player,\" said Howe after the disappointing loss at Celtic Park. \"I'd never sit here and do that because it's football and you never know what can happen.\n\"But Alex is happy at Newcastle. He loves the players he plays with, the staff, the team and I've never had any issue with him.\n\"I'm confident he's going to be here at the start of the season.\"\nSweden international Isak, along with Brazilian midfielder Joelinton, was missed as Howe's side were well beaten by the Scottish champions.\nCeltic went ahead after 28 minutes when Arne Engels sent Nick Pope the wrong way from the penalty spot after being brought down by Joe Willock inside the box.\nKeeper Pope made a major error to gift the hosts a second just before half-time, rushing off his line and failing with an attempt to head a long ball clear to allow Johnny Kenny to pass it into the empty net.\nNewcastle brought on Anthony Elanga,\nwho joined from Nottingham Forest\nearlier this month for \u00a355m, for his debut at the break, but the winger could not make an impact.\nCeltic added a third seven minutes after the restart when South Korean Yang Hyun-Jun slotted past replacement keeper Martin Dubravka from close range.\nDespite Newcastle having more possession in the second half, they conceded a fourth goal as Liam Scales powered a 75th-minute header into the top corner.\nThe Magpies face Arsenal in their next pre-season game on Sunday, 27 July, in Singapore (12:30 BST).\nOn whether Isak will be",
+        "topics": [
+          "video",
+          "sport",
+          "best of the bbc",
+          "more on this story",
+          "newcastle",
+          "related topics",
+          "after",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "news",
+          "football",
+          "published",
+          "celtic"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/leagues-cups",
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/football/articles/c9vr40rkxzdo",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/programmes/b0070hx6"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:37.662986",
+          "depth": 1,
+          "relevance_score": 10.0
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.330891",
+      "quality_score": 1.0
+    },
+    {
+      "id": "news_9335",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c9vr40rkxzdo",
+        "keywords": [
+          "league",
+          "sport",
+          "best of the bbc",
+          "football",
+          "more on this story"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.968
+      },
+      "content": {
+        "title": "Sean Longstaff: Leeds United sign midfielder from Newcastle for \u00a312m - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nLongstaff joins Leeds from Newcastle in \u00a312m move\nImage source,\nGetty Images\nImage caption,\nLongstaff is Leeds' fifth signing of the summer\nAdwaidh Rajan\nBBC Sport journalist\nPublished\n18 July 2025\n383 Comments\nNewly promoted Leeds United have signed midfielder Sean Longstaff from Newcastle for \u00a312m plus potential add-ons.\nThe 27-year-old, who had one year left on his contract at St James' Park, has signed a four-year deal.\nThe move ends an 18-year association with Newcastle, having come through the ranks at the club.\n\"I think from the first time I spoke to Leeds, I got a feeling that they really wanted me,\" Longstaff told LUTV.\n\"It just fills you full of confidence and it just makes you want to repay those people. It is a massive, massive football club - similar to Newcastle in a lot of ways.\n\"It was going to take a lot for me to leave Newcastle to be honest and I wasn't just going to leave to go anywhere so it had to be the right place for me and my family and I think this is a perfect place.\n\"Every time I came to play at Leeds the atmosphere was amazing, it was always bouncing and a really tough place to play, and [I'm] just looking forward to having that on my side rather than having to play against.\"\nHe made 214 senior appearances for the Magpies, but played only 787 minutes for Eddie Howe's side in the Premier League last season - mostly as a substitute.\nLongstaff also made five appearances in the Carabao Cup last season, but was an unused substitute as Newcastle defeated Liverpool 2-1 in the final to win their domestic trophy in 70 years.\nLeeds had already agreed personal terms with the English midfielder but had an offer of \u00a310m rejected by Newcastle earlier this week.\nLongstaff is Leeds' fifth signing this summer following the arrivals of defenders\nSebastiaan Bornauw\n,\nJaka Bijol\nand\nGabriel Gudmundsson\nas well as German forward\nLukas Nmecha\n.\nDaniel Farke's side will begin their Premier League campaign at home to Everton on 18 August.\nThey play Manchester United in a pre-season friendly in Stockholm on Saturday, before further friendlies against Villarreal and AC Milan in August.\nLongstaff following in family",
+        "topics": [
+          "league",
+          "sport",
+          "best of the bbc",
+          "football",
+          "more on this story",
+          "newcastle",
+          "related topics",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "premier",
+          "leeds",
+          "longstaff"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/premier-league/scores-fixtures",
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/football/teams/leeds-united",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/programmes/b0070hx6"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:39.017819",
+          "depth": 2,
+          "relevance_score": 9.68
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.331115",
+      "quality_score": 0.968
+    },
+    {
+      "id": "news_99309",
+      "source": {
+        "source_type": "news_scrape",
+        "url": "https://bbc.co.uk/sport/football/articles/c98jv5m3vj7o",
+        "keywords": [
+          "league",
+          "sport",
+          "best of the bbc",
+          "more on this story",
+          "newcastle"
+        ],
+        "priority": "high",
+        "content_type": "news_article",
+        "estimated_quality": 0.8800000000000001
+      },
+      "content": {
+        "title": "Yoane Wissa: Newcastle accelerate interest in Brentford striker - BBC Sport",
+        "body": "BBC Homepage\nSkip to content\nAccessibility Help\nYour account\nNotifications\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nMore menu\nMore menu\nSearch BBC\nHome\nNews\nSport\nWeather\niPlayer\nSounds\nBitesize\nCBBC\nCBeebies\nFood\nClose menu\nBBC Sport\nMenu\nHome\nFootball\nCricket\nFormula 1\nRugby U\nRugby L\nTennis\nGolf\nBoxing\nAthletics\nEuro 2025\nMy Sport\nMore\nA-Z Sports\nAmerican Football\nAthletics\nBasketball\nBoxing\nCricket\nCycling\nDarts\nDisability Sport\nFootball\nFormula 1\nGaelic Games\nGolf\nGymnastics\nHorse Racing\nMixed Martial Arts\nMotorsport\nNetball\nOlympic Sports\nRugby League\nRugby Union\nSnooker\nSwimming\nTennis\nWinter Sports\nFull Sports A-Z\nMore from Sport\nEngland\nScotland\nWales\nNorthern Ireland\nMy Sport\nMatch of the Day\nSports Personality\n5 Live Sport\nNews Feeds\nHelp & FAQs\nPremier League\nScores & Fixtures\nTable\nTop Scorers\nNewcastle turn to Wissa after ending Ekitike pursuit\nImage source,\nGetty Images\nImage caption,\nBrentford striker Yoane Wissa has scored 45 goals in 137 Premier League appearances\nSami Mokbel\nSenior football correspondent\nPublished\n17 July 2025\n556 Comments\nNewcastle are expected to accelerate their interest in Brentford striker Yoane Wissa in the next 24 hours after withdrawing from their pursuit of Hugo Ekitike.\nThe Magpies want to sign a new centre-forward but\ntheir \u00a370m offer to Eintracht Frankfurt for 23-year-old Frenchman Ekitike was rejected.\nLiverpool have also targeted Ekitike as a possible alternative to their first-choice target, Newcastle's Alexander Isak.\nAnd with Newcastle adamant Isak is not for sale, the Anfield club are now expected to step up their interest in Ekitike.\nSources have told BBC Sport that with Newcastle's efforts to land Ekitike hitting complications in the last 24 hours, the Magpies have turned their attentions to Wissa.\nBrentford attacker Wissa, 28, is also a target for Tottenham and Nottingham Forest\nIt is understood Newcastle's interest in the Democratic Republic of Congo international is less advanced than that of those clubs as things stand, but it is now set to ramp up as the club from north east England increase their efforts to sign a striker.\nBrentford are adamant they do not want to lose Bryan Mbeumo, who is coveted by Manchester United, and Wissa this summer - but Wissa is open to leaving the Bees for a chance to play in the Champions League.\nHe has scored 45 goals in 137 Premier League appearances since joining from Lorient in 2021.\nHow Wissa's role changed at Brentford\nMatt Hobbs\nBBC Sport journalist\nThe 28-year-old was impressive in filling the void left by Ivan Toney's \u00a340m departure to the Saudi Pro League last summer, a sale which heralded a change in Wissa's role for Brentford.\nHe moved from an attacking midfield position/support striker position to centre forward and as a result was far more involved in the penalty box.\nThis change in emphasis resulted in the best scoring campaign of the DR Congo international's 12-season senior league career, with all 19 of his Premier",
+        "topics": [
+          "league",
+          "sport",
+          "best of the bbc",
+          "more on this story",
+          "newcastle",
+          "ekitike",
+          "related topics",
+          "premier",
+          "top stories",
+          "iplayer",
+          "elsewhere in sport",
+          "their",
+          "wissa",
+          "brentford"
+        ],
+        "related_links": [
+          "https://bbc.co.uk/sport/football/premier-league/scores-fixtures",
+          "https://bbc.co.uk/sport/cycling/live/cwy6jeyd1n6t",
+          "https://bbc.co.uk/sport/football/videos/cy8gz5yw3x5o",
+          "https://bbc.co.uk/programmes/b0070hx6",
+          "https://bbc.co.uk/sport/football/premier-league/top-scorers"
+        ],
+        "metadata": {
+          "scraped_at": "2025-07-20T12:50:40.326093",
+          "depth": 2,
+          "relevance_score": 8.8
+        }
+      },
+      "timestamp": "2025-07-20T12:50:40.331318",
+      "quality_score": 0.8800000000000001
+    }
+  ],
+  "summary": {
+    "total_nodes": 16,
+    "average_relevance": 7.9225,
+    "max_relevance": 10.0,
+    "unique_topics": 94,
+    "total_topics": 216,
+    "depth_distribution": {
+      "0": 1,
+      "1": 5,
+      "2": 10
+    },
+    "high_relevance_pages": 13
+  }
+}
