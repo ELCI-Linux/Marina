@@ -1,0 +1,8 @@
+# Test file for Marina's code implementation
+# This file will be modified by the code implementer
+
+def existing_function():
+    '''An existing function.'''
+    return "Hello from existing function"
+
+# End of file

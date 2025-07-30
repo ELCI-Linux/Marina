@@ -1,0 +1,27 @@
+{
+  "uber": {
+    "client_id": "",
+    "client_secret": "",
+    "sandbox_mode": true,
+    "default_ride_type": "UberX"
+  },
+  "location": {
+    "update_interval_seconds": 30,
+    "accuracy_threshold_meters": 50,
+    "geofence_check_interval": 10
+  },
+  "scheduler": {
+    "calendar_integration": true,
+    "default_buffer_minutes": 5,
+    "early_arrival_minutes": 2
+  },
+  "notifications": {
+    "enabled": true,
+    "marina_integration": true
+  },
+  "safety": {
+    "require_confirmation": true,
+    "max_daily_requests": 10,
+    "home_location": [37.7749, -122.4194]
+  }
+}
