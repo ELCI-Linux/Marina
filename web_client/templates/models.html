@@ -1,0 +1,210 @@
+{% extends 'base.html' %}
+
+{% block title %}Models | Marina Web Client{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <h2 class="pb-3 mb-4 border-bottom">
+        Model Management
+    </h2>
+    
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5><i class="fas fa-info-circle me-2"></i>Model Status</h5>
+                </div>
+                <div class="card-body">
+                    <button id="status-btn" class="btn btn-outline-primary">Get Status</button>
+                    <div id="status-output" class="mt-3"></div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5><i class="fas fa-lightbulb me-2"></i>Recommendations</h5>
+                </div>
+                <div class="card-body">
+                    <button id="recommend-btn" class="btn btn-outline-info">Get Recommendations</button>
+                    <div id="recommend-output" class="mt-3"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5><i class="fas fa-pause-circle me-2"></i>Suspend Models</h5>
+                </div>
+                <div class="card-body">
+                    <div class="mb-3">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="suspend-type" id="suspend-all" value="all" checked>
+                            <label class="form-check-label" for="suspend-all">
+                                Suspend All Models
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="suspend-type" id="suspend-specific" value="specific">
+                            <label class="form-check-label" for="suspend-specific">
+                                Suspend Specific Model
+                            </label>
+                        </div>
+                    </div>
+                    <div class="mb-3" id="model-name-div" style="display: none;">
+                        <input type="text" class="form-control" id="suspend-model-name" placeholder="Model name">
+                    </div>
+                    <button id="suspend-btn" class="btn btn-warning">Suspend</button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5><i class="fas fa-play-circle me-2"></i>Load Models</h5>
+                </div>
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label for="load-task" class="form-label">Task Type</label>
+                        <select class="form-select" id="load-task">
+                            <option value="general" selected>General</option>
+                            <option value="code">Code</option>
+                            <option value="reasoning">Reasoning</option>
+                            <option value="multilingual">Multilingual</option>
+                            <option value="custom">Custom</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="load-model-name" class="form-label">Specific Model (optional)</label>
+                        <input type="text" class="form-control" id="load-model-name" placeholder="Leave empty for auto-selection">
+                    </div>
+                    <button id="load-btn" class="btn btn-success">Load Model</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="output-container" class="mt-4">
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    // Show/hide model name input based on radio selection
+    document.querySelectorAll('input[name="suspend-type"]').forEach(radio => {
+        radio.addEventListener('change', function() {
+            const modelNameDiv = document.getElementById('model-name-div');
+            if (this.value === 'specific') {
+                modelNameDiv.style.display = 'block';
+            } else {
+                modelNameDiv.style.display = 'none';
+            }
+        });
+    });
+
+    // Status button
+    document.getElementById('status-btn').addEventListener('click', async function() {
+        const response = await fetch('/api/models/status');
+        const result = await response.json();
+        
+        const output = document.getElementById('status-output');
+        if (result.success) {
+            output.innerHTML = `<pre>${result.stdout}</pre>`;
+        } else {
+            output.innerHTML = `<div class="alert alert-danger">${result.stderr}</div>`;
+        }
+    });
+
+    // Recommendations button
+    document.getElementById('recommend-btn').addEventListener('click', async function() {
+        const response = await fetch('/api/models/recommend');
+        const result = await response.json();
+        
+        const output = document.getElementById('recommend-output');
+        if (result.success) {
+            output.innerHTML = `<pre>${result.stdout}</pre>`;
+        } else {
+            output.innerHTML = `<div class="alert alert-danger">${result.stderr}</div>`;
+        }
+    });
+
+    // Suspend button
+    document.getElementById('suspend-btn').addEventListener('click', async function() {
+        const suspendType = document.querySelector('input[name="suspend-type"]:checked').value;
+        const modelName = document.getElementById('suspend-model-name').value;
+        
+        const data = {};
+        if (suspendType === 'all') {
+            data.all = true;
+        } else if (suspendType === 'specific' && modelName) {
+            data.model = modelName;
+        } else {
+            addAlert('Please specify a model name for specific suspension.', 'danger');
+            return;
+        }
+
+        const loadingMessage = document.getElementById('loadingMessage');
+        loadingMessage.textContent = 'Suspending model(s)...';
+        const loadingModal = new bootstrap.Modal(document.getElementById('loadingModal'));
+        loadingModal.show();
+
+        const response = await fetch('/api/models/suspend', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify(data)
+        });
+        const result = await response.json();
+        loadingModal.hide();
+
+        if (result.success) {
+            addAlert('Model(s) suspended successfully!', 'success');
+        } else {
+            addAlert(`Model suspension failed: ${result.stderr}`, 'danger');
+        }
+
+        const outputContainer = document.getElementById('output-container');
+        outputContainer.innerHTML = `<pre>${result.stdout || result.stderr}</pre>`;
+    });
+
+    // Load button
+    document.getElementById('load-btn').addEventListener('click', async function() {
+        const task = document.getElementById('load-task').value;
+        const modelName = document.getElementById('load-model-name').value;
+        
+        const data = { task };
+        if (modelName) {
+            data.model = modelName;
+        }
+
+        const loadingMessage = document.getElementById('loadingMessage');
+        loadingMessage.textContent = 'Loading model...';
+        const loadingModal = new bootstrap.Modal(document.getElementById('loadingModal'));
+        loadingModal.show();
+
+        const response = await fetch('/api/models/load', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify(data)
+        });
+        const result = await response.json();
+        loadingModal.hide();
+
+        if (result.success) {
+            addAlert('Model loaded successfully!', 'success');
+        } else {
+            addAlert(`Model loading failed: ${result.stderr}`, 'danger');
+        }
+
+        const outputContainer = document.getElementById('output-container');
+        outputContainer.innerHTML = `<pre>${result.stdout || result.stderr}</pre>`;
+    });
+</script>
+{% endblock %}

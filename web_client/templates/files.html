@@ -1,0 +1,195 @@
+{% extends 'base.html' %}
+
+{% block title %}Files | Marina Web Client{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <h2 class="pb-3 mb-4 border-bottom">
+        File Management
+    </h2>
+    
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5><i class="fas fa-upload me-2"></i>Upload Files</h5>
+                </div>
+                <div class="card-body">
+                    <form id="upload-form" enctype="multipart/form-data">
+                        <div class="mb-3">
+                            <input type="file" class="form-control" id="file-input" multiple>
+                            <div class="form-text">Allowed types: txt, pdf, png, jpg, gif, json, csv, xlsx, docx, py, js, html, css, md, xml, yml, yaml</div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Upload Files</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5><i class="fas fa-folder me-2"></i>Your Files</h5>
+                    <button id="refresh-btn" class="btn btn-outline-secondary btn-sm">
+                        <i class="fas fa-sync me-1"></i>Refresh
+                    </button>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Size</th>
+                                    <th>Modified</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="files-table-body">
+                                {% for file in files %}
+                                <tr>
+                                    <td><i class="fas fa-file me-1"></i>{{ file.name }}</td>
+                                    <td>{{ "%.2f"|format(file.size / 1024) }} KB</td>
+                                    <td>{{ file.modified[:19] }}</td>
+                                    <td>
+                                        <button class="btn btn-sm btn-outline-primary me-1" onclick="downloadFile('{{ file.path }}')">
+                                            <i class="fas fa-download"></i>
+                                        </button>
+                                        <button class="btn btn-sm btn-outline-danger" onclick="deleteFile('{{ file.path }}')">
+                                            <i class="fas fa-trash"></i>
+                                        </button>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                                {% if not files %}
+                                <tr>
+                                    <td colspan="4" class="text-center text-muted">No files uploaded yet</td>
+                                </tr>
+                                {% endif %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div class="card border-warning">
+                <div class="card-header bg-warning text-dark">
+                    <h5><i class="fas fa-exclamation-triangle me-2"></i>Session Management</h5>
+                </div>
+                <div class="card-body">
+                    <p>Your session workspace is isolated and secure. All files are automatically cleaned up after 24 hours.</p>
+                    <button id="cleanup-btn" class="btn btn-warning">
+                        <i class="fas fa-broom me-1"></i>Clean Up Session
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    // Upload form handler
+    document.getElementById('upload-form').addEventListener('submit', async function(e) {
+        e.preventDefault();
+        
+        const fileInput = document.getElementById('file-input');
+        const files = fileInput.files;
+        
+        if (files.length === 0) {
+            addAlert('Please select at least one file.', 'warning');
+            return;
+        }
+        
+        for (let file of files) {
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            try {
+                const response = await fetch('/api/files/upload', {
+                    method: 'POST',
+                    body: formData
+                });
+                const result = await response.json();
+                
+                if (result.success) {
+                    addAlert(`File "${result.filename}" uploaded successfully!`, 'success');
+                } else {
+                    addAlert(`Failed to upload "${file.name}": ${result.error}`, 'danger');
+                }
+            } catch (error) {
+                addAlert(`Error uploading "${file.name}": ${error.message}`, 'danger');
+            }
+        }
+        
+        // Reset form and refresh file list
+        fileInput.value = '';
+        setTimeout(() => location.reload(), 2000);
+    });
+    
+    // Download file function
+    function downloadFile(filePath) {
+        window.open(`/api/files/download/${filePath}`, '_blank');
+    }
+    
+    // Delete file function
+    async function deleteFile(filePath) {
+        if (!confirm(`Are you sure you want to delete "${filePath}"?`)) {
+            return;
+        }
+        
+        try {
+            const response = await fetch(`/api/files/delete/${filePath}`, {
+                method: 'DELETE'
+            });
+            const result = await response.json();
+            
+            if (result.success) {
+                addAlert('File deleted successfully!', 'success');
+                setTimeout(() => location.reload(), 1000);
+            } else {
+                addAlert(`Failed to delete file: ${result.error}`, 'danger');
+            }
+        } catch (error) {
+            addAlert(`Error deleting file: ${error.message}`, 'danger');
+        }
+    }
+    
+    // Refresh button
+    document.getElementById('refresh-btn').addEventListener('click', function() {
+        location.reload();
+    });
+    
+    // Cleanup button
+    document.getElementById('cleanup-btn').addEventListener('click', async function() {
+        if (!confirm('This will delete all files in your session workspace. Are you sure?')) {
+            return;
+        }
+        
+        try {
+            const response = await fetch('/api/session/cleanup', {
+                method: 'POST'
+            });
+            const result = await response.json();
+            
+            if (result.success) {
+                addAlert('Session workspace cleaned successfully!', 'success');
+                setTimeout(() => location.reload(), 1000);
+            } else {
+                addAlert(`Failed to clean workspace: ${result.error}`, 'danger');
+            }
+        } catch (error) {
+            addAlert(`Error cleaning workspace: ${error.message}`, 'danger');
+        }
+    });
+</script>
+{% endblock %}

@@ -1,0 +1,566 @@
+{% extends 'base.html' %}
+
+{% block title %}SuperChat | Marina Web Client{% endblock %}
+
+{% block extra_head %}
+<style>
+    /* LLM Panel Styling */
+    .llm-panel {
+        border: 2px solid #dee2e6;
+        border-radius: 0.5rem;
+        margin-bottom: 1rem;
+        background: #fff;
+        transition: all 0.3s ease;
+    }
+    
+    .llm-panel.active {
+        border-color: #28a745;
+        box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+    }
+    
+    .llm-header {
+        background: #f8f9fa;
+        padding: 0.75rem 1rem;
+        border-bottom: 1px solid #dee2e6;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        cursor: pointer;
+    }
+    
+    .llm-header.active {
+        background: #d4edda;
+        border-bottom-color: #28a745;
+    }
+    
+    .llm-logo {
+        width: 24px;
+        height: 24px;
+        margin-right: 0.5rem;
+        border-radius: 4px;
+    }
+    
+    .llm-controls {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+    }
+    
+    .llm-status {
+        font-size: 0.875rem;
+        padding: 0.25rem 0.5rem;
+        transition: all 0.2s ease;
+    }
+    
+    .log-toggle {
+        font-size: 0.75rem;
+        padding: 0.25rem 0.5rem;
+        margin-left: 0.5rem;
+    }
+    
+    /* Log Bar Styling */
+    .log-bar {
+        background: #1a1a1a;
+        color: #00ff00;
+        font-family: 'Courier New', monospace;
+        font-size: 0.75rem;
+        padding: 0.5rem;
+        height: 120px;
+        overflow-y: auto;
+        border-top: 1px solid #28a745;
+        display: none;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+    
+    .log-bar.show {
+        display: block;
+    }
+    
+    .log-bar .log-timestamp {
+        color: #888;
+        font-size: 0.7rem;
+    }
+    
+    .log-bar .log-error {
+        color: #ff4444;
+    }
+    
+    .log-bar .log-info {
+        color: #4444ff;
+    }
+    
+    .log-bar .log-success {
+        color: #44ff44;
+    }
+    
+    /* Response Area Styling */
+    .response-area {
+        padding: 1rem;
+        min-height: 60px;
+        background: #f8f9fa;
+        border-radius: 0.25rem;
+        margin: 0.5rem;
+        display: none;
+        border: 1px solid #dee2e6;
+    }
+    
+    .response-area.show {
+        display: block;
+    }
+    
+    .response-content {
+        font-family: inherit;
+        font-size: 0.9rem;
+        line-height: 1.4;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+    
+    /* Chat Input Area */
+    .chat-input-area {
+        background: #fff;
+        padding: 1.5rem;
+        border-radius: 0.5rem;
+        margin-bottom: 2rem;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    .control-group {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+        margin-top: 1rem;
+        flex-wrap: wrap;
+    }
+    
+    /* Scrollbar for log areas */
+    .log-bar::-webkit-scrollbar {
+        width: 6px;
+    }
+    
+    .log-bar::-webkit-scrollbar-track {
+        background: #2a2a2a;
+    }
+    
+    .log-bar::-webkit-scrollbar-thumb {
+        background: #555;
+        border-radius: 3px;
+    }
+    
+    .log-bar::-webkit-scrollbar-thumb:hover {
+        background: #777;
+    }
+    
+    /* Responsive design */
+    @media (max-width: 768px) {
+        .control-group {
+            flex-direction: column;
+            align-items: stretch;
+        }
+        
+        .log-bar {
+            height: 80px;
+            font-size: 0.7rem;
+        }
+    }
+</style>
+{% endblock %}
+    
+    /* Voice mode toggle styling */
+    .voice-toggle {
+        position: relative;
+        display: inline-block;
+        margin: 10px 0;
+    }
+    
+    .voice-toggle input[type="checkbox"] {
+        display: none;
+    }
+    
+    .voice-toggle-label {
+        display: inline-block;
+        padding: 8px 16px;
+        background: #6c757d;
+        color: white;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        font-weight: 500;
+        min-width: 120px;
+        text-align: center;
+    }
+    
+    .voice-toggle input:checked + .voice-toggle-label {
+        background: #007bff;
+        transform: scale(1.05);
+    }
+    
+    /* Compact LLM controls */
+    .llm-controls-compact {
+        background: white;
+        border-radius: 8px;
+        padding: 15px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        margin-bottom: 20px;
+    }
+    
+    .llm-quick-toggles {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 15px;
+    }
+    
+    .llm-quick-toggle {
+        padding: 6px 12px;
+        border: 2px solid #dee2e6;
+        background: white;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        font-size: 0.85rem;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+    
+    .llm-quick-toggle.active {
+        border-color: #28a745;
+        background: #28a745;
+        color: white;
+    }
+    
+    .llm-logo {
+        width: 16px;
+        height: 16px;
+        border-radius: 2px;
+    }
+    
+    .advanced-controls {
+        border-top: 1px solid #dee2e6;
+        padding-top: 15px;
+        margin-top: 15px;
+    }
+    
+    .model-card-compact {
+        border: 1px solid #dee2e6;
+        border-radius: 6px;
+        padding: 10px;
+        margin-bottom: 10px;
+        background: #f8f9fa;
+    }
+    
+    .model-card-compact h6 {
+        margin: 0 0 8px 0;
+        font-size: 0.9rem;
+        color: #495057;
+    }
+    
+    .form-control-sm {
+        font-size: 0.8rem;
+    }
+    
+    /* Responsive design */
+    @media (max-width: 768px) {
+        #chat-area {
+            height: 30vh;
+        }
+        
+        .main-content {
+            margin-top: calc(30vh + 80px);
+        }
+        
+        .llm-quick-toggles {
+            justify-content: center;
+        }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<!-- Persistent Chat Area -->
+<div id="chat-area">
+    <div class="d-flex justify-content-between align-items-center px-3 py-2 bg-primary text-white">
+        <h5 class="mb-0"><i class="fas fa-comments me-2"></i>SuperChat Output</h5>
+        <button class="btn btn-sm btn-outline-light" onclick="clearChat()">
+            <i class="fas fa-trash me-1"></i>Clear
+        </button>
+    </div>
+    <div id="chat-container">
+        <div class="text-muted text-center mt-4">
+            <i class="fas fa-comment-dots fa-2x mb-2"></i>
+            <p>Your conversations will appear here...</p>
+        </div>
+    </div>
+</div>
+
+<!-- Main Content Area -->
+<div class="container main-content">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <h2 class="pb-3 mb-4 border-bottom text-center">
+                SuperChat - Multi-LLM Interface
+            </h2>
+            
+            <!-- Input Form -->
+            <form id="superchat-form" class="mb-4">
+                <div class="mb-3">
+                    <label for="prompt" class="form-label fw-bold">Your Message</label>
+                    <textarea class="form-control" id="prompt" rows="3" placeholder="Enter your message here..."></textarea>
+                </div>
+                
+                <!-- Voice Mode Toggle -->
+                <div class="voice-toggle mb-3">
+                    <input type="checkbox" id="voiceMode">
+                    <label for="voiceMode" class="voice-toggle-label" id="voiceModeLabel">Normal Mode</label>
+                    <div class="form-text">Normal: All models • Whisper: One model • Shout: All models (priority)</div>
+                </div>
+                
+                <button type="submit" class="btn btn-primary btn-lg w-100">
+                    <i class="fas fa-paper-plane me-2"></i>Send Message
+                </button>
+            </form>
+            
+            <!-- Compact LLM Controls -->
+            <div class="llm-controls-compact">
+                <h5 class="mb-3"><i class="fas fa-cogs me-2"></i>LLM Controls</h5>
+                
+                <!-- Quick Toggle Buttons -->
+                <div class="llm-quick-toggles">
+                    {% for model in ['GPT-4', 'Gemini', 'Claude', 'DeepSeek', 'LLaMA3', 'Mistral'] %}
+                    <div class="llm-quick-toggle" data-llm="{{ model }}">
+                        <img src="{{ url_for('static', filename='images/' ~ model|lower ~ '.png') }}" alt="{{ model }}" class="llm-logo" onerror="this.style.display='none'">
+                        <span>{{ model }}</span>
+                        <span class="badge bg-secondary ms-1" id="{{ model }}-status">Off</span>
+                    </div>
+                    {% endfor %}
+                </div>
+                
+                <!-- Advanced Controls (Collapsible) -->
+                <div class="collapse" id="advancedControls">
+                    <div class="advanced-controls">
+                        <h6 class="mb-3">Advanced Settings</h6>
+                        <div class="row">
+                            {% for model in ['GPT-4', 'Gemini', 'Claude', 'DeepSeek', 'LLaMA3', 'Mistral'] %}
+                            <div class="col-md-6 col-lg-4">
+                                <div class="model-card-compact">
+                                    <h6>{{ model }}</h6>
+                                    <div class="mb-2">
+                                        <label for="{{ model }}-color" class="form-label form-label-sm">Color:</label>
+                                        <input type="color" class="form-control form-control-sm form-control-color" id="{{ model }}-color" value="#007bff">
+                                    </div>
+                                    <div class="mb-2">
+                                        <label for="{{ model }}-font-size" class="form-label form-label-sm">Font Size:</label>
+                                        <input type="range" class="form-range" min="12" max="20" value="14" id="{{ model }}-font-size">
+                                    </div>
+                                    <div>
+                                        <label for="{{ model }}-font" class="form-label form-label-sm">Font:</label>
+                                        <select class="form-select form-select-sm" id="{{ model }}-font">
+                                            <option value="Arial">Arial</option>
+                                            <option value="Courier New">Courier New</option>
+                                            <option value="Georgia">Georgia</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Toggle Advanced Controls Button -->
+                <button class="btn btn-outline-secondary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#advancedControls">
+                    <i class="fas fa-cog me-1"></i>Advanced Settings
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    let voiceMode = 0; // 0: Normal, 1: Whisper, 2: Shout
+    const voiceModeLabels = ['Normal Mode', 'Whisper Mode', 'Shout Mode'];
+    const voiceModeDescriptions = [
+        'Normal: All selected models respond',
+        'Whisper: Only first selected model responds (quiet)',
+        'Shout: All selected models respond (priority mode)'
+    ];
+
+    // Voice mode toggle functionality
+    document.getElementById('voiceMode').addEventListener('change', function() {
+        if (this.checked) {
+            voiceMode = (voiceMode + 1) % 3;
+        } else {
+            voiceMode = 0;
+        }
+        updateVoiceModeDisplay();
+    });
+
+    function updateVoiceModeDisplay() {
+        const label = document.getElementById('voiceModeLabel');
+        const checkbox = document.getElementById('voiceMode');
+        
+        label.textContent = voiceModeLabels[voiceMode];
+        checkbox.checked = voiceMode > 0;
+        
+        // Update description
+        const description = document.querySelector('.voice-toggle + .form-text');
+        if (description) {
+            description.textContent = voiceModeDescriptions[voiceMode];
+        }
+    }
+
+    // LLM toggle functionality
+    document.querySelectorAll('.llm-quick-toggle').forEach(button => {
+        button.addEventListener('click', function() {
+            this.classList.toggle('active');
+            const llm = this.dataset.llm;
+            const status = this.querySelector('.badge');
+            if (this.classList.contains('active')) {
+                status.classList.replace('bg-secondary', 'bg-success');
+                status.textContent = 'On';
+            } else {
+                status.classList.replace('bg-success', 'bg-secondary');
+                status.textContent = 'Off';
+            }
+        });
+    });
+
+    // Form submission
+    document.getElementById('superchat-form').addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const prompt = document.getElementById('prompt').value.trim();
+        if (!prompt) {
+            addAlert('You must enter a message!', 'danger');
+            return;
+        }
+
+        const enabledModels = Array.from(document.querySelectorAll('.llm-quick-toggle.active')).map(btn => btn.dataset.llm);
+        if (enabledModels.length === 0) {
+            addAlert('Please select at least one LLM model!', 'warning');
+            return;
+        }
+
+        // Determine whisper and shout modes based on voice mode
+        const whisperMode = voiceMode === 1;
+        const shoutMode = voiceMode === 2;
+
+        // Show loading state
+        const submitBtn = this.querySelector('button[type="submit"]');
+        submitBtn.disabled = true;
+        submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-2"></i>Sending...';
+
+        try {
+            const response = await fetch('/api/superchat/execute', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({ 
+                    prompt, 
+                    whisper_mode: whisperMode, 
+                    shout_mode: shoutMode, 
+                    enabled_models: enabledModels 
+                })
+            });
+
+            const result = await response.json();
+
+            if (result.success) {
+                addAlert('Message sent successfully!', 'success', 3000);
+                displayChatMessages(result.results);
+                // Clear the prompt
+                document.getElementById('prompt').value = '';
+            } else {
+                addAlert(`Failed to send message: ${result.error}`, 'danger');
+            }
+        } catch (error) {
+            addAlert(`Network error: ${error.message}`, 'danger');
+        } finally {
+            // Reset button
+            submitBtn.disabled = false;
+            submitBtn.innerHTML = '<i class="fas fa-paper-plane me-2"></i>Send Message';
+        }
+    });
+
+    function displayChatMessages(results) {
+        const chatContainer = document.getElementById('chat-container');
+        
+        // Clear placeholder if it exists
+        const placeholder = chatContainer.querySelector('.text-muted');
+        if (placeholder) {
+            placeholder.remove();
+        }
+
+        results.forEach(result => {
+            const color = getModelColor(result.model);
+            const fontSize = getModelFontSize(result.model);
+            const font = getModelFont(result.model);
+
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('chat-message');
+            messageDiv.style.borderLeft = `4px solid ${color}`;
+            messageDiv.style.fontSize = `${fontSize}px`;
+            messageDiv.style.fontFamily = font;
+
+            // Format timestamp
+            const timestamp = new Date(result.timestamp).toLocaleTimeString();
+            
+            // Display both stdout and stderr if available
+            let content = '';
+            if (result.stdout) {
+                content += escapeHtml(result.stdout);
+            }
+            if (result.stderr) {
+                content += '\n\n[Error]\n' + escapeHtml(result.stderr);
+            }
+            if (!content) {
+                content = '[No response received]';
+            }
+
+            messageDiv.innerHTML = `
+                <div class="d-flex justify-content-between align-items-start mb-2">
+                    <strong>${result.model}</strong>
+                    <small class="text-muted">${timestamp}</small>
+                </div>
+                <pre>${content}</pre>
+            `;
+
+            chatContainer.appendChild(messageDiv);
+        });
+
+        // Scroll to bottom
+        chatContainer.scrollTop = chatContainer.scrollHeight;
+    }
+
+    function getModelColor(model) {
+        const colorInput = document.getElementById(`${model}-color`);
+        return colorInput ? colorInput.value : '#007bff';
+    }
+
+    function getModelFontSize(model) {
+        const sizeInput = document.getElementById(`${model}-font-size`);
+        return sizeInput ? sizeInput.value : '14';
+    }
+
+    function getModelFont(model) {
+        const fontSelect = document.getElementById(`${model}-font`);
+        return fontSelect ? fontSelect.value : 'Arial';
+    }
+
+    function clearChat() {
+        const chatContainer = document.getElementById('chat-container');
+        chatContainer.innerHTML = `
+            <div class="text-muted text-center mt-4">
+                <i class="fas fa-comment-dots fa-2x mb-2"></i>
+                <p>Your conversations will appear here...</p>
+            </div>
+        `;
+    }
+
+    // Initialize voice mode display
+    updateVoiceModeDisplay();
+</script>
+{% endblock %}

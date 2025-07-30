@@ -1,0 +1,1074 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-07-29T21:14:22.730786+00:00",
+      "event_type": "skadi_awakening",
+      "planck_tick": 1753823662730806,
+      "data": {
+        "stance": "hybrid_balanced_intermittent_compute",
+        "thermal_threshold": 65.0,
+        "entropy_discipline": 100.0
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:14:23.753412+00:00",
+      "event_type": "stance_change",
+      "planck_tick": 1753823663753424,
+      "data": {
+        "old_stance": "hybrid_balanced_intermittent_compute",
+        "new_stance": "absolute_stealth_fans_disabled",
+        "trigger_entropy": {
+          "total_entropy": 65.42076923076924,
+          "thermal_entropy": 49.23076923076923,
+          "compute_entropy": 10.65,
+          "memory_entropy": 5.54,
+          "cpu_temp": 64.0,
+          "cpu_percent": 35.5,
+          "memory_percent": 27.7,
+          "battery_percent": 63.325867861142214,
+          "timestamp": 1753823663.753255
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:14:41.971408+00:00",
+      "event_type": "thermal_banishment",
+      "planck_tick": 1753823681971420,
+      "data": {
+        "process": "firefox-bin",
+        "cpu_percent": 30.1,
+        "thermal_trigger": 86.0
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:14:41.978630+00:00",
+      "event_type": "thermal_banishment",
+      "planck_tick": 1753823681978645,
+      "data": {
+        "process": "Isolated Web Co",
+        "cpu_percent": 21.7,
+        "thermal_trigger": 86.0
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:15:30.564277+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753823730564301,
+      "data": {
+        "total_entropy": 64.2623076923077,
+        "thermal_entropy": 47.69230769230769,
+        "compute_entropy": 11.13,
+        "memory_entropy": 5.44,
+        "cpu_temp": 62.0,
+        "cpu_percent": 37.1,
+        "memory_percent": 27.2,
+        "battery_percent": 61.14221724524076,
+        "timestamp": 1753823730.5642364
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:16:43.340400+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753823803340414,
+      "data": {
+        "total_entropy": 67.03,
+        "thermal_entropy": 50,
+        "compute_entropy": 11.610000000000001,
+        "memory_entropy": 5.420000000000001,
+        "cpu_temp": 80.0,
+        "cpu_percent": 38.7,
+        "memory_percent": 27.1,
+        "battery_percent": 58.79059350503919,
+        "timestamp": 1753823803.3098962
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:17:56.082165+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753823876082193,
+      "data": {
+        "total_entropy": 63.543846153846154,
+        "thermal_entropy": 46.15384615384615,
+        "compute_entropy": 11.79,
+        "memory_entropy": 5.6000000000000005,
+        "cpu_temp": 60.0,
+        "cpu_percent": 39.3,
+        "memory_percent": 28.0,
+        "battery_percent": 56.43896976483762,
+        "timestamp": 1753823876.0821166
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:19:08.905084+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753823948905112,
+      "data": {
+        "total_entropy": 64.21230769230769,
+        "thermal_entropy": 47.69230769230769,
+        "compute_entropy": 10.860000000000001,
+        "memory_entropy": 5.66,
+        "cpu_temp": 62.0,
+        "cpu_percent": 36.2,
+        "memory_percent": 28.3,
+        "battery_percent": 54.14333706606943,
+        "timestamp": 1753823948.905031
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:20:21.729383+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824021729397,
+      "data": {
+        "total_entropy": 70.42,
+        "thermal_entropy": 50,
+        "compute_entropy": 14.7,
+        "memory_entropy": 5.720000000000001,
+        "cpu_temp": 97.0,
+        "cpu_percent": 49.0,
+        "memory_percent": 28.6,
+        "battery_percent": 51.84770436730123,
+        "timestamp": 1753824021.7061398
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:21:34.677713+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824094677741,
+      "data": {
+        "total_entropy": 60.104615384615386,
+        "thermal_entropy": 45.38461538461539,
+        "compute_entropy": 9.12,
+        "memory_entropy": 5.6000000000000005,
+        "cpu_temp": 59.0,
+        "cpu_percent": 30.4,
+        "memory_percent": 28.0,
+        "battery_percent": 49.55207166853303,
+        "timestamp": 1753824094.677668
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:22:47.488650+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824167488677,
+      "data": {
+        "total_entropy": 62.54307692307692,
+        "thermal_entropy": 46.92307692307692,
+        "compute_entropy": 10.02,
+        "memory_entropy": 5.6000000000000005,
+        "cpu_temp": 61.0,
+        "cpu_percent": 33.4,
+        "memory_percent": 28.0,
+        "battery_percent": 47.25643896976484,
+        "timestamp": 1753824167.488607
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:24:00.303720+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824240303737,
+      "data": {
+        "total_entropy": 68.69,
+        "thermal_entropy": 50,
+        "compute_entropy": 13.049999999999999,
+        "memory_entropy": 5.640000000000001,
+        "cpu_temp": 83.0,
+        "cpu_percent": 43.5,
+        "memory_percent": 28.2,
+        "battery_percent": 44.90481522956327,
+        "timestamp": 1753824240.257905
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:25:13.120072+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824313120098,
+      "data": {
+        "total_entropy": 65.40230769230769,
+        "thermal_entropy": 47.69230769230769,
+        "compute_entropy": 12.089999999999998,
+        "memory_entropy": 5.620000000000001,
+        "cpu_temp": 62.0,
+        "cpu_percent": 40.3,
+        "memory_percent": 28.1,
+        "battery_percent": 42.5531914893617,
+        "timestamp": 1753824313.12003
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:26:25.843637+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824385843654,
+      "data": {
+        "total_entropy": 61.182307692307695,
+        "thermal_entropy": 47.69230769230769,
+        "compute_entropy": 7.709999999999999,
+        "memory_entropy": 5.78,
+        "cpu_temp": 62.0,
+        "cpu_percent": 25.7,
+        "memory_percent": 28.9,
+        "battery_percent": 40.201567749160134,
+        "timestamp": 1753824385.8436067
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:27:38.567507+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824458567546,
+      "data": {
+        "total_entropy": 63.88307692307691,
+        "thermal_entropy": 46.92307692307692,
+        "compute_entropy": 11.339999999999998,
+        "memory_entropy": 5.620000000000001,
+        "cpu_temp": 61.0,
+        "cpu_percent": 37.8,
+        "memory_percent": 28.1,
+        "battery_percent": 37.961926091825305,
+        "timestamp": 1753824458.5674443
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:30:43.182992+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824643183007,
+      "data": {
+        "total_entropy": 68.08,
+        "thermal_entropy": 50,
+        "compute_entropy": 12.42,
+        "memory_entropy": 5.66,
+        "cpu_temp": 80.0,
+        "cpu_percent": 41.4,
+        "memory_percent": 28.3,
+        "battery_percent": 35.274356103023514,
+        "timestamp": 1753824643.1308706
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:31:56.021932+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824716021974,
+      "data": {
+        "total_entropy": 59.06538461538462,
+        "thermal_entropy": 44.61538461538462,
+        "compute_entropy": 8.91,
+        "memory_entropy": 5.54,
+        "cpu_temp": 58.0,
+        "cpu_percent": 29.7,
+        "memory_percent": 27.7,
+        "battery_percent": 32.86674132138858,
+        "timestamp": 1753824716.0218704
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:33:08.925588+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824788925600,
+      "data": {
+        "total_entropy": 66.89,
+        "thermal_entropy": 50,
+        "compute_entropy": 11.25,
+        "memory_entropy": 5.640000000000001,
+        "cpu_temp": 92.0,
+        "cpu_percent": 37.5,
+        "memory_percent": 28.2,
+        "battery_percent": 30.57110862262038,
+        "timestamp": 1753824788.9050498
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:33:27.125377+00:00",
+      "event_type": "stance_change",
+      "planck_tick": 1753824807125417,
+      "data": {
+        "old_stance": "absolute_stealth_fans_disabled",
+        "new_stance": "deep_silence_max_thermal_buffering",
+        "trigger_entropy": {
+          "total_entropy": 63.81384615384615,
+          "thermal_entropy": 46.15384615384615,
+          "compute_entropy": 12.12,
+          "memory_entropy": 5.54,
+          "cpu_temp": 60.0,
+          "cpu_percent": 40.4,
+          "memory_percent": 27.7,
+          "battery_percent": 29.899216125419933,
+          "timestamp": 1753824807.1248927
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-29T21:34:21.788814+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753824861788851,
+      "data": {
+        "total_entropy": 59.74384615384616,
+        "thermal_entropy": 46.15384615384615,
+        "compute_entropy": 8.069999999999999,
+        "memory_entropy": 5.5200000000000005,
+        "cpu_temp": 60.0,
+        "cpu_percent": 26.9,
+        "memory_percent": 27.6,
+        "battery_percent": 28.163493840985442,
+        "timestamp": 1753824861.7887573
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:35:57.951902+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753828557951933,
+      "data": {
+        "total_entropy": 48.11,
+        "thermal_entropy": 30.0,
+        "compute_entropy": 12.389999999999999,
+        "memory_entropy": 5.720000000000001,
+        "cpu_temp": 39.0,
+        "cpu_percent": 41.3,
+        "memory_percent": 28.6,
+        "battery_percent": 24.356103023516237,
+        "timestamp": 1753828557.9518769
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:37:10.906730+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753828630906748,
+      "data": {
+        "total_entropy": 63.5,
+        "thermal_entropy": 50,
+        "compute_entropy": 7.619999999999999,
+        "memory_entropy": 5.88,
+        "cpu_temp": 74.0,
+        "cpu_percent": 25.4,
+        "memory_percent": 29.4,
+        "battery_percent": 22.284434490481523,
+        "timestamp": 1753828630.8713264
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:38:24.119227+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753828704119244,
+      "data": {
+        "total_entropy": 55.40923076923076,
+        "thermal_entropy": 40.76923076923077,
+        "compute_entropy": 8.7,
+        "memory_entropy": 5.94,
+        "cpu_temp": 53.0,
+        "cpu_percent": 29.0,
+        "memory_percent": 29.7,
+        "battery_percent": 19.988801791713325,
+        "timestamp": 1753828704.1191978
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:39:37.244200+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753828777244214,
+      "data": {
+        "total_entropy": 55.33923076923077,
+        "thermal_entropy": 40.76923076923077,
+        "compute_entropy": 8.79,
+        "memory_entropy": 5.78,
+        "cpu_temp": 53.0,
+        "cpu_percent": 29.3,
+        "memory_percent": 28.9,
+        "battery_percent": 18.924972004479283,
+        "timestamp": 1753828777.244175
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:40:50.246002+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753828850246019,
+      "data": {
+        "total_entropy": 51.22846153846154,
+        "thermal_entropy": 41.53846153846154,
+        "compute_entropy": 3.75,
+        "memory_entropy": 5.94,
+        "cpu_temp": 54.0,
+        "cpu_percent": 12.5,
+        "memory_percent": 29.7,
+        "battery_percent": 20.21276595744681,
+        "timestamp": 1753828850.2459712
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:42:03.016979+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753828923016989,
+      "data": {
+        "total_entropy": 52.18615384615385,
+        "thermal_entropy": 43.84615384615385,
+        "compute_entropy": 2.64,
+        "memory_entropy": 5.7,
+        "cpu_temp": 57.0,
+        "cpu_percent": 8.8,
+        "memory_percent": 28.5,
+        "battery_percent": 21.444568868980962,
+        "timestamp": 1753828923.0169582
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:43:16.052260+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753828996052277,
+      "data": {
+        "total_entropy": 52.71692307692308,
+        "thermal_entropy": 43.07692307692308,
+        "compute_entropy": 3.84,
+        "memory_entropy": 5.800000000000001,
+        "cpu_temp": 56.0,
+        "cpu_percent": 12.8,
+        "memory_percent": 29.0,
+        "battery_percent": 22.732362821948488,
+        "timestamp": 1753828996.05223
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:44:28.694505+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753829068694513,
+      "data": {
+        "total_entropy": 54.33538461538462,
+        "thermal_entropy": 44.61538461538462,
+        "compute_entropy": 3.84,
+        "memory_entropy": 5.88,
+        "cpu_temp": 58.0,
+        "cpu_percent": 12.8,
+        "memory_percent": 29.4,
+        "battery_percent": 23.96416573348264,
+        "timestamp": 1753829068.6944892
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:45:41.649845+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753829141649858,
+      "data": {
+        "total_entropy": 58.64076923076923,
+        "thermal_entropy": 49.23076923076923,
+        "compute_entropy": 3.69,
+        "memory_entropy": 5.720000000000001,
+        "cpu_temp": 64.0,
+        "cpu_percent": 12.3,
+        "memory_percent": 28.6,
+        "battery_percent": 25.251959686450167,
+        "timestamp": 1753829141.649817
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:46:54.357141+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753829214357158,
+      "data": {
+        "total_entropy": 52.736923076923084,
+        "thermal_entropy": 43.07692307692308,
+        "compute_entropy": 3.84,
+        "memory_entropy": 5.82,
+        "cpu_temp": 56.0,
+        "cpu_percent": 12.8,
+        "memory_percent": 29.1,
+        "battery_percent": 26.539753639417693,
+        "timestamp": 1753829214.3571117
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:48:07.211440+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753829287211454,
+      "data": {
+        "total_entropy": 51.946923076923085,
+        "thermal_entropy": 43.07692307692308,
+        "compute_entropy": 3.0900000000000003,
+        "memory_entropy": 5.78,
+        "cpu_temp": 56.0,
+        "cpu_percent": 10.3,
+        "memory_percent": 28.9,
+        "battery_percent": 27.771556550951846,
+        "timestamp": 1753829287.2114167
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:54:43.295967+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753829683295985,
+      "data": {
+        "total_entropy": 45.26461538461539,
+        "thermal_entropy": 35.38461538461539,
+        "compute_entropy": 4.14,
+        "memory_entropy": 5.74,
+        "cpu_temp": 46.0,
+        "cpu_percent": 13.8,
+        "memory_percent": 28.7,
+        "battery_percent": 26.539753639417693,
+        "timestamp": 1753829683.2959368
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:55:55.971513+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753829755971529,
+      "data": {
+        "total_entropy": 49.38,
+        "thermal_entropy": 40.0,
+        "compute_entropy": 3.5999999999999996,
+        "memory_entropy": 5.78,
+        "cpu_temp": 52.0,
+        "cpu_percent": 12.0,
+        "memory_percent": 28.9,
+        "battery_percent": 23.908174692049272,
+        "timestamp": 1753829755.971484
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:57:08.592474+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753829828592486,
+      "data": {
+        "total_entropy": 60.18,
+        "thermal_entropy": 50,
+        "compute_entropy": 4.44,
+        "memory_entropy": 5.74,
+        "cpu_temp": 70.0,
+        "cpu_percent": 14.8,
+        "memory_percent": 28.7,
+        "battery_percent": 21.444568868980962,
+        "timestamp": 1753829828.5924501
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:58:21.187870+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753829901187888,
+      "data": {
+        "total_entropy": 61.160000000000004,
+        "thermal_entropy": 50,
+        "compute_entropy": 5.34,
+        "memory_entropy": 5.82,
+        "cpu_temp": 69.0,
+        "cpu_percent": 17.8,
+        "memory_percent": 29.1,
+        "battery_percent": 19.204927211646137,
+        "timestamp": 1753829901.1878364
+      }
+    },
+    {
+      "timestamp": "2025-07-29T22:59:33.820128+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753829973820140,
+      "data": {
+        "total_entropy": 56.72461538461538,
+        "thermal_entropy": 45.38461538461539,
+        "compute_entropy": 5.52,
+        "memory_entropy": 5.82,
+        "cpu_temp": 59.0,
+        "cpu_percent": 18.4,
+        "memory_percent": 29.1,
+        "battery_percent": 17.357222844344903,
+        "timestamp": 1753829973.820107
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:00:46.469137+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830046469155,
+      "data": {
+        "total_entropy": 52.878461538461536,
+        "thermal_entropy": 41.53846153846154,
+        "compute_entropy": 5.58,
+        "memory_entropy": 5.760000000000001,
+        "cpu_temp": 54.0,
+        "cpu_percent": 18.6,
+        "memory_percent": 28.8,
+        "battery_percent": 15.565509518477043,
+        "timestamp": 1753830046.4691076
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:01:59.125121+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830119125135,
+      "data": {
+        "total_entropy": 68.39,
+        "thermal_entropy": 50,
+        "compute_entropy": 12.63,
+        "memory_entropy": 5.760000000000001,
+        "cpu_temp": 82.0,
+        "cpu_percent": 42.1,
+        "memory_percent": 28.8,
+        "battery_percent": 13.829787234042554,
+        "timestamp": 1753830119.1063683
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:03:11.760860+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830191760877,
+      "data": {
+        "total_entropy": 51.965384615384615,
+        "thermal_entropy": 44.61538461538462,
+        "compute_entropy": 1.5899999999999999,
+        "memory_entropy": 5.760000000000001,
+        "cpu_temp": 58.0,
+        "cpu_percent": 5.3,
+        "memory_percent": 28.8,
+        "battery_percent": 12.038073908174692,
+        "timestamp": 1753830191.760829
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:04:24.383201+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830264383213,
+      "data": {
+        "total_entropy": 63.09,
+        "thermal_entropy": 50,
+        "compute_entropy": 7.29,
+        "memory_entropy": 5.800000000000001,
+        "cpu_temp": 66.0,
+        "cpu_percent": 24.3,
+        "memory_percent": 29.0,
+        "battery_percent": 10.302351623740202,
+        "timestamp": 1753830264.383179
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:05:37.015389+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830337015404,
+      "data": {
+        "total_entropy": 51.99846153846154,
+        "thermal_entropy": 41.53846153846154,
+        "compute_entropy": 4.5,
+        "memory_entropy": 5.960000000000001,
+        "cpu_temp": 54.0,
+        "cpu_percent": 15.0,
+        "memory_percent": 29.8,
+        "battery_percent": 8.566629339305711,
+        "timestamp": 1753830337.0153604
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:06:49.570230+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830409570249,
+      "data": {
+        "total_entropy": 51.87769230769231,
+        "thermal_entropy": 42.30769230769231,
+        "compute_entropy": 3.69,
+        "memory_entropy": 5.88,
+        "cpu_temp": 55.0,
+        "cpu_percent": 12.3,
+        "memory_percent": 29.4,
+        "battery_percent": 6.718924972004479,
+        "timestamp": 1753830409.5701978
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:08:02.228942+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830482228953,
+      "data": {
+        "total_entropy": 65.6923076923077,
+        "thermal_entropy": 47.69230769230769,
+        "compute_entropy": 12.12,
+        "memory_entropy": 5.88,
+        "cpu_temp": 62.0,
+        "cpu_percent": 40.4,
+        "memory_percent": 29.4,
+        "battery_percent": 4.927211646136618,
+        "timestamp": 1753830482.2289233
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:09:14.864382+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830554864395,
+      "data": {
+        "total_entropy": 67.85,
+        "thermal_entropy": 50,
+        "compute_entropy": 11.91,
+        "memory_entropy": 5.94,
+        "cpu_temp": 77.0,
+        "cpu_percent": 39.7,
+        "memory_percent": 29.7,
+        "battery_percent": 3.135498320268757,
+        "timestamp": 1753830554.8458214
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:11:06.999959+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830666999974,
+      "data": {
+        "total_entropy": 66.88,
+        "thermal_entropy": 50,
+        "compute_entropy": 11.1,
+        "memory_entropy": 5.78,
+        "cpu_temp": 77.0,
+        "cpu_percent": 37.0,
+        "memory_percent": 28.9,
+        "battery_percent": 0.2799552071668533,
+        "timestamp": 1753830666.9740813
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:12:19.716881+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753830739716904,
+      "data": {
+        "total_entropy": 60.11615384615385,
+        "thermal_entropy": 43.84615384615385,
+        "compute_entropy": 10.35,
+        "memory_entropy": 5.920000000000001,
+        "cpu_temp": 57.0,
+        "cpu_percent": 34.5,
+        "memory_percent": 29.6,
+        "battery_percent": 0.055991041433370664,
+        "timestamp": 1753830739.716839
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:32:26.991402+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753831946991412,
+      "data": {
+        "total_entropy": 45.54692307692307,
+        "thermal_entropy": 33.07692307692307,
+        "compute_entropy": 6.75,
+        "memory_entropy": 5.720000000000001,
+        "cpu_temp": 43.0,
+        "cpu_percent": 22.5,
+        "memory_percent": 28.6,
+        "battery_percent": 0.055991041433370664,
+        "timestamp": 1753831946.9913826
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:38:48.297292+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832328297308,
+      "data": {
+        "total_entropy": 43.28461538461539,
+        "thermal_entropy": 35.38461538461539,
+        "compute_entropy": 2.1,
+        "memory_entropy": 5.800000000000001,
+        "cpu_temp": 46.0,
+        "cpu_percent": 7.0,
+        "memory_percent": 29.0,
+        "battery_percent": 0.671892497200448,
+        "timestamp": 1753832328.297264
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:40:00.953034+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832400953060,
+      "data": {
+        "total_entropy": 55.519999999999996,
+        "thermal_entropy": 40.0,
+        "compute_entropy": 9.66,
+        "memory_entropy": 5.86,
+        "cpu_temp": 52.0,
+        "cpu_percent": 32.2,
+        "memory_percent": 29.3,
+        "battery_percent": 1.9596864501679732,
+        "timestamp": 1753832400.95299
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:41:14.036229+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832474036243,
+      "data": {
+        "total_entropy": 69.3,
+        "thermal_entropy": 50,
+        "compute_entropy": 13.319999999999999,
+        "memory_entropy": 5.98,
+        "cpu_temp": 88.0,
+        "cpu_percent": 44.4,
+        "memory_percent": 29.9,
+        "battery_percent": 3.1914893617021276,
+        "timestamp": 1753832474.0126042
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:42:27.269635+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832547269648,
+      "data": {
+        "total_entropy": 78.94,
+        "thermal_entropy": 50,
+        "compute_entropy": 22.979999999999997,
+        "memory_entropy": 5.960000000000001,
+        "cpu_temp": 90.0,
+        "cpu_percent": 76.6,
+        "memory_percent": 29.8,
+        "battery_percent": 4.4232922732362825,
+        "timestamp": 1753832547.25104
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:43:40.876212+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832620876227,
+      "data": {
+        "total_entropy": 70.22,
+        "thermal_entropy": 50,
+        "compute_entropy": 14.28,
+        "memory_entropy": 5.94,
+        "cpu_temp": 89.0,
+        "cpu_percent": 47.6,
+        "memory_percent": 29.7,
+        "battery_percent": 5.711086226203808,
+        "timestamp": 1753832620.8490071
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:43:46.954059+00:00",
+      "event_type": "thermal_banishment",
+      "planck_tick": 1753832626954070,
+      "data": {
+        "process": "nm-applet",
+        "cpu_percent": 28.0,
+        "thermal_trigger": 88.0
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:43:47.015878+00:00",
+      "event_type": "thermal_banishment",
+      "planck_tick": 1753832627015896,
+      "data": {
+        "process": "warp-terminal",
+        "cpu_percent": 38.7,
+        "thermal_trigger": 88.0
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:44:54.176357+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832694176368,
+      "data": {
+        "total_entropy": 60.6,
+        "thermal_entropy": 50,
+        "compute_entropy": 4.56,
+        "memory_entropy": 6.04,
+        "cpu_temp": 85.0,
+        "cpu_percent": 15.2,
+        "memory_percent": 30.2,
+        "battery_percent": 6.998880179171333,
+        "timestamp": 1753832694.1598167
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:45:30.837541+00:00",
+      "event_type": "thermal_banishment",
+      "planck_tick": 1753832730837553,
+      "data": {
+        "process": "io.elementary.appcenter",
+        "cpu_percent": 99.8,
+        "thermal_trigger": 79.0
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:45:55.418486+00:00",
+      "event_type": "thermal_banishment",
+      "planck_tick": 1753832755418556,
+      "data": {
+        "process": "packagekitd",
+        "cpu_percent": 47.8,
+        "thermal_trigger": 92.0
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:46:07.585342+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832767585354,
+      "data": {
+        "total_entropy": 54.95538461538462,
+        "thermal_entropy": 44.61538461538462,
+        "compute_entropy": 3.9,
+        "memory_entropy": 6.440000000000001,
+        "cpu_temp": 58.0,
+        "cpu_percent": 13.0,
+        "memory_percent": 32.2,
+        "battery_percent": 8.286674132138858,
+        "timestamp": 1753832767.585316
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:47:21.223470+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832841223482,
+      "data": {
+        "total_entropy": 65.29,
+        "thermal_entropy": 50,
+        "compute_entropy": 8.85,
+        "memory_entropy": 6.440000000000001,
+        "cpu_temp": 81.0,
+        "cpu_percent": 29.5,
+        "memory_percent": 32.2,
+        "battery_percent": 9.574468085106384,
+        "timestamp": 1753832841.2077978
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:48:34.611585+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832914611599,
+      "data": {
+        "total_entropy": 64.77,
+        "thermal_entropy": 50,
+        "compute_entropy": 8.37,
+        "memory_entropy": 6.4,
+        "cpu_temp": 83.0,
+        "cpu_percent": 27.9,
+        "memory_percent": 32.0,
+        "battery_percent": 10.806270996640537,
+        "timestamp": 1753832914.583379
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:49:47.362796+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753832987362807,
+      "data": {
+        "total_entropy": 52.768461538461544,
+        "thermal_entropy": 41.53846153846154,
+        "compute_entropy": 4.77,
+        "memory_entropy": 6.46,
+        "cpu_temp": 54.0,
+        "cpu_percent": 15.9,
+        "memory_percent": 32.3,
+        "battery_percent": 12.094064949608063,
+        "timestamp": 1753832987.3627732
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:51:00.186680+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753833060186710,
+      "data": {
+        "total_entropy": 50.650769230769235,
+        "thermal_entropy": 39.23076923076923,
+        "compute_entropy": 5.22,
+        "memory_entropy": 6.2,
+        "cpu_temp": 51.0,
+        "cpu_percent": 17.4,
+        "memory_percent": 31.0,
+        "battery_percent": 13.381858902575589,
+        "timestamp": 1753833060.1866312
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:52:13.412697+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753833133412711,
+      "data": {
+        "total_entropy": 55.75846153846154,
+        "thermal_entropy": 41.53846153846154,
+        "compute_entropy": 8.04,
+        "memory_entropy": 6.18,
+        "cpu_temp": 54.0,
+        "cpu_percent": 26.8,
+        "memory_percent": 30.9,
+        "battery_percent": 14.613661814109742,
+        "timestamp": 1753833133.4126706
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:53:26.415956+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753833206415978,
+      "data": {
+        "total_entropy": 49.82076923076923,
+        "thermal_entropy": 39.23076923076923,
+        "compute_entropy": 4.2299999999999995,
+        "memory_entropy": 6.36,
+        "cpu_temp": 51.0,
+        "cpu_percent": 14.1,
+        "memory_percent": 31.8,
+        "battery_percent": 15.901455767077268,
+        "timestamp": 1753833206.4159207
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:54:39.760135+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753833279760146,
+      "data": {
+        "total_entropy": 60.29,
+        "thermal_entropy": 50,
+        "compute_entropy": 3.87,
+        "memory_entropy": 6.420000000000001,
+        "cpu_temp": 74.0,
+        "cpu_percent": 12.9,
+        "memory_percent": 32.1,
+        "battery_percent": 17.189249720044792,
+        "timestamp": 1753833279.7339554
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:55:52.765928+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753833352765940,
+      "data": {
+        "total_entropy": 71.94,
+        "thermal_entropy": 50,
+        "compute_entropy": 14.52,
+        "memory_entropy": 7.420000000000001,
+        "cpu_temp": 85.0,
+        "cpu_percent": 48.4,
+        "memory_percent": 37.1,
+        "battery_percent": 18.42105263157895,
+        "timestamp": 1753833352.7495172
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:57:05.866034+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753833425866048,
+      "data": {
+        "total_entropy": 58.57923076923077,
+        "thermal_entropy": 40.76923076923077,
+        "compute_entropy": 10.41,
+        "memory_entropy": 7.4,
+        "cpu_temp": 53.0,
+        "cpu_percent": 34.7,
+        "memory_percent": 37.0,
+        "battery_percent": 19.70884658454647,
+        "timestamp": 1753833425.8660083
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:58:18.992461+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753833498992484,
+      "data": {
+        "total_entropy": 54.08,
+        "thermal_entropy": 40.0,
+        "compute_entropy": 6.659999999999999,
+        "memory_entropy": 7.420000000000001,
+        "cpu_temp": 52.0,
+        "cpu_percent": 22.2,
+        "memory_percent": 37.1,
+        "battery_percent": 20.996640537513997,
+        "timestamp": 1753833498.992423
+      }
+    },
+    {
+      "timestamp": "2025-07-29T23:59:31.809456+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753833571809469,
+      "data": {
+        "total_entropy": 68.42,
+        "thermal_entropy": 50,
+        "compute_entropy": 11.16,
+        "memory_entropy": 7.26,
+        "cpu_temp": 79.0,
+        "cpu_percent": 37.2,
+        "memory_percent": 36.3,
+        "battery_percent": 22.284434490481523,
+        "timestamp": 1753833571.7918966
+      }
+    }
+  ]
+}

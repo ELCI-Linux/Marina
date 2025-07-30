@@ -1,0 +1,522 @@
+{% extends 'base.html' %}
+
+{% block title %}SuperChat | Marina Web Client{% endblock %}
+
+{% block extra_head %}
+<style>
+    /* LLM Panel Styling */
+    .llm-panel {
+        border: 2px solid #dee2e6;
+        border-radius: 0.5rem;
+        margin-bottom: 1rem;
+        background: #fff;
+        transition: all 0.3s ease;
+    }
+    
+    .llm-panel.active {
+        border-color: #28a745;
+        box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+    }
+    
+    .llm-header {
+        background: #f8f9fa;
+        padding: 0.75rem 1rem;
+        border-bottom: 1px solid #dee2e6;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        cursor: pointer;
+    }
+    
+    .llm-header.active {
+        background: #d4edda;
+        border-bottom-color: #28a745;
+    }
+    
+    .llm-title {
+        display: flex;
+        align-items: center;
+        font-weight: 600;
+    }
+    
+    .llm-logo {
+        width: 24px;
+        height: 24px;
+        margin-right: 0.5rem;
+        border-radius: 4px;
+        background: #dee2e6;
+    }
+    
+    .llm-controls {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+    }
+    
+    .llm-status {
+        font-size: 0.875rem;
+        padding: 0.25rem 0.5rem;
+        transition: all 0.2s ease;
+    }
+    
+    .log-toggle {
+        font-size: 0.75rem;
+        padding: 0.25rem 0.5rem;
+    }
+    
+    /* Log Bar Styling */
+    .log-bar {
+        background: #1a1a1a;
+        color: #00ff00;
+        font-family: 'Courier New', monospace;
+        font-size: 0.75rem;
+        padding: 0.5rem;
+        height: 120px;
+        overflow-y: auto;
+        border-top: 1px solid #28a745;
+        display: none;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+    
+    .log-bar.show {
+        display: block;
+    }
+    
+    .log-bar .log-timestamp {
+        color: #888;
+        font-size: 0.7rem;
+    }
+    
+    .log-bar .log-error {
+        color: #ff4444;
+    }
+    
+    .log-bar .log-info {
+        color: #4444ff;
+    }
+    
+    .log-bar .log-success {
+        color: #44ff44;
+    }
+    
+    /* Response Area Styling */
+    .response-area {
+        padding: 1rem;
+        min-height: 60px;
+        background: #f8f9fa;
+        border-radius: 0.25rem;
+        margin: 0.5rem;
+        display: none;
+        border: 1px solid #dee2e6;
+    }
+    
+    .response-area.show {
+        display: block;
+    }
+    
+    .response-content {
+        font-family: inherit;
+        font-size: 0.9rem;
+        line-height: 1.4;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+    
+    /* Chat Input Area */
+    .chat-input-area {
+        background: #fff;
+        padding: 1.5rem;
+        border-radius: 0.5rem;
+        margin-bottom: 2rem;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    .control-group {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+        margin-top: 1rem;
+        flex-wrap: wrap;
+    }
+    
+    /* Scrollbar for log areas */
+    .log-bar::-webkit-scrollbar {
+        width: 6px;
+    }
+    
+    .log-bar::-webkit-scrollbar-track {
+        background: #2a2a2a;
+    }
+    
+    .log-bar::-webkit-scrollbar-thumb {
+        background: #555;
+        border-radius: 3px;
+    }
+    
+    .log-bar::-webkit-scrollbar-thumb:hover {
+        background: #777;
+    }
+    
+    /* Responsive design */
+    @media (max-width: 768px) {
+        .control-group {
+            flex-direction: column;
+            align-items: stretch;
+        }
+        
+        .log-bar {
+            height: 80px;
+            font-size: 0.7rem;
+        }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h2 class="pb-3 mb-4 border-bottom">
+        SuperChat - Multi-LLM Interface with Log Monitoring
+    </h2>
+    
+    <!-- Chat Input Area -->
+    <div class="chat-input-area">
+        <form id="superchat-form">
+            <div class="mb-3">
+                <label for="prompt" class="form-label">Your Message</label>
+                <textarea class="form-control" id="prompt" rows="3" placeholder="Enter your message here..." autocomplete="off"></textarea>
+            </div>
+            <div class="control-group">
+                <div class="form-check form-switch">
+                    <input class="form-check-input" type="checkbox" id="whisperMode">
+                    <label class="form-check-label" for="whisperMode">Whisper Mode</label>
+                </div>
+                <div class="form-check form-switch">
+                    <input class="form-check-input" type="checkbox" id="shoutMode">
+                    <label class="form-check-label" for="shoutMode">Shout Mode</label>
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-paper-plane me-2"></i>Send Message
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <!-- LLM Panels with Log Bars -->
+    <div id="llm-panels">
+        {% for model in ['GPT-4', 'Gemini', 'Claude', 'DeepSeek', 'LLaMA3', 'Mistral'] %}
+        <div class="llm-panel" id="panel-{{ model }}" data-model="{{ model }}">
+            <div class="llm-header" onclick="toggleLLM('{{ model }}')">
+                <div class="llm-title">
+                    <div class="llm-logo" style="background: {{ '#FF6B35' if model == 'GPT-4' else '#4285F4' if model == 'Gemini' else '#FF9500' if model == 'Claude' else '#00D4AA' if model == 'DeepSeek' else '#7C3AED' if model == 'LLaMA3' else '#FF6B6B' }}"></div>
+                    <span>{{ model }}</span>
+                </div>
+                <div class="llm-controls">
+                    <span class="badge bg-secondary llm-status" id="status-{{ model }}">Inactive</span>
+                    <button class="btn btn-outline-secondary btn-sm log-toggle" onclick="toggleLog('{{ model }}', event)">
+                        <i class="fas fa-terminal"></i> Log
+                    </button>
+                    <div class="dropdown">
+                        <button class="btn btn-outline-secondary btn-sm dropdown-toggle" data-bs-toggle="dropdown">
+                            <i class="fas fa-cog"></i>
+                        </button>
+                        <div class="dropdown-menu">
+                            <div class="px-3 py-2">
+                                <label class="form-label" style="font-size: 0.8rem;">Color:</label>
+                                <input type="color" class="form-control form-control-color" id="color-{{ model }}" value="{{ '#FF6B35' if model == 'GPT-4' else '#4285F4' if model == 'Gemini' else '#FF9500' if model == 'Claude' else '#00D4AA' if model == 'DeepSeek' else '#7C3AED' if model == 'LLaMA3' else '#FF6B6B' }}">
+                            </div>
+                            <div class="px-3 py-2">
+                                <label class="form-label" style="font-size: 0.8rem;">Font Size:</label>
+                                <input type="range" class="form-range" min="12" max="18" value="14" id="fontsize-{{ model }}">
+                            </div>
+                            <div class="px-3 py-2">
+                                <label class="form-label" style="font-size: 0.8rem;">Font:</label>
+                                <select class="form-select form-select-sm" id="font-{{ model }}">
+                                    <option value="Arial">Arial</option>
+                                    <option value="Courier New">Courier New</option>
+                                    <option value="Georgia">Georgia</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="response-area" id="response-{{ model }}">
+                <div class="response-content" id="content-{{ model }}">
+                    No response yet...
+                </div>
+            </div>
+            <div class="log-bar" id="log-{{ model }}">
+                <div class="log-timestamp">[{{ model }} Backend Log]</div>
+                Waiting for activity...
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    const activeLLMs = new Set();
+    const llmLogs = {};
+    
+    // Initialize logs for each model
+    {% for model in ['GPT-4', 'Gemini', 'Claude', 'DeepSeek', 'LLaMA3', 'Mistral'] %}
+    llmLogs['{{ model }}'] = [];
+    {% endfor %}
+
+    function toggleLLM(model) {
+        try {
+            console.log('toggleLLM called with model:', model);
+            
+            const panel = document.getElementById(`panel-${model}`);
+            const status = document.getElementById(`status-${model}`);
+            const responseArea = document.getElementById(`response-${model}`);
+            
+            console.log('Elements found:', {
+                panel: !!panel,
+                status: !!status,
+                responseArea: !!responseArea
+            });
+            
+            if (!panel || !status || !responseArea) {
+                console.error('Missing DOM elements for model:', model);
+                if (typeof addAlert === 'function') {
+                    addAlert(`Error: Missing elements for ${model}`, 'danger');
+                } else {
+                    alert(`Error: Missing elements for ${model}`);
+                }
+                return;
+            }
+            
+            if (activeLLMs.has(model)) {
+                // Deactivate
+                console.log(`Deactivating ${model}`);
+                activeLLMs.delete(model);
+                panel.classList.remove('active');
+                panel.querySelector('.llm-header').classList.remove('active');
+                status.textContent = 'Inactive';
+                status.classList.replace('bg-success', 'bg-secondary');
+                responseArea.classList.remove('show');
+                responseArea.style.display = 'none';
+                addToLog(model, 'info', `${model} deactivated`);
+            } else {
+                // Activate
+                console.log(`Activating ${model}`);
+                activeLLMs.add(model);
+                panel.classList.add('active');
+                panel.querySelector('.llm-header').classList.add('active');
+                status.textContent = 'Active';
+                status.classList.replace('bg-secondary', 'bg-success');
+                responseArea.classList.add('show');
+                responseArea.style.display = 'block';
+                addToLog(model, 'success', `${model} activated and ready`);
+            }
+            
+            console.log('Active LLMs:', Array.from(activeLLMs));
+            
+        } catch (error) {
+            console.error('Error in toggleLLM:', error);
+            if (typeof addAlert === 'function') {
+                addAlert(`JavaScript error: ${error.message}`, 'danger');
+            } else {
+                alert(`JavaScript error: ${error.message}`);
+            }
+        }
+    }
+
+    function toggleLog(model, event) {
+        event.stopPropagation();
+        const logBar = document.getElementById(`log-${model}`);
+        logBar.classList.toggle('show');
+        
+        if (logBar.classList.contains('show')) {
+            // Scroll to bottom when showing log
+            setTimeout(() => {
+                logBar.scrollTop = logBar.scrollHeight;
+            }, 100);
+        }
+    }
+
+    function addToLog(model, type, message) {
+        try {
+            console.log('addToLog called:', { model, type, message });
+            
+            // Ensure llmLogs[model] exists
+            if (!llmLogs[model]) {
+                llmLogs[model] = [];
+            }
+            
+            const timestamp = new Date().toLocaleTimeString();
+            const logEntry = `<span class="log-timestamp">[${timestamp}]</span> <span class="log-${type}">${message}</span>\n`;
+            
+            llmLogs[model].push(logEntry);
+            
+            // Keep only last 50 entries per model
+            if (llmLogs[model].length > 50) {
+                llmLogs[model] = llmLogs[model].slice(-50);
+            }
+            
+            const logBar = document.getElementById(`log-${model}`);
+            if (logBar) {
+                logBar.innerHTML = llmLogs[model].join('');
+                logBar.scrollTop = logBar.scrollHeight;
+            } else {
+                console.warn('Log bar not found for model:', model);
+            }
+        } catch (error) {
+            console.error('Error in addToLog:', error);
+        }
+    }
+
+    // Form submission
+    document.getElementById('superchat-form').addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const prompt = document.getElementById('prompt').value.trim();
+        if (!prompt) {
+            addAlert('You must enter a message!', 'danger');
+            return;
+        }
+
+        if (activeLLMs.size === 0) {
+            addAlert('Please activate at least one LLM!', 'warning');
+            return;
+        }
+
+        const whisperMode = document.getElementById('whisperMode').checked;
+        const shoutMode = document.getElementById('shoutMode').checked;
+        const enabledModels = Array.from(activeLLMs);
+
+        // Show loading state
+        const submitBtn = this.querySelector('button[type="submit"]');
+        submitBtn.disabled = true;
+        submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-2"></i>Sending...';
+
+        // Add to logs
+        enabledModels.forEach(model => {
+            addToLog(model, 'info', `Sending prompt: "${prompt.substring(0, 50)}${prompt.length > 50 ? '...' : '"}"`);
+            addToLog(model, 'info', `Mode: ${whisperMode ? 'Whisper' : shoutMode ? 'Shout' : 'Normal'}`);
+        });
+
+        try {
+            const response = await fetch('/api/superchat/execute', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({ 
+                    prompt, 
+                    whisper_mode: whisperMode, 
+                    shout_mode: shoutMode, 
+                    enabled_models: enabledModels 
+                })
+            });
+
+            const result = await response.json();
+
+            if (result.success) {
+                addAlert('Messages sent successfully!', 'success', 3000);
+                displayResults(result.results);
+                document.getElementById('prompt').value = '';
+            } else {
+                addAlert(`Failed to send messages: ${result.error}`, 'danger');
+                enabledModels.forEach(model => {
+                    addToLog(model, 'error', `Request failed: ${result.error}`);
+                });
+            }
+        } catch (error) {
+            addAlert(`Network error: ${error.message}`, 'danger');
+            enabledModels.forEach(model => {
+                addToLog(model, 'error', `Network error: ${error.message}`);
+            });
+        } finally {
+            submitBtn.disabled = false;
+            submitBtn.innerHTML = '<i class="fas fa-paper-plane me-2"></i>Send Message';
+        }
+    });
+
+    function displayResults(results) {
+        results.forEach(result => {
+            const model = result.model;
+            const responseArea = document.getElementById(`content-${model}`);
+            const color = document.getElementById(`color-${model}`).value;
+            const fontSize = document.getElementById(`fontsize-${model}`).value;
+            const font = document.getElementById(`font-${model}`).value;
+            
+            if (responseArea) {
+                // Apply styling
+                responseArea.style.color = color;
+                responseArea.style.fontSize = `${fontSize}px`;
+                responseArea.style.fontFamily = font;
+                
+                // Display response
+                if (result.success && result.stdout) {
+                    responseArea.textContent = result.stdout;
+                    addToLog(model, 'success', `Response received (${result.stdout.length} chars)`);
+                } else {
+                    responseArea.textContent = result.stderr || 'No response received';
+                    addToLog(model, 'error', `Error: ${result.stderr || 'Unknown error'}`);
+                }
+                
+                // Log backend details
+                if (result.stderr) {
+                    addToLog(model, 'error', `STDERR: ${result.stderr}`);
+                }
+                if (result.return_code !== undefined) {
+                    addToLog(model, 'info', `Exit code: ${result.return_code}`);
+                }
+                
+                // Add execution time
+                const timestamp = new Date(result.timestamp);
+                addToLog(model, 'info', `Completed at ${timestamp.toLocaleTimeString()}`);
+            }
+        });
+    }
+
+    // Save settings to localStorage
+    function saveSettings() {
+        const settings = {};
+        {% for model in ['GPT-4', 'Gemini', 'Claude', 'DeepSeek', 'LLaMA3', 'Mistral'] %}
+        settings['{{ model }}'] = {
+            color: document.getElementById('color-{{ model }}').value,
+            fontSize: document.getElementById('fontsize-{{ model }}').value,
+            font: document.getElementById('font-{{ model }}').value
+        };
+        {% endfor %}
+        localStorage.setItem('superchat-settings', JSON.stringify(settings));
+    }
+
+    // Load settings from localStorage
+    function loadSettings() {
+        const saved = localStorage.getItem('superchat-settings');
+        if (saved) {
+            const settings = JSON.parse(saved);
+            {% for model in ['GPT-4', 'Gemini', 'Claude', 'DeepSeek', 'LLaMA3', 'Mistral'] %}
+            if (settings['{{ model }}']) {
+                const s = settings['{{ model }}'];
+                document.getElementById('color-{{ model }}').value = s.color || '#007bff';
+                document.getElementById('fontsize-{{ model }}').value = s.fontSize || '14';
+                document.getElementById('font-{{ model }}').value = s.font || 'Arial';
+            }
+            {% endfor %}
+        }
+    }
+
+    // Auto-save settings when changed
+    document.addEventListener('change', function(e) {
+        if (e.target.matches('[id^="color-"], [id^="fontsize-"], [id^="font-"]')) {
+            saveSettings();
+        }
+    });
+
+    // Initialize
+    document.addEventListener('DOMContentLoaded', function() {
+        loadSettings();
+        
+        // Add initial log entries
+        {% for model in ['GPT-4', 'Gemini', 'Claude', 'DeepSeek', 'LLaMA3', 'Mistral'] %}
+        addToLog('{{ model }}', 'info', '{{ model }} initialized and ready to activate');
+        {% endfor %}
+    });
+</script>
+{% endblock %}

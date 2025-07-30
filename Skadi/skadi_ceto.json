@@ -1,0 +1,28 @@
+{
+  "name": "skadi_power_daemon",
+  "path": "/home/adminx/Marina/Skadi/skadi_daemon.py",
+  "type": "power_management",
+  "status": "ready",
+  "version_hash": "1.0.0",
+  "last_seen": null,
+  "pid": null,
+  "port": null,
+  "metadata": {
+    "capabilities": [
+      "thermal_management",
+      "battery_optimization", 
+      "runic_contracts",
+      "entropy_monitoring",
+      "stance_adaptation",
+      "process_discipline"
+    ],
+    "stances": [
+      "glacier",
+      "ridgewatch", 
+      "snowblind",
+      "stormbirth"
+    ],
+    "description": "Skadi - The Cold Dominion: Mythological power management daemon governing energy equilibrium through runic contracts and thermal discipline",
+    "title": "Goddess of Power, Entropy Suppression, and Thermal Harmony"
+  }
+}

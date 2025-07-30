@@ -1,0 +1,73 @@
+{% extends 'base.html' %}
+
+{% block title %}Feedback | Marina Web Client{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <h2 class="pb-3 mb-4 border-bottom">
+        Feedback System
+    </h2>
+    <form id="feedback-form">
+        <div class="mb-3">
+            <label for="action" class="form-label">Feedback Action</label>
+            <select class="form-select" id="action">
+                <option value="analyze" selected>Analyze Feedback</option>
+                <option value="summary">Summary</option>
+                <option value="optimize">Optimize</option>
+                <option value="corpus">Build Corpus</option>
+            </select>
+        </div>
+        <div class="mb-3" id="days-div">
+            <label for="days" class="form-label">Days</label>
+            <input type="number" class="form-control" id="days" value="7" min="1">
+        </div>
+        <button type="submit" class="btn btn-primary">Execute</button>
+    </form>
+    <div id="output-container" class="mt-4">
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    document.getElementById('action').addEventListener('change', function() {
+        const daysDiv = document.getElementById('days-div');
+        if (this.value === 'analyze' || this.value === 'summary') {
+            daysDiv.style.display = 'block';
+        } else {
+            daysDiv.style.display = 'none';
+        }
+    });
+
+    document.getElementById('feedback-form').addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const action = document.getElementById('action').value;
+        const days = document.getElementById('days').value;
+
+        const loadingMessage = document.getElementById('loadingMessage');
+        loadingMessage.textContent = 'Processing feedback...';
+        const loadingModal = new bootstrap.Modal(document.getElementById('loadingModal'));
+        loadingModal.show();
+
+        const response = await fetch(`/api/feedback/${action}`, {
+            method: action === 'optimize' || action === 'corpus' ? 'GET' : 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: action === 'optimize' || action === 'corpus' ? null : JSON.stringify({ days: parseInt(days) })
+        });
+        const result = await response.json();
+        loadingModal.hide();
+
+        if (result.success) {
+            addAlert('Feedback processed successfully!', 'success');
+        } else {
+            addAlert(`Feedback processing failed: ${result.stderr}`, 'danger');
+        }
+
+        const outputContainer = document.getElementById('output-container');
+        outputContainer.innerHTML = `<pre>${result.stdout || result.stderr || 'No output'}</pre>`;
+    });
+</script>
+{% endblock %}

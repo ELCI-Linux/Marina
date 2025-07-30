@@ -1,0 +1,137 @@
+{
+  "project": {
+    "name": "STAVE",
+    "full_name": "Semantic Temporal Audio Vector Engine",
+    "version": "0.1.0-luthier",
+    "tagline": "Don't record the world. Record the change.",
+    "description": "ContinuumDelta-native Digital Audio Workstation built for intent-first editing and semantic audio processing",
+    "created": "2025-07-25T16:53:27Z",
+    "author": "Marina AI",
+    "license": "MIT"
+  },
+  "philosophy": {
+    "core_principle": "Render Change, Not State",
+    "approach": "Delta-based audio processing with emotional/semantic awareness",
+    "paradigm_shift": "From linear effects chains to intention-driven vector transformations"
+  },
+  "architecture": {
+    "modules": {
+      "stave_core": {
+        "status": "implemented",
+        "description": "Core ContinuumDelta audio processing engine",
+        "dependencies": ["numpy", "librosa", "soundfile", "scipy"],
+        "priority": 1
+      },
+      "stave_delta": {
+        "status": "implemented", 
+        "description": "Delta specification and serialization system",
+        "dependencies": ["json", "hashlib", "time"],
+        "priority": 1
+      },
+      "stave_cli": {
+        "status": "implemented",
+        "description": "Command-line interface for delta operations",
+        "dependencies": ["argparse", "stave_core", "stave_delta"],
+        "priority": 2
+      },
+      "stave_gui": {
+        "status": "planned",
+        "description": "Visual interface for delta editing and waveform display",
+        "dependencies": ["tkinter", "matplotlib", "stave_core"],
+        "priority": 3
+      },
+      "stave_marina": {
+        "status": "planned",
+        "description": "Marina AI integration for semantic audio editing",
+        "dependencies": ["marina_continuum", "llm_integration"],
+        "priority": 4
+      },
+      "stave_export": {
+        "status": "planned",
+        "description": "Export engine for various audio formats and DAW compatibility",
+        "dependencies": ["ffmpeg", "soundfile", "stave_core"],
+        "priority": 5
+      }
+    }
+  },
+  "file_formats": {
+    ".stave": {
+      "type": "project_file",
+      "description": "Main STAVE project format containing base assets and delta stacks",
+      "schema_version": "1.0"
+    },
+    ".cdelta": {
+      "type": "delta_specification",
+      "description": "ContinuumDelta JSON format for individual audio transformations",
+      "schema_version": "1.0"
+    }
+  },
+  "milestones": {
+    "v0.1-luthier": {
+      "target_date": "2025-08-08",
+      "goals": [
+        "Load base audio files",
+        "Apply timestamped deltas (pitch, volume, EQ)",
+        "Non-destructive re-render to WAV",
+        "View delta stack in CLI",
+        "Export .stave format",
+        "Marina plugin stub"
+      ],
+      "completion": 0
+    },
+    "v0.2-composer": {
+      "target_date": "2025-08-22",
+      "goals": [
+        "Full GUI with waveform display",
+        "Visual delta editing",
+        "Semantic undo/redo",
+        "Basic Marina integration",
+        "Prompt-based editing prototype"
+      ],
+      "completion": 0
+    },
+    "v1.0-maestro": {
+      "target_date": "2025-09-15",
+      "goals": [
+        "Complete semantic editing suite",
+        "Story mode (emotional arcs)",
+        "Collaborative delta merging",  
+        "Plugin ecosystem",
+        "Production-ready stability"
+      ],
+      "completion": 0
+    }
+  },
+  "technical_stack": {
+    "audio_backend": "SoX + custom DSP (Python/Rust)",
+    "gui_framework": "Tkinter → Future: Tauri + React",
+    "delta_storage": "JSON → Future: SQLite/RocksDB",
+    "marina_ai": "Python + Marina Continuum integration",
+    "versioning": "Git-like delta branching",
+    "export_formats": ["WAV", "FLAC", "MP3", ".stave"]
+  },
+  "build_status": {
+    "last_updated": "2025-07-25T16:53:27Z",
+    "phase": "initialization",
+    "active_development": true,
+    "tests_passing": null,
+    "documentation_coverage": 0
+  },
+  "integration_points": {
+    "marina_continuum": {
+      "path": "../expression/communicative/continuum",
+      "status": "available",
+      "integration_type": "semantic_processing"
+    },
+    "marina_speech": {
+      "path": "../expression/communicative/speech", 
+      "status": "available",
+      "integration_type": "audio_io"
+    },
+    "marina_core": {
+      "path": "../core",
+      "status": "available", 
+      "integration_type": "system_integration"
+    }
+  }
+}

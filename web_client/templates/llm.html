@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+
+{% block title %}LLM Tasks | Marina Web Client{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <h2 class="pb-3 mb-4 border-bottom">
+        LLM Task Execution
+    </h2>
+    <form id="llm-task-form">
+        <div class="mb-3">
+            <label for="task" class="form-label">Task Description</label>
+            <input type="text" class="form-control" id="task" placeholder="Describe the task for LLM">
+        </div>
+        <div class="mb-3">
+            <label for="tokens" class="form-label">Token Limit</label>
+            <input type="number" class="form-control" id="tokens" placeholder="Number of tokens (default: 500)">
+        </div>
+        <div class="mb-3">
+            <label for="model" class="form-label">Model</label>
+            <select class="form-select" id="model">
+                <option value="" selected>Auto-select</option>
+                <option value="gpt">GPT</option>
+                <option value="gemini">Gemini</option>
+                <option value="claude">Claude</option>
+                <option value="deepseek">DeepSeek</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Save & Output Format</label>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="save">
+                <label class="form-check-label" for="save">
+                    Save Output
+                </label>
+            </div>
+            <select class="form-select mt-1" id="format">
+                <option value="text" selected>Text</option>
+                <option value="code">Code</option>
+                <option value="json">JSON</option>
+                <option value="image">Image</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label for="language" class="form-label">Language (if saving as code)</label>
+            <input type="text" class="form-control" id="language" placeholder="e.g. Python, JavaScript">
+        </div>
+        <button type="submit" class="btn btn-primary">Execute Task</button>
+    </form>
+    <div id="output-container" class="mt-4">
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    document.getElementById('llm-task-form').addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const task = document.getElementById('task').value;
+        const tokens = document.getElementById('tokens').value;
+        const model = document.getElementById('model').value;
+        const save = document.getElementById('save').checked;
+        const format = document.getElementById('format').value;
+        const language = document.getElementById('language').value;
+
+        if (!task) {
+            addAlert('Task description is required.', 'danger');
+            return;
+        }
+
+        const loadingMessage = document.getElementById('loadingMessage');
+        loadingMessage.textContent = 'Executing LLM task...';
+        const loadingModal = new bootstrap.Modal(document.getElementById('loadingModal'));
+        loadingModal.show();
+
+        const response = await fetch('/api/llm/execute', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({ task, tokens, model, save, format, language })
+        });
+        const result = await response.json();
+        loadingModal.hide();
+
+        if (result.success) {
+            addAlert('LLM task executed successfully!', 'success');
+        } else {
+            addAlert(`LLM task execution failed: ${result.stderr}`, 'danger');
+        }
+
+        const outputContainer = document.getElementById('output-container');
+        outputContainer.innerHTML = `<pre>${result.stdout || 'No output'}</pre>`;
+    });
+</script>
+{% endblock %}

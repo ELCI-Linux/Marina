@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SuperChat Debug</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h2>SuperChat Debug Test</h2>
+        
+        <!-- Alert Container -->
+        <div id="alert-container"></div>
+        
+        <!-- Test LLM Panel -->
+        <div class="llm-panel" id="panel-GPT-4" data-model="GPT-4">
+            <div class="llm-header" onclick="toggleLLM('GPT-4')" style="cursor: pointer; padding: 10px; border: 1px solid #ccc;">
+                <div class="llm-title">
+                    <span>GPT-4</span>
+                </div>
+                <div class="llm-controls">
+                    <span class="badge bg-secondary llm-status" id="status-GPT-4">Inactive</span>
+                </div>
+            </div>
+            <div class="response-area" id="response-GPT-4" style="display: none; padding: 10px; background: #f8f9fa;">
+                <div class="response-content" id="content-GPT-4">
+                    No response yet...
+                </div>
+            </div>
+        </div>
+        
+        <div class="mt-3">
+            <button onclick="testActivation()" class="btn btn-primary">Test Activation</button>
+            <button onclick="testAlert()" class="btn btn-secondary">Test Alert</button>
+        </div>
+        
+        <div class="mt-3">
+            <h4>Debug Info:</h4>
+            <pre id="debug-info"></pre>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script>
+        // Initialize
+        const activeLLMs = new Set();
+        const llmLogs = {};
+        llmLogs['GPT-4'] = [];
+        
+        // Alert function (same as common.js)
+        function addAlert(message, type = 'info', duration = 5000) {
+            const alertContainer = document.getElementById('alert-container');
+            if (!alertContainer) {
+                console.error('Alert container not found!');
+                return;
+            }
+            
+            const alertDiv = document.createElement('div');
+            alertDiv.className = `alert alert-${type} alert-dismissible fade show`;
+            alertDiv.setAttribute('role', 'alert');
+            
+            let icon = 'fas fa-info-circle';
+            switch (type) {
+                case 'success':
+                    icon = 'fas fa-check-circle';
+                    break;
+                case 'danger':
+                    icon = 'fas fa-exclamation-circle';
+                    break;
+                case 'warning':
+                    icon = 'fas fa-exclamation-triangle';
+                    break;
+            }
+            
+            alertDiv.innerHTML = `
+                <i class="${icon}"></i>
+                ${message}
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            `;
+            
+            alertContainer.appendChild(alertDiv);
+            
+            if (duration > 0) {
+                setTimeout(() => {
+                    if (alertDiv.parentNode) {
+                        alertDiv.classList.remove('show');
+                        setTimeout(() => {
+                            if (alertDiv.parentNode) {
+                                alertDiv.remove();
+                            }
+                        }, 150);
+                    }
+                }, duration);
+            }
+        }
+        
+        // Toggle LLM function (same as superchat.html)
+        function toggleLLM(model) {
+            console.log('toggleLLM called with model:', model);
+            
+            const panel = document.getElementById(`panel-${model}`);
+            const status = document.getElementById(`status-${model}`);
+            const responseArea = document.getElementById(`response-${model}`);
+            
+            console.log('Elements found:', {
+                panel: !!panel,
+                status: !!status,
+                responseArea: !!responseArea
+            });
+            
+            if (!panel || !status || !responseArea) {
+                console.error('Missing elements for model:', model);
+                addAlert(`Error: Missing elements for ${model}`, 'danger');
+                return;
+            }
+            
+            if (activeLLMs.has(model)) {
+                // Deactivate
+                activeLLMs.delete(model);
+                panel.classList.remove('active');
+                panel.querySelector('.llm-header').classList.remove('active');
+                status.textContent = 'Inactive';
+                status.classList.replace('bg-success', 'bg-secondary');
+                responseArea.style.display = 'none';
+                console.log(`${model} deactivated`);
+                addAlert(`${model} deactivated`, 'info');
+            } else {
+                // Activate
+                activeLLMs.add(model);
+                panel.classList.add('active');
+                panel.querySelector('.llm-header').classList.add('active');
+                status.textContent = 'Active';
+                status.classList.replace('bg-secondary', 'bg-success');
+                responseArea.style.display = 'block';
+                console.log(`${model} activated`);
+                addAlert(`${model} activated and ready`, 'success');
+            }
+            
+            updateDebugInfo();
+        }
+        
+        function testActivation() {
+            console.log('Testing activation...');
+            toggleLLM('GPT-4');
+        }
+        
+        function testAlert() {
+            addAlert('This is a test alert!', 'info');
+        }
+        
+        function updateDebugInfo() {
+            const debugInfo = document.getElementById('debug-info');
+            debugInfo.textContent = JSON.stringify({
+                activeLLMs: Array.from(activeLLMs),
+                alertContainer: !!document.getElementById('alert-container'),
+                panelExists: !!document.getElementById('panel-GPT-4'),
+                statusExists: !!document.getElementById('status-GPT-4')
+            }, null, 2);
+        }
+        
+        // Initialize debug info
+        document.addEventListener('DOMContentLoaded', function() {
+            updateDebugInfo();
+        });
+    </script>
+</body>
+</html>

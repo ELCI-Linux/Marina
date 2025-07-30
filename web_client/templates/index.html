@@ -1,0 +1,356 @@
+{% extends 'base.html' %}
+
+{% block title %}Sensory Platform{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="pb-3 mb-4 border-bottom">
+                Sensory Platform
+            </h2>
+            <p>Live sensory outputs from Marina's perception engines.</p>
+        </div>
+    </div>
+
+    <!-- Audio Sensory Engine -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <h3>Audio Sensory Engine</h3>
+            <div id="audio-output">
+                <!-- Live audio output or status -->
+                Status: <span id="audio-status">Loading...</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Visual Sensory Engine -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <h3>Visual Sensory Engine</h3>
+            <div id="visual-output">
+                <!-- Live visual output or status -->
+                Status: <span id="visual-status">Loading...</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Thermal Sensory Engine -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <h3>Thermal Sensory Engine</h3>
+            <div id="thermal-output">
+                <!-- Live thermal output or status -->
+                Status: <span id="thermal-status">Loading...</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Kinetic Sensory Engine -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <h3>Kinetic Sensory Engine</h3>
+            <div id="kinetic-output">
+                <!-- Live kinetic output or status -->
+                Status: <span id="kinetic-status">Loading...</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Touch Sensory Engine -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <h3>Touch Sensory Engine</h3>
+            <div id="touch-output">
+                <!-- Live touch output or status -->
+                Status: <span id="touch-status">Loading...</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Time Sensory Engine -->
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <h3>Time Sensory Engine</h3>
+            <div id="time-output">
+                <!-- Live time perception or status -->
+                Status: <span id="time-status">Loading...</span>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+// Sensory Platform JavaScript
+let sensoryData = {};
+let updateInterval;
+
+// Status indicators with emojis
+const statusIndicators = {
+    available: {
+        true: '<span class="text-success">✅ Active</span>',
+        false: '<span class="text-danger">❌ Inactive</span>'
+    },
+    suspended: '<span class="text-warning">⏸️ Suspended</span>',
+    error: '<span class="text-danger">🚫 Error</span>'
+};
+
+function updateSensoryStatus() {
+    fetch('/api/sensory/status')
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                sensoryData = data.status;
+                updateDisplays();
+            } else {
+                console.error('Failed to fetch sensory status:', data.error);
+                showError();
+            }
+        })
+        .catch(error => {
+            console.error('Error fetching sensory status:', error);
+            showError();
+        });
+}
+
+function updateDisplays() {
+    // Audio Sensory Engine
+    const audioStatus = sensoryData.audio;
+    let audioDisplay = '<div class="card">';
+    audioDisplay += '<div class="card-header"><h5><i class="fas fa-microphone"></i> Audio Perception</h5></div>';
+    audioDisplay += '<div class="card-body">';
+    
+    if (audioStatus) {
+        audioDisplay += `<p><strong>Status:</strong> ${statusIndicators.available[audioStatus.available]}</p>`;
+        if (audioStatus.device) {
+            audioDisplay += `<p><strong>Device:</strong> ${audioStatus.device}</p>`;
+        }
+        if (audioStatus.error) {
+            audioDisplay += `<p><strong>Error:</strong> <span class="text-danger">${audioStatus.error}</span></p>`;
+        }
+        if (audioStatus.capabilities && audioStatus.capabilities.length > 0) {
+            audioDisplay += '<p><strong>Capabilities:</strong></p><ul>';
+            audioStatus.capabilities.forEach(capability => {
+                const capIcons = {
+                    'audio_processing': '🎵',
+                    'speech_detection': '🗣️',
+                    'language_detection': '🌐',
+                    'sound_classification': '🔊'
+                };
+                audioDisplay += `<li>${capIcons[capability] || '•'} ${capability.replace('_', ' ')}</li>`;
+            });
+            audioDisplay += '</ul>';
+        }
+    } else {
+        audioDisplay += '<p>No audio data available</p>';
+    }
+    
+    audioDisplay += '</div></div>';
+    document.getElementById('audio-output').innerHTML = audioDisplay;
+    
+    // Visual Sensory Engine
+    const visualStatus = sensoryData.visual;
+    let visualDisplay = '<div class="card">';
+    visualDisplay += '<div class="card-header"><h5><i class="fas fa-eye"></i> Visual Perception</h5></div>';
+    visualDisplay += '<div class="card-body">';
+    
+    if (visualStatus) {
+        if (visualStatus.camera) {
+            visualDisplay += '<div class="mb-3"><strong>Camera:</strong><br>';
+            visualDisplay += `Status: ${statusIndicators.available[visualStatus.camera.available]}<br>`;
+            if (visualStatus.camera.device) {
+                visualDisplay += `Device: ${visualStatus.camera.device}<br>`;
+            }
+            if (visualStatus.camera.error) {
+                visualDisplay += `Error: <span class="text-danger">${visualStatus.camera.error}</span><br>`;
+            }
+            if (visualStatus.camera.capabilities && visualStatus.camera.capabilities.length > 0) {
+                visualDisplay += 'Capabilities: ';
+                visualStatus.camera.capabilities.forEach(capability => {
+                    const capIcons = {
+                        'object_detection': '🎯',
+                        'text_recognition': '📝',
+                        'image_analysis': '🖼️'
+                    };
+                    visualDisplay += `${capIcons[capability] || '•'} ${capability.replace('_', ' ')} `;
+                });
+            }
+            visualDisplay += '</div>';
+        }
+        
+        if (visualStatus.screen) {
+            visualDisplay += '<div><strong>Screen:</strong><br>';
+            visualDisplay += `Status: ${statusIndicators.available[visualStatus.screen.available]}<br>`;
+            if (visualStatus.screen.capabilities && visualStatus.screen.capabilities.length > 0) {
+                visualDisplay += 'Capabilities: ';
+                visualStatus.screen.capabilities.forEach(capability => {
+                    const capIcons = {
+                        'screen_capture': '📺',
+                        'gui_analysis': '🖱️',
+                        'document_reading': '📄'
+                    };
+                    visualDisplay += `${capIcons[capability] || '•'} ${capability.replace('_', ' ')} `;
+                });
+            }
+            visualDisplay += '</div>';
+        }
+    } else {
+        visualDisplay += '<p>No visual data available</p>';
+    }
+    
+    visualDisplay += '</div></div>';
+    document.getElementById('visual-output').innerHTML = visualDisplay;
+    
+    // Thermal Sensory Engine
+    const thermalStatus = sensoryData.thermal;
+    let thermalDisplay = '<div class="card">';
+    thermalDisplay += '<div class="card-header"><h5><i class="fas fa-thermometer-half"></i> Thermal Perception</h5></div>';
+    thermalDisplay += '<div class="card-body">';
+    
+    if (thermalStatus) {
+        thermalDisplay += `<p><strong>Status:</strong> ${statusIndicators.available[thermalStatus.available]}</p>`;
+        if (thermalStatus.capabilities && thermalStatus.capabilities.length > 0) {
+            thermalDisplay += '<p><strong>Capabilities:</strong></p><ul>';
+            thermalStatus.capabilities.forEach(capability => {
+                const capIcons = {
+                    'cpu_thermal': '🔥',
+                    'environment_thermal': '🌡️',
+                    'thermal_analysis': '📊'
+                };
+                thermalDisplay += `<li>${capIcons[capability] || '•'} ${capability.replace('_', ' ')}</li>`;
+            });
+            thermalDisplay += '</ul>';
+        }
+        if (thermalStatus.current_state) {
+            thermalDisplay += '<p><strong>Current State:</strong></p>';
+            thermalDisplay += '<pre style="font-size: 12px; max-height: 200px; overflow-y: auto;">' + JSON.stringify(thermalStatus.current_state, null, 2) + '</pre>';
+        }
+    } else {
+        thermalDisplay += '<p>No thermal data available</p>';
+    }
+    
+    thermalDisplay += '</div></div>';
+    document.getElementById('thermal-output').innerHTML = thermalDisplay;
+    
+    // Kinetic Sensory Engine
+    const kineticStatus = sensoryData.kinetic;
+    let kineticDisplay = '<div class="card">';
+    kineticDisplay += '<div class="card-header"><h5><i class="fas fa-running"></i> Kinetic Perception</h5></div>';
+    kineticDisplay += '<div class="card-body">';
+    
+    if (kineticStatus) {
+        kineticDisplay += `<p><strong>Status:</strong> ${statusIndicators.available[kineticStatus.available]}</p>`;
+        if (kineticStatus.capabilities && kineticStatus.capabilities.length > 0) {
+            kineticDisplay += '<p><strong>Capabilities:</strong></p><ul>';
+            kineticStatus.capabilities.forEach(capability => {
+                const capIcons = {
+                    'internal_motion': '🏃‍♂️',
+                    'external_motion': '🌊',
+                    'motion_analysis': '🔄'
+                };
+                kineticDisplay += `<li>${capIcons[capability] || '•'} ${capability.replace('_', ' ')}</li>`;
+            });
+            kineticDisplay += '</ul>';
+        }
+        if (kineticStatus.status) {
+            kineticDisplay += '<p><strong>Current Status:</strong></p>';
+            kineticDisplay += '<pre style="font-size: 12px; max-height: 200px; overflow-y: auto;">' + JSON.stringify(kineticStatus.status, null, 2) + '</pre>';
+        }
+    } else {
+        kineticDisplay += '<p>No kinetic data available</p>';
+    }
+    
+    kineticDisplay += '</div></div>';
+    document.getElementById('kinetic-output').innerHTML = kineticDisplay;
+    
+    // Touch Sensory Engine
+    const touchStatus = sensoryData.touch;
+    let touchDisplay = '<div class="card">';
+    touchDisplay += '<div class="card-header"><h5><i class="fas fa-hand-paper"></i> Touch Perception</h5></div>';
+    touchDisplay += '<div class="card-body">';
+    
+    if (touchStatus) {
+        touchDisplay += `<p><strong>Status:</strong> ${statusIndicators.available[touchStatus.available]}</p>`;
+        if (touchStatus.capabilities && touchStatus.capabilities.length > 0) {
+            touchDisplay += '<p><strong>Capabilities:</strong></p><ul>';
+            touchStatus.capabilities.forEach(capability => {
+                const capIcons = {
+                    'contact_detection': '👆',
+                    'pressure_sensing': '💪',
+                    'vibration_detection': '📳',
+                    'temperature_touch': '🌡️'
+                };
+                touchDisplay += `<li>${capIcons[capability] || '•'} ${capability.replace('_', ' ')}</li>`;
+            });
+            touchDisplay += '</ul>';
+        }
+    } else {
+        touchDisplay += '<p>No touch data available</p>';
+    }
+    
+    touchDisplay += '</div></div>';
+    document.getElementById('touch-output').innerHTML = touchDisplay;
+    
+    // Time Sensory Engine
+    const timeStatus = sensoryData.time;
+    let timeDisplay = '<div class="card">';
+    timeDisplay += '<div class="card-header"><h5><i class="fas fa-clock"></i> Time Perception</h5></div>';
+    timeDisplay += '<div class="card-body">';
+    
+    if (timeStatus) {
+        timeDisplay += `<p><strong>Status:</strong> ${statusIndicators.available[timeStatus.available]}</p>`;
+        if (timeStatus.capabilities && timeStatus.capabilities.length > 0) {
+            timeDisplay += '<p><strong>Capabilities:</strong></p><ul>';
+            timeStatus.capabilities.forEach(capability => {
+                const capIcons = {
+                    'absolute_time': '🕐',
+                    'interval_measurement': '⏱️',
+                    'subjective_time': '🧠',
+                    'rhythm_detection': '🎵',
+                    'time_prediction': '🔮'
+                };
+                timeDisplay += `<li>${capIcons[capability] || '•'} ${capability.replace('_', ' ')}</li>`;
+            });
+            timeDisplay += '</ul>';
+        }
+    } else {
+        timeDisplay += '<p>No time data available</p>';
+    }
+    
+    timeDisplay += '</div></div>';
+    document.getElementById('time-output').innerHTML = timeDisplay;
+}
+
+function showError() {
+    const errorMessage = '<div class="alert alert-danger"><i class="fas fa-exclamation-triangle"></i> Unable to fetch sensory data</div>';
+    
+    document.getElementById('audio-output').innerHTML = errorMessage;
+    document.getElementById('visual-output').innerHTML = errorMessage;
+    document.getElementById('thermal-output').innerHTML = errorMessage;
+    document.getElementById('kinetic-output').innerHTML = errorMessage;
+    document.getElementById('touch-output').innerHTML = errorMessage;
+    document.getElementById('time-output').innerHTML = errorMessage;
+}
+
+// Initialize and start periodic updates
+document.addEventListener('DOMContentLoaded', function() {
+    // Initial load
+    updateSensoryStatus();
+    
+    // Update every 5 seconds
+    updateInterval = setInterval(updateSensoryStatus, 5000);
+});
+
+// Clean up interval when page unloads
+window.addEventListener('beforeunload', function() {
+    if (updateInterval) {
+        clearInterval(updateInterval);
+    }
+});
+</script>
+{% endblock %}

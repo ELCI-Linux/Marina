@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-07-26T17:00:07.305734+00:00",
+      "event_type": "skadi_awakening",
+      "planck_tick": 1753549207305786,
+      "data": {
+        "stance": "hybrid_balanced_intermittent_compute",
+        "thermal_threshold": 65.0,
+        "entropy_discipline": 100.0
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:00:08.391619+00:00",
+      "event_type": "stance_change",
+      "planck_tick": 1753549208391652,
+      "data": {
+        "old_stance": "hybrid_balanced_intermittent_compute",
+        "new_stance": "deep_silence_max_thermal_buffering",
+        "trigger_entropy": {
+          "total_entropy": 56.58692307692308,
+          "thermal_entropy": 43.07692307692308,
+          "compute_entropy": 5.55,
+          "memory_entropy": 7.96,
+          "cpu_temp": 56.0,
+          "cpu_percent": 18.5,
+          "memory_percent": 39.8,
+          "battery_percent": 4.395126196692776,
+          "timestamp": 1753549208.391162
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:01:15.686247+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753549275686261,
+      "data": {
+        "total_entropy": 70.9,
+        "thermal_entropy": 50,
+        "compute_entropy": 12.96,
+        "memory_entropy": 7.940000000000001,
+        "cpu_temp": 68.0,
+        "cpu_percent": 43.2,
+        "memory_percent": 39.7,
+        "battery_percent": 3.0461270670147953,
+        "timestamp": 1753549275.686221
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:03:09.475879+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753549389475893,
+      "data": {
+        "total_entropy": 74.08,
+        "thermal_entropy": 50,
+        "compute_entropy": 16.619999999999997,
+        "memory_entropy": 7.46,
+        "cpu_temp": 90.0,
+        "cpu_percent": 55.4,
+        "memory_percent": 37.3,
+        "battery_percent": 2.088772845953003,
+        "timestamp": 1753549389.4543862
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:03:33.899496+00:00",
+      "event_type": "thermal_banishment",
+      "planck_tick": 1753549413899507,
+      "data": {
+        "process": "warp-terminal",
+        "cpu_percent": 21.1,
+        "thermal_trigger": 90.0
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:08:10.997997+00:00",
+      "event_type": "skadi_awakening",
+      "planck_tick": 1753549690998021,
+      "data": {
+        "stance": "hybrid_balanced_intermittent_compute",
+        "thermal_threshold": 65.0,
+        "entropy_discipline": 100.0
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:08:12.338488+00:00",
+      "event_type": "stance_change",
+      "planck_tick": 1753549692338521,
+      "data": {
+        "old_stance": "hybrid_balanced_intermittent_compute",
+        "new_stance": "deep_silence_max_thermal_buffering",
+        "trigger_entropy": {
+          "total_entropy": 59.226923076923086,
+          "thermal_entropy": 43.07692307692308,
+          "compute_entropy": 8.73,
+          "memory_entropy": 7.420000000000001,
+          "cpu_temp": 56.0,
+          "cpu_percent": 29.1,
+          "memory_percent": 37.1,
+          "battery_percent": 3.698868581375109,
+          "timestamp": 1753549692.3379915
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:08:24.597782+00:00",
+      "event_type": "thermal_banishment",
+      "planck_tick": 1753549704597795,
+      "data": {
+        "process": "warp-terminal",
+        "cpu_percent": 20.9,
+        "thermal_trigger": 74.0
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:12:49.969958+00:00",
+      "event_type": "skadi_awakening",
+      "planck_tick": 1753549969969976,
+      "data": {
+        "stance": "hybrid_balanced_intermittent_compute",
+        "thermal_threshold": 65.0,
+        "entropy_discipline": 100.0
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:12:50.992222+00:00",
+      "event_type": "stance_change",
+      "planck_tick": 1753549970992237,
+      "data": {
+        "old_stance": "hybrid_balanced_intermittent_compute",
+        "new_stance": "deep_silence_max_thermal_buffering",
+        "trigger_entropy": {
+          "total_entropy": 64.53,
+          "thermal_entropy": 50,
+          "compute_entropy": 6.869999999999999,
+          "memory_entropy": 7.66,
+          "cpu_temp": 68.0,
+          "cpu_percent": 22.9,
+          "memory_percent": 38.3,
+          "battery_percent": 5.265448215839861,
+          "timestamp": 1753549970.991934
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:13:58.243591+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753550038243626,
+      "data": {
+        "total_entropy": 60.48384615384615,
+        "thermal_entropy": 46.15384615384615,
+        "compute_entropy": 6.69,
+        "memory_entropy": 7.640000000000001,
+        "cpu_temp": 60.0,
+        "cpu_percent": 22.3,
+        "memory_percent": 38.2,
+        "battery_percent": 5.657093124456049,
+        "timestamp": 1753550038.243517
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:15:11.358402+00:00",
+      "event_type": "entropy_measurement",
+      "planck_tick": 1753550111358462,
+      "data": {
+        "total_entropy": 60.04384615384616,
+        "thermal_entropy": 46.15384615384615,
+        "compute_entropy": 6.27,
+        "memory_entropy": 7.620000000000001,
+        "cpu_temp": 60.0,
+        "cpu_percent": 20.9,
+        "memory_percent": 38.1,
+        "battery_percent": 6.092254134029591,
+        "timestamp": 1753550111.3583677
+      }
+    },
+    {
+      "timestamp": "2025-07-26T17:15:42.007992+00:00",
+      "event_type": "thermal_banishment",
+      "planck_tick": 1753550142008004,
+      "data": {
+        "process": "python3",
+        "cpu_percent": 85.5,
+        "thermal_trigger": 84.0
+      }
+    }
+  ]
+}

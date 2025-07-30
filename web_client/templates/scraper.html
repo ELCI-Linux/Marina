@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+
+{% block title %}Scraper | Marina Web Client{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <h2 class="pb-3 mb-4 border-bottom">
+        Knowledge Scraper
+    </h2>
+    <form id="scraper-form">
+        <div class="mb-3">
+            <label for="scrape-type" class="form-label">Scraper Type</label>
+            <select class="form-select" id="scrape-type">
+                <option value="general" selected>General</option>
+                <option value="enhanced">Enhanced</option>
+                <option value="sitemap-alphabetical">Sitemap Alphabetical</option>
+                <option value="archwiki-flatpak">ArchWiki Flatpak</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label for="url" class="form-label">URL</label>
+            <input type="url" class="form-control" id="url" placeholder="https://example.com" required>
+        </div>
+        <div class="mb-3">
+            <label for="max-depth" class="form-label">Max Depth</label>
+            <input type="number" class="form-control" id="max-depth" value="2" min="1" max="10">
+        </div>
+        <div class="mb-3">
+            <label for="delay" class="form-label">Delay (seconds)</label>
+            <input type="number" class="form-control" id="delay" value="1.0" step="0.1" min="0.1">
+        </div>
+        <div class="mb-3">
+            <label for="time-limit" class="form-label">Time Limit (seconds)</label>
+            <input type="number" class="form-control" id="time-limit" value="600" min="60">
+        </div>
+        <div class="mb-3">
+            <label for="keywords" class="form-label">Keywords (comma-separated)</label>
+            <input type="text" class="form-control" id="keywords" placeholder="keyword1, keyword2, keyword3">
+        </div>
+        <button type="submit" class="btn btn-primary">Start Scraping</button>
+    </form>
+    <div id="output-container" class="mt-4">
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    document.getElementById('scraper-form').addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const type = document.getElementById('scrape-type').value;
+        const url = document.getElementById('url').value;
+        const maxDepth = document.getElementById('max-depth').value;
+        const delay = document.getElementById('delay').value;
+        const timeLimit = document.getElementById('time-limit').value;
+        const keywordsValue = document.getElementById('keywords').value.trim();
+        const keywords = keywordsValue ? keywordsValue.split(',').map(k => k.trim()) : [];
+
+        if (!url) {
+            addAlert('URL is required.', 'danger');
+            return;
+        }
+
+        const loadingMessage = document.getElementById('loadingMessage');
+        loadingMessage.textContent = 'Scraping in progress... This may take a while.';
+        const loadingModal = new bootstrap.Modal(document.getElementById('loadingModal'));
+        loadingModal.show();
+
+        const response = await fetch('/api/scraper/execute', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                type,
+                url,
+                max_depth: parseInt(maxDepth),
+                delay: parseFloat(delay),
+                time_limit: parseInt(timeLimit),
+                keywords
+            })
+        });
+        const result = await response.json();
+        loadingModal.hide();
+
+        if (result.success) {
+            addAlert('Scraping completed successfully!', 'success');
+        } else {
+            addAlert(`Scraping failed: ${result.stderr}`, 'danger');
+        }
+
+        const outputContainer = document.getElementById('output-container');
+        outputContainer.innerHTML = `<pre>${result.stdout || result.stderr || 'No output'}</pre>`;
+    });
+</script>
+{% endblock %}

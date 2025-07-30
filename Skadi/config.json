@@ -1,0 +1,23 @@
+{
+  "frost_tome_path": "/home/adminx/Marina/Skadi/frost_tomes",
+  "thermal_threshold": 65.0,
+  "battery_critical": 15.0,
+  "update_interval": 5.0,
+  "silence_hours": [
+    22,
+    23,
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "trusted_processes": [
+    "marina",
+    "ceto",
+    "siren"
+  ],
+  "banished_processes": []
+}

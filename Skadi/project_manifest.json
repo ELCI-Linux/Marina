@@ -1,0 +1,132 @@
+{
+  "project_name": "Skadi - The Cold Dominion",
+  "version": "1.0.0",
+  "description": "Mythologically-themed power management daemon for Marina system. Goddess of Power, Entropy Suppression, and Thermal Harmony.",
+  "creation_date": "2025-07-30T00:00:00Z",
+  "last_updated": "2025-07-30T00:30:00Z",
+  "framework": "MRMR (Modal Realism / Modal Relativity)",
+  
+  "directory_structure": {
+    "root": {
+      "path": "/home/adminx/Marina/Skadi",
+      "purpose": "Main Skadi project directory - The Cold Dominion's base of operations",
+      "rationale": "Centralized location within Marina ecosystem for power management components"
+    },
+    "assets": {
+      "path": "assets/",
+      "purpose": "Visual assets and branding materials",
+      "rationale": "Centralizes logos, icons, and visual elements for consistent branding across interfaces",
+      "subdirectories": {
+        "images": {
+          "path": "assets/images/",
+          "purpose": "Logo files in various resolutions",
+          "contents": [
+            "skadi_logo.png (1024x1024) - Full resolution logo",
+            "skadi_logo_512.png (512x512) - Medium resolution",
+            "skadi_logo_256.png (256x256) - README/documentation",
+            "skadi_logo_64.png (64x64) - Icon size"
+          ],
+          "rationale": "Multiple resolutions support different use cases from documentation to system icons"
+        }
+      }
+    },
+    "frost_tomes": {
+      "path": "frost_tomes/",
+      "purpose": "Entropy event archive - time-layered storage system",
+      "rationale": "Maintains historical entropy data for analysis and debugging, organized by date",
+      "file_pattern": "frost_tome_YYYYMMDD.json",
+      "retention_policy": "Configurable, defaults to 30 days"
+    },
+    "logs": {
+      "path": "logs/",
+      "purpose": "System logging directory",
+      "rationale": "Centralized logging for daemon operations, separate from entropy archives",
+      "contents": ["skadi.log - Main daemon log file"]
+    }
+  },
+  
+  "core_modules": {
+    "skadi_daemon.py": {
+      "purpose": "Main daemon process - The Cold Dominion's core consciousness",
+      "functionality": [
+        "Entropy monitoring and calculation",
+        "Power stance management (GLACIER, RIDGEWATCH, SNOWBLIND, STORMBIRTH, POWERBANK)",
+        "Runic contract system for process energy governance",
+        "Thermal management and battery optimization",
+        "Frost Tome event recording",
+        "MRMR framework integration"
+      ],
+      "dependencies": ["psutil", "asyncio", "json", "logging"],
+      "integration": "Managed by Ceto daemon controller"
+    },
+    "skadictl.py": {
+      "purpose": "Command-line interface - Ritual interface for energy governance",
+      "functionality": [
+        "Status display with ASCII art",
+        "Frost Tomes query and display",
+        "Runic contract information",
+        "Power ritual invocation",
+        "Daemon control through Ceto integration"
+      ],
+      "commands": ["status", "tomes", "contracts", "ritual", "start", "stop", "restart"],
+      "user_interface": "Mythologically-themed CLI with Norse runes and winter imagery"
+    }
+  },
+  
+  "configuration_files": {
+    "config.json": {
+      "purpose": "Main daemon configuration",
+      "parameters": [
+        "thermal_threshold - CPU temperature limit (°C)",
+        "battery_critical - Critical battery percentage",
+        "update_interval - Monitoring frequency (seconds)",
+        "silence_hours - Hours for automatic quiet modes",
+        "trusted_processes - Processes exempt from thermal discipline",
+        "banished_processes - Processes under thermal banishment"
+      ]
+    },
+    "skadi_ceto.json": {
+      "purpose": "Ceto daemon integration configuration",
+      "rationale": "Enables Marina's Ceto system to manage Skadi as a supervised daemon"
+    },
+    "package.json": {
+      "purpose": "Project metadata and dependency specification",
+      "includes": "Logo references, scripts, and project information"
+    }
+  },
+  
+  "mythological_framework": {
+    "inspiration": "Skaði - Norse jötunn (giant) associated with winter, mountains, skiing, and bow hunting",
+    "thematic_elements": {
+      "runes": "Nordic runes for process identification and energy contracts",
+      "power_stances": "Five mythological operational modes reflecting different energy states",
+      "terminology": "Norse/winter themed naming convention throughout system",
+      "entropy_units": "Eᛞ (Energy-Deferral) units using Dagaz rune"
+    },
+    "poetic_voice": "Skadi speaks in mythological first person with winter/cold metaphors"
+  },
+  
+  "integration_points": {
+    "marina_ecosystem": "Part of larger Marina AI system",
+    "ceto_daemon_manager": "Supervised by Ceto for lifecycle management",
+    "mrmr_framework": "Implements Modal Realism/Modal Relativity principles",
+    "thermal_sensors": "Interfaces with system thermal management",
+    "battery_monitoring": "Integrates with power management systems"
+  },
+  
+  "build_checklist_reference": "build_checklist.json",
+  "documentation": {
+    "README.md": "Main project documentation with logo integration",
+    "inline_documentation": "Extensive docstrings in Python modules"
+  },
+  
+  "asset_integration": {
+    "logo_usage": {
+      "terminal_display": "Custom ASCII art representation in CLI",
+      "documentation": "PNG logo in README.md",
+      "package_metadata": "Logo references in package.json",
+      "multiple_resolutions": "Optimized for different contexts"
+    },
+    "visual_consistency": "Winter/Norse theme maintained across all interfaces"
+  }
+}

@@ -1,0 +1,70 @@
+{% extends 'base.html' %}
+
+{% block title %}Context Scan | Marina Web Client{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <h2 class="pb-3 mb-4 border-bottom">
+        Context Scan
+    </h2>
+    <form id="context-scan-form">
+        <div class="mb-3">
+            <label for="mode" class="form-label">Mode</label>
+            <select class="form-select" id="mode" name="mode">
+                <option value="inferred" selected>Inferred</option>
+                <option value="complete">Complete</option>
+                <option value="none">None</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label for="whitelist" class="form-label">Whitelist</label>
+            <input type="text" class="form-control" id="whitelist" placeholder="e.g. ~/Documents, ~/Desktop">
+        </div>
+        <div class="mb-3">
+            <label for="blacklist" class="form-label">Blacklist</label>
+            <input type="text" class="form-control" id="blacklist" placeholder="e.g. ~/Downloads">
+        </div>
+        <button type="submit" class="btn btn-primary">Run Scan</button>
+    </form>
+</div>
+
+<div id="output-container" class="mt-4">
+</div>
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    document.getElementById('context-scan-form').addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const mode = document.getElementById('mode').value;
+        const whitelist = document.getElementById('whitelist').value.split(',').map(s => s.trim());
+        const blacklist = document.getElementById('blacklist').value.split(',').map(s => s.trim());
+
+        const loadingMessage = document.getElementById('loadingMessage');
+        loadingMessage.textContent = 'Running context scan...';
+        const loadingModal = new bootstrap.Modal(document.getElementById('loadingModal'));
+        loadingModal.show();
+
+        const response = await fetch('/api/context/scan', {
+            method: 'POST',
+            body: JSON.stringify({ mode, whitelist, blacklist }),
+            headers: {'Content-Type': 'application/json'}
+        });
+        const result = await response.json();
+        loadingModal.hide();
+
+        if (result.success) {
+            addAlert('Context scan completed successfully!', 'success');
+        } else {
+            addAlert(`Context scan failed: ${result.stderr}`, 'danger');
+        }
+
+        const outputContainer = document.getElementById('output-container');
+        outputContainer.innerHTML = `<pre>${JSON.stringify(result, null, 2)}</pre>`;
+    });
+</script>
+{% endblock %}
+
