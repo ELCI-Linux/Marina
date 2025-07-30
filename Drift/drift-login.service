@@ -1,0 +1,27 @@
+[Unit]
+Description=Drift - Marina-integrated Login Manager
+Documentation=https://marina.ai/drift
+After=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /opt/marina/drift/drift_gui.py
+Environment=DISPLAY=:0
+Environment=DRIFT_FULLSCREEN=1
+Environment=XDG_RUNTIME_DIR=/run/user/0
+User=root
+Group=root
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+# Security settings
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/drift /var/log/drift /tmp
+PrivateTmp=true
+
+[Install]
+WantedBy=graphical.target

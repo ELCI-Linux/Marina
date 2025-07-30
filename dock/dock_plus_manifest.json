@@ -1,0 +1,111 @@
+{
+  "project": "Marina Dock+",
+  "version": "1.0.0",
+  "description": "Context-sensitive, prompt-aware, self-restructuring dock tailored to evolving workflows",
+  "architecture": {
+    "core_engine": "Rust (performance-critical context logic)",
+    "ui_frontend": "Tauri + React (adaptive interface)",
+    "prompt_processing": "Python (NLP integration with faster-whisper)",
+    "state_management": "TypeScript (layout and workflow management)",
+    "entropy_integration": "Rust (MRMR system integration)"
+  },
+  "modules": {
+    "dock_engine": {
+      "language": "Rust",
+      "description": "Core context logic and state machine",
+      "features": ["workflow_detection", "module_prioritization", "context_matching"]
+    },
+    "layout_manager": {
+      "language": "TypeScript",
+      "description": "Dynamic UI layout reshaping",
+      "features": ["fluid_mode", "snap_mode", "ghost_mode", "adaptive_tray"]
+    },
+    "prompt_parser": {
+      "language": "Python",
+      "description": "Prompt to module mapping using faster-whisper",
+      "features": ["nlp_processing", "intent_extraction", "module_prediction"]
+    },
+    "adaptive_tray": {
+      "language": "React/JSX",
+      "description": "Smart toolbelt with contextual tools",
+      "features": ["dynamic_ordering", "workflow_stacks", "predictive_loading"]
+    },
+    "entropy_listener": {
+      "language": "Rust",
+      "description": "MRMR entropy field integration",
+      "features": ["real_time_monitoring", "state_influence", "priority_modulation"]
+    },
+    "workflow_memory": {
+      "language": "SQLite",
+      "description": "Pattern learning and storage",
+      "features": ["usage_tracking", "sequence_learning", "predictive_modeling"]
+    }
+  },
+  "integration_points": {
+    "marina_core": ["entropy_field", "module_registry", "configuration"],
+    "siren_audio": ["audio_processing", "alert_generation", "spatial_feedback"],
+    "web_client": ["session_management", "api_endpoints", "ui_components"],
+    "cli_interface": ["command_hooks", "status_reporting", "dock_control"]
+  },
+  "workflow_modes": [
+    {
+      "name": "diagnostics",
+      "modules": ["Expositin", "UV-Visualizer", "M-Norm", "patient_records"],
+      "layout": "medical_grid",
+      "priority_signals": ["patient_data", "diagnostic_logs", "medical_alerts"]
+    },
+    {
+      "name": "audio_debug", 
+      "modules": ["SIREN", "Sentinel", "Krill", "time_sync", "spectro_analysis"],
+      "layout": "audio_workbench",
+      "priority_signals": ["audio_streams", "entropy_fluctuations", "signal_quality"]
+    },
+    {
+      "name": "compression_dev",
+      "modules": ["codec_tuner", "entropy_plot", "color_mapper", "kr_analysis"],
+      "layout": "development_stack",
+      "priority_signals": ["compression_ratio", "quality_metrics", "performance_data"]
+    },
+    {
+      "name": "idle_passive",
+      "modules": ["entropy_monitor", "system_status", "notification_center"],
+      "layout": "minimal_ring",
+      "priority_signals": ["system_health", "background_tasks", "ambient_data"]
+    }
+  ],
+  "ui_modes": {
+    "fluid": {
+      "description": "Smooth morphing layout that adapts live",
+      "update_frequency": "50ms",
+      "transition_style": "organic_flow"
+    },
+    "snap": {
+      "description": "Grid of relevant modules, locks in workflow",
+      "grid_size": "adaptive",
+      "snap_threshold": "0.3s"
+    },
+    "ghost": {
+      "description": "Fully minimized - expands only on user action",
+      "trigger_zones": ["screen_edges", "hotkey_combo", "voice_activation"],
+      "expansion_animation": "fade_grow"
+    }
+  },
+  "context_signals": [
+    "active_modules",
+    "open_file_types", 
+    "log_keywords",
+    "prompt_contents",
+    "time_of_day",
+    "user_interactions",
+    "entropy_trends",
+    "system_resources",
+    "network_activity",
+    "sensor_data"
+  ],
+  "dependencies": {
+    "rust": ["tauri", "serde", "tokio", "sqlx", "anyhow"],
+    "frontend": ["react", "typescript", "tailwindcss", "framer-motion"],
+    "python": ["faster-whisper", "nltk", "scikit-learn", "numpy"],
+    "system": ["sqlite3", "dbus", "xorg-utils"]
+  }
+}

@@ -1,0 +1,312 @@
+#!/usr/bin/env python3
+"""
+Marina Key Manager
+CLI tool for managing Marina password recovery keys across networked instances
+
+Author: Marina AI Assistant
+"""
+
+import os
+import sys
+import argparse
+import json
+from typing import Dict, List, Any
+
+# Add current directory to Python path
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from marina_key_backend import MarinaKeyBackend
+from drift_core import DriftCore
+
+
+def configure_email(backend: MarinaKeyBackend, args):
+    """Configure email settings for key delivery."""
+    config = backend.config
+    
+    if args.smtp_server:
+        config['email']['smtp_server'] = args.smtp_server
+    if args.smtp_port:
+        config['email']['smtp_port'] = args.smtp_port
+    if args.username:
+        config['email']['username'] = args.username
+    if args.password:
+        config['email']['password'] = args.password
+    if args.sender_name:
+        config['email']['sender_name'] = args.sender_name
+    if args.recipient_email:
+        config['email']['recipient_email'] = args.recipient_email
+    
+    # Save updated config
+    with open(backend.config_path, 'w') as f:
+        json.dump(config, f, indent=2)
+    
+    print("✅ Email configuration updated")
+    print(f"   SMTP Server: {config['email']['smtp_server']}:{config['email']['smtp_port']}")
+    print(f"   Username: {config['email']['username']}")
+    print(f"   Recipient: {config['email']['recipient_email']}")
+
+
+def generate_key(backend: MarinaKeyBackend, username: str):
+    """Generate a recovery key for a user."""
+    try:
+        key_id, recovery_key = backend.generate_recovery_key(username)
+        email_sent = backend.send_recovery_email(username, recovery_key, key_id)
+        
+        print(f"🔑 Recovery key generated for user: {username}")
+        print(f"   Key ID: {key_id}")
+        print(f"   Recovery Key: {recovery_key}")
+        print(f"   Email sent: {'✅ Yes' if email_sent else '❌ No'}")
+        
+        if not email_sent:
+            print("⚠️  Please configure email settings with 'marina-key config-email'")
+        
+    except Exception as e:
+        print(f"❌ Error generating key: {e}")
+
+
+def validate_key(backend: MarinaKeyBackend, key_id: str, recovery_key: str, username: str = None):
+    """Validate a recovery key."""
+    try:
+        if backend.validate_recovery_key(key_id, recovery_key, username):
+            print(f"✅ Recovery key {key_id} is valid")
+            if username:
+                print(f"   For user: {username}")
+        else:
+            print(f"❌ Recovery key {key_id} is invalid or expired")
+    except Exception as e:
+        print(f"❌ Error validating key: {e}")
+
+
+def list_keys(backend: MarinaKeyBackend):
+    """List all active recovery keys."""
+    try:
+        keys = backend.active_keys
+        if not keys:
+            print("No active recovery keys")
+            return
+        
+        print(f"📋 Active Recovery Keys ({len(keys)}):")
+        for key_id, key in keys.items():
+            status = "✅ Active" if key.is_active else "❌ Inactive"
+            usage = f"{key.usage_count}/{key.max_usage}"
+            expires = key.expires_at.strftime("%Y-%m-%d %H:%M:%S")
+            
+            print(f"   {key_id}")
+            print(f"     User: {key.user_id}")
+            print(f"     Status: {status}")
+            print(f"     Usage: {usage}")
+            print(f"     Expires: {expires}")
+            print(f"     Instance: {key.marina_instance}")
+            print()
+    
+    except Exception as e:
+        print(f"❌ Error listing keys: {e}")
+
+
+def discover_nodes(backend: MarinaKeyBackend):
+    """Discover Marina nodes on the network."""
+    try:
+        nodes = backend.discover_marina_nodes()
+        print(f"🌐 Marina Network Discovery ({len(nodes)} nodes found):")
+        
+        for node in nodes:
+            print(f"   {node.hostname} ({node.ip_address}:{node.port})")
+            print(f"     Instance ID: {node.instance_id}")
+            print(f"     Version: {node.marina_version}")
+            print(f"     Capabilities: {', '.join(node.capabilities)}")
+            print(f"     Last seen: {node.last_seen.strftime('%Y-%m-%d %H:%M:%S')}")
+            print()
+        
+        if not nodes:
+            print("   No Marina instances found on the network")
+            print("   Make sure Marina Key Backend is running on other instances")
+    
+    except Exception as e:
+        print(f"❌ Error discovering nodes: {e}")
+
+
+def request_network_key(backend: MarinaKeyBackend, username: str):
+    """Request a recovery key from the network."""
+    try:
+        result = backend.request_key_from_network(username)
+        if result:
+            key_id, recovery_key = result
+            print(f"🔑 Network recovery key obtained for user: {username}")
+            print(f"   Key ID: {key_id}")
+            print(f"   Recovery Key: {recovery_key}")
+        else:
+            print(f"❌ No Marina instances available on network for user: {username}")
+    
+    except Exception as e:
+        print(f"❌ Error requesting network key: {e}")
+
+
+def start_daemon(backend: MarinaKeyBackend):
+    """Start the Marina Key Backend daemon."""
+    try:
+        print("🚀 Starting Marina Key Backend daemon...")
+        backend.start()
+        
+        print("✅ Marina Key Backend daemon started successfully")
+        print(f"   Network port: {backend.network_port}")
+        print(f"   Config: {backend.config_path}")
+        print(f"   Database: {backend.database_path}")
+        print("\nPress Ctrl+C to stop the daemon")
+        
+        # Keep daemon running
+        import time
+        while True:
+            time.sleep(1)
+    
+    except KeyboardInterrupt:
+        print("\n🛑 Stopping Marina Key Backend daemon...")
+        backend.stop()
+    except Exception as e:
+        print(f"❌ Error starting daemon: {e}")
+
+
+def show_status(backend: MarinaKeyBackend):
+    """Show Marina Key Backend status."""
+    try:
+        status = backend.get_status()
+        
+        print("📊 Marina Key Backend Status:")
+        print(f"   Running: {'✅ Yes' if status['running'] else '❌ No'}")
+        print(f"   Active keys: {status['active_keys']}")
+        print(f"   Network nodes: {status['network_nodes']}")
+        print(f"   Email configured: {'✅ Yes' if status['email_configured'] else '❌ No'}")
+        print(f"   Instance ID: {status['instance_id']}")
+        print(f"   Network port: {status['network_port']}")
+        print(f"   Config: {status['config_path']}")
+        print(f"   Database: {status['database_path']}")
+        print(f"   Capabilities: {', '.join(status['capabilities'])}")
+    
+    except Exception as e:
+        print(f"❌ Error getting status: {e}")
+
+
+def reset_password(username: str, key_id: str, recovery_key: str, new_password: str):
+    """Reset password using recovery key."""
+    try:
+        drift = DriftCore()
+        success, message = drift.reset_password_with_key(username, key_id, recovery_key, new_password)
+        
+        if success:
+            print(f"✅ Password reset successfully for user: {username}")
+        else:
+            print(f"❌ Password reset failed: {message}")
+    
+    except Exception as e:
+        print(f"❌ Error resetting password: {e}")
+
+
+def main():
+    """Main CLI entry point."""
+    parser = argparse.ArgumentParser(
+        description="Marina Key Manager - Password recovery key management",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  marina-key generate adminx              # Generate key for user
+  marina-key validate KEY_ID RECOVERY_KEY # Validate a key
+  marina-key list                         # List all active keys
+  marina-key discover                     # Find Marina nodes on network
+  marina-key network-request adminx       # Request key from network
+  marina-key daemon                       # Start key backend daemon
+  marina-key status                       # Show backend status
+  marina-key reset-password adminx KEY_ID RECOVERY_KEY new_password
+        """
+    )
+    
+    subparsers = parser.add_subparsers(dest='command', help='Available commands')
+    
+    # Generate key command
+    gen_parser = subparsers.add_parser('generate', help='Generate recovery key for user')
+    gen_parser.add_argument('username', help='Username to generate key for')
+    
+    # Validate key command
+    val_parser = subparsers.add_parser('validate', help='Validate recovery key')
+    val_parser.add_argument('key_id', help='Recovery key ID')
+    val_parser.add_argument('recovery_key', help='Recovery key')
+    val_parser.add_argument('--user', help='Username to validate for')
+    
+    # List keys command
+    subparsers.add_parser('list', help='List all active recovery keys')
+    
+    # Discover nodes command
+    subparsers.add_parser('discover', help='Discover Marina nodes on network')
+    
+    # Network request command
+    net_parser = subparsers.add_parser('network-request', help='Request key from network')
+    net_parser.add_argument('username', help='Username to request key for')
+    
+    # Daemon command
+    subparsers.add_parser('daemon', help='Start Marina Key Backend daemon')
+    
+    # Status command
+    subparsers.add_parser('status', help='Show backend status')
+    
+    # Reset password command
+    reset_parser = subparsers.add_parser('reset-password', help='Reset password with recovery key')
+    reset_parser.add_argument('username', help='Username')
+    reset_parser.add_argument('key_id', help='Recovery key ID')
+    reset_parser.add_argument('recovery_key', help='Recovery key')
+    reset_parser.add_argument('new_password', help='New password')
+    
+    # Configure email command
+    email_parser = subparsers.add_parser('config-email', help='Configure email settings')
+    email_parser.add_argument('--smtp-server', help='SMTP server hostname')
+    email_parser.add_argument('--smtp-port', type=int, help='SMTP server port')
+    email_parser.add_argument('--username', help='Email username')
+    email_parser.add_argument('--password', help='Email password')
+    email_parser.add_argument('--sender-name', help='Sender name')
+    email_parser.add_argument('--recipient-email', help='Recipient email address')
+    
+    args = parser.parse_args()
+    
+    if not args.command:
+        parser.print_help()
+        return
+    
+    # Initialize backend (except for help and reset-password)
+    if args.command != 'reset-password':
+        try:
+            backend = MarinaKeyBackend()
+        except Exception as e:
+            print(f"❌ Error initializing Marina Key Backend: {e}")
+            return
+    
+    # Execute commands
+    if args.command == 'generate':
+        generate_key(backend, args.username)
+    
+    elif args.command == 'validate':
+        validate_key(backend, args.key_id, args.recovery_key, args.user)
+    
+    elif args.command == 'list':
+        list_keys(backend)
+    
+    elif args.command == 'discover':
+        discover_nodes(backend)
+    
+    elif args.command == 'network-request':
+        request_network_key(backend, args.username)
+    
+    elif args.command == 'daemon':
+        start_daemon(backend)
+    
+    elif args.command == 'status':
+        show_status(backend)
+    
+    elif args.command == 'reset-password':
+        reset_password(args.username, args.key_id, args.recovery_key, args.new_password)
+    
+    elif args.command == 'config-email':
+        configure_email(backend, args)
+    
+    else:
+        parser.print_help()
+
+
+if __name__ == "__main__":
+    main()

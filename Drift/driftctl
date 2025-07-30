@@ -1,0 +1,472 @@
+#!/usr/bin/env python3
+"""
+driftctl - Drift Login Manager Control CLI
+Command-line interface for managing Drift login manager
+
+Author: Marina AI Assistant
+"""
+
+import os
+import sys
+import json
+import argparse
+import subprocess
+import sqlite3
+from datetime import datetime
+from typing import Dict, List, Optional, Any
+from pathlib import Path
+
+# Import Drift components
+from drift_core import DriftCore, UserProfile, AuthMethod, SessionType, LoginStatus
+
+
+class DriftCLI:
+    """Command-line interface for Drift login manager."""
+    
+    def __init__(self):
+        # Use local test config if not running as root
+        if os.geteuid() != 0:
+            test_config = os.path.join(os.path.dirname(__file__), 'test_drift.conf')
+            if not os.path.exists(test_config):
+                # Create test config
+                config_data = {
+                    'database_path': os.path.join(os.path.dirname(__file__), 'test_db/drift.db'),
+                    'log_file': os.path.join(os.path.dirname(__file__), 'test_logs/drift.log'),
+                    'marina_path': '/home/adminx/Marina'
+                }
+                os.makedirs(os.path.dirname(config_data['database_path']), exist_ok=True)
+                os.makedirs(os.path.dirname(config_data['log_file']), exist_ok=True)
+                with open(test_config, 'w') as f:
+                    json.dump(config_data, f)
+            self.drift_core = DriftCore(config_path=test_config)
+        else:
+            self.drift_core = DriftCore()
+    
+    def list_users(self) -> None:
+        """List all users available for login."""
+        users = self.drift_core.get_system_users()
+        
+        if not users:
+            print("No users found")
+            return
+        
+        print(f"Found {len(users)} users:")
+        print("=" * 60)
+        
+        for user in users:
+            status_indicators = []
+            
+            if user.marina_persona:
+                status_indicators.append(f"Persona: {user.marina_persona}")
+            
+            if user.voice_print:
+                status_indicators.append("Voice enabled")
+            
+            if user.face_encoding:
+                status_indicators.append("Face enabled")
+            
+            if user.locked_until and user.locked_until > datetime.now():
+                status_indicators.append(f"LOCKED until {user.locked_until.strftime('%H:%M:%S')}")
+            
+            last_login = user.last_login.strftime("%Y-%m-%d %H:%M") if user.last_login else "Never"
+            
+            print(f"Username: {user.username}")
+            print(f"  Full Name: {user.full_name}")
+            print(f"  UID/GID: {user.uid}/{user.gid}")
+            print(f"  Home: {user.home_dir}")
+            print(f"  Shell: {user.shell}")
+            print(f"  Last Login: {last_login}")
+            print(f"  Login Count: {user.login_count}")
+            print(f"  Failed Attempts: {user.failed_attempts}")
+            print(f"  Preferred Session: {user.preferred_session.value}")
+            
+            if status_indicators:
+                print(f"  Status: {' | '.join(status_indicators)}")
+            
+            print()
+    
+    def show_status(self) -> None:
+        """Show system and Marina status."""
+        print("Drift Login Manager Status")
+        print("=" * 40)
+        
+        # System status
+        status = self.drift_core.get_system_status()
+        if status:
+            uptime_hours = status.get('uptime_hours', 0)
+            uptime_str = f"{int(uptime_hours)}h {int((uptime_hours % 1) * 60)}m"
+            
+            print(f"System Uptime: {uptime_str}")
+            print(f"Load Average: {', '.join(status.get('load_average', ['N/A']))}")
+            print(f"Memory Usage: {status.get('memory_usage_percent', 0):.1f}%")
+            print()
+        
+        # Marina daemon status
+        daemons = self.drift_core._check_marina_daemons()
+        print(f"Marina Daemons: {len(daemons)} active")
+        if daemons:
+            for daemon in daemons[:5]:  # Show first 5
+                print(f"  PID {daemon}")
+            if len(daemons) > 5:
+                print(f"  ... and {len(daemons) - 5} more")
+        print()
+        
+        # Database status
+        try:
+            conn = sqlite3.connect(self.drift_core.db_path)
+            cursor = conn.cursor()
+            
+            cursor.execute("SELECT COUNT(*) FROM user_profiles")
+            profile_count = cursor.fetchone()[0]
+            
+            cursor.execute("SELECT COUNT(*) FROM login_attempts WHERE timestamp > datetime('now', '-1 day')")
+            recent_attempts = cursor.fetchone()[0]
+            
+            cursor.execute("SELECT COUNT(*) FROM marina_sessions")
+            session_count = cursor.fetchone()[0]
+            
+            conn.close()
+            
+            print(f"Database Status:")
+            print(f"  User Profiles: {profile_count}")
+            print(f"  Recent Login Attempts (24h): {recent_attempts}")
+            print(f"  Marina Sessions: {session_count}")
+        
+        except Exception as e:
+            print(f"Database Error: {e}")
+    
+    def show_logs(self, lines: int = 50) -> None:
+        """Show recent Drift logs."""
+        log_file = self.drift_core.config.get('log_file', '/var/log/drift/drift.log')
+        
+        if not os.path.exists(log_file):
+            print(f"Log file not found: {log_file}")
+            return
+        
+        try:
+            result = subprocess.run(['tail', '-n', str(lines), log_file], 
+                                  capture_output=True, text=True)
+            if result.returncode == 0:
+                print(f"Last {lines} lines from {log_file}:")
+                print("=" * 60)
+                print(result.stdout)
+            else:
+                print(f"Error reading log file: {result.stderr}")
+        
+        except Exception as e:
+            print(f"Error accessing log file: {e}")
+    
+    def show_login_history(self, username: Optional[str] = None, days: int = 7) -> None:
+        """Show login attempt history."""
+        try:
+            conn = sqlite3.connect(self.drift_core.db_path)
+            cursor = conn.cursor()
+            
+            query = """
+                SELECT timestamp, username, auth_method, status, error_message, duration_ms
+                FROM login_attempts 
+                WHERE timestamp > datetime('now', '-{} days')
+            """.format(days)
+            
+            params = []
+            if username:
+                query += " AND username = ?"
+                params.append(username)
+            
+            query += " ORDER BY timestamp DESC LIMIT 100"
+            
+            cursor.execute(query, params)
+            rows = cursor.fetchall()
+            
+            if not rows:
+                print("No login attempts found")
+                return
+            
+            print(f"Login History (last {days} days):")
+            print("=" * 80)
+            print(f"{'Timestamp':<20} {'User':<15} {'Method':<10} {'Status':<10} {'Duration':<10} {'Error'}")
+            print("-" * 80)
+            
+            for row in rows:
+                timestamp, user, method, status, error_msg, duration = row
+                duration_str = f"{duration}ms" if duration else "N/A"
+                error_str = error_msg[:30] + "..." if error_msg and len(error_msg) > 30 else (error_msg or "")
+                
+                dt = datetime.fromisoformat(timestamp)
+                time_str = dt.strftime("%Y-%m-%d %H:%M:%S")
+                
+                print(f"{time_str:<20} {user:<15} {method:<10} {status:<10} {duration_str:<10} {error_str}")
+            
+            conn.close()
+        
+        except Exception as e:
+            print(f"Error retrieving login history: {e}")
+    
+    def enable_voice_auth(self, username: str, passphrase: str) -> None:
+        """Enable voice authentication for a user."""
+        try:
+            conn = sqlite3.connect(self.drift_core.db_path)
+            cursor = conn.cursor()
+            
+            cursor.execute("""
+                INSERT OR REPLACE INTO user_profiles (username, voice_print)
+                VALUES (?, ?)
+                ON CONFLICT(username) DO UPDATE SET voice_print = ?
+            """, (username, passphrase, passphrase))
+            
+            conn.commit()
+            conn.close()
+            
+            print(f"Voice authentication enabled for {username}")
+            print(f"Passphrase: '{passphrase}'")
+            print("Note: In production, this would use voice biometrics, not just text matching")
+        
+        except Exception as e:
+            print(f"Error enabling voice auth: {e}")
+    
+    def disable_voice_auth(self, username: str) -> None:
+        """Disable voice authentication for a user."""
+        try:
+            conn = sqlite3.connect(self.drift_core.db_path)
+            cursor = conn.cursor()
+            
+            cursor.execute("""
+                UPDATE user_profiles SET voice_print = NULL WHERE username = ?
+            """, (username,))
+            
+            conn.commit()
+            conn.close()
+            
+            print(f"Voice authentication disabled for {username}")
+        
+        except Exception as e:
+            print(f"Error disabling voice auth: {e}")
+    
+    def set_marina_persona(self, username: str, persona: str) -> None:
+        """Set Marina persona for a user."""
+        try:
+            conn = sqlite3.connect(self.drift_core.db_path)
+            cursor = conn.cursor()
+            
+            cursor.execute("""
+                INSERT OR REPLACE INTO user_profiles (username, marina_persona)
+                VALUES (?, ?)
+                ON CONFLICT(username) DO UPDATE SET marina_persona = ?
+            """, (username, persona, persona))
+            
+            conn.commit()
+            conn.close()
+            
+            print(f"Marina persona set for {username}: {persona}")
+        
+        except Exception as e:
+            print(f"Error setting persona: {e}")
+    
+    def unlock_user(self, username: str) -> None:
+        """Unlock a locked user account."""
+        try:
+            conn = sqlite3.connect(self.drift_core.db_path)
+            cursor = conn.cursor()
+            
+            cursor.execute("""
+                UPDATE user_profiles 
+                SET failed_attempts = 0, locked_until = NULL 
+                WHERE username = ?
+            """, (username,))
+            
+            conn.commit()
+            conn.close()
+            
+            print(f"User {username} unlocked")
+        
+        except Exception as e:
+            print(f"Error unlocking user: {e}")
+    
+    def start_drift_gui(self) -> None:
+        """Start the Drift GUI login manager."""
+        try:
+            gui_path = os.path.join(os.path.dirname(__file__), 'drift_gui.py')
+            subprocess.run(['python3', gui_path])
+        except Exception as e:
+            print(f"Error starting Drift GUI: {e}")
+    
+    def test_authentication(self, username: str, auth_method: str) -> None:
+        """Test authentication for a user."""
+        method_map = {
+            'password': AuthMethod.PASSWORD,
+            'voice': AuthMethod.VOICE,
+            'face': AuthMethod.FACE,
+            'token': AuthMethod.TOKEN,
+            'guest': AuthMethod.GUEST
+        }
+        
+        if auth_method not in method_map:
+            print(f"Invalid auth method. Choose from: {', '.join(method_map.keys())}")
+            return
+        
+        auth_enum = method_map[auth_method]
+        
+        if auth_enum == AuthMethod.PASSWORD:
+            import getpass
+            password = getpass.getpass("Enter password: ")
+            success, error = self.drift_core.authenticate_user(username, password, auth_enum)
+        elif auth_enum == AuthMethod.TOKEN:
+            token = input("Enter Marina token: ")
+            success, error = self.drift_core.authenticate_user(username, token, auth_enum)
+        elif auth_enum == AuthMethod.GUEST:
+            success, error = self.drift_core.authenticate_user("guest", "", auth_enum)
+        else:
+            success, error = self.drift_core.authenticate_user(username, "", auth_enum)
+        
+        if success:
+            print("✅ Authentication successful!")
+        else:
+            print(f"❌ Authentication failed: {error}")
+    
+    def cleanup_old_data(self, days: int = 30) -> None:
+        """Clean up old login attempts and sessions."""
+        try:
+            conn = sqlite3.connect(self.drift_core.db_path)
+            cursor = conn.cursor()
+            
+            # Clean up old login attempts
+            cursor.execute("""
+                DELETE FROM login_attempts 
+                WHERE timestamp < datetime('now', '-{} days')
+            """.format(days))
+            
+            attempts_deleted = cursor.rowcount
+            
+            # Clean up old Marina sessions
+            cursor.execute("""
+                DELETE FROM marina_sessions 
+                WHERE started_at < datetime('now', '-{} days')
+            """.format(days))
+            
+            sessions_deleted = cursor.rowcount
+            
+            conn.commit()
+            conn.close()
+            
+            print(f"Cleanup completed:")
+            print(f"  - Deleted {attempts_deleted} old login attempts")
+            print(f"  - Deleted {sessions_deleted} old Marina sessions")
+        
+        except Exception as e:
+            print(f"Error during cleanup: {e}")
+
+
+def main():
+    """Main CLI entry point."""
+    parser = argparse.ArgumentParser(
+        description="Drift Login Manager Control CLI",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  driftctl list-users              # List all users
+  driftctl status                  # Show system status
+  driftctl logs --lines 100        # Show last 100 log lines
+  driftctl history --user adminx   # Show login history for user
+  driftctl enable-voice adminx "open sesame"  # Enable voice auth
+  driftctl set-persona adminx assistant       # Set Marina persona
+  driftctl unlock adminx           # Unlock user account
+  driftctl test-auth adminx password          # Test authentication
+  driftctl gui                     # Start GUI login manager
+        """
+    )
+    
+    subparsers = parser.add_subparsers(dest='command', help='Available commands')
+    
+    # List users command
+    subparsers.add_parser('list-users', help='List all users')
+    
+    # Status command
+    subparsers.add_parser('status', help='Show system and Marina status')
+    
+    # Logs command
+    logs_parser = subparsers.add_parser('logs', help='Show recent logs')
+    logs_parser.add_argument('--lines', type=int, default=50, help='Number of lines to show')
+    
+    # History command
+    history_parser = subparsers.add_parser('history', help='Show login history')
+    history_parser.add_argument('--user', help='Filter by username')
+    history_parser.add_argument('--days', type=int, default=7, help='Number of days to show')
+    
+    # Enable voice auth command
+    voice_parser = subparsers.add_parser('enable-voice', help='Enable voice authentication')
+    voice_parser.add_argument('username', help='Username')
+    voice_parser.add_argument('passphrase', help='Voice passphrase')
+    
+    # Disable voice auth command
+    disable_voice_parser = subparsers.add_parser('disable-voice', help='Disable voice authentication')
+    disable_voice_parser.add_argument('username', help='Username')
+    
+    # Set persona command
+    persona_parser = subparsers.add_parser('set-persona', help='Set Marina persona')
+    persona_parser.add_argument('username', help='Username')
+    persona_parser.add_argument('persona', help='Marina persona')
+    
+    # Unlock user command
+    unlock_parser = subparsers.add_parser('unlock', help='Unlock user account')
+    unlock_parser.add_argument('username', help='Username to unlock')
+    
+    # Test authentication command
+    test_parser = subparsers.add_parser('test-auth', help='Test authentication')
+    test_parser.add_argument('username', help='Username')
+    test_parser.add_argument('method', choices=['password', 'voice', 'face', 'token', 'guest'], 
+                           help='Authentication method')
+    
+    # GUI command
+    subparsers.add_parser('gui', help='Start Drift GUI login manager')
+    
+    # Cleanup command
+    cleanup_parser = subparsers.add_parser('cleanup', help='Clean up old data')
+    cleanup_parser.add_argument('--days', type=int, default=30, help='Days to keep')
+    
+    args = parser.parse_args()
+    
+    if not args.command:
+        parser.print_help()
+        return 1
+    
+    drift_cli = DriftCLI()
+    
+    try:
+        if args.command == 'list-users':
+            drift_cli.list_users()
+        elif args.command == 'status':
+            drift_cli.show_status()
+        elif args.command == 'logs':
+            drift_cli.show_logs(args.lines)
+        elif args.command == 'history':
+            drift_cli.show_login_history(args.user, args.days)
+        elif args.command == 'enable-voice':
+            drift_cli.enable_voice_auth(args.username, args.passphrase)
+        elif args.command == 'disable-voice':
+            drift_cli.disable_voice_auth(args.username)
+        elif args.command == 'set-persona':
+            drift_cli.set_marina_persona(args.username, args.persona)
+        elif args.command == 'unlock':
+            drift_cli.unlock_user(args.username)
+        elif args.command == 'test-auth':
+            drift_cli.test_authentication(args.username, args.method)
+        elif args.command == 'gui':
+            drift_cli.start_drift_gui()
+        elif args.command == 'cleanup':
+            drift_cli.cleanup_old_data(args.days)
+        else:
+            print(f"Unknown command: {args.command}")
+            return 1
+    
+    except KeyboardInterrupt:
+        print("\nOperation cancelled")
+        return 1
+    except Exception as e:
+        print(f"Error: {e}")
+        return 1
+    
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

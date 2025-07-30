@@ -1,0 +1,45 @@
+{
+  "keys": {
+    "MRK_1753448320_158ad464678f1640": {
+      "key_id": "MRK_1753448320_158ad464678f1640",
+      "user_id": "adminx",
+      "key_hash": "84076cb8df8c558ebb7e4cd9f41ed204e64d99c3ce9996714e5d29c67070b292",
+      "created_at": "2025-07-25T13:58:40.292901",
+      "expires_at": "2025-07-26T13:58:40.292892",
+      "usage_count": 1,
+      "max_usage": 1,
+      "marina_instance": "pop-os",
+      "network_address": "local",
+      "is_active": false
+    },
+    "MRK_1753448689_e7457b534e4dcdcb": {
+      "key_id": "MRK_1753448689_e7457b534e4dcdcb",
+      "user_id": "adminx",
+      "key_hash": "55cd0c637d5859c9981612559740ee2489d51f54de0e648fe9fa168ceb350c32",
+      "created_at": "2025-07-25T14:04:49.934419",
+      "expires_at": "2025-07-26T14:04:49.934412",
+      "usage_count": 1,
+      "max_usage": 1,
+      "marina_instance": "pop-os",
+      "network_address": "local",
+      "is_active": false
+    },
+    "MRK_1753448941_339df936ef942053": {
+      "key_id": "MRK_1753448941_339df936ef942053",
+      "user_id": "demo_user",
+      "key_hash": "681b3f21a627f29ec2e78eeb32056a81f21f4e78c4b9961f087f7410c2ba80da",
+      "created_at": "2025-07-25T14:09:01.694993",
+      "expires_at": "2025-07-26T14:09:01.694985",
+      "usage_count": 0,
+      "max_usage": 1,
+      "marina_instance": "pop-os",
+      "network_address": "local",
+      "is_active": true
+    }
+  },
+  "nodes": {},
+  "metadata": {
+    "updated": "2025-07-25T14:09:01.695001",
+    "total_keys_generated": 3
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "your-email@gmail.com",
+    "password": "",
+    "use_tls": true,
+    "sender_name": "Marina AI Assistant",
+    "recipient_email": "your-email@gmail.com"
+  },
+  "security": {
+    "key_length": 32,
+    "key_lifetime_hours": 24,
+    "max_usage_per_key": 1,
+    "require_network_auth": true,
+    "allowed_networks": [
+      "192.168.0.0/16",
+      "10.0.0.0/8",
+      "172.16.0.0/12"
+    ]
+  },
+  "network": {
+    "discovery_enabled": true,
+    "discovery_interval": 300,
+    "auto_trust_local": true,
+    "require_marina_signature": true
+  },
+  "marina": {
+    "instance_id": "",
+    "hostname": "pop-os",
+    "version": "1.0.0"
+  }
+}
